@@ -1,0 +1,24 @@
+<?php
+
+namespace RiseTechApps\Geonames;
+
+use Illuminate\Support\ServiceProvider;
+
+class GeonamesServiceProvider extends ServiceProvider
+{
+    /**
+     * Bootstrap the application services.
+     */
+    public function boot(): void
+    {
+
+    }
+
+    /**
+     * Register the application services.
+     */
+    public function register(): void
+    {
+    }
+
+}
