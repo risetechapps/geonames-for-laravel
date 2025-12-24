@@ -1,0 +1,45 @@
+{
+    "name": "risetechapps/geonames-for-laravel",
+    "description": "Coleção de dados sobre região, países, estados e cidades.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rise Tech",
+            "email": "apps@risetech.com.br",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RiseTechApps\\Geonames\\": "src/"
+        },
+        "files": [
+            "/src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RiseTechApps\\Geonames\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.3",
+        "illuminate/support": "^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0",
+        "phpunit/phpunit": "^11.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RiseTechApps\\Geonames\\GeonamesServiceProvider"
+            ],
+            "aliases": {
+                "Geonames": "RiseTechApps\\Geonames\\GeonamesFacade"
+            }
+        }
+    },
+    "version": "1.0.0"
+}
