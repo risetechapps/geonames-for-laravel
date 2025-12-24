@@ -2,6 +2,9 @@
 
 namespace RiseTechApps\Geonames\Features;
 
+use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Collection;
 class Countries
 {
     protected int $cacheTtl = 86400; // 24 horas
@@ -15,30 +18,6 @@ class Countries
         return Cache::remember($this->cacheKey, $this->cacheTtl, function () {
             return $this->loadFromJson();
         });
-    }
-
-    /**
-     * Busca um país pelo ISO2 (ex: BR).
-     */
-    public function findByIso2(string $iso2): ?array
-    {
-        return $this->all()->firstWhere('iso2', strtoupper($iso2));
-    }
-
-    /**
-     * Filtra países por Região (Ex: ASIA, EUROPE).
-     */
-    public function byRegion(string $regionName): Collection
-    {
-        return $this->all()->where('region', strtoupper($regionName));
-    }
-
-    /**
-     * Filtra países por Sub-região (Ex: SOUTHERN ASIA).
-     */
-    public function bySubregion(string $subregionName): Collection
-    {
-        return $this->all()->where('subregion', strtoupper($subregionName));
     }
 
     /**
