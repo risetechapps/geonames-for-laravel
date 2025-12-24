@@ -1,0 +1,632 @@
+[
+  {
+    "id": 48209,
+    "name": "ALDEBURGH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48331,
+    "name": "BACTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48372,
+    "name": "BANHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48443,
+    "name": "BECCLES",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48502,
+    "name": "BILDESTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48617,
+    "name": "BOTESDALE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48639,
+    "name": "BOXTED",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48654,
+    "name": "BRAMFORD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48761,
+    "name": "BUNGAY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48799,
+    "name": "BURY ST EDMUNDS",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48850,
+    "name": "CAPEL SAINT MARY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49021,
+    "name": "CLAYDON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49095,
+    "name": "COOKLEY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49251,
+    "name": "DEBENHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49253,
+    "name": "DEDHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49281,
+    "name": "DICKLEBURGH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49290,
+    "name": "DISS",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49293,
+    "name": "DITCHINGHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49318,
+    "name": "DOVERCOURT",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49386,
+    "name": "EAST BERGHOLT",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49397,
+    "name": "EAST HARLING",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49460,
+    "name": "ELMSWELL",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49538,
+    "name": "FELIXSTOWE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49601,
+    "name": "FRAMLINGHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49609,
+    "name": "FRINTON-ON-SEA",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49654,
+    "name": "GLEMSFORD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49710,
+    "name": "GREAT BARTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49734,
+    "name": "GREAT WALDINGFIELD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49760,
+    "name": "GRUNDISBURGH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49783,
+    "name": "HALESWORTH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49808,
+    "name": "HARLESTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49830,
+    "name": "HARWICH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49844,
+    "name": "HAUGHLEY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49960,
+    "name": "HOLBROOK",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50067,
+    "name": "IPSWICH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50092,
+    "name": "IXWORTH",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50126,
+    "name": "KESGRAVE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50127,
+    "name": "KESSINGLAND",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50260,
+    "name": "LAVENHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50278,
+    "name": "LEISTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50398,
+    "name": "LONG MELFORD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50429,
+    "name": "LOWESTOFT",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50484,
+    "name": "MANNINGTREE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50605,
+    "name": "MISTLEY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50670,
+    "name": "NEEDHAM MARKET",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51059,
+    "name": "RENDLESHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51078,
+    "name": "RICKINGHALL",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51207,
+    "name": "SAXMUNDHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51214,
+    "name": "SCOLE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51293,
+    "name": "SHOTLEY GATE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51383,
+    "name": "SOUTHWOLD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51485,
+    "name": "STOWMARKET",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51487,
+    "name": "STRADBROKE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51509,
+    "name": "SUDBURY",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51510,
+    "name": "SUFFOLK",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51591,
+    "name": "THETFORD",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51609,
+    "name": "THORPE LE SOKEN",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51616,
+    "name": "THURSTON",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51742,
+    "name": "WALTON-ON-THE-NAZE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51776,
+    "name": "WATTISHAM",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51894,
+    "name": "WICKHAM MARKET",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51969,
+    "name": "WOODBRIDGE",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51982,
+    "name": "WOOLPIT",
+    "state": "SUFFOLK",
+    "state_iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  }
+]

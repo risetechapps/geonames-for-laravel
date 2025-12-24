@@ -1,0 +1,572 @@
+[
+  {
+    "id": 55169,
+    "name": "ABASÁR",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55176,
+    "name": "ADÁCS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55188,
+    "name": "ANDORNAKTÁLYA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55190,
+    "name": "APC",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55244,
+    "name": "BESENYŐTELEK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55253,
+    "name": "BOLDOG",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55302,
+    "name": "BÉLAPÁTFALVA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55303,
+    "name": "BÉLAPÁTFALVAI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55346,
+    "name": "CSÁNY",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55371,
+    "name": "DOMOSZLÓ",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55395,
+    "name": "ECSÉD",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55398,
+    "name": "EGER",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55399,
+    "name": "EGERSZALÓK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55400,
+    "name": "EGRI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55412,
+    "name": "ERDŐTELEK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55425,
+    "name": "FELSŐTÁRKÁNY",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55441,
+    "name": "FÜZESABONY",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55442,
+    "name": "FÜZESABONYI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55459,
+    "name": "GYÖNGYÖS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55460,
+    "name": "GYÖNGYÖSHALÁSZ",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55461,
+    "name": "GYÖNGYÖSI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55462,
+    "name": "GYÖNGYÖSPATA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55463,
+    "name": "GYÖNGYÖSSOLYMOS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55464,
+    "name": "GYÖNGYÖSTARJÁN",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55500,
+    "name": "HATVAN",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55501,
+    "name": "HATVANI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55509,
+    "name": "HERÉD",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55510,
+    "name": "HEVES",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55511,
+    "name": "HEVESI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55514,
+    "name": "HORT",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55571,
+    "name": "KARÁCSOND",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55586,
+    "name": "KERECSEND",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55601,
+    "name": "KISKÖRE",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55620,
+    "name": "KOMPOLT",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55635,
+    "name": "KÁL",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55671,
+    "name": "LŐRINCI",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55676,
+    "name": "MAKLÁR",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55724,
+    "name": "MÁTRADERECSKE",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55761,
+    "name": "NAGYRÉDE",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55802,
+    "name": "OSTOROS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55810,
+    "name": "PARÁD",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55811,
+    "name": "PARÁDSASVÁR",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55816,
+    "name": "PETŐFIBÁNYA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55831,
+    "name": "POROSZLÓ",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55856,
+    "name": "PÉTERVÁSÁRA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55857,
+    "name": "PÉTERVÁSÁRAI JÁRÁS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55863,
+    "name": "RECSK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55880,
+    "name": "RÓZSASZENTMÁRTON",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55900,
+    "name": "SIROK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55957,
+    "name": "SZIHALOM",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55960,
+    "name": "SZILVÁSVÁRAD",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56013,
+    "name": "TARNALELESZ",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56014,
+    "name": "TARNAÖRS",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56040,
+    "name": "TISZANÁNA",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56098,
+    "name": "VERPELÉT",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56109,
+    "name": "VÁMOSGYÖRK",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56119,
+    "name": "ZAGYVASZÁNTÓ",
+    "state": "HEVES COUNTY",
+    "state_iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

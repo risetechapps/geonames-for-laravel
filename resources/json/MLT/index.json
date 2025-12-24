@@ -1,0 +1,682 @@
+[
+  {
+    "id": 110,
+    "name": "ATTARD",
+    "iso2": "01",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 108,
+    "name": "BALZAN",
+    "iso2": "02",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 107,
+    "name": "BIRGU",
+    "iso2": "03",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 97,
+    "name": "BIRKIRKARA",
+    "iso2": "04",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 88,
+    "name": "BIRŻEBBUĠA",
+    "iso2": "05",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 138,
+    "name": "COSPICUA",
+    "iso2": "06",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 117,
+    "name": "DINGLI",
+    "iso2": "07",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 129,
+    "name": "FGURA",
+    "iso2": "08",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 84,
+    "name": "FLORIANA",
+    "iso2": "09",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 134,
+    "name": "FONTANA",
+    "iso2": "10",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 118,
+    "name": "GUDJA",
+    "iso2": "11",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 130,
+    "name": "GĦAJNSIELEM",
+    "iso2": "13",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 92,
+    "name": "GĦARB",
+    "iso2": "14",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 120,
+    "name": "GĦARGĦUR",
+    "iso2": "15",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 106,
+    "name": "GĦASRI",
+    "iso2": "16",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 124,
+    "name": "GĦAXAQ",
+    "iso2": "17",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 113,
+    "name": "GŻIRA",
+    "iso2": "12",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 93,
+    "name": "IKLIN",
+    "iso2": "19",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 99,
+    "name": "KALKARA",
+    "iso2": "21",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 91,
+    "name": "KERĊEM",
+    "iso2": "22",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 82,
+    "name": "KIRKOP",
+    "iso2": "23",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 126,
+    "name": "LIJA",
+    "iso2": "24",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 77,
+    "name": "LUQA",
+    "iso2": "25",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 128,
+    "name": "MARSA",
+    "iso2": "26",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 137,
+    "name": "MARSASKALA",
+    "iso2": "27",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 78,
+    "name": "MARSAXLOKK",
+    "iso2": "28",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 89,
+    "name": "MDINA",
+    "iso2": "29",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 102,
+    "name": "MELLIEĦA",
+    "iso2": "30",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 140,
+    "name": "MOSTA",
+    "iso2": "32",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 74,
+    "name": "MQABBA",
+    "iso2": "33",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 96,
+    "name": "MSIDA",
+    "iso2": "34",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 131,
+    "name": "MTARFA",
+    "iso2": "35",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 132,
+    "name": "MUNXAR",
+    "iso2": "36",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 109,
+    "name": "MĠARR",
+    "iso2": "31",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 133,
+    "name": "NADUR",
+    "iso2": "37",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 112,
+    "name": "NAXXAR",
+    "iso2": "38",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 115,
+    "name": "PAOLA",
+    "iso2": "39",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 125,
+    "name": "PEMBROKE",
+    "iso2": "40",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 127,
+    "name": "PIETÀ",
+    "iso2": "41",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 79,
+    "name": "QALA",
+    "iso2": "42",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 119,
+    "name": "QORMI",
+    "iso2": "43",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 111,
+    "name": "QRENDI",
+    "iso2": "44",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 83,
+    "name": "RABAT",
+    "iso2": "46",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 5642,
+    "name": "SAFI",
+    "iso2": "47",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 87,
+    "name": "SAN LAWRENZ",
+    "iso2": "50",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 75,
+    "name": "SAN ĠWANN",
+    "iso2": "49",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 116,
+    "name": "SANNAT",
+    "iso2": "52",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 94,
+    "name": "SANTA LUĊIJA",
+    "iso2": "53",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 90,
+    "name": "SANTA VENERA",
+    "iso2": "54",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 136,
+    "name": "SENGLEA",
+    "iso2": "20",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 98,
+    "name": "SIĠĠIEWI",
+    "iso2": "55",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 104,
+    "name": "SLIEMA",
+    "iso2": "56",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 100,
+    "name": "ST. JULIAN'S",
+    "iso2": "48",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 139,
+    "name": "ST. PAUL'S BAY",
+    "iso2": "51",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 86,
+    "name": "SWIEQI",
+    "iso2": "57",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 122,
+    "name": "TA' XBIEX",
+    "iso2": "58",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 103,
+    "name": "TARXIEN",
+    "iso2": "59",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 95,
+    "name": "VALLETTA",
+    "iso2": "60",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 101,
+    "name": "VICTORIA",
+    "iso2": "45",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 114,
+    "name": "XAGĦRA",
+    "iso2": "61",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 121,
+    "name": "XEWKIJA",
+    "iso2": "62",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 81,
+    "name": "XGĦAJRA",
+    "iso2": "63",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 105,
+    "name": "ĦAMRUN",
+    "iso2": "18",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 123,
+    "name": "ŻABBAR",
+    "iso2": "64",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 85,
+    "name": "ŻEBBUĠ GOZO",
+    "iso2": "65",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 80,
+    "name": "ŻEBBUĠ MALTA",
+    "iso2": "66",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 135,
+    "name": "ŻEJTUN",
+    "iso2": "67",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 76,
+    "name": "ŻURRIEQ",
+    "iso2": "68",
+    "country": "MALTA",
+    "country_iso2": "MT",
+    "country_iso3": "MLT",
+    "country_native": "MALTA",
+    "timezone": "Europe/Malta"
+  }
+]

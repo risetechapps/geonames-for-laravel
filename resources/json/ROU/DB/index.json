@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 89886,
+    "name": "ADÂNCA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89966,
+    "name": "ANINOASA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90122,
+    "name": "BEZDEAD",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90136,
+    "name": "BILCIUREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90269,
+    "name": "BRANIŞTEA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90301,
+    "name": "BREZOAELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90302,
+    "name": "BREZOAIA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90312,
+    "name": "BROȘTENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90335,
+    "name": "BRĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90354,
+    "name": "BUCIUMENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90366,
+    "name": "BUCŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90412,
+    "name": "BUNGETU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90427,
+    "name": "BUTIMANU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90440,
+    "name": "BÂLDANA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90481,
+    "name": "BĂDENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90509,
+    "name": "BĂLENI SÂRBI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90516,
+    "name": "BĂLTENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90538,
+    "name": "BĂRBULEŢU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90593,
+    "name": "CAZACI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90713,
+    "name": "CIOCĂNARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90715,
+    "name": "CIOCĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90789,
+    "name": "COJASCA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90791,
+    "name": "COLACU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90813,
+    "name": "COMIŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90874,
+    "name": "COMUNA ANINOASA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90980,
+    "name": "COMUNA BEZDEAD",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90989,
+    "name": "COMUNA BILCIUREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91079,
+    "name": "COMUNA BRANIŞTEA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91099,
+    "name": "COMUNA BREZOAELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91122,
+    "name": "COMUNA BRĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91130,
+    "name": "COMUNA BUCIUMENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91140,
+    "name": "COMUNA BUCŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91175,
+    "name": "COMUNA BUTIMANU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91214,
+    "name": "COMUNA BĂLENI SÂRBI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91237,
+    "name": "COMUNA BĂRBULEŢU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91346,
+    "name": "COMUNA CIOCĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91385,
+    "name": "COMUNA COBIA DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91394,
+    "name": "COMUNA COJASCA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91408,
+    "name": "COMUNA COMIŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91414,
+    "name": "COMUNA CONŢEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91426,
+    "name": "COMUNA CORBII MARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91439,
+    "name": "COMUNA CORNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91444,
+    "name": "COMUNA CORNĂŢELU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91458,
+    "name": "COMUNA COSTEŞTII DIN VALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91489,
+    "name": "COMUNA CREVEDIA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91515,
+    "name": "COMUNA CRÂNGURILE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91548,
+    "name": "COMUNA CÂNDEŞTI VALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91632,
+    "name": "COMUNA DOBRA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91653,
+    "name": "COMUNA DOICEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91671,
+    "name": "COMUNA DRAGODANA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91673,
+    "name": "COMUNA DRAGOMIREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91745,
+    "name": "COMUNA DĂRMĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91767,
+    "name": "COMUNA FINTA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91883,
+    "name": "COMUNA GLODENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91947,
+    "name": "COMUNA GURA FOII",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91949,
+    "name": "COMUNA GURA OCNIŢEI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91956,
+    "name": "COMUNA GURA ŞUŢII",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92027,
+    "name": "COMUNA HULUBEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92047,
+    "name": "COMUNA I. L. CARAGIALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92188,
+    "name": "COMUNA LUCIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92190,
+    "name": "COMUNA LUDEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92213,
+    "name": "COMUNA LUNGULEŢU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92237,
+    "name": "COMUNA MALU CU FLORI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92318,
+    "name": "COMUNA MOGOŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92332,
+    "name": "COMUNA MOROENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92333,
+    "name": "COMUNA MORTENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92352,
+    "name": "COMUNA MOŢÃIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92403,
+    "name": "COMUNA MĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92420,
+    "name": "COMUNA MĂTĂSARU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92445,
+    "name": "COMUNA NICULEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92454,
+    "name": "COMUNA NUCET",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92479,
+    "name": "COMUNA OCNIŢA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92481,
+    "name": "COMUNA ODOBEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92563,
+    "name": "COMUNA PETREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92576,
+    "name": "COMUNA PIETRARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92583,
+    "name": "COMUNA PIETROŞIŢA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92623,
+    "name": "COMUNA POIANA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92665,
+    "name": "COMUNA POTLOGI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92681,
+    "name": "COMUNA PRODULEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92690,
+    "name": "COMUNA PUCHENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92732,
+    "name": "COMUNA RACIU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92811,
+    "name": "COMUNA RUNCU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92825,
+    "name": "COMUNA RÂU ALB",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92833,
+    "name": "COMUNA RÃZVAD",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92847,
+    "name": "COMUNA RĂSCĂEŢI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92957,
+    "name": "COMUNA SLOBOZIA MOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93094,
+    "name": "COMUNA SĂLCIOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93241,
+    "name": "COMUNA TĂRTĂŞEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93244,
+    "name": "COMUNA TĂTĂRANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93258,
+    "name": "COMUNA ULIEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93262,
+    "name": "COMUNA ULMI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93309,
+    "name": "COMUNA VALEA LUNGĂ",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93313,
+    "name": "COMUNA VALEA MARE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93376,
+    "name": "COMUNA VIŞINA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93379,
+    "name": "COMUNA VIŞINEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93398,
+    "name": "COMUNA VOINEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93413,
+    "name": "COMUNA VULCANA BĂI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93414,
+    "name": "COMUNA VULCANA-PANDELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93440,
+    "name": "COMUNA VÂRFURI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93452,
+    "name": "COMUNA VĂCĂREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93460,
+    "name": "COMUNA VĂLENI-DÂMBOVIŢA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93504,
+    "name": "COMUNA ŞELARU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93544,
+    "name": "COMUNA ŞOTÂNGA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93597,
+    "name": "CONȚEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93615,
+    "name": "CORBII MARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93635,
+    "name": "CORNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93643,
+    "name": "CORNĂŢELU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93662,
+    "name": "COSTEŞTII DIN VALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93666,
+    "name": "COSTEȘTII DIN DEAL",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93710,
+    "name": "CREVEDIA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93738,
+    "name": "CROITORI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93739,
+    "name": "CROVU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93749,
+    "name": "CRÂNGURILE DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93808,
+    "name": "CÂNDEŞTI VALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93860,
+    "name": "CĂPRIORU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93903,
+    "name": "DEALU FRUMOS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93904,
+    "name": "DEALU MARE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93907,
+    "name": "DECINDENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93948,
+    "name": "DOBRA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93981,
+    "name": "DOICEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94012,
+    "name": "DRAGODANA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94013,
+    "name": "DRAGODĂNEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94018,
+    "name": "DRAGOMIREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94055,
+    "name": "DRĂGĂEȘTI UNGURENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94104,
+    "name": "DÂMBOVICIOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94113,
+    "name": "DÂRZA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94132,
+    "name": "DĂRMĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94164,
+    "name": "FIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94166,
+    "name": "FIERBINȚI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94179,
+    "name": "FINTA MARE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94243,
+    "name": "FÂNTÂNELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94288,
+    "name": "GEMENEA BRĂTULEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94296,
+    "name": "GHEBOAIA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94297,
+    "name": "GHEBOIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94330,
+    "name": "GHINEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94336,
+    "name": "GHIRDOVENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94359,
+    "name": "GLOD",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94362,
+    "name": "GLODENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94386,
+    "name": "GORGOTA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94407,
+    "name": "GRECI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94424,
+    "name": "GROZĂVEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94449,
+    "name": "GULIA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94453,
+    "name": "GURA FOII",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94456,
+    "name": "GURA OCNIȚEI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94464,
+    "name": "GURA VULCANEI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94467,
+    "name": "GURA ŞUŢII",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94496,
+    "name": "GĂEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94573,
+    "name": "HULUBEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94595,
+    "name": "HĂBENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94612,
+    "name": "I. L. CARAGIALE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94626,
+    "name": "IAZU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94631,
+    "name": "IBRIANU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94641,
+    "name": "IEDERA DE JOS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94642,
+    "name": "IEDERA DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94679,
+    "name": "IONEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94705,
+    "name": "IZVOARELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94765,
+    "name": "LAZURI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94837,
+    "name": "LUCIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94842,
+    "name": "LUDEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94856,
+    "name": "LUNCA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94882,
+    "name": "LUNGULEŢU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94889,
+    "name": "LĂCULEȚE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94919,
+    "name": "MALU CU FLORI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94938,
+    "name": "MAVRODIN",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94998,
+    "name": "MIJA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95052,
+    "name": "MOGOŞANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95071,
+    "name": "MORENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95072,
+    "name": "MOROENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95073,
+    "name": "MORTENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95097,
+    "name": "MOȚĂIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95158,
+    "name": "MUNICIPIUL MORENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95191,
+    "name": "MUNICIPIUL TÂRGOVIŞTE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95259,
+    "name": "MĂNEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95266,
+    "name": "MĂRCEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95273,
+    "name": "MĂRGINENII DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95291,
+    "name": "MĂTĂSARU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95342,
+    "name": "NICULEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95359,
+    "name": "NUCET",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95400,
+    "name": "OCNIŢA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95405,
+    "name": "ODAIA TURCULUI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95406,
+    "name": "ODOBEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95515,
+    "name": "ORAŞ FIENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95526,
+    "name": "ORAŞ GÃEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95574,
+    "name": "ORAŞ PUCIOASA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95582,
+    "name": "ORAŞ RÃCARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95604,
+    "name": "ORAŞ TITU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95741,
+    "name": "PERȘINARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95746,
+    "name": "PETREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95774,
+    "name": "PICIOR DE MUNTE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95776,
+    "name": "PIETRARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95790,
+    "name": "PIETROŞIŢA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95801,
+    "name": "PITARU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95865,
+    "name": "POIANA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95933,
+    "name": "POTLOGI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95949,
+    "name": "PRIBOIU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95959,
+    "name": "PRODULEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95972,
+    "name": "PUCHENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95975,
+    "name": "PUCIOASA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96039,
+    "name": "RACIU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96047,
+    "name": "RACOVIȚA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96111,
+    "name": "ROMÂNEȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96153,
+    "name": "RUNCU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96172,
+    "name": "RÂNCĂCIOV",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96174,
+    "name": "RÂU ALB DE JOS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96182,
+    "name": "RĂCARI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96206,
+    "name": "RĂSCĂEȚI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96216,
+    "name": "RĂZVAD",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96266,
+    "name": "SCHEIU DE JOS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96267,
+    "name": "SCHEIU DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96326,
+    "name": "SERDANU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96376,
+    "name": "SLOBOZIA MOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96414,
+    "name": "SPERIEȚENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96512,
+    "name": "SUSENI SOCETU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105996,
+    "name": "SĂCUENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106011,
+    "name": "SĂLCIOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106016,
+    "name": "SĂLCUȚA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106040,
+    "name": "SĂTENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106074,
+    "name": "TEIȘ",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106091,
+    "name": "TEȚCOIU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106110,
+    "name": "TITU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96580,
+    "name": "TÂRGOVIŞTE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96613,
+    "name": "TĂRTĂŞEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96617,
+    "name": "TĂTĂRANI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96643,
+    "name": "ULIEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96649,
+    "name": "ULMI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96658,
+    "name": "UNGURENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96686,
+    "name": "URZICEANCA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96728,
+    "name": "VALEA LEURZII",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96730,
+    "name": "VALEA LUNGĂ OGREA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96731,
+    "name": "VALEA LUNGĂ-CRICOV",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96734,
+    "name": "VALEA MARE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96765,
+    "name": "VALEA VOIEVOZILOR",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96813,
+    "name": "VIFORÂTA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96826,
+    "name": "VIIȘOARA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96845,
+    "name": "VIZUREȘTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96849,
+    "name": "VIŞINA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96851,
+    "name": "VIŞINEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96861,
+    "name": "VLĂDENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96871,
+    "name": "VLĂSCENI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96879,
+    "name": "VOINEŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96902,
+    "name": "VULCANA BĂI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96903,
+    "name": "VULCANA DE SUS",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96904,
+    "name": "VULCANA-PANDELE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96939,
+    "name": "VÂRFURI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96952,
+    "name": "VĂCĂREŞTI",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96963,
+    "name": "VĂLENI-DÂMBOVIȚA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96992,
+    "name": "ZIDURILE",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97023,
+    "name": "ZĂVOIU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97035,
+    "name": "ŞELARU",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97074,
+    "name": "ŞOTÂNGA",
+    "state": "DÂMBOVIȚA",
+    "state_iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

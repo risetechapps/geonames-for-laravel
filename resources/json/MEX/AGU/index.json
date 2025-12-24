@@ -1,0 +1,912 @@
+[
+  {
+    "id": 68127,
+    "name": "AGUASCALIENTES",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68336,
+    "name": "ARBOLEDAS PASO BLANCO [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68342,
+    "name": "ARELLANO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68380,
+    "name": "ASIENTOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68616,
+    "name": "BIMBALETES AGUASCALIENTES (EL ÁLAMO)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68752,
+    "name": "CALVILLO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68820,
+    "name": "CARBONERAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68844,
+    "name": "CARTAGENA [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68900,
+    "name": "CENTRO DE ARRIBA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69197,
+    "name": "CIÉNEGA GRANDE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69486,
+    "name": "CORRAL DE BARRANCOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69507,
+    "name": "COSÍO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69510,
+    "name": "COTORINA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69539,
+    "name": "CRUCERO LAS PILAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69634,
+    "name": "CUMBRES III",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69813,
+    "name": "EJIDO LA GUAYANA (RANCHO SECO)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69837,
+    "name": "EL BAJÍO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69899,
+    "name": "EL CHAYOTE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69935,
+    "name": "EL CUERVERO (CUERVEROS)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70023,
+    "name": "EL LLANO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70154,
+    "name": "EL REFUGIO DE PEÑUELAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70155,
+    "name": "EL REFUGIO DE PROVIDENCIA (PROVIDENCIA)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70185,
+    "name": "EL SALERO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70240,
+    "name": "EL TULE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70285,
+    "name": "EMILIANO ZAPATA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70315,
+    "name": "ESCALERAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70387,
+    "name": "EX-VIÑEDOS GUADALUPE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70535,
+    "name": "GENERAL IGNACIO ZARAGOZA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70608,
+    "name": "GUADALUPE DE ATLAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70989,
+    "name": "JALTICHE DE ARRIBA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70993,
+    "name": "JALTOMATE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71007,
+    "name": "JARILLAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71024,
+    "name": "JESÚS GÓMEZ PORTUGAL",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71025,
+    "name": "JESÚS GÓMEZ PORTUGAL (MARGARITAS)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71032,
+    "name": "JESÚS MARÍA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71232,
+    "name": "LA CONCEPCIÓN",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71267,
+    "name": "LA ESCONDIDA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71340,
+    "name": "LA LABOR",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71369,
+    "name": "LA LOMA DE LOS NEGRITOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71431,
+    "name": "LA PANADERA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71467,
+    "name": "LA PUNTA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71627,
+    "name": "LAS NORIAS DE OJOCALIENTE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71656,
+    "name": "LAS ÁNIMAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71774,
+    "name": "LOS ARQUITOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71785,
+    "name": "LOS CAÑOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71792,
+    "name": "LOS CONOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71893,
+    "name": "LÁZARO CÁRDENAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71903,
+    "name": "MACARIO J. GÓMEZ [COLONIA]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71948,
+    "name": "MALPASO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71986,
+    "name": "MARAVILLAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72079,
+    "name": "MESA GRANDE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72155,
+    "name": "MIRAVALLE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72187,
+    "name": "MOLINOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72221,
+    "name": "MONTORO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72353,
+    "name": "NORIA DEL BORREGO (NORIAS)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72354,
+    "name": "NORIAS DEL PASO HONDO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72491,
+    "name": "OJO DE AGUA DE CRUCITAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72498,
+    "name": "OJOCALIENTE",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72562,
+    "name": "PABELLÓN DE ARTEAGA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72563,
+    "name": "PABELLÓN DE HIDALGO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72604,
+    "name": "PALO ALTO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72652,
+    "name": "PAREDES",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72671,
+    "name": "PASEOS DE LA PROVIDENCIA [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72672,
+    "name": "PASEOS DE LAS HACIENDAS [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72675,
+    "name": "PASO BLANCO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72755,
+    "name": "PEÑUELAS (EL CIENEGAL)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72777,
+    "name": "PILOTOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72835,
+    "name": "POCITOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72964,
+    "name": "PUERTECITO DE LA VIRGEN",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73133,
+    "name": "RINCÓN DE ROMOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73315,
+    "name": "SAN ANTONIO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73374,
+    "name": "SAN ANTONIO DE LOS HORCONES",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73376,
+    "name": "SAN ANTONIO DE LOS RÍOS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73365,
+    "name": "SAN ANTONIO DE PEÑUELAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73616,
+    "name": "SAN FRANCISCO DE LOS ROMO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73650,
+    "name": "SAN IGNACIO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73693,
+    "name": "SAN JACINTO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73819,
+    "name": "SAN JOSÉ DE GRACIA",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74058,
+    "name": "SAN LUIS DE LETRAS",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74475,
+    "name": "SAN SEBASTIÁN [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74490,
+    "name": "SAN TADEO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74680,
+    "name": "SANTA ISABEL [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74807,
+    "name": "SANTA MARÍA DE LA PAZ",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74839,
+    "name": "SANTA ROSA (EL HUIZACHE)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74869,
+    "name": "SANTIAGO",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75415,
+    "name": "TEPETATES",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75446,
+    "name": "TEPEZALÁ",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75913,
+    "name": "VALLADOLID",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75915,
+    "name": "VALLE HUEJÚCAR (FRACCIONAMIENTO POPULAR) [FRACCIONAMIENTO]",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76024,
+    "name": "VILLA JUÁREZ",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76026,
+    "name": "VILLA LICENCIADO JESÚS TERÁN (CALVILLITO)",
+    "state": "AGUASCALIENTES",
+    "state_iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

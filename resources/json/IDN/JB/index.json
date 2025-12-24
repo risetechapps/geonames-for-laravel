@@ -1,0 +1,802 @@
+[
+  {
+    "id": 56182,
+    "name": "ARJAWINANGUN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56183,
+    "name": "ASTANAJAPURA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56196,
+    "name": "BANDUNG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56325,
+    "name": "BANDUNG BARAT",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56199,
+    "name": "BANJAR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56202,
+    "name": "BANJARAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56215,
+    "name": "BEKASI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56226,
+    "name": "BOGOR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56237,
+    "name": "CARINGIN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56240,
+    "name": "CIAMIS",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56241,
+    "name": "CIAMPEA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56391,
+    "name": "CIANJUR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56242,
+    "name": "CIBINONG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56243,
+    "name": "CICURUG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56244,
+    "name": "CIKAMPEK",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56245,
+    "name": "CIKARANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56246,
+    "name": "CIKUPA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56247,
+    "name": "CILEUNGSIR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56248,
+    "name": "CILEUNYI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56249,
+    "name": "CIMAHI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56250,
+    "name": "CIPUTAT",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56251,
+    "name": "CIRANJANG-HILIR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56252,
+    "name": "CIREBON",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56253,
+    "name": "CITEUREUP",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56265,
+    "name": "DEPOK",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56407,
+    "name": "GARUT",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56291,
+    "name": "INDRAMAYU",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56296,
+    "name": "JATIBARANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56298,
+    "name": "JATIWANGI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56324,
+    "name": "KABUPATEN BANDUNG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56349,
+    "name": "KABUPATEN BEKASI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56366,
+    "name": "KABUPATEN BOGOR",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56390,
+    "name": "KABUPATEN CIAMIS",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56393,
+    "name": "KABUPATEN CIREBON",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56426,
+    "name": "KABUPATEN INDRAMAYU",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56474,
+    "name": "KABUPATEN KUNINGAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56508,
+    "name": "KABUPATEN MAJALENGKA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56606,
+    "name": "KABUPATEN PURWAKARTA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56645,
+    "name": "KABUPATEN SUKABUMI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56654,
+    "name": "KABUPATEN SUMEDANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56674,
+    "name": "KABUPATEN TASIKMALAYA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56698,
+    "name": "KARANGAMPEL",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56700,
+    "name": "KARANGSEMBUNG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56440,
+    "name": "KARAWANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56704,
+    "name": "KAWALU",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56718,
+    "name": "KLANGENAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56819,
+    "name": "KRESEK",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56825,
+    "name": "KUNINGAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56842,
+    "name": "LEMBANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56852,
+    "name": "MAJALENGKA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56861,
+    "name": "MARGAHAYUKENCANA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56886,
+    "name": "NGAWI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56892,
+    "name": "PADALARANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56899,
+    "name": "PALIMANAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56902,
+    "name": "PAMANUKAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56904,
+    "name": "PAMEUNGPEUK",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56905,
+    "name": "PAMULANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56575,
+    "name": "PANGANDARAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56918,
+    "name": "PARUNG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56919,
+    "name": "PASARKEMIS",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56920,
+    "name": "PASEH",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56928,
+    "name": "PELABUHANRATU",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56934,
+    "name": "PLUMBON",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56945,
+    "name": "PURWAKARTA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56948,
+    "name": "RAJAPOLAH",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56954,
+    "name": "RENGASDENGKLOK",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56962,
+    "name": "SAWANGAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56968,
+    "name": "SEPATAN",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56971,
+    "name": "SERPONG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56980,
+    "name": "SINGAPARNA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56994,
+    "name": "SOREANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 56644,
+    "name": "SUBANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57001,
+    "name": "SUKABUMI",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57003,
+    "name": "SUMBER",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57005,
+    "name": "SUMEDANG",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57006,
+    "name": "SUMEDANG UTARA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57025,
+    "name": "TASIKMALAYA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57030,
+    "name": "TELUKNAGA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57050,
+    "name": "WANARAJA",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  },
+  {
+    "id": 57056,
+    "name": "WERU",
+    "state": "JAWA BARAT",
+    "state_iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA"
+  }
+]

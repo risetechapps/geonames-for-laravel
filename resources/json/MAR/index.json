@@ -1,0 +1,872 @@
+[
+  {
+    "id": 4928,
+    "name": "AGADIR-IDA-OU-TANANE",
+    "iso2": "AGD",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3320,
+    "name": "AL HAOUZ",
+    "iso2": "HAO",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3267,
+    "name": "AL HOCEÏMA",
+    "iso2": "HOC",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3266,
+    "name": "AOUSSERD (EH)",
+    "iso2": "AOU",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3297,
+    "name": "ASSA-ZAG (EH-PARTIAL)",
+    "iso2": "ASZ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3321,
+    "name": "AZILAL",
+    "iso2": "AZI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3304,
+    "name": "BENSLIMANE",
+    "iso2": "BES",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3285,
+    "name": "BERKANE",
+    "iso2": "BER",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4929,
+    "name": "BERRECHID",
+    "iso2": "BRR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3275,
+    "name": "BOUJDOUR (EH)",
+    "iso2": "BOD",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3270,
+    "name": "BOULEMANE",
+    "iso2": "BOM",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3272,
+    "name": "BÉNI MELLAL",
+    "iso2": "BEM",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3278,
+    "name": "BÉNI MELLAL-KHÉNIFRA",
+    "iso2": "05",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4930,
+    "name": "CASABLANCA",
+    "iso2": "CAS",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3303,
+    "name": "CASABLANCA-SETTAT",
+    "iso2": "06",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3310,
+    "name": "CHEFCHAOUEN",
+    "iso2": "CHE",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3274,
+    "name": "CHICHAOUA",
+    "iso2": "CHI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3302,
+    "name": "CHTOUKA-AIT BAHA",
+    "iso2": "CHT",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3306,
+    "name": "DAKHLA-OUED ED-DAHAB (EH)",
+    "iso2": "12",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4931,
+    "name": "DRIOUCH",
+    "iso2": "DRI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3290,
+    "name": "DRÂA-TAFILALET",
+    "iso2": "08",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3291,
+    "name": "EL HAJEB",
+    "iso2": "HAJ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3280,
+    "name": "EL JADIDA",
+    "iso2": "JDI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3309,
+    "name": "EL KELÂA DES SRAGHNA",
+    "iso2": "KES",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3299,
+    "name": "ERRACHIDIA",
+    "iso2": "ERR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3292,
+    "name": "ES-SEMARA (EH-PARTIAL)",
+    "iso2": "ESM",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3316,
+    "name": "ESSAOUIRA",
+    "iso2": "ESI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3300,
+    "name": "FAHS-ANJRA",
+    "iso2": "FAH",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3301,
+    "name": "FIGUIG",
+    "iso2": "FIG",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4933,
+    "name": "FQUIH BEN SALAH",
+    "iso2": "FQH",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4932,
+    "name": "FÈS",
+    "iso2": "FES",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3313,
+    "name": "FÈS-MEKNÈS",
+    "iso2": "03",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3265,
+    "name": "GUELMIM",
+    "iso2": "GUE",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3305,
+    "name": "GUELMIM-OUED NOUN (EH-PARTIAL)",
+    "iso2": "10",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4934,
+    "name": "GUERCIF",
+    "iso2": "GUF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3325,
+    "name": "IFRANE",
+    "iso2": "IFR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3294,
+    "name": "INEZGANE-AIT MELLOUL",
+    "iso2": "INE",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3307,
+    "name": "JERADA",
+    "iso2": "JRA",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3326,
+    "name": "KHOURIBGA",
+    "iso2": "KHO",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3276,
+    "name": "KHÉMISSET",
+    "iso2": "KHE",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3317,
+    "name": "KHÉNIFRA",
+    "iso2": "KHN",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3308,
+    "name": "KÉNITRA",
+    "iso2": "KEN",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3271,
+    "name": "L'ORIENTAL",
+    "iso2": "02",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3268,
+    "name": "LARACHE",
+    "iso2": "LAR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3293,
+    "name": "LAÂYOUNE (EH)",
+    "iso2": "LAA",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3298,
+    "name": "LAÂYOUNE-SAKIA EL HAMRA (EH-PARTIAL)",
+    "iso2": "11",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4935,
+    "name": "MARRAKECH",
+    "iso2": "MAR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3288,
+    "name": "MARRAKESH-SAFI",
+    "iso2": "07",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4937,
+    "name": "MEKNÈS",
+    "iso2": "MEK",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4938,
+    "name": "MIDELT",
+    "iso2": "MID",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4939,
+    "name": "MOHAMMADIA",
+    "iso2": "MOH",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3315,
+    "name": "MOULAY YACOUB",
+    "iso2": "MOU",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3284,
+    "name": "MÉDIOUNA",
+    "iso2": "MED",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4936,
+    "name": "M’DIQ-FNIDEQ",
+    "iso2": "MDF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3281,
+    "name": "NADOR",
+    "iso2": "NAD",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3287,
+    "name": "NOUACEUR",
+    "iso2": "NOU",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3269,
+    "name": "OUARZAZATE",
+    "iso2": "OUA",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3319,
+    "name": "OUED ED-DAHAB (EH)",
+    "iso2": "OUD",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4941,
+    "name": "OUEZZANE",
+    "iso2": "OUZ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4940,
+    "name": "OUJDA-ANGAD",
+    "iso2": "OUJ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4942,
+    "name": "RABAT",
+    "iso2": "RAB",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4927,
+    "name": "RABAT-SALÉ-KÉNITRA",
+    "iso2": "04",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4943,
+    "name": "REHAMNA",
+    "iso2": "REH",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3311,
+    "name": "SAFI",
+    "iso2": "SAF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4944,
+    "name": "SALÉ",
+    "iso2": "SAL",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3289,
+    "name": "SEFROU",
+    "iso2": "SEF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3282,
+    "name": "SETTAT",
+    "iso2": "SET",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4945,
+    "name": "SIDI BENNOUR",
+    "iso2": "SIB",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4946,
+    "name": "SIDI IFNI",
+    "iso2": "SIF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3279,
+    "name": "SIDI KACEM",
+    "iso2": "SIK",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4952,
+    "name": "SIDI SLIMANE",
+    "iso2": "SIL",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4947,
+    "name": "SKHIRATE-TÉMARA",
+    "iso2": "SKH",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3295,
+    "name": "SOUSS-MASSA",
+    "iso2": "09",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3286,
+    "name": "TAN-TAN (EH-PARTIAL)",
+    "iso2": "TNT",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4950,
+    "name": "TANGER-ASSILAH",
+    "iso2": "TNG",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3324,
+    "name": "TANGER-TÉTOUAN-AL HOCEÏMA",
+    "iso2": "01",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3323,
+    "name": "TAOUNATE",
+    "iso2": "TAO",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3322,
+    "name": "TAOURIRT",
+    "iso2": "TAI",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4948,
+    "name": "TARFAYA (EH-PARTIAL)",
+    "iso2": "TAF",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3314,
+    "name": "TAROUDANNT",
+    "iso2": "TAR",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3312,
+    "name": "TATA",
+    "iso2": "TAT",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3296,
+    "name": "TAZA",
+    "iso2": "TAZ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4949,
+    "name": "TINGHIR",
+    "iso2": "TIN",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3277,
+    "name": "TIZNIT",
+    "iso2": "TIZ",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3318,
+    "name": "TÉTOUAN",
+    "iso2": "TET",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 4951,
+    "name": "YOUSSOUFIA",
+    "iso2": "YUS",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  },
+  {
+    "id": 3283,
+    "name": "ZAGORA",
+    "iso2": "ZAG",
+    "country": "MOROCCO",
+    "country_iso2": "MA",
+    "country_iso3": "MAR",
+    "country_native": "المغرب",
+    "timezone": "Africa/Casablanca"
+  }
+]

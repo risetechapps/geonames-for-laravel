@@ -1,0 +1,202 @@
+[
+  {
+    "id": 5455,
+    "name": "ABAI",
+    "iso2": "10",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 145,
+    "name": "AKMOLA",
+    "iso2": "11",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 151,
+    "name": "AKTOBE",
+    "iso2": "15",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 143,
+    "name": "ALMATY",
+    "iso2": "19",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 152,
+    "name": "ALMATY",
+    "iso2": "75",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 156,
+    "name": "ASTANA",
+    "iso2": "71",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 153,
+    "name": "ATYRAU",
+    "iso2": "23",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Atyrau"
+  },
+  {
+    "id": 154,
+    "name": "EAST KAZAKHSTAN",
+    "iso2": "63",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 147,
+    "name": "JAMBYL",
+    "iso2": "31",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 5456,
+    "name": "JETISU",
+    "iso2": "33",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 150,
+    "name": "KARAGANDA",
+    "iso2": "35",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 157,
+    "name": "KOSTANAY",
+    "iso2": "39",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 142,
+    "name": "KYZYLORDA",
+    "iso2": "43",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 141,
+    "name": "MANGYSTAU",
+    "iso2": "47",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 144,
+    "name": "NORTH KAZAKHSTAN",
+    "iso2": "59",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 146,
+    "name": "PAVLODAR",
+    "iso2": "55",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 5454,
+    "name": "SHYMKENT",
+    "iso2": "79",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 149,
+    "name": "TURKISTAN",
+    "iso2": "61",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 5457,
+    "name": "ULYTAU",
+    "iso2": "62",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "id": 148,
+    "name": "WEST KAZAKHSTAN",
+    "iso2": "27",
+    "country": "KAZAKHSTAN",
+    "country_iso2": "KZ",
+    "country_iso3": "KAZ",
+    "country_native": "ҚАЗАҚСТАН",
+    "timezone": "Asia/Oral"
+  }
+]

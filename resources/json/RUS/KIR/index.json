@@ -1,0 +1,892 @@
+[
+  {
+    "id": 97508,
+    "name": "AFANAS’YEVSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97653,
+    "name": "ARBAZH",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97671,
+    "name": "ARKUL’",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97843,
+    "name": "BELAYA KHOLUNITSA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97861,
+    "name": "BELORECHENSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97973,
+    "name": "BOGORODSKOYE",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98229,
+    "name": "CHËRNAYA KHOLUNITSA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98247,
+    "name": "DAROVSKOY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98263,
+    "name": "DEM’YANOVO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98344,
+    "name": "DUBROVKA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98412,
+    "name": "FALËNKI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98413,
+    "name": "FALËNSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99037,
+    "name": "KIKNUR",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99038,
+    "name": "KIKNURSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99041,
+    "name": "KIL’MEZ’",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99059,
+    "name": "KIROV",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99062,
+    "name": "KIROVO-CHEPETSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99063,
+    "name": "KIROVO-CHEPETSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99073,
+    "name": "KIRS",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99233,
+    "name": "KOSINO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99239,
+    "name": "KOSTINO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99244,
+    "name": "KOTEL’NICH",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99282,
+    "name": "KRASNAYA POLYANA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99444,
+    "name": "KUMËNY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99543,
+    "name": "LAL’SK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99577,
+    "name": "LENINSKOYE",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99593,
+    "name": "LESNOY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99601,
+    "name": "LESNYYE POLYANY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99695,
+    "name": "LUZA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99699,
+    "name": "LUZSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99704,
+    "name": "LYANGASOVO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99760,
+    "name": "MALMYZH",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99761,
+    "name": "MALMYZHSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99803,
+    "name": "MAROMITSA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99844,
+    "name": "MEDVEDOK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99925,
+    "name": "MIRNYY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100005,
+    "name": "MURASHI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100006,
+    "name": "MURASHINSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100018,
+    "name": "MURYGINO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100048,
+    "name": "NAGORSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100049,
+    "name": "NAGORSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100099,
+    "name": "NEMA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100103,
+    "name": "NEMSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100154,
+    "name": "NIZHNEIVKINO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100196,
+    "name": "NOLINSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100197,
+    "name": "NOLINSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100445,
+    "name": "OMUTNINSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100453,
+    "name": "OPARINO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100467,
+    "name": "ORICHEVSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100468,
+    "name": "ORICHI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100470,
+    "name": "ORLOV",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100475,
+    "name": "ORLOVSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100559,
+    "name": "PASEGOVO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100635,
+    "name": "PESKOVKA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100678,
+    "name": "PINYUG",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100690,
+    "name": "PIZHANKA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100691,
+    "name": "PIZHANSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100726,
+    "name": "PODOSINOVETS",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100727,
+    "name": "PODOSINOVSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100930,
+    "name": "RADUZHNYY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101022,
+    "name": "RUDNICHNYY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101095,
+    "name": "SANCHURSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101096,
+    "name": "SANCHURSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101228,
+    "name": "SHABALINSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101409,
+    "name": "SLOBODSKOY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101410,
+    "name": "SLOBODSKOY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101487,
+    "name": "SOSNOVKA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101503,
+    "name": "SOVETSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101513,
+    "name": "SOVETSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101521,
+    "name": "SOZIMSKIY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101629,
+    "name": "STRIZHI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101637,
+    "name": "STULOVO",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101662,
+    "name": "SUNA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101663,
+    "name": "SUNSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101696,
+    "name": "SVECHA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101704,
+    "name": "SVETLOPOLYANSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101898,
+    "name": "TORFYANOY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101987,
+    "name": "TUZHA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102060,
+    "name": "UNI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102061,
+    "name": "UNINSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102094,
+    "name": "URZHUM",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102177,
+    "name": "VAKHRUSHI",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102276,
+    "name": "VERKHOSHIZHEM’YE",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102398,
+    "name": "VOSTOCHNYY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102420,
+    "name": "VYATSKIYE POLYANY",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102491,
+    "name": "YARANSK",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102492,
+    "name": "YARANSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102602,
+    "name": "YUR’YANSKIY RAYON",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102777,
+    "name": "ZUYEVKA",
+    "state": "KIROV",
+    "state_iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 111068,
+    "name": "AINALOA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111300,
+    "name": "ANAHOLA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113378,
+    "name": "CAPTAIN COOK",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115693,
+    "name": "EAST HONOLULU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116481,
+    "name": "FERN ACRES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117841,
+    "name": "HAIKU-PAUWELA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117854,
+    "name": "HALE‘IWA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117941,
+    "name": "HANA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117943,
+    "name": "HANAMĀ‘ULU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117944,
+    "name": "HANAPĒPĒ",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117945,
+    "name": "HANAPĒPĒ HEIGHTS",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118144,
+    "name": "HAU‘ULA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118157,
+    "name": "HAWAII",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118158,
+    "name": "HAWAIIAN ACRES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118159,
+    "name": "HAWAIIAN BEACHES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118161,
+    "name": "HAWAIIAN OCEAN VIEW",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118162,
+    "name": "HAWAIIAN PARADISE PARK",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118353,
+    "name": "HE‘EIA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118360,
+    "name": "HICKAM FIELD",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118472,
+    "name": "HILO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118613,
+    "name": "HONALO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118614,
+    "name": "HONAUNAU-NAPOOPOO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118622,
+    "name": "HONOKA‘A",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118623,
+    "name": "HONOLULU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118624,
+    "name": "HONOLULU COUNTY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118859,
+    "name": "HĀLAWA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118860,
+    "name": "HĀLAWA HEIGHTS",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118861,
+    "name": "HĀWĪ",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118862,
+    "name": "HŌLUALOA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119001,
+    "name": "IROQUOIS POINT",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119348,
+    "name": "KAANAPALI LANDING",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119351,
+    "name": "KAHALUU-KEAUHOU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119352,
+    "name": "KAHALU‘U",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119354,
+    "name": "KAHUKU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119355,
+    "name": "KAHULUI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119357,
+    "name": "KAILUA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119358,
+    "name": "KAILUA-KONA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119362,
+    "name": "KALAOA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119363,
+    "name": "KALAWAO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119369,
+    "name": "KALĀHEO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119379,
+    "name": "KANEOHE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119385,
+    "name": "KAPAAU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119386,
+    "name": "KAPA‘A",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119388,
+    "name": "KAPOLEI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119396,
+    "name": "KAUAI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119400,
+    "name": "KAUNAKAKAI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119404,
+    "name": "KA‘A‘AWA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119405,
+    "name": "KEALAKEKUA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119415,
+    "name": "KEA‘AU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119427,
+    "name": "KEKAHA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119697,
+    "name": "KO OLINA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119703,
+    "name": "KOLOA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119721,
+    "name": "KUALAPU‘U",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119722,
+    "name": "KULA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119727,
+    "name": "KURTISTOWN",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119730,
+    "name": "KĀ‘ANAPALI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119731,
+    "name": "KĒŌKEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119732,
+    "name": "KĪHEI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119733,
+    "name": "KĪLAUEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119860,
+    "name": "LAHAINA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120078,
+    "name": "LANAI CITY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120221,
+    "name": "LAWAI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120339,
+    "name": "LEILANI ESTATES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120483,
+    "name": "LIHUE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120947,
+    "name": "LĀ‘IE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121054,
+    "name": "MAKAKILO CITY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121055,
+    "name": "MAKAWAO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121226,
+    "name": "MARINE CORPS BASE HAWAII - MCBH",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121419,
+    "name": "MAUI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121422,
+    "name": "MAUNAWILI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121861,
+    "name": "MILILANI TOWN",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122025,
+    "name": "MOKULĒIA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122432,
+    "name": "MOUNTAIN VIEW",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122528,
+    "name": "MĀKAHA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122529,
+    "name": "MĀKAHA VALLEY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122530,
+    "name": "MĀ‘ILI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122539,
+    "name": "NANAWALE ESTATES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122551,
+    "name": "NAPILI-HONOKOWAI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123224,
+    "name": "NĀNĀKULI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123334,
+    "name": "OCEAN POINTE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123540,
+    "name": "ORCHIDLANDS ESTATES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123725,
+    "name": "PAIA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123965,
+    "name": "PEARL CITY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124052,
+    "name": "PEPEEKEO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124696,
+    "name": "PRINCEVILLE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124731,
+    "name": "PUHI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124732,
+    "name": "PUKALANI",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124747,
+    "name": "PUNALU‘U",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124752,
+    "name": "PUPUKEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124773,
+    "name": "PĀHALA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124774,
+    "name": "PĀPA‘IKOU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125489,
+    "name": "ROYAL KUNIA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126014,
+    "name": "SCHOFIELD BARRACKS",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128249,
+    "name": "VILLAGE PARK",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128299,
+    "name": "VOLCANO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128331,
+    "name": "WAHIAWĀ",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128336,
+    "name": "WAIALUA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128337,
+    "name": "WAIANAE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128338,
+    "name": "WAIHEE-WAIEHU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128339,
+    "name": "WAIKAPŪ",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128340,
+    "name": "WAIKOLOA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128341,
+    "name": "WAILEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128342,
+    "name": "WAILUA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128343,
+    "name": "WAILUA HOMESTEADS",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128344,
+    "name": "WAILUKU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128345,
+    "name": "WAIMALU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128346,
+    "name": "WAIMANALO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128347,
+    "name": "WAIMEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128348,
+    "name": "WAIMĀNALO BEACH",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128349,
+    "name": "WAINAKU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128350,
+    "name": "WAIPAHU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128351,
+    "name": "WAIPIO",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128352,
+    "name": "WAIPI‘O ACRES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129207,
+    "name": "WHITMORE VILLAGE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129764,
+    "name": "‘AIEA",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129765,
+    "name": "‘ELE‘ELE",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129766,
+    "name": "‘EWA BEACH",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129767,
+    "name": "‘EWA GENTRY",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129768,
+    "name": "‘EWA VILLAGES",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129769,
+    "name": "‘ĀHUIMANU",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129770,
+    "name": "‘ŌMA‘O",
+    "state": "HAWAII",
+    "state_iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

@@ -1,0 +1,792 @@
+[
+  {
+    "id": 77318,
+    "name": "ADUARD",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77352,
+    "name": "APPINGEDAM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77370,
+    "name": "BAFLO",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77384,
+    "name": "BEDUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77398,
+    "name": "BELLINGWOLDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77441,
+    "name": "BLIJHAM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77517,
+    "name": "COENDERSBORG",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77562,
+    "name": "DE WIJERT",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77569,
+    "name": "DELFZIJL",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77629,
+    "name": "EENRUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77635,
+    "name": "EEXTA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77672,
+    "name": "FARMSUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77712,
+    "name": "GEMEENTE APPINGEDAM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77760,
+    "name": "GEMEENTE DELFZIJL",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77800,
+    "name": "GEMEENTE GRONINGEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77863,
+    "name": "GEMEENTE LOPPERSUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77694,
+    "name": "GEMEENTE OLDAMBT",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77910,
+    "name": "GEMEENTE PEKELA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77943,
+    "name": "GEMEENTE STADSKANAAL",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 77968,
+    "name": "GEMEENTE VEENDAM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78035,
+    "name": "GLIMMEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78056,
+    "name": "GRIJPSKERK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78063,
+    "name": "GRONINGEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78067,
+    "name": "GROOTEGAST",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78093,
+    "name": "HAREN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78096,
+    "name": "HARKSTEDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78129,
+    "name": "HEILIGERLEE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78136,
+    "name": "HELPMAN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78182,
+    "name": "HOOGEZAND",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78250,
+    "name": "KORREWEGWIJK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78276,
+    "name": "LEEK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78278,
+    "name": "LEENS",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78322,
+    "name": "LOPPERSUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78356,
+    "name": "MARUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78366,
+    "name": "MEEDEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78392,
+    "name": "MIDDELSTUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78393,
+    "name": "MIDDEN-GRONINGEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78396,
+    "name": "MIDWOLDA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78428,
+    "name": "NIEKERK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78439,
+    "name": "NIEUWE PEKELA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78447,
+    "name": "NIEUWOLDA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78464,
+    "name": "NOORDBROEK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78469,
+    "name": "NOORDHORN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78480,
+    "name": "OBERGUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78495,
+    "name": "OLDEHOVE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78499,
+    "name": "OMMELANDERWIJK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78503,
+    "name": "ONSTWEDDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78518,
+    "name": "OOSTERHOOGEBRUG",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78523,
+    "name": "OOSTERPARK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78558,
+    "name": "OUDE PEKELA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78612,
+    "name": "REITDIEP",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78652,
+    "name": "SAPPEMEER",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78662,
+    "name": "SCHEEMDA",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78673,
+    "name": "SCHILDWOLDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78685,
+    "name": "SELLINGEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78686,
+    "name": "SELWERD",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78691,
+    "name": "SIDDEBUREN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78712,
+    "name": "SLOCHTEREN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78732,
+    "name": "SPIJK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78742,
+    "name": "STADSKANAAL",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78768,
+    "name": "TEN BOER",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78769,
+    "name": "TER APEL",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78793,
+    "name": "TUIKWERD",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78813,
+    "name": "UITHUIZEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78814,
+    "name": "UITHUIZERMEEDEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78816,
+    "name": "ULRUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78821,
+    "name": "USQUERT",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78836,
+    "name": "VEENDAM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78856,
+    "name": "VLAGTWEDDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78899,
+    "name": "WAGENBORGEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78904,
+    "name": "WARFFUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78938,
+    "name": "WESTERLEE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78940,
+    "name": "WESTERWOLDE",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78958,
+    "name": "WILDERVANK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78963,
+    "name": "WINSCHOTEN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 78964,
+    "name": "WINSUM",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 79021,
+    "name": "ZOUTKAMP",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 79025,
+    "name": "ZUIDBROEK",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  },
+  {
+    "id": 79027,
+    "name": "ZUIDHORN",
+    "state": "GRONINGEN",
+    "state_iso2": "GR",
+    "country": "NETHERLANDS",
+    "country_iso2": "NL",
+    "country_iso3": "NLD",
+    "country_native": "NEDERLAND"
+  }
+]

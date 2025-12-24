@@ -1,0 +1,752 @@
+[
+  {
+    "id": 79964,
+    "name": "ALTO DE JESÚS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79970,
+    "name": "ARENAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79975,
+    "name": "ATALAYA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79981,
+    "name": "BARNIZAL",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79994,
+    "name": "BISVALLES",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80004,
+    "name": "BORÓ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80022,
+    "name": "CALABACITO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80024,
+    "name": "CALIDONIA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80025,
+    "name": "CALOBRE",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80026,
+    "name": "CALOVÉBORA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80031,
+    "name": "CANTO DEL LLANO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80040,
+    "name": "CAÑAZAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80076,
+    "name": "COROZAL",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80089,
+    "name": "DISTRITO DE ATALAYA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80096,
+    "name": "DISTRITO DE CALOBRE",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80098,
+    "name": "DISTRITO DE CAÑAZAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80113,
+    "name": "DISTRITO DE LA MESA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80116,
+    "name": "DISTRITO DE LAS PALMAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80121,
+    "name": "DISTRITO DE MONTIJO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80134,
+    "name": "DISTRITO DE RÍO DE JESÚS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80136,
+    "name": "DISTRITO DE SAN FRANCISCO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80139,
+    "name": "DISTRITO DE SANTA FÉ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80142,
+    "name": "DISTRITO DE SANTIAGO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80143,
+    "name": "DISTRITO DE SONÁ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80149,
+    "name": "EL ALTO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80150,
+    "name": "EL BARRITO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80162,
+    "name": "EL COCLÁ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80173,
+    "name": "EL ESPINO DE SANTA ROSA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80182,
+    "name": "EL MARAÑÓN",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80183,
+    "name": "EL MARÍA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80187,
+    "name": "EL PANTANO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80190,
+    "name": "EL PEÑÓN",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80191,
+    "name": "EL PICADOR",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80194,
+    "name": "EL POTRERO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80197,
+    "name": "EL PÁJARO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80199,
+    "name": "EL RINCÓN",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80205,
+    "name": "EL UVITO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80223,
+    "name": "GUARUMAL",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80255,
+    "name": "LA GARCEANA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80258,
+    "name": "LA LAGUNA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80261,
+    "name": "LA LOMA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80269,
+    "name": "LA MONTAÑUELA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80274,
+    "name": "LA PEÑA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80276,
+    "name": "LA RAYA DE CALOBRE",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80277,
+    "name": "LA RAYA DE SANTA MARÍA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80281,
+    "name": "LA YEGUADA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80291,
+    "name": "LAS GUÍAS ABAJO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80292,
+    "name": "LAS HUACAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80309,
+    "name": "LEONES ARRIBA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80324,
+    "name": "LOLÁ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80326,
+    "name": "LOS ALGARROBOS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80331,
+    "name": "LOS CASTILLOS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80335,
+    "name": "LOS HIGOS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80349,
+    "name": "MARIATO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80359,
+    "name": "MONJARÁS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80361,
+    "name": "MONTIJO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80411,
+    "name": "PIEDRAS GORDAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80421,
+    "name": "PONUGA",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80436,
+    "name": "PUERTO VIDAL",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80446,
+    "name": "QUEBRADA DE ORO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80454,
+    "name": "RODEO VIEJO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80466,
+    "name": "RÍO DE JESÚS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80460,
+    "name": "RÍO GRANDE",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80473,
+    "name": "SAN BARTOLO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80477,
+    "name": "SAN FRANCISCO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80484,
+    "name": "SAN JUAN",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80488,
+    "name": "SAN MARCELO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80493,
+    "name": "SAN PEDRO DEL ESPINO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80500,
+    "name": "SANTA FÉ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80508,
+    "name": "SANTIAGO DE VERAGUAS",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80516,
+    "name": "SONÁ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80519,
+    "name": "TEBARIO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80535,
+    "name": "UTIRÁ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80542,
+    "name": "VIGUÍ",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80553,
+    "name": "ZAPOTILLO",
+    "state": "VERAGUAS",
+    "state_iso2": "9",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  }
+]

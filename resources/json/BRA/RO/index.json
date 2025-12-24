@@ -1,0 +1,542 @@
+[
+  {
+    "id": 10151,
+    "name": "ALTA FLORESTA D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10164,
+    "name": "ALTO ALEGRE DOS PARECIS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10176,
+    "name": "ALTO PARAÍSO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10196,
+    "name": "ALVORADA D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10396,
+    "name": "ARIQUEMES",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10834,
+    "name": "BURITIS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10851,
+    "name": "CABIXI",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10859,
+    "name": "CACAULÂNDIA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10885,
+    "name": "CACOAL",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11000,
+    "name": "CAMPO NOVO DE RONDÔNIA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11035,
+    "name": "CANDEIAS DO JAMARI",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11186,
+    "name": "CASTANHEIRAS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11244,
+    "name": "CEREJEIRAS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11282,
+    "name": "CHUPINGUAIA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11331,
+    "name": "COLORADO DO OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11441,
+    "name": "CORUMBIARA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11448,
+    "name": "COSTA MARQUES",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11511,
+    "name": "CUJUBIM",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11735,
+    "name": "ESPIGÃO D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11766,
+    "name": "EXTREMA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11984,
+    "name": "GOVERNADOR JORGE TEIXEIRA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12019,
+    "name": "GUAJARÁ MIRIM",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12439,
+    "name": "ITAPUÃ DO OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12596,
+    "name": "JARU",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12629,
+    "name": "JI PARANÁ",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12899,
+    "name": "MACHADINHO D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13128,
+    "name": "MINISTRO ANDREAZZA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13146,
+    "name": "MIRANTE DA SERRA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13207,
+    "name": "MONTE NEGRO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13360,
+    "name": "NOVA BRASILÂNDIA D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13401,
+    "name": "NOVA MAMORÉ",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13442,
+    "name": "NOVA UNIÃO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13464,
+    "name": "NOVO HORIZONTE DO OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13543,
+    "name": "OURO PRETO DO OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13669,
+    "name": "PARECIS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13845,
+    "name": "PIMENTA BUENO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13847,
+    "name": "PIMENTEIRAS DO OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14019,
+    "name": "PORTO VELHO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14091,
+    "name": "PRESIDENTE MÉDICI",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14102,
+    "name": "PRIMAVERA DE RONDÔNIA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14124,
+    "name": "PÔSTO FISCAL ROLIM DE MOURA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14271,
+    "name": "RIO CRESPO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14336,
+    "name": "ROLIM DE MOURA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14493,
+    "name": "SANTA LUZIA D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14718,
+    "name": "SERINGUEIRAS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14876,
+    "name": "SÃO FELIPE D'OESTE",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14893,
+    "name": "SÃO FRANCISCO DO GUAPORÉ",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15091,
+    "name": "SÃO MIGUEL DO GUAPORÉ",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15269,
+    "name": "TEIXEIRÓPOLIS",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15302,
+    "name": "THEOBROMA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15482,
+    "name": "URUPÁ",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15494,
+    "name": "VALE DO ANARI",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15495,
+    "name": "VALE DO PARAÍSO",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15579,
+    "name": "VILHENA",
+    "state": "RONDÔNIA",
+    "state_iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

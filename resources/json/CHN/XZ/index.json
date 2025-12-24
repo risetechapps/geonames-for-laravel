@@ -1,0 +1,892 @@
+[
+  {
+    "id": 159818,
+    "name": "AMDO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159774,
+    "name": "BAINANG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159821,
+    "name": "BAINGOIN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159794,
+    "name": "BANBAR",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159822,
+    "name": "BAQÊN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159790,
+    "name": "BAXOI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159795,
+    "name": "BAYI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159816,
+    "name": "BIRU",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159798,
+    "name": "BOMÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19354,
+    "name": "BURANG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159825,
+    "name": "BURANG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159757,
+    "name": "CHENGGUAN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159808,
+    "name": "COMAI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159813,
+    "name": "CONA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159831,
+    "name": "COQÊN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159759,
+    "name": "DAGZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159761,
+    "name": "DAMXUNG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159777,
+    "name": "DINGGYÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159758,
+    "name": "DOILUNGDÊQÊN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159788,
+    "name": "DÊNGQÊN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19488,
+    "name": "DÊQÊN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159827,
+    "name": "GAR",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159796,
+    "name": "GONGBO'GYAMDA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159804,
+    "name": "GONGGAR",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159786,
+    "name": "GONJO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159810,
+    "name": "GYACA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159768,
+    "name": "GYANGZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159780,
+    "name": "GYIRONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159829,
+    "name": "GÊ'GYAI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159830,
+    "name": "GÊRZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19705,
+    "name": "JIANGZI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159785,
+    "name": "JOMDA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159783,
+    "name": "KAMBA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159776,
+    "name": "KANGMAR",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159784,
+    "name": "KARUO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159815,
+    "name": "LHARI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19812,
+    "name": "LHASA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159771,
+    "name": "LHAZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159832,
+    "name": "LHOKA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159793,
+    "name": "LHORONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159809,
+    "name": "LHOZHAG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159760,
+    "name": "LHÜNZHUB",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159811,
+    "name": "LHÜNZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159764,
+    "name": "MAIZHOKUNGGAR",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159792,
+    "name": "MARKAM",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159797,
+    "name": "MÊDOG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159812,
+    "name": "NAGARZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19933,
+    "name": "NAGQU",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19934,
+    "name": "NAGQU DIQU",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159767,
+    "name": "NAMLING",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159800,
+    "name": "NANGXIAN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159772,
+    "name": "NGAMRING",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19957,
+    "name": "NGARI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159817,
+    "name": "NYAINRONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159781,
+    "name": "NYALAM",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159823,
+    "name": "NYIMA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 19966,
+    "name": "NYINGCHI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159762,
+    "name": "NYÊMO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159802,
+    "name": "NÊDONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 20003,
+    "name": "QAMDO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 20004,
+    "name": "QAMDO",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159806,
+    "name": "QONGGYAI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159807,
+    "name": "QUSUM",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159763,
+    "name": "QÜXÜ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 20041,
+    "name": "RIKAZE",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159775,
+    "name": "RINBUNG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159787,
+    "name": "RIWOQÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159828,
+    "name": "RUTOG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159770,
+    "name": "SA'GYA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 20049,
+    "name": "SAGA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159782,
+    "name": "SAGA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159766,
+    "name": "SAMZHUBZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159805,
+    "name": "SANGRI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159814,
+    "name": "SENI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 20074,
+    "name": "SHANNAN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159824,
+    "name": "SHUANGHU",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159801,
+    "name": "SIMONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159820,
+    "name": "SOGXIAN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159769,
+    "name": "TINGRI",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159819,
+    "name": "XAINZA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159773,
+    "name": "XAITONGMOIN",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159765,
+    "name": "XIGAZÊ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159779,
+    "name": "YADONG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159826,
+    "name": "ZANDA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159799,
+    "name": "ZAYÜ",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159789,
+    "name": "ZHAG'YAB",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159803,
+    "name": "ZHANANG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159778,
+    "name": "ZHONGBA",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  },
+  {
+    "id": 159791,
+    "name": "ZOGANG",
+    "state": "TIBET",
+    "state_iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国"
+  }
+]

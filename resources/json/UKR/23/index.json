@@ -1,0 +1,552 @@
+[
+  {
+    "id": 109345,
+    "name": "BALKY",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109367,
+    "name": "BERDIANSK",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109368,
+    "name": "BERDYANSK",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109369,
+    "name": "BERDYANS’KA MIS’KRADA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109471,
+    "name": "CHAPAYEVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109482,
+    "name": "CHERNIHIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109551,
+    "name": "DNIPRORUDNE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109552,
+    "name": "DNIPROVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109595,
+    "name": "ENERGODAR",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109660,
+    "name": "HULYAYPOLE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109748,
+    "name": "KIROVE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109785,
+    "name": "KOMYSH-ZORYA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109787,
+    "name": "KOMYSHUVAKHA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109816,
+    "name": "KOSTYANTYNIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109892,
+    "name": "KUSHUHUM",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109895,
+    "name": "KUYBYSHEVE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109899,
+    "name": "KYRYLIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109978,
+    "name": "MALA BILOZERKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109980,
+    "name": "MALA TOKMACHKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109984,
+    "name": "MALOKATERYNIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110008,
+    "name": "MATVIYIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110018,
+    "name": "MELITOPOL",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110019,
+    "name": "MELITOPOL’S’KYY RAYON",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110068,
+    "name": "MYKHAYLIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110069,
+    "name": "MYKHAYLIVS’KYY RAYON",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110121,
+    "name": "NOVOBOHDANIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110133,
+    "name": "NOVOMYKOLAYIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110151,
+    "name": "NOVOVASYLIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110203,
+    "name": "ORIKHIV",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110211,
+    "name": "OSYPENKO",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110293,
+    "name": "POLOHY",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110309,
+    "name": "PREOBRAZHENKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110318,
+    "name": "PRYAZOVSKE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110321,
+    "name": "PRYMORSK",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110322,
+    "name": "PRYMORS’K",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110323,
+    "name": "PRYSHYB",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110382,
+    "name": "ROZIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110383,
+    "name": "ROZIVS’KYY RAYON",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110603,
+    "name": "TERNUVATE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110605,
+    "name": "TERPINNYA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110611,
+    "name": "TOKMAK",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110612,
+    "name": "TOKMAK RAION",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110641,
+    "name": "TYMOSHIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110677,
+    "name": "VASYLIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110683,
+    "name": "VELYKA BILOZERKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110692,
+    "name": "VELYKOBILOZERS’KYY RAYON",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110713,
+    "name": "VESELE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110718,
+    "name": "VILNIANSK",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110730,
+    "name": "VODYANE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110750,
+    "name": "VOZNESENKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110775,
+    "name": "YAKYMIVKA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110776,
+    "name": "YAKYMIVKA RAION",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110816,
+    "name": "ZALIZNYCHNE",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110820,
+    "name": "ZAPORIZHIA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110821,
+    "name": "ZAPORIZ’KA MIS’KRADA",
+    "state": "ZAPORIZKA",
+    "state_iso2": "23",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

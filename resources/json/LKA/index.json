@@ -1,0 +1,342 @@
+[
+  {
+    "id": 2799,
+    "name": "AMPARA",
+    "iso2": "52",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2816,
+    "name": "ANURADHAPURA",
+    "iso2": "71",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2790,
+    "name": "BADULLA",
+    "iso2": "81",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2818,
+    "name": "BATTICALOA",
+    "iso2": "51",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2798,
+    "name": "CENTRAL",
+    "iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2815,
+    "name": "COLOMBO",
+    "iso2": "11",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2808,
+    "name": "EASTERN",
+    "iso2": "5",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2792,
+    "name": "GALLE",
+    "iso2": "31",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2804,
+    "name": "GAMPAHA",
+    "iso2": "12",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2791,
+    "name": "HAMBANTOTA",
+    "iso2": "33",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2787,
+    "name": "JAFFNA",
+    "iso2": "41",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2789,
+    "name": "KALUTARA",
+    "iso2": "13",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2788,
+    "name": "KANDY",
+    "iso2": "21",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2797,
+    "name": "KEGALLE",
+    "iso2": "92",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2793,
+    "name": "KILINOCHCHI",
+    "iso2": "42",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 5342,
+    "name": "KURUNEGALA",
+    "iso2": "61",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2805,
+    "name": "MANNAR",
+    "iso2": "43",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2810,
+    "name": "MATALE",
+    "iso2": "22",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2806,
+    "name": "MATARA",
+    "iso2": "32",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2819,
+    "name": "MONARAGALA",
+    "iso2": "82",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2814,
+    "name": "MULLAITIVU",
+    "iso2": "45",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2800,
+    "name": "NORTH CENTRAL",
+    "iso2": "7",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2817,
+    "name": "NORTH WESTERN",
+    "iso2": "6",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2813,
+    "name": "NORTHERN",
+    "iso2": "4",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2794,
+    "name": "NUWARA ELIYA",
+    "iso2": "23",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2812,
+    "name": "POLONNARUWA",
+    "iso2": "72",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2796,
+    "name": "PUTTALAM",
+    "iso2": "62",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2807,
+    "name": "RATNAPURA",
+    "iso2": "91",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2803,
+    "name": "SABARAGAMUWA",
+    "iso2": "9",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2801,
+    "name": "SOUTHERN",
+    "iso2": "3",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2795,
+    "name": "TRINCOMALEE",
+    "iso2": "53",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2811,
+    "name": "UVA",
+    "iso2": "8",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2809,
+    "name": "VAVUNIYA",
+    "iso2": "44",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  },
+  {
+    "id": 2802,
+    "name": "WESTERN",
+    "iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA",
+    "timezone": "Asia/Colombo"
+  }
+]

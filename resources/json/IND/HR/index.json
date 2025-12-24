@@ -1,0 +1,802 @@
+[
+  {
+    "id": 57675,
+    "name": "AMBALA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134464,
+    "name": "ASANDH",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57756,
+    "name": "ATELI MANDI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57810,
+    "name": "BAHADURGARH",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57861,
+    "name": "BARA UCHANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57890,
+    "name": "BARWALA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58152,
+    "name": "BAWAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57937,
+    "name": "BERI KHAS",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57988,
+    "name": "BHIWANI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58054,
+    "name": "BILASPUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58164,
+    "name": "BURIYA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58200,
+    "name": "CHARKHI DADRI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131528,
+    "name": "CHHACHHRAULI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131638,
+    "name": "DABWALI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131757,
+    "name": "DHARUHERA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131831,
+    "name": "ELLENABAD",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131853,
+    "name": "FARIDABAD",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131856,
+    "name": "FARRUKHNAGAR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131872,
+    "name": "FATEHABAD",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131882,
+    "name": "FIROZPUR JHIRKA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131937,
+    "name": "GHARAUNDA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131968,
+    "name": "GOHANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131991,
+    "name": "GORAKHPUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132032,
+    "name": "GURGAON",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132141,
+    "name": "HANSI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132084,
+    "name": "HASANPUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132106,
+    "name": "HISAR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132109,
+    "name": "HODAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132163,
+    "name": "INDA CHHOI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132167,
+    "name": "INDRI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132194,
+    "name": "JAGADHRI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132305,
+    "name": "JAKHAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132266,
+    "name": "JHAJJAR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132315,
+    "name": "JIND",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132340,
+    "name": "KAITHAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132360,
+    "name": "KALANAUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132688,
+    "name": "KALANWALI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132389,
+    "name": "KANINA KHAS",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132405,
+    "name": "KARNAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132478,
+    "name": "KHARKHAUDA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132493,
+    "name": "KHERI SAMPLA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132662,
+    "name": "KURUKSHETRA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132789,
+    "name": "LADWA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132772,
+    "name": "LOHARU",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132825,
+    "name": "MAHAM",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132832,
+    "name": "MAHENDRAGARH",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132892,
+    "name": "MANDHOLI KALAN",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133047,
+    "name": "MUSTAFABAD",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133176,
+    "name": "NARAYANGARH",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133272,
+    "name": "NARNAUL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133273,
+    "name": "NARNAUND",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133175,
+    "name": "NARWANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133286,
+    "name": "NILOKHERI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133290,
+    "name": "NUH",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133337,
+    "name": "PALWAL",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133345,
+    "name": "PANCHKULA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133350,
+    "name": "PANIPAT",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133378,
+    "name": "PATAUDI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133403,
+    "name": "PEHOWA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133451,
+    "name": "PINJAUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133568,
+    "name": "PUNAHANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133567,
+    "name": "PUNDRI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133579,
+    "name": "RADAUR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133715,
+    "name": "RANIA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133617,
+    "name": "RATIA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133635,
+    "name": "REWARI",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133647,
+    "name": "ROHTAK",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133746,
+    "name": "SAFIDON",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133774,
+    "name": "SAMALKHA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133891,
+    "name": "SHADIPUR JULANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133906,
+    "name": "SHAHABAD",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133961,
+    "name": "SIRSA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133980,
+    "name": "SOHNA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133999,
+    "name": "SONIPAT",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134238,
+    "name": "TAORU",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134167,
+    "name": "THANESAR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134206,
+    "name": "TOHANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134211,
+    "name": "TOSHAM",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134265,
+    "name": "UKLANA",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134422,
+    "name": "YAMUNANAGAR",
+    "state": "HARYANA",
+    "state_iso2": "HR",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

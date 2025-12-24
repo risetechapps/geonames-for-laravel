@@ -1,0 +1,612 @@
+[
+  {
+    "id": 97669,
+    "name": "ARKHIPOVKA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97972,
+    "name": "BOGORODSKOYE",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98352,
+    "name": "DULYAPINO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98442,
+    "name": "FURMANOV",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98461,
+    "name": "GAVRILOV POSAD",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98658,
+    "name": "IL’INSKOYE-KHOVANSKOYE",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98731,
+    "name": "IVANOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98732,
+    "name": "IVANOVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98812,
+    "name": "KAMENKA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98826,
+    "name": "KAMINSKIY",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99048,
+    "name": "KINESHEMSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99049,
+    "name": "KINESHMA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99083,
+    "name": "KITOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99129,
+    "name": "KOKHMA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99138,
+    "name": "KOLOBOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99172,
+    "name": "KOMSOMOL’SK",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99175,
+    "name": "KOMSOMOL’SKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99506,
+    "name": "KUZNECHIKHA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99619,
+    "name": "LEZHNEVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99620,
+    "name": "LEZHNEVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99683,
+    "name": "LUKH",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99686,
+    "name": "LUKHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99800,
+    "name": "MARKOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100073,
+    "name": "NAVOLOKI",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100109,
+    "name": "NERL’",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100220,
+    "name": "NOVO-TALITSY",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100281,
+    "name": "NOVOPISTSOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100333,
+    "name": "NOVOYE LEUSHINO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100359,
+    "name": "NOVYYE GORKI",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100529,
+    "name": "PALEKH",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100530,
+    "name": "PALEKHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100643,
+    "name": "PESTYAKI",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100644,
+    "name": "PESTYAKOVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100663,
+    "name": "PETROVSKIY",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100685,
+    "name": "PISTSOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100705,
+    "name": "PLËS",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100846,
+    "name": "PRIVOLZHSK",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100850,
+    "name": "PRIVOLZHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100885,
+    "name": "PUCHEZH",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100886,
+    "name": "PUCHEZHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100977,
+    "name": "RODNIKI",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100980,
+    "name": "RODNIKOVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101135,
+    "name": "SAVINO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101137,
+    "name": "SAVINSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101360,
+    "name": "SHUYA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101362,
+    "name": "SHUYSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101568,
+    "name": "STARAYA VICHUGA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101753,
+    "name": "TALITSY",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101847,
+    "name": "TEYKOVO",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101848,
+    "name": "TEYKOVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102240,
+    "name": "VERKHNELANDEKHOVSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102254,
+    "name": "VERKHNIY LANDEKH",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102300,
+    "name": "VICHUGA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102301,
+    "name": "VICHUGSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102605,
+    "name": "YUR’YEVETS",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102606,
+    "name": "YUR’YEVETSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102612,
+    "name": "YUZHA",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102622,
+    "name": "YUZHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102652,
+    "name": "ZARECHNYY",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102678,
+    "name": "ZAVOLZHSK",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102679,
+    "name": "ZAVOLZHSKIY RAYON",
+    "state": "IVANOVO",
+    "state_iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

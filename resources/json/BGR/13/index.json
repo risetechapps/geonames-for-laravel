@@ -1,0 +1,242 @@
+[
+  {
+    "id": 9267,
+    "name": "BATAK",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9273,
+    "name": "BELOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9286,
+    "name": "BRATSIGOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9384,
+    "name": "LESICHOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9423,
+    "name": "OBSHTINA BATAK",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9428,
+    "name": "OBSHTINA BELOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9440,
+    "name": "OBSHTINA BRATSIGOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9520,
+    "name": "OBSHTINA LESICHOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9547,
+    "name": "OBSHTINA PANAGYURISHTE",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9551,
+    "name": "OBSHTINA PAZARDZHIK",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9554,
+    "name": "OBSHTINA PESHTERA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9568,
+    "name": "OBSHTINA RAKITOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9585,
+    "name": "OBSHTINA SEPTEMVRI",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9602,
+    "name": "OBSHTINA STRELCHA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9627,
+    "name": "OBSHTINA VELINGRAD",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9644,
+    "name": "PANAGYURISHTE",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9649,
+    "name": "PAZARDZHIK",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9652,
+    "name": "PESHTERA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9666,
+    "name": "RAKITOVO",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9684,
+    "name": "SARNITSA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9685,
+    "name": "SARNITSA OBSHTINA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9688,
+    "name": "SEPTEMVRI",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9710,
+    "name": "STRELCHA",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  },
+  {
+    "id": 9738,
+    "name": "VELINGRAD",
+    "state": "PAZARDZHIK",
+    "state_iso2": "13",
+    "country": "BULGARIA",
+    "country_iso2": "BG",
+    "country_iso3": "BGR",
+    "country_native": "БЪЛГАРИЯ"
+  }
+]

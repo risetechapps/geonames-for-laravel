@@ -1,0 +1,242 @@
+[
+  {
+    "id": 4880,
+    "name": "AUTONOMOUS CITY OF BUENOS AIRES",
+    "iso2": "C",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3656,
+    "name": "BUENOS AIRES",
+    "iso2": "B",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3647,
+    "name": "CATAMARCA",
+    "iso2": "K",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3640,
+    "name": "CHACO",
+    "iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3651,
+    "name": "CHUBUT",
+    "iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3638,
+    "name": "CORRIENTES",
+    "iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3642,
+    "name": "CÓRDOBA",
+    "iso2": "X",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3654,
+    "name": "ENTRE RÍOS",
+    "iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3652,
+    "name": "FORMOSA",
+    "iso2": "P",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3645,
+    "name": "JUJUY",
+    "iso2": "Y",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3655,
+    "name": "LA PAMPA",
+    "iso2": "L",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3653,
+    "name": "LA RIOJA",
+    "iso2": "F",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3646,
+    "name": "MENDOZA",
+    "iso2": "M",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3644,
+    "name": "MISIONES",
+    "iso2": "N",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3648,
+    "name": "NEUQUÉN",
+    "iso2": "Q",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Salta"
+  },
+  {
+    "id": 3639,
+    "name": "RÍO NEGRO",
+    "iso2": "R",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Salta"
+  },
+  {
+    "id": 3643,
+    "name": "SALTA",
+    "iso2": "A",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Salta"
+  },
+  {
+    "id": 3634,
+    "name": "SAN JUAN",
+    "iso2": "J",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3636,
+    "name": "SAN LUIS",
+    "iso2": "D",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3649,
+    "name": "SANTA CRUZ",
+    "iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3641,
+    "name": "SANTA FE",
+    "iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3635,
+    "name": "SANTIAGO DEL ESTERO",
+    "iso2": "G",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3650,
+    "name": "TIERRA DEL FUEGO",
+    "iso2": "V",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Ushuaia"
+  },
+  {
+    "id": 3637,
+    "name": "TUCUMÁN",
+    "iso2": "T",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA",
+    "timezone": "America/Argentina/Tucuman"
+  }
+]

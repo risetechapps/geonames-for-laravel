@@ -1,0 +1,362 @@
+[
+  {
+    "id": 66000,
+    "name": "BELLE VUE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66023,
+    "name": "BOIS DINDE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66036,
+    "name": "CAFFIERE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66061,
+    "name": "CEDARS/CHU TIGRE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66069,
+    "name": "CHOISEUL",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66071,
+    "name": "CHRISTIAN HILL",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66090,
+    "name": "DACRETIN",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66094,
+    "name": "DEBREUIL",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66097,
+    "name": "DELCER",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66113,
+    "name": "DERRIERE MORNE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66125,
+    "name": "DUGARD",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66127,
+    "name": "DUPRE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66136,
+    "name": "ESPERANCE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66155,
+    "name": "FRANCIOU",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66197,
+    "name": "INDUSTRY",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66213,
+    "name": "LA FARGUE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66223,
+    "name": "LA POINTE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66234,
+    "name": "LAMAZE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66236,
+    "name": "LE RICHE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66246,
+    "name": "MAILLY MOTETE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66259,
+    "name": "MARTIN",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66286,
+    "name": "MONGOUGE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66289,
+    "name": "MONZIE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66299,
+    "name": "MORNE JACQUES",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66306,
+    "name": "MORNE SION",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66309,
+    "name": "MOTETE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66314,
+    "name": "NEW FIELD/FIETTE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66340,
+    "name": "PONYON",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66345,
+    "name": "RAVENEAU",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66354,
+    "name": "REUNION",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66358,
+    "name": "RIVER DOREE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66360,
+    "name": "ROBLOT",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66374,
+    "name": "SAUZAY",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66376,
+    "name": "SAVANNESGEORGE/CONSTITUTION",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66418,
+    "name": "VICTORIA",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66424,
+    "name": "VILLAGE",
+    "state": "CHOISEUL",
+    "state_iso2": "03",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  }
+]

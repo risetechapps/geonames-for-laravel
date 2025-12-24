@@ -1,0 +1,562 @@
+[
+  {
+    "id": 21642,
+    "name": "ACOSTA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21644,
+    "name": "ALAJUELITA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21646,
+    "name": "ASERRÍ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21655,
+    "name": "CALLE BLANCOS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21663,
+    "name": "COLIMA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21664,
+    "name": "COLÓN",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21670,
+    "name": "CURRIDABAT",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21671,
+    "name": "DANIEL FLORES",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129797,
+    "name": "DELTA DEL TIGRE",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21673,
+    "name": "DESAMPARADOS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21674,
+    "name": "DOTA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129801,
+    "name": "ECILDA PAULLIER",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21676,
+    "name": "ESCAZÚ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21682,
+    "name": "GOICOECHEA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21684,
+    "name": "GRANADILLA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21686,
+    "name": "GUADALUPE",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21692,
+    "name": "IPÍS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21701,
+    "name": "LEÓN CORTÉS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129823,
+    "name": "LIBERTAD",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21707,
+    "name": "MERCEDES",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21710,
+    "name": "MONTES DE OCA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21712,
+    "name": "MORA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21713,
+    "name": "MORAVIA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21723,
+    "name": "PALMICHAL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21727,
+    "name": "PATARRÁ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129849,
+    "name": "PUNTAS DE VALDÉZ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21735,
+    "name": "PURISCAL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21736,
+    "name": "PURRAL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21737,
+    "name": "PÉREZ ZELEDÓN",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129851,
+    "name": "RAFAEL PERAZZA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 129854,
+    "name": "RODRÍGUEZ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21743,
+    "name": "SABANILLA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21744,
+    "name": "SALITRAL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21745,
+    "name": "SALITRILLOS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21749,
+    "name": "SAN FELIPE",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21751,
+    "name": "SAN IGNACIO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21752,
+    "name": "SAN ISIDRO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21756,
+    "name": "SAN JOSÉ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 129864,
+    "name": "SAN JOSÉ DE MAYO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "URUGUAY",
+    "country_iso2": "UY",
+    "country_iso3": "URY",
+    "country_native": "URUGUAY"
+  },
+  {
+    "id": 21757,
+    "name": "SAN JUAN",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21759,
+    "name": "SAN JUAN DE DIOS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21760,
+    "name": "SAN MARCOS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21762,
+    "name": "SAN MIGUEL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21764,
+    "name": "SAN PEDRO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21765,
+    "name": "SAN RAFAEL",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21768,
+    "name": "SAN RAFAEL ABAJO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21769,
+    "name": "SAN RAFAEL ARRIBA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21771,
+    "name": "SAN VICENTE",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21772,
+    "name": "SAN VICENTE DE MORAVIA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21774,
+    "name": "SANTA ANA",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21778,
+    "name": "SANTIAGO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21786,
+    "name": "TARRAZÚ",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21787,
+    "name": "TEJAR",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21788,
+    "name": "TIBÁS",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21794,
+    "name": "TURRUBARES",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  },
+  {
+    "id": 21797,
+    "name": "VÁZQUEZ DE CORONADO",
+    "state": "SAN JOSÉ",
+    "state_iso2": "SJ",
+    "country": "COSTA RICA",
+    "country_iso2": "CR",
+    "country_iso3": "CRI",
+    "country_native": "COSTA RICA"
+  }
+]

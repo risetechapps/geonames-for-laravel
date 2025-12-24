@@ -1,0 +1,622 @@
+[
+  {
+    "id": 53867,
+    "name": "BALFATE",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53874,
+    "name": "BONITO ORIENTAL",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80007,
+    "name": "BUENA VISTA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80035,
+    "name": "CATIVÁ",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80072,
+    "name": "COCLÉ DEL NORTE",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80073,
+    "name": "COLÓN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 53920,
+    "name": "COROCITO",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80078,
+    "name": "CRISTÓBAL",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 53929,
+    "name": "CUSUNA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80099,
+    "name": "DISTRITO DE CHAGRES",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80106,
+    "name": "DISTRITO DE COLÓN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80109,
+    "name": "DISTRITO DE DONOSO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80131,
+    "name": "DISTRITO DE PORTOBELO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80140,
+    "name": "DISTRITO DE SANTA ISABEL",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80174,
+    "name": "EL GIRAL",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80175,
+    "name": "EL GUABO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80206,
+    "name": "EL VALLE DE LA UNIÓN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 53999,
+    "name": "ELÍXIR",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80208,
+    "name": "ESCOBAL",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54006,
+    "name": "FRANCIA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80213,
+    "name": "GATUNCILLO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80214,
+    "name": "GATÚN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54029,
+    "name": "IRIONA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54033,
+    "name": "JERICÓ",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54046,
+    "name": "LA BREA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54055,
+    "name": "LA ESPERANZA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80297,
+    "name": "LAS MARGARITAS",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54103,
+    "name": "LIMÓN",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80350,
+    "name": "MARÍA CHIQUITA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54136,
+    "name": "MUNICIPIO DE SABÁ",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80368,
+    "name": "NOMBRE DE DIOS",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80376,
+    "name": "NUEVO CHAGRES",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80379,
+    "name": "NUEVO SAN JUAN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80380,
+    "name": "NUEVO VIGÍA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80388,
+    "name": "PALENQUE",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80389,
+    "name": "PALMAS BELLAS",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80415,
+    "name": "PLAYA CHIQUITA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80423,
+    "name": "PORTOBELO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54178,
+    "name": "PRIETA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54183,
+    "name": "PUERTO CASTILLA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80433,
+    "name": "PUERTO ESCONDIDO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80435,
+    "name": "PUERTO PILÓN",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54188,
+    "name": "PUNTA PIEDRA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80443,
+    "name": "QUEBRADA BONITA ADENTRO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54192,
+    "name": "QUEBRADA DE ARENA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80457,
+    "name": "RÍO ALEJANDRO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80459,
+    "name": "RÍO DUQUE",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54202,
+    "name": "RÍO ESTEBAN",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80464,
+    "name": "RÍO RITA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80469,
+    "name": "SABANITAS",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54205,
+    "name": "SABÁ",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54206,
+    "name": "SALAMÁ",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54302,
+    "name": "SANTA FE",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80502,
+    "name": "SANTA ISABEL",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80506,
+    "name": "SANTA RITA ARRIBA",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54312,
+    "name": "SANTA ROSA DE AGUÁN",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54321,
+    "name": "SONAGUERA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54330,
+    "name": "TAUJICA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54339,
+    "name": "TOCOA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54349,
+    "name": "TRUJILLO",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 80541,
+    "name": "VIENTO FRÍO",
+    "state": "COLÓN",
+    "state_iso2": "3",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 54378,
+    "name": "ZAMORA",
+    "state": "COLÓN",
+    "state_iso2": "CL",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  }
+]

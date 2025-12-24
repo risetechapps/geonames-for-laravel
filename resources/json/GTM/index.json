@@ -1,0 +1,222 @@
+[
+  {
+    "id": 3671,
+    "name": "ALTA VERAPAZ",
+    "iso2": "16",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3674,
+    "name": "BAJA VERAPAZ",
+    "iso2": "15",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3675,
+    "name": "CHIMALTENANGO",
+    "iso2": "04",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3666,
+    "name": "CHIQUIMULA",
+    "iso2": "20",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3662,
+    "name": "EL PROGRESO",
+    "iso2": "02",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3677,
+    "name": "ESCUINTLA",
+    "iso2": "05",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3672,
+    "name": "GUATEMALA",
+    "iso2": "01",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3670,
+    "name": "HUEHUETENANGO",
+    "iso2": "13",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3659,
+    "name": "IZABAL",
+    "iso2": "18",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3658,
+    "name": "JALAPA",
+    "iso2": "21",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3673,
+    "name": "JUTIAPA",
+    "iso2": "22",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3669,
+    "name": "PETÉN",
+    "iso2": "17",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3668,
+    "name": "QUETZALTENANGO",
+    "iso2": "09",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3657,
+    "name": "QUICHÉ",
+    "iso2": "14",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3664,
+    "name": "RETALHULEU",
+    "iso2": "11",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3676,
+    "name": "SACATEPÉQUEZ",
+    "iso2": "03",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3667,
+    "name": "SAN MARCOS",
+    "iso2": "12",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3665,
+    "name": "SANTA ROSA",
+    "iso2": "06",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3661,
+    "name": "SOLOLÁ",
+    "iso2": "07",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3660,
+    "name": "SUCHITEPÉQUEZ",
+    "iso2": "10",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 3663,
+    "name": "TOTONICAPÁN",
+    "iso2": "08",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  },
+  {
+    "id": 5239,
+    "name": "ZACAPA",
+    "iso2": "19",
+    "country": "GUATEMALA",
+    "country_iso2": "GT",
+    "country_iso3": "GTM",
+    "country_native": "GUATEMALA",
+    "timezone": "America/Guatemala"
+  }
+]

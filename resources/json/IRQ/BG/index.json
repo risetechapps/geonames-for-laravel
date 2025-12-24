@@ -1,0 +1,572 @@
+[
+  {
+    "id": 134473,
+    "name": "ABU GHRAIB",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 134474,
+    "name": "ABŪ GHURAYB",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153202,
+    "name": "ADAMIYAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153203,
+    "name": "AL ADEL",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153204,
+    "name": "AL BALADIYAT",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153205,
+    "name": "AL JAMAA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153206,
+    "name": "AL SAADOON PARK",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153207,
+    "name": "AL SALHIAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153208,
+    "name": "AL ZA'FRANIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153209,
+    "name": "AL-UBAIDI",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153210,
+    "name": "AL-WAHDA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153211,
+    "name": "AMERIA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153212,
+    "name": "AMIL",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153213,
+    "name": "AMIN",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153214,
+    "name": "ARASAT ALHINDIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153215,
+    "name": "AT TAIFIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153216,
+    "name": "BAB AL MOATHAM",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153217,
+    "name": "BAB AL SHARQI",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 134504,
+    "name": "BAGHDAD",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153218,
+    "name": "BAGHDAD AL JADEEDA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153219,
+    "name": "BAIJAI",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153220,
+    "name": "BATAWEEN",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153221,
+    "name": "BAYAA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153222,
+    "name": "BINOUK",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153223,
+    "name": "BO'AITHA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153224,
+    "name": "CAMP SARAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153225,
+    "name": "DAOUDI",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153226,
+    "name": "DORA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153227,
+    "name": "GHADEER",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153228,
+    "name": "GHAZALIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153229,
+    "name": "GHERAI'AT",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153230,
+    "name": "GREEN ZONE",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153231,
+    "name": "HABIBIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153232,
+    "name": "HARTHIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153233,
+    "name": "HURRIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153234,
+    "name": "ISKAN",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153235,
+    "name": "JADRIYAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153236,
+    "name": "JAMILA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153237,
+    "name": "JIHAD",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153238,
+    "name": "KADHIMIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153239,
+    "name": "KAMALIYAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153240,
+    "name": "KARADA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153241,
+    "name": "KHADRA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153242,
+    "name": "MANSOUR",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153243,
+    "name": "MASHTAL",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153244,
+    "name": "MUSTANSIRIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153245,
+    "name": "QADISIYAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153246,
+    "name": "SADR CITY",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153247,
+    "name": "SAIDIYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153248,
+    "name": "SHA'AB",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153249,
+    "name": "SHEIK MAARUF",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153250,
+    "name": "SHORJAH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153251,
+    "name": "SULEIKH",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153252,
+    "name": "UR",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153253,
+    "name": "WAZIREYA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153254,
+    "name": "YARMOUK",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  },
+  {
+    "id": 153255,
+    "name": "ZIYOUNA",
+    "state": "BAGHDAD",
+    "state_iso2": "BG",
+    "country": "IRAQ",
+    "country_iso2": "IQ",
+    "country_iso3": "IRQ",
+    "country_native": "العراق"
+  }
+]

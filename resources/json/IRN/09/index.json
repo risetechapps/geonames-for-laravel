@@ -1,0 +1,822 @@
+[
+  {
+    "id": 150445,
+    "name": "AHMAD-ABAD-E-SOLAT",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150439,
+    "name": "ANABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134801,
+    "name": "BAJESTAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150477,
+    "name": "BAJGIRAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134821,
+    "name": "BAKHARZ",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150487,
+    "name": "BAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134581,
+    "name": "BARDASKAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150449,
+    "name": "BAYG",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150480,
+    "name": "BEYDOKHT",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134827,
+    "name": "BINALUD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150488,
+    "name": "CHAKANEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150463,
+    "name": "CHAPESHLU",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134608,
+    "name": "CHENARAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134613,
+    "name": "DARGAZ",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150490,
+    "name": "DARROD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134628,
+    "name": "DAVARZAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150468,
+    "name": "DOWLAT ABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150491,
+    "name": "ESHQABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150473,
+    "name": "FARHADGERD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134869,
+    "name": "FARIMAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150486,
+    "name": "FEYZ ABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150475,
+    "name": "FIROUZEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134874,
+    "name": "FIRUZEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150492,
+    "name": "GHADAMGAH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150453,
+    "name": "GOLBAHAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150454,
+    "name": "GOLMAKAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134647,
+    "name": "GONABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150476,
+    "name": "HEMMATABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150466,
+    "name": "JANGAL",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134897,
+    "name": "JOGHATAY",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134659,
+    "name": "JOVEYN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150451,
+    "name": "KADKAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150481,
+    "name": "KAKHK",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134905,
+    "name": "KALAT",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150443,
+    "name": "KARIZ",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134683,
+    "name": "KASHMAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150457,
+    "name": "KHAF",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150455,
+    "name": "KHALIL ABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150489,
+    "name": "KHARV",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134921,
+    "name": "KHOWSHAB",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134922,
+    "name": "KHVAF",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150456,
+    "name": "KONDOR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150464,
+    "name": "LOTFABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134948,
+    "name": "MAH VELAT",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134698,
+    "name": "MASHHAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150444,
+    "name": "MASHHAD RIZEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150471,
+    "name": "MAZDAVAND",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150484,
+    "name": "MOLKABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150461,
+    "name": "NASHTIFAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150447,
+    "name": "NASRABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150452,
+    "name": "NEGHAB",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134714,
+    "name": "NEYSHABUR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150448,
+    "name": "NIL SHAHR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150465,
+    "name": "NOKHANDAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150474,
+    "name": "QALANDARABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150460,
+    "name": "QASEMABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134747,
+    "name": "QUCHAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150467,
+    "name": "RASHTKHAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150482,
+    "name": "RAZAVIYE",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150478,
+    "name": "RIVASH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150450,
+    "name": "ROBAT-E-SANG",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 135011,
+    "name": "ROSHTKHVAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150469,
+    "name": "RUDAB",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134762,
+    "name": "SABZEVAR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150458,
+    "name": "SALAMI",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150446,
+    "name": "SALEH ABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150483,
+    "name": "SAMEN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150459,
+    "name": "SANGAN",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 134767,
+    "name": "SARAKHS",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150472,
+    "name": "SEFID SANG",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150485,
+    "name": "SHADMEHR",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150440,
+    "name": "SHAHRABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150479,
+    "name": "SHAHREZU",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150441,
+    "name": "SHANDIZ",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150470,
+    "name": "SHESHTAMAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150462,
+    "name": "SOLTANABAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 135066,
+    "name": "TAYBAD",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 135063,
+    "name": "TORBAT HEYDARIYEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 135131,
+    "name": "TORBAT-E-JAM",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150442,
+    "name": "TORGHABEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 150438,
+    "name": "YUNESI",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  },
+  {
+    "id": 135076,
+    "name": "ZAVEH",
+    "state": "RAZAVI KHORASAN",
+    "state_iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران"
+  }
+]

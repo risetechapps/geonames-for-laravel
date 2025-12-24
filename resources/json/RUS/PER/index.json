@@ -1,0 +1,832 @@
+[
+  {
+    "id": 97568,
+    "name": "ALEKSANDROVSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97793,
+    "name": "BARDA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97895,
+    "name": "BEREZNIKI",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97900,
+    "name": "BERSHET’",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98122,
+    "name": "CHASTYYE",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98123,
+    "name": "CHAYKOVSKAYA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98124,
+    "name": "CHAYKOVSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98145,
+    "name": "CHERDYN’",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98164,
+    "name": "CHERMOZ",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98176,
+    "name": "CHERNUSHKA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98227,
+    "name": "CHUSOVOY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98296,
+    "name": "DOBRYANKA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98420,
+    "name": "FERMA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98427,
+    "name": "FILIPPOVKA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98432,
+    "name": "FOKI",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98437,
+    "name": "FROLY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98455,
+    "name": "GAMOVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98467,
+    "name": "GAYNY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98534,
+    "name": "GORNOZAVODSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98586,
+    "name": "GREMYACHINSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98601,
+    "name": "GUBAKHA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98792,
+    "name": "KALINO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98861,
+    "name": "KARAGAY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98941,
+    "name": "KERCHEVSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99087,
+    "name": "KIZEL",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99120,
+    "name": "KOCHEVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99160,
+    "name": "KOMARIKHINSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99182,
+    "name": "KONDRATOVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99224,
+    "name": "KOSA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99322,
+    "name": "KRASNOKAMSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99340,
+    "name": "KRASNOVISHERSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99423,
+    "name": "KUDYMKAR",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99428,
+    "name": "KUKUSHTAN",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99436,
+    "name": "KULTAYEVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99446,
+    "name": "KUNGUR",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99497,
+    "name": "KUYEDA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99645,
+    "name": "LOBANOVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99703,
+    "name": "LYAMINO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99710,
+    "name": "LYS’VA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99823,
+    "name": "MAYKOR",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99860,
+    "name": "MENDELEYEVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100362,
+    "name": "NOVYYE LYADY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100379,
+    "name": "NYROB",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100380,
+    "name": "NYTVA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100396,
+    "name": "OCHËR",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100402,
+    "name": "OKHANSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100457,
+    "name": "ORDA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100484,
+    "name": "OSA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100511,
+    "name": "OVERYATA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100561,
+    "name": "PASHIYA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100576,
+    "name": "PAVLOVSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100611,
+    "name": "PERM",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100751,
+    "name": "POLAZNA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100799,
+    "name": "POZHVA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101111,
+    "name": "SARANY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101124,
+    "name": "SARS",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101210,
+    "name": "SEVERNYY-KOSPASHSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101239,
+    "name": "SHAKHTA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101331,
+    "name": "SHIROKOVSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101350,
+    "name": "SHUMIKHINSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101382,
+    "name": "SIVA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101433,
+    "name": "SOKOL",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101451,
+    "name": "SOLIKAMSK",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101658,
+    "name": "SUKSUN",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101725,
+    "name": "SYLVA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102009,
+    "name": "TËPLAYA GORA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102032,
+    "name": "UGLEURAL’SKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102041,
+    "name": "UINSKOYE",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102101,
+    "name": "USOL’YE",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102123,
+    "name": "UST’-KACHKA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102130,
+    "name": "UST’-KISHERT’",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102228,
+    "name": "VERESHCHAGINO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102237,
+    "name": "VERKHNECHUSOVSKIYE GORODKI",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102518,
+    "name": "YAYVA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102547,
+    "name": "YELOVO",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102584,
+    "name": "YUBILEYNYY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102585,
+    "name": "YUG",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102587,
+    "name": "YUGO-KAMSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102599,
+    "name": "YURLA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102609,
+    "name": "YUS’VINSKIY RAYON",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102621,
+    "name": "YUZHNYY-KOSPASHSKIY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102783,
+    "name": "ZVËZDNYY",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102789,
+    "name": "ZYUKAYKA",
+    "state": "PERM",
+    "state_iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 240,
+    "name": "BUMTHANG",
+    "iso2": "33",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 239,
+    "name": "CHUKHA",
+    "iso2": "12",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 238,
+    "name": "DAGANA",
+    "iso2": "22",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 229,
+    "name": "GASA",
+    "iso2": "GA",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 232,
+    "name": "HAA",
+    "iso2": "13",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 234,
+    "name": "LHUNTSE",
+    "iso2": "44",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 242,
+    "name": "MONGAR",
+    "iso2": "42",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 237,
+    "name": "PARO",
+    "iso2": "11",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 244,
+    "name": "PEMAGATSHEL",
+    "iso2": "43",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 235,
+    "name": "PUNAKHA",
+    "iso2": "23",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 243,
+    "name": "SAMDRUP JONGKHAR",
+    "iso2": "45",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 246,
+    "name": "SAMTSE",
+    "iso2": "14",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 247,
+    "name": "SARPANG",
+    "iso2": "31",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 241,
+    "name": "THIMPHU",
+    "iso2": "15",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 5242,
+    "name": "TRASHI YANGTSE",
+    "iso2": "TY",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 236,
+    "name": "TRASHIGANG",
+    "iso2": "41",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 245,
+    "name": "TRONGSA",
+    "iso2": "32",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 230,
+    "name": "TSIRANG",
+    "iso2": "21",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 231,
+    "name": "WANGDUE PHODRANG",
+    "iso2": "24",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  },
+  {
+    "id": 233,
+    "name": "ZHEMGANG",
+    "iso2": "34",
+    "country": "BHUTAN",
+    "country_iso2": "BT",
+    "country_iso3": "BTN",
+    "country_native": "ʼBRUG-YUL",
+    "timezone": "Asia/Thimphu"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 97485,
+    "name": "ABDULINO",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97501,
+    "name": "ADAMOVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97557,
+    "name": "ALANDSKOYE",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97695,
+    "name": "ASEKEYEVO",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97877,
+    "name": "BELYAYEVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98069,
+    "name": "BUGURUSLAN",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98096,
+    "name": "BUZULUK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98305,
+    "name": "DOMBAROVSKIY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98396,
+    "name": "ENERGETIK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98465,
+    "name": "GAY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98645,
+    "name": "ILEK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98872,
+    "name": "KARDAILOVO",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99149,
+    "name": "KOLTUBANOVSKIY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99312,
+    "name": "KRASNOGVARDEYETS",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99323,
+    "name": "KRASNOKHOLM",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99345,
+    "name": "KRASNOYARSKIY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99365,
+    "name": "KRASNYY KOMMUNAR",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99467,
+    "name": "KURMANAYEVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99490,
+    "name": "KUVANDYK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99513,
+    "name": "KVARKENO",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99514,
+    "name": "KVARKENSKIY RAYON",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99816,
+    "name": "MATVEYEVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99840,
+    "name": "MEDNOGORSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100127,
+    "name": "NEZHINKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100157,
+    "name": "NIZHNEPAVLOVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100274,
+    "name": "NOVOORSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100275,
+    "name": "NOVOORSKIY RAYON",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100290,
+    "name": "NOVORUDNYY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100296,
+    "name": "NOVOSERGIYEVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100316,
+    "name": "NOVOTROITSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100465,
+    "name": "ORENBURG",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100480,
+    "name": "ORSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100608,
+    "name": "PEREVOLOTSKIY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100702,
+    "name": "PLESHANOVO",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100718,
+    "name": "PODGORODNYAYA POKROVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100821,
+    "name": "PRIGORODNYY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101076,
+    "name": "SAKMARA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101106,
+    "name": "SARAKTASH",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101107,
+    "name": "SARAKTASHSKIY RAYON",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101204,
+    "name": "SEVERNOYE",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101262,
+    "name": "SHARLYK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101317,
+    "name": "SHIL’DA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101472,
+    "name": "SOL’-ILETSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101477,
+    "name": "SOROCHINSK",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101557,
+    "name": "STARAYA AKKERMANOVKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101708,
+    "name": "SVETLYY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101787,
+    "name": "TASHLA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101793,
+    "name": "TATARSKAYA KARGALA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101906,
+    "name": "TOTSKOYE",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102004,
+    "name": "TYUL’GAN",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102515,
+    "name": "YASNYY",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102540,
+    "name": "YELIZAVETINKA",
+    "state": "ORENBURG",
+    "state_iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

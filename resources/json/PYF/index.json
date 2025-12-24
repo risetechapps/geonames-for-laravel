@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5369,
+    "name": "AUSTRAL ISLANDS",
+    "iso2": "01",
+    "country": "FRENCH POLYNESIA",
+    "country_iso2": "PF",
+    "country_iso3": "PYF",
+    "country_native": "POLYNÉSIE FRANÇAISE",
+    "timezone": "Pacific/Gambier"
+  },
+  {
+    "id": 5370,
+    "name": "LEEWARD ISLANDS",
+    "iso2": "02",
+    "country": "FRENCH POLYNESIA",
+    "country_iso2": "PF",
+    "country_iso3": "PYF",
+    "country_native": "POLYNÉSIE FRANÇAISE",
+    "timezone": "Pacific/Gambier"
+  },
+  {
+    "id": 5371,
+    "name": "MARQUESAS ISLANDS",
+    "iso2": "03",
+    "country": "FRENCH POLYNESIA",
+    "country_iso2": "PF",
+    "country_iso3": "PYF",
+    "country_native": "POLYNÉSIE FRANÇAISE",
+    "timezone": "Pacific/Marquesas"
+  },
+  {
+    "id": 5372,
+    "name": "TUAMOTU-GAMBIER",
+    "iso2": "04",
+    "country": "FRENCH POLYNESIA",
+    "country_iso2": "PF",
+    "country_iso3": "PYF",
+    "country_native": "POLYNÉSIE FRANÇAISE",
+    "timezone": "Pacific/Gambier"
+  },
+  {
+    "id": 5373,
+    "name": "WINDWARD ISLANDS",
+    "iso2": "05",
+    "country": "FRENCH POLYNESIA",
+    "country_iso2": "PF",
+    "country_iso3": "PYF",
+    "country_native": "POLYNÉSIE FRANÇAISE",
+    "timezone": "Pacific/Gambier"
+  }
+]

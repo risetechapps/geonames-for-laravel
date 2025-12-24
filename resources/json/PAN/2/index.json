@@ -1,0 +1,472 @@
+[
+  {
+    "id": 79956,
+    "name": "AGUADULCE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79957,
+    "name": "AGUAS BLANCAS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79965,
+    "name": "ALTO DE LA ESTANCIA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79969,
+    "name": "ANTÓN",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79984,
+    "name": "BARRANCO COLORADO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80013,
+    "name": "CABALLERO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80015,
+    "name": "CABUYA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80032,
+    "name": "CAPELLANÍA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80039,
+    "name": "CAÑAVERAL",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80058,
+    "name": "CHIGORÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80059,
+    "name": "CHIGUIRÍ ARRIBA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80067,
+    "name": "CHURUQUITA CHIQUITA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80068,
+    "name": "CHURUQUITA GRANDE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80071,
+    "name": "COCLÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80086,
+    "name": "DISTRITO DE AGUADULCE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80088,
+    "name": "DISTRITO DE ANTÓN",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80114,
+    "name": "DISTRITO DE LA PINTADA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80122,
+    "name": "DISTRITO DE NATÁ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80124,
+    "name": "DISTRITO DE OLÁ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80085,
+    "name": "DISTRITO PENONOMÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80157,
+    "name": "EL CAÑO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80159,
+    "name": "EL CHIRÚ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80165,
+    "name": "EL COPÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80166,
+    "name": "EL CORTEZO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80168,
+    "name": "EL CRISTO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80198,
+    "name": "EL RETIRO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80201,
+    "name": "EL ROBLE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80207,
+    "name": "ENTRADERO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80209,
+    "name": "FARALLÓN",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80228,
+    "name": "GUZMAN",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80275,
+    "name": "LA PINTADA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80293,
+    "name": "LAS HUACAS DEL QUIJE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80299,
+    "name": "LAS MARIAS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80300,
+    "name": "LAS MINAS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80305,
+    "name": "LAS SABANAS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80315,
+    "name": "LLANO GRANDE",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80320,
+    "name": "LLANO MARÍN",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80340,
+    "name": "LOS POLLOS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80366,
+    "name": "NATÁ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80370,
+    "name": "NUESTRO AMO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80383,
+    "name": "OLÁ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80406,
+    "name": "PENONOMÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80419,
+    "name": "POCRÍ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80462,
+    "name": "RÍO HATO",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80486,
+    "name": "SAN JUAN DE DIOS",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80522,
+    "name": "TOABRÉ",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80528,
+    "name": "TOZA",
+    "state": "COCLÉ",
+    "state_iso2": "2",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  }
+]

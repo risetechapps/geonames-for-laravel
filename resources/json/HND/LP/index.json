@@ -1,0 +1,702 @@
+[
+  {
+    "id": 9826,
+    "name": "ACHACACHI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 53842,
+    "name": "AGUANQUETERIQUE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9828,
+    "name": "AMARETE",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9833,
+    "name": "BATALLAS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 53879,
+    "name": "CABAÑAS",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53885,
+    "name": "CANE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9842,
+    "name": "CARANAVI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 53897,
+    "name": "CHINACLA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9846,
+    "name": "CHULUMANI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9854,
+    "name": "COLQUIRI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9857,
+    "name": "CORIPATA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9858,
+    "name": "COROICO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9860,
+    "name": "CURAHUARA DE CARANGAS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 104870,
+    "name": "EL ROSARIO",
+    "state": "LA PAZ",
+    "state_iso2": "PA",
+    "country": "EL SALVADOR",
+    "country_iso2": "SV",
+    "country_iso3": "SLV",
+    "country_native": "EL SALVADOR"
+  },
+  {
+    "id": 9863,
+    "name": "EUCALIPTUS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54014,
+    "name": "GUAJIQUIRO",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9865,
+    "name": "GUANAY",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9869,
+    "name": "HUARINA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9870,
+    "name": "HUATAJATA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9874,
+    "name": "JOSÉ MANUEL PANDO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9876,
+    "name": "LA PAZ",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54073,
+    "name": "LA PAZ",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9877,
+    "name": "LAHUACHACA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54099,
+    "name": "LAUTERIQUE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54110,
+    "name": "LOS PLANES",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9884,
+    "name": "MAPIRI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54120,
+    "name": "MARCALA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54126,
+    "name": "MERCEDES DE ORIENTE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 104895,
+    "name": "OLOCUILTA",
+    "state": "LA PAZ",
+    "state_iso2": "PA",
+    "country": "EL SALVADOR",
+    "country_iso2": "SV",
+    "country_iso3": "SLV",
+    "country_native": "EL SALVADOR"
+  },
+  {
+    "id": 54160,
+    "name": "OPATORO",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 9894,
+    "name": "PATACAMAYA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9904,
+    "name": "PROVINCIA AROMA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9910,
+    "name": "PROVINCIA BAUTISTA SAAVEDRA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9912,
+    "name": "PROVINCIA CAMACHO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9929,
+    "name": "PROVINCIA FRANZ TAMAYO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9935,
+    "name": "PROVINCIA GUALBERTO VILLARROEL",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9938,
+    "name": "PROVINCIA INGAVI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9939,
+    "name": "PROVINCIA INQUISIVI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9940,
+    "name": "PROVINCIA ITURRALDE",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9943,
+    "name": "PROVINCIA LARECAJA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9945,
+    "name": "PROVINCIA LOAYZA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9946,
+    "name": "PROVINCIA LOS ANDES",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9950,
+    "name": "PROVINCIA MANCO KAPAC",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9957,
+    "name": "PROVINCIA MURILLO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9958,
+    "name": "PROVINCIA MUÑECAS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9964,
+    "name": "PROVINCIA NOR YUNGAS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9965,
+    "name": "PROVINCIA OMASUYOS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9968,
+    "name": "PROVINCIA PACAJES",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9985,
+    "name": "PROVINCIA SUD YUNGAS",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10004,
+    "name": "QUIME",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54220,
+    "name": "SAN ANTONIO DEL NORTE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54246,
+    "name": "SAN JOSÉ",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54257,
+    "name": "SAN JUAN",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 10017,
+    "name": "SAN PABLO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10019,
+    "name": "SAN PEDRO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54284,
+    "name": "SAN PEDRO DE TUTULE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 104912,
+    "name": "SAN PEDRO MASAHUAT",
+    "state": "LA PAZ",
+    "state_iso2": "PA",
+    "country": "EL SALVADOR",
+    "country_iso2": "SV",
+    "country_iso3": "SLV",
+    "country_native": "EL SALVADOR"
+  },
+  {
+    "id": 54292,
+    "name": "SANTA ANA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54300,
+    "name": "SANTA ELENA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54306,
+    "name": "SANTA MARÍA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 104921,
+    "name": "SANTIAGO NONUALCO",
+    "state": "LA PAZ",
+    "state_iso2": "PA",
+    "country": "EL SALVADOR",
+    "country_iso2": "SV",
+    "country_iso3": "SLV",
+    "country_native": "EL SALVADOR"
+  },
+  {
+    "id": 54314,
+    "name": "SANTIAGO PURINGLA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 10030,
+    "name": "SORATA",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54335,
+    "name": "TEPANGUARE",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 10036,
+    "name": "TIAHUANACO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10049,
+    "name": "VILOCO",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 54370,
+    "name": "YARULA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54371,
+    "name": "YARUMELA",
+    "state": "LA PAZ",
+    "state_iso2": "LP",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 10052,
+    "name": "YUMANI",
+    "state": "LA PAZ",
+    "state_iso2": "L",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 104938,
+    "name": "ZACATECOLUCA",
+    "state": "LA PAZ",
+    "state_iso2": "PA",
+    "country": "EL SALVADOR",
+    "country_iso2": "SV",
+    "country_iso3": "SLV",
+    "country_native": "EL SALVADOR"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "id": 1852,
+    "name": "ADYGEA",
+    "iso2": "AD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1876,
+    "name": "ALTAI",
+    "iso2": "AL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1911,
+    "name": "ALTAI",
+    "iso2": "ALT",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1858,
+    "name": "AMUR",
+    "iso2": "AMU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1849,
+    "name": "ARKHANGELSK",
+    "iso2": "ARK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1866,
+    "name": "ASTRAKHAN",
+    "iso2": "AST",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1854,
+    "name": "BASHKORTOSTAN",
+    "iso2": "BA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1903,
+    "name": "BELGOROD",
+    "iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1867,
+    "name": "BRYANSK",
+    "iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1842,
+    "name": "BURYATIA",
+    "iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1893,
+    "name": "CHECHEN",
+    "iso2": "CE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1845,
+    "name": "CHELYABINSK",
+    "iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1859,
+    "name": "CHUKOTKA",
+    "iso2": "CHU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Anadyr"
+  },
+  {
+    "id": 1914,
+    "name": "CHUVASH",
+    "iso2": "CU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1850,
+    "name": "DAGESTAN",
+    "iso2": "DA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1884,
+    "name": "INGUSHETIA",
+    "iso2": "IN",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1880,
+    "name": "IRKUTSK",
+    "iso2": "IRK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Irkutsk"
+  },
+  {
+    "id": 1864,
+    "name": "IVANOVO",
+    "iso2": "IVA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1835,
+    "name": "JEWISH",
+    "iso2": "YEV",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1892,
+    "name": "KABARDINO-BALKAR",
+    "iso2": "KB",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1902,
+    "name": "KALININGRAD",
+    "iso2": "KGD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Kaliningrad"
+  },
+  {
+    "id": 1883,
+    "name": "KALMYKIA",
+    "iso2": "KL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1844,
+    "name": "KALUGA",
+    "iso2": "KLU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1865,
+    "name": "KAMCHATKA",
+    "iso2": "KAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Kamchatka"
+  },
+  {
+    "id": 1869,
+    "name": "KARACHAY-CHERKESS",
+    "iso2": "KC",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1841,
+    "name": "KARELIA",
+    "iso2": "KR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1897,
+    "name": "KEMEROVO",
+    "iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1873,
+    "name": "KHABAROVSK",
+    "iso2": "KHA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1877,
+    "name": "KHAKASSIA",
+    "iso2": "KK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1838,
+    "name": "KHANTY-MANSI",
+    "iso2": "KHM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1890,
+    "name": "KIROV",
+    "iso2": "KIR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1899,
+    "name": "KOMI",
+    "iso2": "KO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1910,
+    "name": "KOSTROMA",
+    "iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1891,
+    "name": "KRASNODAR",
+    "iso2": "KDA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1840,
+    "name": "KRASNOYARSK",
+    "iso2": "KYA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": 1915,
+    "name": "KURGAN",
+    "iso2": "KGN",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1855,
+    "name": "KURSK",
+    "iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1896,
+    "name": "LENINGRAD",
+    "iso2": "LEN",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1889,
+    "name": "LIPETSK",
+    "iso2": "LIP",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1839,
+    "name": "MAGADAN",
+    "iso2": "MAG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Magadan"
+  },
+  {
+    "id": 1870,
+    "name": "MARI EL",
+    "iso2": "ME",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1898,
+    "name": "MORDOVIA",
+    "iso2": "MO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1882,
+    "name": "MOSCOW",
+    "iso2": "MOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1901,
+    "name": "MOSCOW",
+    "iso2": "MOW",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1843,
+    "name": "MURMANSK",
+    "iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1836,
+    "name": "NENETS",
+    "iso2": "NEN",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1857,
+    "name": "NIZHNY NOVGOROD",
+    "iso2": "NIZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1853,
+    "name": "NORTH OSSETIA-ALANIA",
+    "iso2": "SE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1834,
+    "name": "NOVGOROD",
+    "iso2": "NGR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1888,
+    "name": "NOVOSIBIRSK",
+    "iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1846,
+    "name": "OMSK",
+    "iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Omsk"
+  },
+  {
+    "id": 1886,
+    "name": "ORENBURG",
+    "iso2": "ORE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1908,
+    "name": "ORYOL",
+    "iso2": "ORL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1909,
+    "name": "PENZA",
+    "iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1871,
+    "name": "PERM",
+    "iso2": "PER",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1833,
+    "name": "PRIMORSKY",
+    "iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1863,
+    "name": "PSKOV",
+    "iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1837,
+    "name": "ROSTOV",
+    "iso2": "ROS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1905,
+    "name": "RYAZAN",
+    "iso2": "RYA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1879,
+    "name": "SAINT PETERSBURG",
+    "iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1848,
+    "name": "SAKHA",
+    "iso2": "SA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1875,
+    "name": "SAKHALIN",
+    "iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Asia/Sakhalin"
+  },
+  {
+    "id": 1862,
+    "name": "SAMARA",
+    "iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Samara"
+  },
+  {
+    "id": 1887,
+    "name": "SARATOV",
+    "iso2": "SAR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1885,
+    "name": "SMOLENSK",
+    "iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1868,
+    "name": "STAVROPOL",
+    "iso2": "STA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1894,
+    "name": "SVERDLOVSK",
+    "iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1878,
+    "name": "TAMBOV",
+    "iso2": "TAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1861,
+    "name": "TATARSTAN",
+    "iso2": "TA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1872,
+    "name": "TOMSK",
+    "iso2": "TOM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1895,
+    "name": "TULA",
+    "iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1900,
+    "name": "TUVA",
+    "iso2": "TY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1860,
+    "name": "TVER",
+    "iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1907,
+    "name": "TYUMEN",
+    "iso2": "TYU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1913,
+    "name": "UDMURT",
+    "iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1856,
+    "name": "ULYANOVSK",
+    "iso2": "ULY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1881,
+    "name": "VLADIMIR",
+    "iso2": "VLA",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 4916,
+    "name": "VOLGOGRAD OBLAST",
+    "iso2": "VGG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1874,
+    "name": "VOLOGDA",
+    "iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1906,
+    "name": "VORONEZH",
+    "iso2": "VOR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1847,
+    "name": "YAMALO-NENETS",
+    "iso2": "YAN",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1851,
+    "name": "YAROSLAVL",
+    "iso2": "YAR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": 1904,
+    "name": "ZABAYKALSKY",
+    "iso2": "ZAB",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ",
+    "timezone": "Europe/Moscow"
+  }
+]

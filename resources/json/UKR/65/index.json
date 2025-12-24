@@ -1,0 +1,442 @@
+[
+  {
+    "id": 109331,
+    "name": "ASKANIYA-NOVA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109361,
+    "name": "BEKHTERY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109388,
+    "name": "BERYSLAV",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109404,
+    "name": "BILOZERKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109454,
+    "name": "BRYLIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109472,
+    "name": "CHAPLYNKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109511,
+    "name": "CHORNOBAYIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109516,
+    "name": "CHORNYANKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109523,
+    "name": "CHULAKIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109554,
+    "name": "DNIPRYANY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109587,
+    "name": "DUDCHANY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109628,
+    "name": "HENICHES’K",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109629,
+    "name": "HENICHES’KYY RAYON",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109636,
+    "name": "HOLA PRYSTAN’",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109642,
+    "name": "HORNOSTAYIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109679,
+    "name": "IVANIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109697,
+    "name": "KAKHOVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109698,
+    "name": "KALANCHAK",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109722,
+    "name": "KAYIRY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109729,
+    "name": "KHERSON",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109786,
+    "name": "KOMYSHANY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109823,
+    "name": "KOZACHI LAHERI",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109833,
+    "name": "KRASNE",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109907,
+    "name": "LAZURNE",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109967,
+    "name": "LYUBYMIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109983,
+    "name": "MALOKAKHOVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110104,
+    "name": "NOVA KAKHOVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110105,
+    "name": "NOVA MAYACHKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110125,
+    "name": "NOVOFEDORIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110137,
+    "name": "NOVOOLEKSIYIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110153,
+    "name": "NOVOVORONTSOVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110165,
+    "name": "NYZHNI SIROHOZY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110227,
+    "name": "PARTYZANY",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110336,
+    "name": "RADENS’K",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110466,
+    "name": "SKADOVS’K",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110525,
+    "name": "STANISLAV",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110634,
+    "name": "TSYURUPYNS’K",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110685,
+    "name": "VELYKA LEPETYKHA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110687,
+    "name": "VELYKA OLEKSANDRIVKA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110690,
+    "name": "VELYKI KOPANI",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110706,
+    "name": "VERKHNIY ROHACHYK",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110760,
+    "name": "VYNOHRADOVE",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110767,
+    "name": "VYSOKOPILLYA",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110817,
+    "name": "ZALIZNYY PORT",
+    "state": "KHERSONSKA",
+    "state_iso2": "65",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

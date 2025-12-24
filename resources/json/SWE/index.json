@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1537,
+    "name": "BLEKINGE",
+    "iso2": "K",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1534,
+    "name": "DALARNA",
+    "iso2": "W",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1546,
+    "name": "GOTLAND",
+    "iso2": "I",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1533,
+    "name": "GÄVLEBORG",
+    "iso2": "X",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1548,
+    "name": "HALLAND",
+    "iso2": "N",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 5117,
+    "name": "JÄMTLAND",
+    "iso2": "Z",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1550,
+    "name": "JÖNKÖPING",
+    "iso2": "F",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1544,
+    "name": "KALMAR",
+    "iso2": "H",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1542,
+    "name": "KRONOBERG",
+    "iso2": "G",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1538,
+    "name": "NORRBOTTEN",
+    "iso2": "BD",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1541,
+    "name": "SKÅNE",
+    "iso2": "M",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1551,
+    "name": "STOCKHOLM",
+    "iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1540,
+    "name": "SÖDERMANLAND",
+    "iso2": "D",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1545,
+    "name": "UPPSALA",
+    "iso2": "C",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1535,
+    "name": "VÄRMLAND",
+    "iso2": "S",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1543,
+    "name": "VÄSTERBOTTEN",
+    "iso2": "AC",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1552,
+    "name": "VÄSTERNORRLAND",
+    "iso2": "Y",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1549,
+    "name": "VÄSTMANLAND",
+    "iso2": "U",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1547,
+    "name": "VÄSTRA GÖTALAND",
+    "iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1539,
+    "name": "ÖREBRO",
+    "iso2": "T",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "id": 1536,
+    "name": "ÖSTERGÖTLAND",
+    "iso2": "E",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE",
+    "timezone": "Europe/Stockholm"
+  }
+]

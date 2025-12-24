@@ -1,0 +1,722 @@
+[
+  {
+    "id": 54396,
+    "name": "BESTOVJE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54401,
+    "name": "BISTRA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54411,
+    "name": "BRCKOVLJANI",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54412,
+    "name": "BRDOVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54413,
+    "name": "BREGANA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54419,
+    "name": "BREZOVICA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54438,
+    "name": "CENTAR",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54456,
+    "name": "DONJA BISTRA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54457,
+    "name": "DONJA LOMNICA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54458,
+    "name": "DONJA ZDENČINA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54462,
+    "name": "DONJI STUPNIK",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54470,
+    "name": "DUBRAVA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54478,
+    "name": "FARKAŠEVAC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54495,
+    "name": "GORNJA BISTRA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54514,
+    "name": "GRAD DUGO SELO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54522,
+    "name": "GRAD JASTREBARSKO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54547,
+    "name": "GRAD SAMOBOR",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54554,
+    "name": "GRAD SVETI IVAN ZELINA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54558,
+    "name": "GRAD VELIKA GORICA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54562,
+    "name": "GRAD VRBOVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54567,
+    "name": "GRAD ZAPREŠIĆ",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54575,
+    "name": "GRADEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54577,
+    "name": "GRADIĆI",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54579,
+    "name": "GRADSKA ČETVRT DONJI GRAD",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54580,
+    "name": "GRADSKA ČETVRT GORNJI GRAD - MEDVESCAK",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54581,
+    "name": "GRADSKA ČETVRT PODSLJEME",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54583,
+    "name": "GRAČEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54596,
+    "name": "HORVATI",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54608,
+    "name": "JABLANOVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54611,
+    "name": "JAKOVLJE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54615,
+    "name": "JANKOMIR",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54618,
+    "name": "JASTREBARSKO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54623,
+    "name": "JEŽDOVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54636,
+    "name": "KAŠINA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54645,
+    "name": "KERESTINEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54669,
+    "name": "KRIŽ",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54679,
+    "name": "KUČE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54695,
+    "name": "LONJICA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54702,
+    "name": "LUKA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54703,
+    "name": "LUKAVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54705,
+    "name": "LUPOGLAV",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54707,
+    "name": "LUČKO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54735,
+    "name": "MIČEVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54741,
+    "name": "MRACLIN",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54760,
+    "name": "NOVI ZAGREB",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54766,
+    "name": "NOVO ČIČE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54767,
+    "name": "NOVOSELEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54771,
+    "name": "ODRA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54781,
+    "name": "OPĆINA DUBRAVA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54789,
+    "name": "OREŠJE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54820,
+    "name": "POJATNO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54835,
+    "name": "PRESEKA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54838,
+    "name": "PRIGORJE BRDOVEČKO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54848,
+    "name": "PUŠĆA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54852,
+    "name": "RAKITJE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54853,
+    "name": "RAKOV POTOK",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54871,
+    "name": "RUDE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54876,
+    "name": "SAMOBOR",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54885,
+    "name": "SESVETE",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54912,
+    "name": "STENJEVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54917,
+    "name": "STRMEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54919,
+    "name": "STUPNIK",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54926,
+    "name": "SVETA NEDELJA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54927,
+    "name": "SVETA NEDJELJA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54956,
+    "name": "VELIKA GORICA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54958,
+    "name": "VELIKA MLAKA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54959,
+    "name": "VELIKA OSTRNA",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54991,
+    "name": "VRBOVEC",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55003,
+    "name": "ZADVORSKO",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55004,
+    "name": "ZAGREB",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55006,
+    "name": "ZAPREŠIĆ",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55009,
+    "name": "ZDENCI BRDOVEČKI",
+    "state": "ZAGREB",
+    "state_iso2": "01",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  }
+]

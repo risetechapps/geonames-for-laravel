@@ -1,0 +1,962 @@
+[
+  {
+    "id": 89905,
+    "name": "AITA MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89976,
+    "name": "ARACI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89981,
+    "name": "ARCUȘ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90058,
+    "name": "BARAOLT",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90060,
+    "name": "BARCANI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90087,
+    "name": "BELIN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90088,
+    "name": "BELIN-VALE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90155,
+    "name": "BIXAD",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90183,
+    "name": "BODOC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90233,
+    "name": "BOROŞNEU MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90276,
+    "name": "BRATEŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90304,
+    "name": "BREŢCU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90327,
+    "name": "BRĂDUŢ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90556,
+    "name": "BĂŢANII MARI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90587,
+    "name": "CATALINA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90629,
+    "name": "CERNAT",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90663,
+    "name": "CHICHIŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90809,
+    "name": "COMANDĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90835,
+    "name": "COMUNA AITA MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90936,
+    "name": "COMUNA BARCANI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90952,
+    "name": "COMUNA BELIN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91001,
+    "name": "COMUNA BIXAD",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91019,
+    "name": "COMUNA BODOC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91053,
+    "name": "COMUNA BOROŞNEU MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91084,
+    "name": "COMUNA BRATEŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91100,
+    "name": "COMUNA BREŢCU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91116,
+    "name": "COMUNA BRĂDUŢ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91249,
+    "name": "COMUNA BĂŢANI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91266,
+    "name": "COMUNA CATALINA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91312,
+    "name": "COMUNA CHICHIŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91406,
+    "name": "COMUNA COMANDĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91647,
+    "name": "COMUNA DOBÂRLĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91750,
+    "name": "COMUNA ESTELNIC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91841,
+    "name": "COMUNA GHELINŢA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91851,
+    "name": "COMUNA GHIDFALĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92036,
+    "name": "COMUNA HĂGHIG",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92071,
+    "name": "COMUNA ILIENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92149,
+    "name": "COMUNA LEMNIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92233,
+    "name": "COMUNA MALNAŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92256,
+    "name": "COMUNA MERENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92311,
+    "name": "COMUNA MOACŞA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92491,
+    "name": "COMUNA OJDULA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92523,
+    "name": "COMUNA OZUN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92621,
+    "name": "COMUNA POIAN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92757,
+    "name": "COMUNA RECI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92946,
+    "name": "COMUNA SITA BUZĂULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93070,
+    "name": "COMUNA SÂNZIENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93214,
+    "name": "COMUNA TURIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93301,
+    "name": "COMUNA VALEA CRIŞULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93311,
+    "name": "COMUNA VALEA MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93426,
+    "name": "COMUNA VÂLCELE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93442,
+    "name": "COMUNA VÂRGHIŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93468,
+    "name": "COMUNA ZAGON",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93483,
+    "name": "COMUNA ZĂBALA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93581,
+    "name": "COMUNĂ CERNAT",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93680,
+    "name": "COVASNA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93857,
+    "name": "CĂPENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93891,
+    "name": "DALNIC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93945,
+    "name": "DOBOȘENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93973,
+    "name": "DOBÂRLĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94145,
+    "name": "ESTELNIC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94170,
+    "name": "FILIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94190,
+    "name": "FLOROAIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94299,
+    "name": "GHELINŢA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94316,
+    "name": "GHIDFALĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94530,
+    "name": "HERCULIAN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94597,
+    "name": "HĂGHIG",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94657,
+    "name": "ILIENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94776,
+    "name": "LEMNIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94879,
+    "name": "LUNGA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94913,
+    "name": "MALNAŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94951,
+    "name": "MERENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94968,
+    "name": "MICFALĂU",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95038,
+    "name": "MOACŞA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95180,
+    "name": "MUNICIPIUL SFÂNTU GHEORGHE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95193,
+    "name": "MUNICIPIUL TÂRGU SECUIESC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95421,
+    "name": "OJDULA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95458,
+    "name": "ORAŞ BARAOLT",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95499,
+    "name": "ORAŞ COVASNA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95628,
+    "name": "ORAŞ ÎNTORSURA BUZÃULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95687,
+    "name": "OZUN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95859,
+    "name": "POIAN",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96019,
+    "name": "PĂPĂUȚI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96073,
+    "name": "RECI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96330,
+    "name": "SFÂNTU GHEORGHE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96360,
+    "name": "SITA BUZĂULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105982,
+    "name": "SÂNZIENI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96562,
+    "name": "TURIA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96588,
+    "name": "TÂRGU SECUIESC",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96717,
+    "name": "VALEA CRIŞULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96735,
+    "name": "VALEA MARE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96918,
+    "name": "VÂLCELE",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96941,
+    "name": "VÂRGHIŞ",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96979,
+    "name": "ZAGON",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97008,
+    "name": "ZĂBALA",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97026,
+    "name": "ÎNTORSURA BUZĂULUI",
+    "state": "COVASNA",
+    "state_iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

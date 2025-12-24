@@ -1,0 +1,282 @@
+[
+  {
+    "id": 65265,
+    "name": "ASAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65266,
+    "name": "ASAN-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65270,
+    "name": "BORYEONG",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65271,
+    "name": "BORYEONG-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65279,
+    "name": "BUYEO",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65280,
+    "name": "BUYEO-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65286,
+    "name": "CHEONAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65287,
+    "name": "CHEONAN-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65292,
+    "name": "CHEONGYANG-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65332,
+    "name": "GEUMSAN-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65344,
+    "name": "GONGJU",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65345,
+    "name": "GONGJU-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65371,
+    "name": "GYERYONG-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65386,
+    "name": "HONGSEONG",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65387,
+    "name": "HONGSEONG-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65427,
+    "name": "KINZAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65460,
+    "name": "NONSAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65461,
+    "name": "NONSAN-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65487,
+    "name": "SEOCHEON-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65493,
+    "name": "SEONGHWAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65496,
+    "name": "SEOSAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65497,
+    "name": "SEOSAN-SI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65514,
+    "name": "TAEAN-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65516,
+    "name": "TAESAL-LI",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65517,
+    "name": "TANGJIN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65562,
+    "name": "YESAN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65563,
+    "name": "YESAN-GUN",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  },
+  {
+    "id": 65568,
+    "name": "YŎNMU",
+    "state": "SOUTH CHUNGCHEONG",
+    "state_iso2": "44",
+    "country": "SOUTH KOREA",
+    "country_iso2": "KR",
+    "country_iso3": "KOR",
+    "country_native": "대한민국"
+  }
+]

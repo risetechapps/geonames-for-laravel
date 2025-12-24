@@ -1,0 +1,532 @@
+[
+  {
+    "id": 17438,
+    "name": "BALSTHAL",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17468,
+    "name": "BETTLACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17478,
+    "name": "BEZIRK BUCHEGGBERG",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17482,
+    "name": "BEZIRK DORNECK",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17485,
+    "name": "BEZIRK GÄU",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17486,
+    "name": "BEZIRK GÖSGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17495,
+    "name": "BEZIRK LEBERN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17503,
+    "name": "BEZIRK OLTEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17511,
+    "name": "BEZIRK SOLOTHURN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17513,
+    "name": "BEZIRK THAL",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17514,
+    "name": "BEZIRK THIERSTEIN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17519,
+    "name": "BEZIRK WASSERAMT",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17525,
+    "name": "BIBERIST",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17557,
+    "name": "BREITENBACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17605,
+    "name": "BÜSSERACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17679,
+    "name": "DEITINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17683,
+    "name": "DERENDINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17704,
+    "name": "DORNACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17728,
+    "name": "EGERKINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17765,
+    "name": "ERLINSBACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17814,
+    "name": "FULENBACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17828,
+    "name": "GERLAFINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17868,
+    "name": "GRENCHEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17886,
+    "name": "GUNZGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17914,
+    "name": "HIMMELRIED",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17924,
+    "name": "HOCHWALD",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17937,
+    "name": "HÄGENDORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17984,
+    "name": "KLEINLÜTZEL",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18007,
+    "name": "KRIEGSTETTEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18035,
+    "name": "LANGENDORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18046,
+    "name": "LAUPERSDORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18092,
+    "name": "LOSTORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18102,
+    "name": "LUTERBACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18134,
+    "name": "MATZENDORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18156,
+    "name": "MESSEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18224,
+    "name": "NIEDERGÖSGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18232,
+    "name": "NUNNINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18241,
+    "name": "OBERBUCHSITEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18254,
+    "name": "OBERGÖSGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18279,
+    "name": "OENSINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18283,
+    "name": "OLTEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18375,
+    "name": "RIEDHOLZ",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18381,
+    "name": "RODERSDORF",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18384,
+    "name": "ROHR",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18485,
+    "name": "SCHÖNENWERD",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18506,
+    "name": "SELZACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18528,
+    "name": "SOLOTHURN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18561,
+    "name": "SUBINGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18603,
+    "name": "TRIMBACH",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18721,
+    "name": "WANGEN",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18734,
+    "name": "WELSCHENROHR",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18765,
+    "name": "WOLFWIL",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18800,
+    "name": "ZUCHWIL",
+    "state": "SOLOTHURN",
+    "state_iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

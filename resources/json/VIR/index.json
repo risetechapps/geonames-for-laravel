@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5074,
+    "name": "SAINT CROIX",
+    "iso2": "SC",
+    "country": "VIRGIN ISLANDS (US)",
+    "country_iso2": "VI",
+    "country_iso3": "VIR",
+    "country_native": "UNITED STATES VIRGIN ISLANDS",
+    "timezone": "America/St_Thomas"
+  },
+  {
+    "id": 5073,
+    "name": "SAINT JOHN",
+    "iso2": "SJ",
+    "country": "VIRGIN ISLANDS (US)",
+    "country_iso2": "VI",
+    "country_iso3": "VIR",
+    "country_native": "UNITED STATES VIRGIN ISLANDS",
+    "timezone": "America/St_Thomas"
+  },
+  {
+    "id": 5072,
+    "name": "SAINT THOMAS",
+    "iso2": "ST",
+    "country": "VIRGIN ISLANDS (US)",
+    "country_iso2": "VI",
+    "country_iso3": "VIR",
+    "country_native": "UNITED STATES VIRGIN ISLANDS",
+    "timezone": "America/St_Thomas"
+  }
+]

@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 329,
+    "name": "ABIM",
+    "iso2": "314",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 361,
+    "name": "ADJUMANI",
+    "iso2": "301",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 392,
+    "name": "AGAGO",
+    "iso2": "322",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 344,
+    "name": "ALEBTONG",
+    "iso2": "323",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 416,
+    "name": "AMOLATAR",
+    "iso2": "315",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 353,
+    "name": "AMUDAT",
+    "iso2": "324",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 352,
+    "name": "AMURIA",
+    "iso2": "216",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 335,
+    "name": "AMURU",
+    "iso2": "316",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 328,
+    "name": "APAC",
+    "iso2": "302",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 447,
+    "name": "ARUA",
+    "iso2": "303",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 441,
+    "name": "BUDAKA",
+    "iso2": "217",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 349,
+    "name": "BUDUDA",
+    "iso2": "218",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 387,
+    "name": "BUGIRI",
+    "iso2": "201",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5350,
+    "name": "BUGWERI",
+    "iso2": "235",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 391,
+    "name": "BUHWEJU",
+    "iso2": "420",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 377,
+    "name": "BUIKWE",
+    "iso2": "117",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 343,
+    "name": "BUKEDEA",
+    "iso2": "219",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 375,
+    "name": "BUKOMANSIMBI",
+    "iso2": "118",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 385,
+    "name": "BUKWO",
+    "iso2": "220",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 428,
+    "name": "BULAMBULI",
+    "iso2": "225",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 389,
+    "name": "BULIISA",
+    "iso2": "416",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 419,
+    "name": "BUNDIBUGYO",
+    "iso2": "401",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 381,
+    "name": "BUNYANGABU",
+    "iso2": "430",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 386,
+    "name": "BUSHENYI",
+    "iso2": "402",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 431,
+    "name": "BUSIA",
+    "iso2": "202",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 365,
+    "name": "BUTALEJA",
+    "iso2": "221",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 384,
+    "name": "BUTAMBALA",
+    "iso2": "119",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 388,
+    "name": "BUTEBO",
+    "iso2": "233",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 414,
+    "name": "BUVUMA",
+    "iso2": "120",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 380,
+    "name": "BUYENDE",
+    "iso2": "226",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 396,
+    "name": "CENTRAL",
+    "iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 341,
+    "name": "DOKOLO",
+    "iso2": "317",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 372,
+    "name": "EASTERN",
+    "iso2": "E",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 366,
+    "name": "GOMBA",
+    "iso2": "121",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 413,
+    "name": "GULU",
+    "iso2": "304",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5358,
+    "name": "HOIMA",
+    "iso2": "403",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 339,
+    "name": "IBANDA",
+    "iso2": "417",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 340,
+    "name": "IGANGA",
+    "iso2": "203",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 383,
+    "name": "ISINGIRO",
+    "iso2": "418",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 367,
+    "name": "JINJA",
+    "iso2": "204",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 434,
+    "name": "KAABONG",
+    "iso2": "318",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 426,
+    "name": "KABALE",
+    "iso2": "404",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 326,
+    "name": "KABAROLE",
+    "iso2": "405",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 336,
+    "name": "KABERAMAIDO",
+    "iso2": "213",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 403,
+    "name": "KAGADI",
+    "iso2": "427",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 399,
+    "name": "KAKUMIRO",
+    "iso2": "428",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5352,
+    "name": "KALAKI",
+    "iso2": "237",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 405,
+    "name": "KALANGALA",
+    "iso2": "101",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 398,
+    "name": "KALIRO",
+    "iso2": "222",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 394,
+    "name": "KALUNGU",
+    "iso2": "122",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 382,
+    "name": "KAMPALA",
+    "iso2": "102",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 334,
+    "name": "KAMULI",
+    "iso2": "205",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 360,
+    "name": "KAMWENGE",
+    "iso2": "413",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 373,
+    "name": "KANUNGU",
+    "iso2": "414",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 432,
+    "name": "KAPCHORWA",
+    "iso2": "206",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5351,
+    "name": "KAPELEBYONG",
+    "iso2": "236",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5355,
+    "name": "KARENGA",
+    "iso2": "335",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5349,
+    "name": "KASANDA",
+    "iso2": "126",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 440,
+    "name": "KASESE",
+    "iso2": "406",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 420,
+    "name": "KATAKWI",
+    "iso2": "207",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 368,
+    "name": "KAYUNGA",
+    "iso2": "112",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5360,
+    "name": "KAZO",
+    "iso2": "433",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 436,
+    "name": "KIBAALE",
+    "iso2": "407",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 347,
+    "name": "KIBOGA",
+    "iso2": "103",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 338,
+    "name": "KIBUKU",
+    "iso2": "227",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5359,
+    "name": "KIKUUBE",
+    "iso2": "432",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 355,
+    "name": "KIRUHURA",
+    "iso2": "419",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 346,
+    "name": "KIRYANDONGO",
+    "iso2": "421",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 409,
+    "name": "KISORO",
+    "iso2": "408",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5361,
+    "name": "KITAGWENDA",
+    "iso2": "434",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 348,
+    "name": "KITGUM",
+    "iso2": "305",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 345,
+    "name": "KOBOKO",
+    "iso2": "319",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 401,
+    "name": "KOLE",
+    "iso2": "325",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 443,
+    "name": "KOTIDO",
+    "iso2": "306",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 425,
+    "name": "KUMI",
+    "iso2": "208",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5353,
+    "name": "KWANIA",
+    "iso2": "333",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 369,
+    "name": "KWEEN",
+    "iso2": "228",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 325,
+    "name": "KYANKWANZI",
+    "iso2": "123",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 437,
+    "name": "KYEGEGWA",
+    "iso2": "422",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 402,
+    "name": "KYENJOJO",
+    "iso2": "415",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 448,
+    "name": "KYOTERA",
+    "iso2": "125",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 411,
+    "name": "LAMWO",
+    "iso2": "326",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 342,
+    "name": "LIRA",
+    "iso2": "307",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 445,
+    "name": "LUUKA",
+    "iso2": "229",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 433,
+    "name": "LUWERO",
+    "iso2": "104",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 417,
+    "name": "LWENGO",
+    "iso2": "124",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 376,
+    "name": "LYANTONDE",
+    "iso2": "114",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5356,
+    "name": "MADI-OKOLLO",
+    "iso2": "336",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 438,
+    "name": "MANAFWA",
+    "iso2": "223",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 421,
+    "name": "MARACHA",
+    "iso2": "320",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 356,
+    "name": "MASAKA",
+    "iso2": "105",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 354,
+    "name": "MASINDI",
+    "iso2": "409",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 418,
+    "name": "MAYUGE",
+    "iso2": "214",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 350,
+    "name": "MBALE",
+    "iso2": "209",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 415,
+    "name": "MBARARA",
+    "iso2": "410",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 435,
+    "name": "MITOOMA",
+    "iso2": "423",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 364,
+    "name": "MITYANA",
+    "iso2": "115",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 395,
+    "name": "MOROTO",
+    "iso2": "308",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 363,
+    "name": "MOYO",
+    "iso2": "309",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 327,
+    "name": "MPIGI",
+    "iso2": "106",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 371,
+    "name": "MUBENDE",
+    "iso2": "107",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 410,
+    "name": "MUKONO",
+    "iso2": "108",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5354,
+    "name": "NABILATUK",
+    "iso2": "334",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 393,
+    "name": "NAKAPIRIPIRIT",
+    "iso2": "311",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 423,
+    "name": "NAKASEKE",
+    "iso2": "116",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 406,
+    "name": "NAKASONGOLA",
+    "iso2": "109",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 351,
+    "name": "NAMAYINGO",
+    "iso2": "230",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 400,
+    "name": "NAMISINDWA",
+    "iso2": "234",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 337,
+    "name": "NAMUTUMBA",
+    "iso2": "224",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 430,
+    "name": "NAPAK",
+    "iso2": "327",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 446,
+    "name": "NEBBI",
+    "iso2": "310",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 424,
+    "name": "NGORA",
+    "iso2": "231",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 332,
+    "name": "NORTHERN",
+    "iso2": "N",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 422,
+    "name": "NTOROKO",
+    "iso2": "424",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 404,
+    "name": "NTUNGAMO",
+    "iso2": "411",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 378,
+    "name": "NWOYA",
+    "iso2": "328",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5357,
+    "name": "OBONGI",
+    "iso2": "337",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 374,
+    "name": "OMORO",
+    "iso2": "331",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 390,
+    "name": "OTUKE",
+    "iso2": "329",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 397,
+    "name": "OYAM",
+    "iso2": "321",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 408,
+    "name": "PADER",
+    "iso2": "312",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 357,
+    "name": "PAKWACH",
+    "iso2": "332",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 412,
+    "name": "PALLISA",
+    "iso2": "210",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 439,
+    "name": "RAKAI",
+    "iso2": "110",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 358,
+    "name": "RUBANDA",
+    "iso2": "429",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 442,
+    "name": "RUBIRIZI",
+    "iso2": "425",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 331,
+    "name": "RUKIGA",
+    "iso2": "431",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 324,
+    "name": "RUKUNGIRI",
+    "iso2": "412",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 5362,
+    "name": "RWAMPARA",
+    "iso2": "435",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 427,
+    "name": "SEMBABULE",
+    "iso2": "111",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 333,
+    "name": "SERERE",
+    "iso2": "232",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 407,
+    "name": "SHEEMA",
+    "iso2": "426",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 429,
+    "name": "SIRONKO",
+    "iso2": "215",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 444,
+    "name": "SOROTI",
+    "iso2": "211",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 359,
+    "name": "TORORO",
+    "iso2": "212",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 362,
+    "name": "WAKISO",
+    "iso2": "113",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 370,
+    "name": "WESTERN",
+    "iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 330,
+    "name": "YUMBE",
+    "iso2": "313",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "id": 379,
+    "name": "ZOMBO",
+    "iso2": "330",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA",
+    "timezone": "Africa/Kampala"
+  }
+]

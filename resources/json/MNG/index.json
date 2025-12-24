@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1973,
+    "name": "ARKHANGAI",
+    "iso2": "073",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1969,
+    "name": "BAYAN-ÖLGII",
+    "iso2": "071",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1976,
+    "name": "BAYANKHONGOR",
+    "iso2": "069",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1961,
+    "name": "BULGAN",
+    "iso2": "067",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1962,
+    "name": "DARKHAN-UUL",
+    "iso2": "037",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1963,
+    "name": "DORNOD",
+    "iso2": "061",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1981,
+    "name": "DORNOGOVI",
+    "iso2": "063",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1970,
+    "name": "DUNDGOVI",
+    "iso2": "059",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1972,
+    "name": "GOVI-ALTAI",
+    "iso2": "065",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1978,
+    "name": "GOVISÜMBER",
+    "iso2": "064",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1974,
+    "name": "KHENTII",
+    "iso2": "039",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1964,
+    "name": "KHOVD",
+    "iso2": "043",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1975,
+    "name": "KHÖVSGÖL",
+    "iso2": "041",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1966,
+    "name": "ORKHON",
+    "iso2": "035",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1980,
+    "name": "SELENGE",
+    "iso2": "049",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1977,
+    "name": "SÜKHBAATAR",
+    "iso2": "051",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1968,
+    "name": "TÖV",
+    "iso2": "047",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 5453,
+    "name": "ULAANBAATAR",
+    "iso2": "001",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1971,
+    "name": "UVS",
+    "iso2": "046",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1979,
+    "name": "ZAVKHAN",
+    "iso2": "057",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1967,
+    "name": "ÖMNÖGOVI",
+    "iso2": "053",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  },
+  {
+    "id": 1965,
+    "name": "ÖVÖRKHANGAI",
+    "iso2": "055",
+    "country": "MONGOLIA",
+    "country_iso2": "MN",
+    "country_iso3": "MNG",
+    "country_native": "МОНГОЛ УЛС",
+    "timezone": "Asia/Choibalsan"
+  }
+]

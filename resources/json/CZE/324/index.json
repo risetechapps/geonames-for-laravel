@@ -1,0 +1,892 @@
+[
+  {
+    "id": 22127,
+    "name": "BEZDRUŽICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22132,
+    "name": "BLOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22135,
+    "name": "BLÍŽEJOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22146,
+    "name": "BOR",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22201,
+    "name": "BĚLÁ NAD RADBUZOU",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22203,
+    "name": "BŘASY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22222,
+    "name": "CHLUMČANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22225,
+    "name": "CHODOVÁ PLANÁ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22230,
+    "name": "CHOTĚŠOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22236,
+    "name": "CHRÁST",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22263,
+    "name": "DOBŘANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22265,
+    "name": "DOBŘÍV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22303,
+    "name": "DOMAŽLICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22320,
+    "name": "DÝŠINA",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22343,
+    "name": "HARTMANICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22351,
+    "name": "HEŘMANOVA HUŤ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22370,
+    "name": "HOLOUBKOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22371,
+    "name": "HOLÝŠOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22372,
+    "name": "HORAŽĎOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22378,
+    "name": "HORNÍ BŘÍZA",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22396,
+    "name": "HORŠOVSKÝ TÝN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22402,
+    "name": "HOSTOUŇ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22421,
+    "name": "HROMNICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22430,
+    "name": "HRÁDEK",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22455,
+    "name": "JANOVICE NAD ÚHLAVOU",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22502,
+    "name": "KASEJOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22504,
+    "name": "KAZNĚJOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22506,
+    "name": "KAŠPERSKÉ HORY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22508,
+    "name": "KDYNĚ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22511,
+    "name": "KLADRUBY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22512,
+    "name": "KLATOVY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22514,
+    "name": "KLENČÍ POD ČERCHOVEM",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22528,
+    "name": "KOLINEC",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22543,
+    "name": "KOUT NA ŠUMAVĚ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22552,
+    "name": "KOŽLANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22554,
+    "name": "KRALOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22666,
+    "name": "LÍNĚ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22675,
+    "name": "MANĚTÍN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22678,
+    "name": "MECLOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22680,
+    "name": "MERKLÍN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22698,
+    "name": "MIROŠOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22731,
+    "name": "MRÁKOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22734,
+    "name": "MÝTO",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22744,
+    "name": "MĚSTO TOUŠKOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22745,
+    "name": "MĚČÍN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22759,
+    "name": "NEPOMUK",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22766,
+    "name": "NEZVĚSTICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22798,
+    "name": "NÝRSKO",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22799,
+    "name": "NÝŘANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22815,
+    "name": "OKRES DOMAŽLICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22829,
+    "name": "OKRES KLATOVY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22847,
+    "name": "OKRES PLZEŇ-JIH",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22848,
+    "name": "OKRES PLZEŇ-MĚSTO",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22849,
+    "name": "OKRES PLZEŇ-SEVER",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22858,
+    "name": "OKRES ROKYCANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22864,
+    "name": "OKRES TACHOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22896,
+    "name": "OSEK",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22934,
+    "name": "PILSEN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22935,
+    "name": "PLANÁ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22937,
+    "name": "PLASY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22942,
+    "name": "PLÁNICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22943,
+    "name": "POBĚŽOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22959,
+    "name": "POSTŘEKOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23003,
+    "name": "PŘEŠTICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23005,
+    "name": "PŘIMDA",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23012,
+    "name": "RADNICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23028,
+    "name": "ROKYCANY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23097,
+    "name": "SPÁLENÉ POŘÍČÍ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23113,
+    "name": "STARÝ PLZENEC",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23114,
+    "name": "STAŇKOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23118,
+    "name": "STOD",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23122,
+    "name": "STRAŠICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23126,
+    "name": "STRÁŽ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23131,
+    "name": "STRÁŽOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23138,
+    "name": "STŘÍBRO",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23146,
+    "name": "SUŠICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23155,
+    "name": "TACHOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23168,
+    "name": "TLUČNÁ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23203,
+    "name": "TŘEMOŠNÁ",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23224,
+    "name": "VEJPRNICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23319,
+    "name": "VŠERUBY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23328,
+    "name": "ZBIROH",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23333,
+    "name": "ZBŮCH",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23373,
+    "name": "ČERNOŠÍN",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23427,
+    "name": "ŠTĚNOVICE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23433,
+    "name": "ŠVIHOV",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23434,
+    "name": "ŠŤÁHLAVY",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23444,
+    "name": "ŽELEZNÁ RUDA",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23450,
+    "name": "ŽIHLE",
+    "state": "PLZEŇ-JIH",
+    "state_iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

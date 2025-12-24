@@ -1,0 +1,462 @@
+[
+  {
+    "id": 17371,
+    "name": "AESCH",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17386,
+    "name": "ALLSCHWIL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17406,
+    "name": "ARISDORF",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17408,
+    "name": "ARLESHEIM",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17474,
+    "name": "BEZIRK ARLESHEIM",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17493,
+    "name": "BEZIRK LAUFEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17497,
+    "name": "BEZIRK LIESTAL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17510,
+    "name": "BEZIRK SISSACH",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17518,
+    "name": "BEZIRK WALDENBURG",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17530,
+    "name": "BINNINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17538,
+    "name": "BIRSFELDEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17553,
+    "name": "BOTTMINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17563,
+    "name": "BRISLACH",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17575,
+    "name": "BUBENDORF",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17589,
+    "name": "BUUS",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17684,
+    "name": "DIEGTEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17775,
+    "name": "ETTINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17808,
+    "name": "FRENKENDORF",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17817,
+    "name": "FÜLLINSDORF",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17825,
+    "name": "GELTERKINDEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17867,
+    "name": "GRELLINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17942,
+    "name": "HÖLSTEIN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17956,
+    "name": "ITINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18034,
+    "name": "LANGENBRUCK",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18042,
+    "name": "LAUFEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18050,
+    "name": "LAUSEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18082,
+    "name": "LIESBERG",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18083,
+    "name": "LIESTAL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18109,
+    "name": "LÄUFELFINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18185,
+    "name": "MUTTENZ",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18200,
+    "name": "MÜNCHENSTEIN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18244,
+    "name": "OBERDORF",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18270,
+    "name": "OBERWIL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18287,
+    "name": "ORMALINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18307,
+    "name": "PFEFFINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18324,
+    "name": "PRATTELN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18362,
+    "name": "REIGOLDSWIL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18403,
+    "name": "RÖSCHENZ",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18484,
+    "name": "SCHÖNENBUCH",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18505,
+    "name": "SELTISBERG",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18526,
+    "name": "SISSACH",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18589,
+    "name": "THERWIL",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18699,
+    "name": "WAHLEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18710,
+    "name": "WALDENBURG",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18803,
+    "name": "ZUNZGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18807,
+    "name": "ZWINGEN",
+    "state": "BASEL-LAND",
+    "state_iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

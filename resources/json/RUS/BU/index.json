@@ -1,0 +1,662 @@
+[
+  {
+    "id": 97745,
+    "name": "BABUSHKIN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97753,
+    "name": "BAGDARIN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97794,
+    "name": "BARGUZIN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97822,
+    "name": "BAYANGOL",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97925,
+    "name": "BICHURA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98011,
+    "name": "BOL’SHOY KUNALEY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98377,
+    "name": "DZHIDA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98620,
+    "name": "GUSINOOZYORSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98621,
+    "name": "GUSINOYE OZERO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98652,
+    "name": "IL’INKA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98659,
+    "name": "IL’KA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98718,
+    "name": "ISTOK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98741,
+    "name": "IVOLGINSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98742,
+    "name": "IVOLGINSKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98764,
+    "name": "KABANSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99000,
+    "name": "KHOLTOSON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99003,
+    "name": "KHONKHOLOY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99005,
+    "name": "KHORINSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99031,
+    "name": "KICHERA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99089,
+    "name": "KIZHINGA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99418,
+    "name": "KUDARA-SOMON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99478,
+    "name": "KURUMKAN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99516,
+    "name": "KYAKHTA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99519,
+    "name": "KYREN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99997,
+    "name": "MUKHORSHIBIRSKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99998,
+    "name": "MUKHORSHIBIR’",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100024,
+    "name": "MUYSKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100069,
+    "name": "NAUSHKI",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100138,
+    "name": "NIKOLAYEVSKIY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100145,
+    "name": "NIKOL’SK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100150,
+    "name": "NIZHNEANGARSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100175,
+    "name": "NIZHNIY SAYANTUY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100200,
+    "name": "NOVAYA BRYAN’",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100251,
+    "name": "NOVOKIZHINGINSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100351,
+    "name": "NOVYY UOYAN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100355,
+    "name": "NOVYY ZAGAN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100404,
+    "name": "OKINO-KLYUCHI",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100405,
+    "name": "OKINSKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100451,
+    "name": "ONOKHOY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100469,
+    "name": "ORLIK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100651,
+    "name": "PETROPAVLOVKA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100816,
+    "name": "PRIBAYKAL’SKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100957,
+    "name": "RECHKA-VYDRINO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101072,
+    "name": "SAGAN-NUR",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101151,
+    "name": "SELENDUMA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101152,
+    "name": "SELENGINSKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101211,
+    "name": "SEVERO-BAYKAL’SKIY RAYON",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101216,
+    "name": "SEVEROBAYKAL’SK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101220,
+    "name": "SEVEROMUYSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101257,
+    "name": "SHARALDAY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101434,
+    "name": "SOKOL",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101492,
+    "name": "SOSNOVO-OZERSKOYE",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101500,
+    "name": "SOTNIKOVO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101745,
+    "name": "TAKSIMO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101766,
+    "name": "TANKHOY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101772,
+    "name": "TARBAGATAY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101796,
+    "name": "TATAUROVO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101978,
+    "name": "TURKA",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101983,
+    "name": "TURUNTAYEVO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102044,
+    "name": "ULAN-UDE",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102115,
+    "name": "UST’-BARGUZIN",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102428,
+    "name": "VYDRINO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102630,
+    "name": "ZAIGRAYEVO",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102633,
+    "name": "ZAKAMENSK",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102655,
+    "name": "ZARECHNYY",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102723,
+    "name": "ZHEMCHUG",
+    "state": "BURYATIA",
+    "state_iso2": "BU",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

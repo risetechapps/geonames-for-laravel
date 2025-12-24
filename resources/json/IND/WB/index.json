@@ -1,0 +1,2592 @@
+[
+  {
+    "id": 153350,
+    "name": "ADRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141852,
+    "name": "AHMEDPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141854,
+    "name": "AKNAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141855,
+    "name": "ALIPURDUAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142112,
+    "name": "AMLAGORA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141857,
+    "name": "AMTA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141858,
+    "name": "AMTALA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141859,
+    "name": "ANDAL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141860,
+    "name": "ARAMBAGH COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141861,
+    "name": "ASANSOL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141862,
+    "name": "ASHOKNAGAR KALYANGARH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141863,
+    "name": "BADKULLA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141864,
+    "name": "BADURIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141865,
+    "name": "BAGDOGRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141866,
+    "name": "BAGNAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141867,
+    "name": "BAGULA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141868,
+    "name": "BAHULA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141869,
+    "name": "BAIDYABATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141870,
+    "name": "BAKRESWAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141871,
+    "name": "BALARAMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141903,
+    "name": "BALI CHAK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141872,
+    "name": "BALLY",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141873,
+    "name": "BALURGHAT",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141874,
+    "name": "BAMANGOLA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141875,
+    "name": "BANESWAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141876,
+    "name": "BANGAON",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141877,
+    "name": "BANKRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141878,
+    "name": "BANKURA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141879,
+    "name": "BANSBERIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141880,
+    "name": "BANSIHARI COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141881,
+    "name": "BARABAZAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141882,
+    "name": "BARANAGAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141883,
+    "name": "BARASAT",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141884,
+    "name": "BARDHAMAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141885,
+    "name": "BARJORA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141886,
+    "name": "BARRACKPORE",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141887,
+    "name": "BARUIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141888,
+    "name": "BASANTI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141889,
+    "name": "BASIRHAT",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141904,
+    "name": "BAWALI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141890,
+    "name": "BEGAMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141891,
+    "name": "BELDA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141892,
+    "name": "BELDANGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141893,
+    "name": "BELIATORE",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141894,
+    "name": "BERHAMPORE",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141895,
+    "name": "BHADRESWAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141896,
+    "name": "BHANDARDAHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141897,
+    "name": "BHATPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141898,
+    "name": "BIRBHUM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141899,
+    "name": "BIRPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141900,
+    "name": "BISHNUPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141901,
+    "name": "BOLPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141902,
+    "name": "BUDGE BUDGE",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141905,
+    "name": "CANNING",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141906,
+    "name": "CHAKAPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141907,
+    "name": "CHAKDAHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141908,
+    "name": "CHAMPADANGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141914,
+    "name": "CHAMPAHATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141909,
+    "name": "CHAMPDANI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141910,
+    "name": "CHANDANNAGAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141911,
+    "name": "CHANDRAKONA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141912,
+    "name": "CHITTARANJAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141913,
+    "name": "CHURULIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141915,
+    "name": "CONTAI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141916,
+    "name": "COOCH BEHAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141917,
+    "name": "COSSIMBAZAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141918,
+    "name": "DAKSHIN DINAJPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141919,
+    "name": "DALKOLA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141920,
+    "name": "DAM DAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141921,
+    "name": "DARJEELING",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141922,
+    "name": "DAULATPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141923,
+    "name": "DEBAGRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141924,
+    "name": "DEBIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141925,
+    "name": "DHANIAKHALI COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141926,
+    "name": "DHULAGARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141927,
+    "name": "DHULIAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141928,
+    "name": "DHUPGURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141929,
+    "name": "DIAMOND HARBOUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141930,
+    "name": "DIGHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141931,
+    "name": "DINHATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141932,
+    "name": "DOMJUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141933,
+    "name": "DUBRAJPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141934,
+    "name": "DURGAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141935,
+    "name": "EGRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141936,
+    "name": "FALAKATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141937,
+    "name": "FARAKKA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141938,
+    "name": "FORT GLOSTER",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141939,
+    "name": "GAIGHATA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141940,
+    "name": "GAIRKATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141941,
+    "name": "GANGADHARPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141942,
+    "name": "GANGARAMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141943,
+    "name": "GARUI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141944,
+    "name": "GARULIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141945,
+    "name": "GHATAL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141946,
+    "name": "GIRIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141947,
+    "name": "GOBARDANGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141948,
+    "name": "GOBINDAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141950,
+    "name": "GOPALPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141949,
+    "name": "GOPINATHPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141951,
+    "name": "GORUBATHAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141952,
+    "name": "GOSABA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141953,
+    "name": "GOSANIMARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141954,
+    "name": "GURDAHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141955,
+    "name": "GUSKHARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141956,
+    "name": "HABRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141957,
+    "name": "HALDIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141958,
+    "name": "HALDIBARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141959,
+    "name": "HALISAHAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141960,
+    "name": "HARINDANGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141961,
+    "name": "HARINGHATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141962,
+    "name": "HARIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141963,
+    "name": "HASIMARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141964,
+    "name": "HINDUSTHAN CABLES TOWN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141965,
+    "name": "HOOGHLY",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141966,
+    "name": "HOWRAH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141967,
+    "name": "ICHAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141968,
+    "name": "INDPUR COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141969,
+    "name": "INGRAJ BAZAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141970,
+    "name": "ISLAMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141971,
+    "name": "JAFARPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141972,
+    "name": "JAIGAON",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141973,
+    "name": "JALPAIGURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141974,
+    "name": "JAMURIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141975,
+    "name": "JANGIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141976,
+    "name": "JAYNAGAR MAJILPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141977,
+    "name": "JEJUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141978,
+    "name": "JHALIDA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141979,
+    "name": "JHARGRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141980,
+    "name": "JHILIMILI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141981,
+    "name": "KAKDWIP",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141982,
+    "name": "KALAIKUNDA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141983,
+    "name": "KALIAGANJ",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141984,
+    "name": "KALIMPONG",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141985,
+    "name": "KALNA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141986,
+    "name": "KALYANI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141987,
+    "name": "KAMARHATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141988,
+    "name": "KAMARPUKUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141989,
+    "name": "KANCHRAPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141990,
+    "name": "KANDI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141991,
+    "name": "KARIMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141992,
+    "name": "KATWA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141993,
+    "name": "KENDA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141994,
+    "name": "KESHABPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141995,
+    "name": "KHARAGPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141996,
+    "name": "KHARAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141997,
+    "name": "KHARBA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141998,
+    "name": "KHARDAHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 141999,
+    "name": "KHATRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142000,
+    "name": "KIRNAHAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142001,
+    "name": "KOLKATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142002,
+    "name": "KONNAGAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142003,
+    "name": "KRISHNANAGAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142004,
+    "name": "KRISHNAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142005,
+    "name": "KSHIRPAI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142006,
+    "name": "KULPI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142007,
+    "name": "KULTALI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142008,
+    "name": "KULTI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142009,
+    "name": "KURSEONG",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142010,
+    "name": "LALGARH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142011,
+    "name": "LALGOLA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142012,
+    "name": "LOYABAD",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142013,
+    "name": "MADANPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142014,
+    "name": "MADHYAMGRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142015,
+    "name": "MAHIARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142016,
+    "name": "MAHISHADAL COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142017,
+    "name": "MAINAGURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142018,
+    "name": "MANIKPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142019,
+    "name": "MASILA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142020,
+    "name": "MATHABHANGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142021,
+    "name": "MATIALI COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142022,
+    "name": "MATIGARA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142023,
+    "name": "MEDINIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142024,
+    "name": "MEJIA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142025,
+    "name": "MEMARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142026,
+    "name": "MIRIK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142028,
+    "name": "MONOHARPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142029,
+    "name": "MURAGACHA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142030,
+    "name": "MURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142031,
+    "name": "MURSHIDABAD",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142032,
+    "name": "NABADWIP",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142033,
+    "name": "NABAGRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142034,
+    "name": "NADIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142035,
+    "name": "NAGARUKHRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142036,
+    "name": "NAGRAKATA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142037,
+    "name": "NAIHATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142038,
+    "name": "NAKSALBARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142039,
+    "name": "NALHATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142040,
+    "name": "NALPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142041,
+    "name": "NAMKHANA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142042,
+    "name": "NANDIGRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142043,
+    "name": "NANGI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142044,
+    "name": "NAYAGRAM COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142045,
+    "name": "NORTH 24 PARGANAS",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142046,
+    "name": "ODLABARI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142047,
+    "name": "PAIKPARA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142048,
+    "name": "PANAGARH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142049,
+    "name": "PANCHLA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142050,
+    "name": "PANCHMURA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142051,
+    "name": "PANDUA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142052,
+    "name": "PANIHATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142053,
+    "name": "PANSKURA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142054,
+    "name": "PARBATIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142055,
+    "name": "PASCHIM MEDINIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142056,
+    "name": "PATIRAM",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142062,
+    "name": "PATRASAER",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142057,
+    "name": "PATULI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142058,
+    "name": "PUJALI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142059,
+    "name": "PUNCHA COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142060,
+    "name": "PURBA MEDINIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142061,
+    "name": "PURULIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142063,
+    "name": "RAGHUDEBBATI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142064,
+    "name": "RAGHUNATHPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142065,
+    "name": "RAIGANJ",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142066,
+    "name": "RAJMAHAL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142067,
+    "name": "RAJNAGAR COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142068,
+    "name": "RAMCHANDRAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142069,
+    "name": "RAMJIBANPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142075,
+    "name": "RAMNAGAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142070,
+    "name": "RAMPUR HAT",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142071,
+    "name": "RANAGHAT",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142072,
+    "name": "RANIGANJ",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142073,
+    "name": "RAYPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142074,
+    "name": "RISHRA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142076,
+    "name": "SAHAPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142077,
+    "name": "SAINTHIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142078,
+    "name": "SALANPUR COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142079,
+    "name": "SANKARPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142080,
+    "name": "SANKRAIL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142081,
+    "name": "SANTIPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142082,
+    "name": "SANTOSHPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142083,
+    "name": "SANTURI COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142084,
+    "name": "SARENGA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142085,
+    "name": "SERAMPORE",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142086,
+    "name": "SERPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142087,
+    "name": "SHYAMNAGAR WEST BENGAL",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142088,
+    "name": "SILIGURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142089,
+    "name": "SINGUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142090,
+    "name": "SODPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142091,
+    "name": "SOLAP",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142092,
+    "name": "SONADA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142093,
+    "name": "SONAMUKHI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142094,
+    "name": "SONARPUR COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142095,
+    "name": "SOUTH 24 PARGANAS",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142096,
+    "name": "SRIKHANDA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142097,
+    "name": "SRIRAMPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142098,
+    "name": "SURI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142099,
+    "name": "SWARUPNAGAR COMMUNITY DEVELOPMENT BLOCK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142100,
+    "name": "TAKDAH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142101,
+    "name": "TAKI",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142102,
+    "name": "TAMLUK",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142103,
+    "name": "TARAKESWAR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142104,
+    "name": "TITAGARH",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142105,
+    "name": "TUFANGANJ",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142106,
+    "name": "TULIN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142107,
+    "name": "UCHALAN",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142108,
+    "name": "ULA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142109,
+    "name": "ULUBERIA",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142110,
+    "name": "UTTAR DINAJPUR",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 142111,
+    "name": "UTTARPARA KOTRUNG",
+    "state": "WEST BENGAL",
+    "state_iso2": "WB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

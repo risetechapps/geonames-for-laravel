@@ -1,0 +1,562 @@
+[
+  {
+    "id": 97579,
+    "name": "ALEKSEYEVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97837,
+    "name": "BEKHTEYEVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97848,
+    "name": "BELGOROD",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97849,
+    "name": "BELGORODSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97914,
+    "name": "BESSONOVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98028,
+    "name": "BORISOVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98029,
+    "name": "BORISOVSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98178,
+    "name": "CHERNYANKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98179,
+    "name": "CHERNYANSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98507,
+    "name": "GOLOVCHINO",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98577,
+    "name": "GRAYVORON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98578,
+    "name": "GRAYVORONSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98603,
+    "name": "GUBKIN",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98647,
+    "name": "ILOVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98739,
+    "name": "IVNYA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98740,
+    "name": "IVNYANSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99212,
+    "name": "KOROCHA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99213,
+    "name": "KOROCHANSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99286,
+    "name": "KRASNAYA YARUGA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99288,
+    "name": "KRASNENSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99314,
+    "name": "KRASNOGVARDEYSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99318,
+    "name": "KRASNOGVARDEYSKOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99348,
+    "name": "KRASNOYARUZHSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99350,
+    "name": "KRASNOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99643,
+    "name": "LIVENKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99810,
+    "name": "MASLOVA PRISTAN’",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99831,
+    "name": "MAYSKIY",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100210,
+    "name": "NOVAYA TAVOLZHANKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100276,
+    "name": "NOVOOSKOL’SKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100348,
+    "name": "NOVYY OSKOL",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100857,
+    "name": "PROKHOROVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100858,
+    "name": "PROKHOROVSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100864,
+    "name": "PROLETARSKIY",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100911,
+    "name": "PYATNITSKOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100932,
+    "name": "RAKITNOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100933,
+    "name": "RAKITYANSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100952,
+    "name": "RAZUMNOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100984,
+    "name": "ROGOVATOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101010,
+    "name": "ROVEN’SKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101208,
+    "name": "SEVERNYY",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101284,
+    "name": "SHEBEKINO",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101285,
+    "name": "SHEBEKINSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101390,
+    "name": "SKORODNOYE",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101607,
+    "name": "STARYY OSKOL",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101631,
+    "name": "STROITEL’",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101883,
+    "name": "TOMAROVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101917,
+    "name": "TROITSKIY",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102073,
+    "name": "URAZOVO",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102183,
+    "name": "VALUYKI",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102184,
+    "name": "VALUYSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102299,
+    "name": "VEYDELEVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102358,
+    "name": "VOLOKONOVKA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102359,
+    "name": "VOLOKONOVSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102467,
+    "name": "YAKOVLEVO",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102469,
+    "name": "YAKOVLEVSKIY RAYON",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102665,
+    "name": "ZASOSNA",
+    "state": "BELGOROD",
+    "state_iso2": "BEL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "id": 85799,
+    "name": "BANIE MAZURSKIE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85807,
+    "name": "BARCIANY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85809,
+    "name": "BARCZEWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85813,
+    "name": "BARTOSZYCE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85835,
+    "name": "BIAŁA PISKA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85874,
+    "name": "BISKUPIEC",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85877,
+    "name": "BISZTYNEK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 85936,
+    "name": "BRANIEWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86145,
+    "name": "CZERWONKA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86172,
+    "name": "DOBRE MIASTO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86214,
+    "name": "DYWITY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86216,
+    "name": "DZIAŁDOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86245,
+    "name": "DĄBRÓWNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86263,
+    "name": "DŹWIERZUTY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86264,
+    "name": "ELBLĄG",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86265,
+    "name": "EŁK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86275,
+    "name": "FROMBORK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86300,
+    "name": "GIERZWAŁD",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86301,
+    "name": "GIERŁOŻ",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86302,
+    "name": "GIETRZWAŁD",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86305,
+    "name": "GIŻYCKO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86355,
+    "name": "GOŁDAP",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86382,
+    "name": "GRONOWO ELBLĄSKIE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86383,
+    "name": "GRONOWO GÓRNE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86417,
+    "name": "GÓROWO IŁAWECKIE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86472,
+    "name": "IŁAWA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86474,
+    "name": "IŁOWO -OSADA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86546,
+    "name": "JEDWABNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86556,
+    "name": "JEZIORANY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86567,
+    "name": "JONKOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86640,
+    "name": "KISIELICE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86706,
+    "name": "KORSZE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86707,
+    "name": "KORTOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86728,
+    "name": "KOWALE OLECKIE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86738,
+    "name": "KOZŁOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86791,
+    "name": "KRUKLANKI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86842,
+    "name": "KURZĘTNIK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86858,
+    "name": "KĘTRZYN",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86879,
+    "name": "LELKOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86899,
+    "name": "LIDZBARK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86900,
+    "name": "LIDZBARK WARMIŃSKI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86934,
+    "name": "LUBAWA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 86954,
+    "name": "LUBOMINO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87006,
+    "name": "MAŁDYTY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87042,
+    "name": "MIKOŁAJKI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87070,
+    "name": "MIŁAKOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87072,
+    "name": "MIŁOMŁYN",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87093,
+    "name": "MORĄG",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87106,
+    "name": "MRĄGOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87129,
+    "name": "MŁYNARY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87146,
+    "name": "NIDZICA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87186,
+    "name": "NOWE MIASTO LUBAWSKIE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87236,
+    "name": "OLECKO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87248,
+    "name": "OLSZTYN",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87249,
+    "name": "OLSZTYNEK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87268,
+    "name": "ORNETA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87274,
+    "name": "ORZYSZ",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87307,
+    "name": "OSTRÓDA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87351,
+    "name": "PASYM",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87353,
+    "name": "PASŁĘK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87374,
+    "name": "PIECKI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87380,
+    "name": "PIENIĘŻNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87398,
+    "name": "PISZ",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87773,
+    "name": "POZEZDRZE",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87791,
+    "name": "PROSTKI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87848,
+    "name": "PURDA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87939,
+    "name": "RESZEL",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87965,
+    "name": "ROZOGI",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87969,
+    "name": "RUCIANE-NIDA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 87996,
+    "name": "RYBNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88011,
+    "name": "RYN",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88163,
+    "name": "SROKOWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88184,
+    "name": "STARE JUCHY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88199,
+    "name": "STAWIGUDA",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88267,
+    "name": "SUSZ",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88276,
+    "name": "SWIĘTAJNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88305,
+    "name": "SZCZYTNO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88332,
+    "name": "SĘPOPOL",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88377,
+    "name": "TOLKMICKO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88498,
+    "name": "WIELBARK",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88611,
+    "name": "WYDMINY",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88641,
+    "name": "WĘGORZEWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  },
+  {
+    "id": 88688,
+    "name": "ZALEWO",
+    "state": "WARMIA-MASURIA",
+    "state_iso2": "28",
+    "country": "POLAND",
+    "country_iso2": "PL",
+    "country_iso3": "POL",
+    "country_native": "POLSKA"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": 2212,
+    "name": "ADANA",
+    "iso2": "01",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2155,
+    "name": "ADIYAMAN",
+    "iso2": "02",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2179,
+    "name": "AFYONKARAHISAR",
+    "iso2": "03",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2210,
+    "name": "AKSARAY",
+    "iso2": "68",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2161,
+    "name": "AMASYA",
+    "iso2": "05",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2217,
+    "name": "ANKARA",
+    "iso2": "06",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2169,
+    "name": "ANTALYA",
+    "iso2": "07",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2185,
+    "name": "ARDAHAN",
+    "iso2": "75",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2191,
+    "name": "ARTVIN",
+    "iso2": "08",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2187,
+    "name": "AYDIN",
+    "iso2": "09",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2193,
+    "name": "AĞRI",
+    "iso2": "04",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2175,
+    "name": "BALIKESIR",
+    "iso2": "10",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2148,
+    "name": "BARTIN",
+    "iso2": "74",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2194,
+    "name": "BATMAN",
+    "iso2": "72",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2177,
+    "name": "BAYBURT",
+    "iso2": "69",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2221,
+    "name": "BILECIK",
+    "iso2": "11",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2153,
+    "name": "BINGÖL",
+    "iso2": "12",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2215,
+    "name": "BITLIS",
+    "iso2": "13",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2172,
+    "name": "BOLU",
+    "iso2": "14",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2209,
+    "name": "BURDUR",
+    "iso2": "15",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2163,
+    "name": "BURSA",
+    "iso2": "16",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2157,
+    "name": "DENIZLI",
+    "iso2": "20",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2226,
+    "name": "DIYARBAKIR",
+    "iso2": "21",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2202,
+    "name": "DÜZCE",
+    "iso2": "81",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2151,
+    "name": "EDIRNE",
+    "iso2": "22",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2159,
+    "name": "ELAZIĞ",
+    "iso2": "23",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2160,
+    "name": "ERZINCAN",
+    "iso2": "24",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2165,
+    "name": "ERZURUM",
+    "iso2": "25",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2164,
+    "name": "ESKIŞEHIR",
+    "iso2": "26",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2203,
+    "name": "GAZIANTEP",
+    "iso2": "27",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2186,
+    "name": "GIRESUN",
+    "iso2": "28",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2204,
+    "name": "GÜMÜŞHANE",
+    "iso2": "29",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2190,
+    "name": "HAKKÂRI",
+    "iso2": "30",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2211,
+    "name": "HATAY",
+    "iso2": "31",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2222,
+    "name": "ISPARTA",
+    "iso2": "32",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2166,
+    "name": "IĞDIR",
+    "iso2": "76",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2227,
+    "name": "KAHRAMANMARAŞ",
+    "iso2": "46",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2223,
+    "name": "KARABÜK",
+    "iso2": "78",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2184,
+    "name": "KARAMAN",
+    "iso2": "70",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2208,
+    "name": "KARS",
+    "iso2": "36",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2197,
+    "name": "KASTAMONU",
+    "iso2": "37",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2200,
+    "name": "KAYSERI",
+    "iso2": "38",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2154,
+    "name": "KILIS",
+    "iso2": "79",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2178,
+    "name": "KIRIKKALE",
+    "iso2": "71",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2176,
+    "name": "KIRKLARELI",
+    "iso2": "39",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2180,
+    "name": "KIRŞEHIR",
+    "iso2": "40",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2195,
+    "name": "KOCAELI",
+    "iso2": "41",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2171,
+    "name": "KONYA",
+    "iso2": "42",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2149,
+    "name": "KÜTAHYA",
+    "iso2": "43",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2158,
+    "name": "MALATYA",
+    "iso2": "44",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2198,
+    "name": "MANISA",
+    "iso2": "45",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2224,
+    "name": "MARDIN",
+    "iso2": "47",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2156,
+    "name": "MERSIN",
+    "iso2": "33",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2182,
+    "name": "MUĞLA",
+    "iso2": "48",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2162,
+    "name": "MUŞ",
+    "iso2": "49",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2196,
+    "name": "NEVŞEHIR",
+    "iso2": "50",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2189,
+    "name": "NIĞDE",
+    "iso2": "51",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2174,
+    "name": "ORDU",
+    "iso2": "52",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2214,
+    "name": "OSMANIYE",
+    "iso2": "80",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2219,
+    "name": "RIZE",
+    "iso2": "53",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2150,
+    "name": "SAKARYA",
+    "iso2": "54",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2220,
+    "name": "SAMSUN",
+    "iso2": "55",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2207,
+    "name": "SIIRT",
+    "iso2": "56",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 4854,
+    "name": "SINOP",
+    "iso2": "57",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2181,
+    "name": "SIVAS",
+    "iso2": "58",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2167,
+    "name": "TEKIRDAĞ",
+    "iso2": "59",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2199,
+    "name": "TOKAT",
+    "iso2": "60",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2206,
+    "name": "TRABZON",
+    "iso2": "61",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2192,
+    "name": "TUNCELI",
+    "iso2": "62",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2201,
+    "name": "UŞAK",
+    "iso2": "64",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2152,
+    "name": "VAN",
+    "iso2": "65",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2218,
+    "name": "YALOVA",
+    "iso2": "77",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2188,
+    "name": "YOZGAT",
+    "iso2": "66",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2213,
+    "name": "ZONGULDAK",
+    "iso2": "67",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2216,
+    "name": "ÇANAKKALE",
+    "iso2": "17",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2168,
+    "name": "ÇANKIRI",
+    "iso2": "18",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2173,
+    "name": "ÇORUM",
+    "iso2": "19",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2170,
+    "name": "İSTANBUL",
+    "iso2": "34",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2205,
+    "name": "İZMIR",
+    "iso2": "35",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2183,
+    "name": "ŞANLIURFA",
+    "iso2": "63",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "id": 2225,
+    "name": "ŞIRNAK",
+    "iso2": "73",
+    "country": "TURKEY",
+    "country_iso2": "TR",
+    "country_iso3": "TUR",
+    "country_native": "TÜRKIYE",
+    "timezone": "Europe/Istanbul"
+  }
+]

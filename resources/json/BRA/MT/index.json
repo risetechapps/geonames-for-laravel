@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 10077,
+    "name": "ACORIZAL",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10150,
+    "name": "ALTA FLORESTA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10165,
+    "name": "ALTO ARAGUAIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10167,
+    "name": "ALTO BOA VISTA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10170,
+    "name": "ALTO GARÇAS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10174,
+    "name": "ALTO PARAGUAI",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10184,
+    "name": "ALTO TAQUARI",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10293,
+    "name": "APIACÁS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10319,
+    "name": "ARAGUAIANA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10320,
+    "name": "ARAGUAINHA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10343,
+    "name": "ARAPUTANGA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10390,
+    "name": "ARENÁPOLIS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10395,
+    "name": "ARIPUANÃ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10531,
+    "name": "BARRA DO BUGRES",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10535,
+    "name": "BARRA DO GARÇAS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10575,
+    "name": "BARÃO DE MELGAÇO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10709,
+    "name": "BOM JESUS DO ARAGUAIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10775,
+    "name": "BRASNORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10975,
+    "name": "CAMPINÁPOLIS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11001,
+    "name": "CAMPO NOVO DO PARECIS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11004,
+    "name": "CAMPO VERDE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11017,
+    "name": "CAMPOS DE JÚLIO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11022,
+    "name": "CANABRAVA DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11026,
+    "name": "CANARANA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11137,
+    "name": "CARLINDA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11185,
+    "name": "CASTANHEIRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11264,
+    "name": "CHAPADA DOS GUIMARÃES",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11301,
+    "name": "CLÁUDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11310,
+    "name": "COCALINHO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11327,
+    "name": "COLNIZA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11333,
+    "name": "COLÍDER",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11343,
+    "name": "COMODORO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11376,
+    "name": "CONFRESA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11383,
+    "name": "CONQUISTA D'OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11454,
+    "name": "COTRIGUAÇU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11507,
+    "name": "CUIABÁ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11539,
+    "name": "CURVELÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11542,
+    "name": "CÁCERES",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11572,
+    "name": "DENISE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11589,
+    "name": "DIAMANTINO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11622,
+    "name": "DOM AQUINO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11800,
+    "name": "FELIZ NATAL",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11819,
+    "name": "FIGUEIRÓPOLIS D'OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11932,
+    "name": "GAÚCHA DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11935,
+    "name": "GENERAL CARNEIRO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11951,
+    "name": "GLÓRIA D'OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12049,
+    "name": "GUARANTÃ DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12083,
+    "name": "GUIRATINGA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12242,
+    "name": "INDIAVAÍ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12277,
+    "name": "IPIRANGA DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12391,
+    "name": "ITANHANGÁ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12470,
+    "name": "ITAÚBA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12475,
+    "name": "ITIQUIRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12524,
+    "name": "JACIARA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12562,
+    "name": "JANGADA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12606,
+    "name": "JAURU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12668,
+    "name": "JUARA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12701,
+    "name": "JURUENA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12704,
+    "name": "JUSCIMEIRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12715,
+    "name": "JUÍNA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12789,
+    "name": "LAMBARI D'OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12856,
+    "name": "LUCAS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12857,
+    "name": "LUCAS DO RIO VERDE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12860,
+    "name": "LUCIARA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12993,
+    "name": "MARCELÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13074,
+    "name": "MATUPÁ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13150,
+    "name": "MIRASSOL D'OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13332,
+    "name": "NOBRES",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13335,
+    "name": "NORTELÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13342,
+    "name": "NOSSA SENHORA DO LIVRAMENTO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13355,
+    "name": "NOVA BANDEIRANTES",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13359,
+    "name": "NOVA BRASILÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13365,
+    "name": "NOVA CANAÃ DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13385,
+    "name": "NOVA GUARITA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13396,
+    "name": "NOVA LACERDA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13402,
+    "name": "NOVA MARILÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13403,
+    "name": "NOVA MARINGÁ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13404,
+    "name": "NOVA MONTE VERDE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13405,
+    "name": "NOVA MUTUM",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13407,
+    "name": "NOVA NAZARÉ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13414,
+    "name": "NOVA OLÍMPIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13432,
+    "name": "NOVA SANTA HELENA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13441,
+    "name": "NOVA UBIRATÃ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13448,
+    "name": "NOVA XAVANTINA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13463,
+    "name": "NOVO HORIZONTE DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13470,
+    "name": "NOVO MUNDO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13478,
+    "name": "NOVO SANTO ANTÔNIO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13479,
+    "name": "NOVO SÃO JOAQUIM",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13643,
+    "name": "PARANATINGA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13646,
+    "name": "PARANAÍTA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13757,
+    "name": "PEDRA PRETA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13789,
+    "name": "PEIXOTO DE AZEVEDO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13942,
+    "name": "PLANALTO DA SERRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13947,
+    "name": "POCONÉ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13961,
+    "name": "PONTAL DO ARAGUAIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13969,
+    "name": "PONTE BRANCA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13974,
+    "name": "PONTES E LACERDA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13995,
+    "name": "PORTO ALEGRE DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14028,
+    "name": "PORTO DOS GAÚCHOS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14002,
+    "name": "PORTO ESPERIDIÃO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14003,
+    "name": "PORTO ESTRELA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14042,
+    "name": "POXORÉO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14043,
+    "name": "POXORÉU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14103,
+    "name": "PRIMAVERA DO LESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14145,
+    "name": "QUERÊNCIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14200,
+    "name": "RESERVA DO CABAÇAL",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14239,
+    "name": "RIBEIRÃO CASCALHEIRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14252,
+    "name": "RIBEIRÃOZINHO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14264,
+    "name": "RIO BRANCO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14343,
+    "name": "RONDOLÂNDIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14346,
+    "name": "RONDONÓPOLIS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14351,
+    "name": "ROSÁRIO OESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14400,
+    "name": "SALTO DO CÉU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14431,
+    "name": "SANTA CARMEM",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14457,
+    "name": "SANTA CRUZ DO XINGU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14539,
+    "name": "SANTA RITA DO TRIVELATO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14560,
+    "name": "SANTA TEREZINHA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14602,
+    "name": "SANTO AFONSO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14631,
+    "name": "SANTO ANTÔNIO DO LESTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14632,
+    "name": "SANTO ANTÔNIO DO LEVERGER",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14657,
+    "name": "SAPEZAL",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14731,
+    "name": "SERRA NOVA DOURADA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14791,
+    "name": "SINOP",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14812,
+    "name": "SORRISO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14902,
+    "name": "SÃO FÉLIX DO ARAGUAIA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14982,
+    "name": "SÃO JOSÉ DO POVO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14983,
+    "name": "SÃO JOSÉ DO RIO CLARO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14990,
+    "name": "SÃO JOSÉ DO XINGU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14996,
+    "name": "SÃO JOSÉ DOS QUATRO MARCOS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15109,
+    "name": "SÃO PEDRO DA CIPA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15182,
+    "name": "TABAPORÃ",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15217,
+    "name": "TANGARÁ DA SERRA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15239,
+    "name": "TAPURAH",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15293,
+    "name": "TERRA NOVA DO NORTE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15299,
+    "name": "TESOURO",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15338,
+    "name": "TORIXORÉU",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15462,
+    "name": "UNIÃO DO SUL",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15493,
+    "name": "VALE DE SÃO DOMINGOS",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15531,
+    "name": "VERA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15565,
+    "name": "VILA BELA DA SANTÍSSIMA TRINDADE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15576,
+    "name": "VILA RICA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15618,
+    "name": "VÁRZEA GRANDE",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15649,
+    "name": "ÁGUA BOA",
+    "state": "MATO GROSSO",
+    "state_iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

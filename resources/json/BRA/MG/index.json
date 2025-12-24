@@ -1,0 +1,8562 @@
+[
+  {
+    "id": 10054,
+    "name": "ABADIA DOS DOURADOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10057,
+    "name": "ABAETÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10065,
+    "name": "ABRE CAMPO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10068,
+    "name": "ACAIACA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10095,
+    "name": "AGUANIL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10102,
+    "name": "AIMORÉS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10105,
+    "name": "AIURUOCA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10107,
+    "name": "ALAGOA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10115,
+    "name": "ALBERTINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10130,
+    "name": "ALFENAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10133,
+    "name": "ALFREDO VASCONCELOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10142,
+    "name": "ALMENARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10147,
+    "name": "ALPERCATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10149,
+    "name": "ALPINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10157,
+    "name": "ALTEROSA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10168,
+    "name": "ALTO CAPARAÓ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10172,
+    "name": "ALTO JEQUITIBÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10181,
+    "name": "ALTO RIO DOCE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10190,
+    "name": "ALVARENGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10193,
+    "name": "ALVINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10197,
+    "name": "ALVORADA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10201,
+    "name": "ALÉM PARAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10220,
+    "name": "AMPARO DA SERRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10245,
+    "name": "ANDRADAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10247,
+    "name": "ANDRELÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10252,
+    "name": "ANGELÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10273,
+    "name": "ANTÔNIO CARLOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10275,
+    "name": "ANTÔNIO DIAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10281,
+    "name": "ANTÔNIO PRADO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10312,
+    "name": "ARACITABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10324,
+    "name": "ARAGUARI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10335,
+    "name": "ARANTINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10339,
+    "name": "ARAPONGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10341,
+    "name": "ARAPORÃ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10344,
+    "name": "ARAPUÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10365,
+    "name": "ARAXÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10369,
+    "name": "ARAÇAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10373,
+    "name": "ARAÇUAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10375,
+    "name": "ARAÚJOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10376,
+    "name": "ARCEBURGO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10378,
+    "name": "ARCOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10380,
+    "name": "AREADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10392,
+    "name": "ARGIRITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10393,
+    "name": "ARICANDUVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10394,
+    "name": "ARINOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10432,
+    "name": "ASTOLFO DUTRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10438,
+    "name": "ATALÉIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10446,
+    "name": "AUGUSTO DE LIMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10465,
+    "name": "AÇUCENA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10472,
+    "name": "BAEPENDI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10482,
+    "name": "BALDIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10493,
+    "name": "BAMBUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10497,
+    "name": "BANDEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10498,
+    "name": "BANDEIRA DO SUL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10507,
+    "name": "BARBACENA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10519,
+    "name": "BARRA LONGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10555,
+    "name": "BARREIRO DO JAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10568,
+    "name": "BARROSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10572,
+    "name": "BARÃO DE COCAIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10576,
+    "name": "BARÃO DE MONTE ALTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10597,
+    "name": "BELA VISTA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10603,
+    "name": "BELMIRO BRAGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10607,
+    "name": "BELO HORIZONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10610,
+    "name": "BELO ORIENTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10611,
+    "name": "BELO VALE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10632,
+    "name": "BERILO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10633,
+    "name": "BERIZAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10640,
+    "name": "BERTÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10642,
+    "name": "BETIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10646,
+    "name": "BIAS FORTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10647,
+    "name": "BICAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10650,
+    "name": "BIQUINHAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10658,
+    "name": "BOA ESPERANÇA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10681,
+    "name": "BOCAINA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10683,
+    "name": "BOCAIÚVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10691,
+    "name": "BOM DESPACHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10697,
+    "name": "BOM JARDIM DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10704,
+    "name": "BOM JESUS DA PENHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10708,
+    "name": "BOM JESUS DO AMPARO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10710,
+    "name": "BOM JESUS DO GALHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10722,
+    "name": "BOM REPOUSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10726,
+    "name": "BOM SUCESSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10731,
+    "name": "BONFIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10734,
+    "name": "BONFINÓPOLIS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10740,
+    "name": "BONITO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10752,
+    "name": "BORDA DA MATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10757,
+    "name": "BOTELHOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10759,
+    "name": "BOTUMIRIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10771,
+    "name": "BRASILÂNDIA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10777,
+    "name": "BRASÍLIA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10779,
+    "name": "BRAZÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10783,
+    "name": "BRAÚNAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10809,
+    "name": "BRUMADINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10813,
+    "name": "BRÁS PIRES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10814,
+    "name": "BUENO BRANDÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10816,
+    "name": "BUENÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10818,
+    "name": "BUGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10835,
+    "name": "BURITIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10837,
+    "name": "BURITIZEIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10847,
+    "name": "CABECEIRA GRANDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10854,
+    "name": "CABO VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10867,
+    "name": "CACHOEIRA DA PRATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10869,
+    "name": "CACHOEIRA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10870,
+    "name": "CACHOEIRA DE PAJEÚ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10863,
+    "name": "CACHOEIRA DOURADA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10889,
+    "name": "CAETANÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10891,
+    "name": "CAETÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10899,
+    "name": "CAIANA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10921,
+    "name": "CAJURI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10923,
+    "name": "CALDAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10935,
+    "name": "CAMACHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10938,
+    "name": "CAMANDUCAIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10949,
+    "name": "CAMBUQUIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10950,
+    "name": "CAMBUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10955,
+    "name": "CAMPANHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10956,
+    "name": "CAMPANÁRIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10958,
+    "name": "CAMPESTRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10964,
+    "name": "CAMPINA VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10981,
+    "name": "CAMPO AZUL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10982,
+    "name": "CAMPO BELO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11006,
+    "name": "CAMPO DO MEIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10987,
+    "name": "CAMPO FLORIDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11008,
+    "name": "CAMPOS ALTOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11011,
+    "name": "CAMPOS GERAIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11021,
+    "name": "CANA VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11030,
+    "name": "CANAÃ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11034,
+    "name": "CANDEIAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11053,
+    "name": "CANTAGALO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11061,
+    "name": "CANÁPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11064,
+    "name": "CAPARAÓ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11067,
+    "name": "CAPELA NOVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11071,
+    "name": "CAPELINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11072,
+    "name": "CAPETINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11074,
+    "name": "CAPIM BRANCO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11078,
+    "name": "CAPINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11081,
+    "name": "CAPITÃO ANDRADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11082,
+    "name": "CAPITÃO ENÉAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11087,
+    "name": "CAPITÓLIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11093,
+    "name": "CAPUTIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11105,
+    "name": "CARANAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11106,
+    "name": "CARANDAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11107,
+    "name": "CARANGOLA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11110,
+    "name": "CARATINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11115,
+    "name": "CARAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11120,
+    "name": "CARBONITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11124,
+    "name": "CAREAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11139,
+    "name": "CARLOS CHAGAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11143,
+    "name": "CARMO DA CACHOEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11144,
+    "name": "CARMO DA MATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11145,
+    "name": "CARMO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11146,
+    "name": "CARMO DO CAJURU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11147,
+    "name": "CARMO DO PARANAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11148,
+    "name": "CARMO DO RIO CLARO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11151,
+    "name": "CARMÉSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11153,
+    "name": "CARMÓPOLIS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11159,
+    "name": "CARNEIRINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11163,
+    "name": "CARRANCAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11168,
+    "name": "CARVALHOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11169,
+    "name": "CARVALHÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11172,
+    "name": "CASA GRANDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11175,
+    "name": "CASCALHO RICO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11193,
+    "name": "CATAGUASES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11199,
+    "name": "CATAS ALTAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11200,
+    "name": "CATAS ALTAS DA NORUEGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11207,
+    "name": "CATUJI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11212,
+    "name": "CATUTI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11216,
+    "name": "CAXAMBU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11233,
+    "name": "CEDRO DO ABAETÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11239,
+    "name": "CENTRAL DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11241,
+    "name": "CENTRALINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11258,
+    "name": "CHALÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11263,
+    "name": "CHAPADA DO NORTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11260,
+    "name": "CHAPADA GAÚCHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11276,
+    "name": "CHIADOR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11285,
+    "name": "CHÁCARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11294,
+    "name": "CIPOTÂNEA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11297,
+    "name": "CLARAVAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11298,
+    "name": "CLARO DOS POÇÕES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11302,
+    "name": "CLÁUDIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11316,
+    "name": "COIMBRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11332,
+    "name": "COLUNA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11340,
+    "name": "COMENDADOR GOMES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11342,
+    "name": "COMERCINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11345,
+    "name": "CONCEIÇÃO DA APARECIDA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11347,
+    "name": "CONCEIÇÃO DA BARRA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11349,
+    "name": "CONCEIÇÃO DAS ALAGOAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11350,
+    "name": "CONCEIÇÃO DAS PEDRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11351,
+    "name": "CONCEIÇÃO DE IPANEMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11360,
+    "name": "CONCEIÇÃO DO MATO DENTRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11361,
+    "name": "CONCEIÇÃO DO PARÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11362,
+    "name": "CONCEIÇÃO DO RIO VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11364,
+    "name": "CONCEIÇÃO DOS OUROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11375,
+    "name": "CONFINS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11378,
+    "name": "CONGONHAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11379,
+    "name": "CONGONHAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11380,
+    "name": "CONGONHAS DO NORTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11382,
+    "name": "CONQUISTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11384,
+    "name": "CONSELHEIRO LAFAIETE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11386,
+    "name": "CONSELHEIRO PENA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11387,
+    "name": "CONSOLAÇÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11389,
+    "name": "CONTAGEM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11392,
+    "name": "COQUEIRAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11396,
+    "name": "CORAÇÃO DE JESUS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11403,
+    "name": "CORDISBURGO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11404,
+    "name": "CORDISLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11409,
+    "name": "CORINTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11411,
+    "name": "COROACI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11414,
+    "name": "COROMANDEL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11419,
+    "name": "CORONEL FABRICIANO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11426,
+    "name": "CORONEL MURTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11427,
+    "name": "CORONEL PACHECO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11431,
+    "name": "CORONEL XAVIER CHAVES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11456,
+    "name": "COUTO DE MAGALHÃES DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11467,
+    "name": "CRISTAIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11474,
+    "name": "CRISTIANO OTONI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11476,
+    "name": "CRISTINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11479,
+    "name": "CRISTÁLIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11481,
+    "name": "CRISÓLITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11487,
+    "name": "CRUCILÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11495,
+    "name": "CRUZEIRO DA FORTALEZA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11504,
+    "name": "CRUZÍLIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11519,
+    "name": "CUPARAQUE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11532,
+    "name": "CURRAL DE DENTRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11538,
+    "name": "CURVELO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11543,
+    "name": "CÁSSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11553,
+    "name": "CÓRREGO DANTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11556,
+    "name": "CÓRREGO DO BOM JESUS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11554,
+    "name": "CÓRREGO FUNDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11555,
+    "name": "CÓRREGO NOVO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11558,
+    "name": "CÔNEGO MARINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11563,
+    "name": "DATAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11567,
+    "name": "DELFIM MOREIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11568,
+    "name": "DELFINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11570,
+    "name": "DELTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11578,
+    "name": "DESCOBERTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11580,
+    "name": "DESTERRO DE ENTRE RIOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11581,
+    "name": "DESTERRO DO MELO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11588,
+    "name": "DIAMANTINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11593,
+    "name": "DIOGO DE VASCONCELOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11594,
+    "name": "DIONÍSIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11600,
+    "name": "DIVINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11601,
+    "name": "DIVINO DAS LARANJEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11604,
+    "name": "DIVINOLÂNDIA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11605,
+    "name": "DIVINÉSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11606,
+    "name": "DIVINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11609,
+    "name": "DIVISA ALEGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11610,
+    "name": "DIVISA NOVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11611,
+    "name": "DIVISÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11624,
+    "name": "DOM BOSCO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11625,
+    "name": "DOM CAVATI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11630,
+    "name": "DOM JOAQUIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11635,
+    "name": "DOM SILVÉRIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11636,
+    "name": "DOM VIÇOSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11640,
+    "name": "DONA EUSÉBIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11643,
+    "name": "DORES DE CAMPOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11644,
+    "name": "DORES DE GUANHÃES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11645,
+    "name": "DORES DO INDAIÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11647,
+    "name": "DORES DO TURVO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11648,
+    "name": "DORESÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11653,
+    "name": "DOURADOQUARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11670,
+    "name": "DURANDÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11686,
+    "name": "ELÓI MENDES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11699,
+    "name": "ENGENHEIRO CALDAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11701,
+    "name": "ENGENHEIRO NAVARRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11704,
+    "name": "ENTRE FOLHAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11707,
+    "name": "ENTRE RIOS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11723,
+    "name": "ERVÁLIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11726,
+    "name": "ESMERALDAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11727,
+    "name": "ESPERA FELIZ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11736,
+    "name": "ESPINOSA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11740,
+    "name": "ESPÍRITO SANTO DO DOURADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11745,
+    "name": "ESTIVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11749,
+    "name": "ESTRELA DALVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11753,
+    "name": "ESTRELA DO INDAIÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11756,
+    "name": "ESTRELA DO SUL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11761,
+    "name": "EUGENÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11765,
+    "name": "EWBANK DA CÂMARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11767,
+    "name": "EXTREMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11773,
+    "name": "FAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11774,
+    "name": "FARIA LEMOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11796,
+    "name": "FELISBURGO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11797,
+    "name": "FELIXLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11801,
+    "name": "FELÍCIO DOS SANTOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11803,
+    "name": "FERNANDES TOURINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11814,
+    "name": "FERROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11815,
+    "name": "FERVEDOURO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11839,
+    "name": "FLORESTAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11850,
+    "name": "FORMIGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11857,
+    "name": "FORMOSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11864,
+    "name": "FORTALEZA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11870,
+    "name": "FORTUNA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11878,
+    "name": "FRANCISCO BADARÓ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11881,
+    "name": "FRANCISCO DUMONT",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11885,
+    "name": "FRANCISCO SÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11886,
+    "name": "FRANCISCÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11891,
+    "name": "FREI GASPAR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11892,
+    "name": "FREI INOCÊNCIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11893,
+    "name": "FREI LAGONEGRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11898,
+    "name": "FRONTEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11899,
+    "name": "FRONTEIRA DOS VALES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11901,
+    "name": "FRUTA DE LEITE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11902,
+    "name": "FRUTAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11905,
+    "name": "FUNILÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11912,
+    "name": "GALILÉIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11917,
+    "name": "GAMELEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11947,
+    "name": "GLAUCILÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11956,
+    "name": "GOIABEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11962,
+    "name": "GOIANÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11973,
+    "name": "GONZAGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11974,
+    "name": "GONÇALVES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11976,
+    "name": "GOUVEIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11990,
+    "name": "GOVERNADOR VALADARES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12007,
+    "name": "GRUPIARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12008,
+    "name": "GRÃO MOGOL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12025,
+    "name": "GUANHÃES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12032,
+    "name": "GUAPÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12037,
+    "name": "GUARACIABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12040,
+    "name": "GUARACIAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12043,
+    "name": "GUARANI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12050,
+    "name": "GUARANÉSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12056,
+    "name": "GUARARÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12063,
+    "name": "GUARDA-MOR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12074,
+    "name": "GUAXUPÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12080,
+    "name": "GUIDOVAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12081,
+    "name": "GUIMARÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12084,
+    "name": "GUIRICEMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12085,
+    "name": "GURINHATÃ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12094,
+    "name": "HELIODORA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12116,
+    "name": "IAPU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12127,
+    "name": "IBERTIOGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12133,
+    "name": "IBIAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12144,
+    "name": "IBIRACATU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12145,
+    "name": "IBIRACI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12155,
+    "name": "IBIRITÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12162,
+    "name": "IBITIÚRA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12163,
+    "name": "IBITURUNA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12164,
+    "name": "IBIÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12168,
+    "name": "ICARAÍ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12181,
+    "name": "IGARAPÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12189,
+    "name": "IGARATINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12199,
+    "name": "IGUATAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12204,
+    "name": "IJACI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12215,
+    "name": "ILICÍNEA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12224,
+    "name": "IMBÉ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12230,
+    "name": "INCONFIDENTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12231,
+    "name": "INDAIABIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12237,
+    "name": "INDIANÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12244,
+    "name": "INGAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12250,
+    "name": "INHAPIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12251,
+    "name": "INHAÚMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12254,
+    "name": "INIMUTABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12259,
+    "name": "IPABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12261,
+    "name": "IPANEMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12264,
+    "name": "IPATINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12271,
+    "name": "IPIAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12295,
+    "name": "IPUIÚNA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12316,
+    "name": "IRAÍ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12333,
+    "name": "ITABIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12334,
+    "name": "ITABIRINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12335,
+    "name": "ITABIRITO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12339,
+    "name": "ITACAMBIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12340,
+    "name": "ITACARAMBI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12351,
+    "name": "ITAGUARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12361,
+    "name": "ITAIPÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12370,
+    "name": "ITAJUBÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12377,
+    "name": "ITAMARANDIBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12379,
+    "name": "ITAMARATI DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12381,
+    "name": "ITAMBACURI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12386,
+    "name": "ITAMBÉ DO MATO DENTRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12387,
+    "name": "ITAMOGI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12388,
+    "name": "ITAMONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12390,
+    "name": "ITANHANDU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12393,
+    "name": "ITANHOMI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12395,
+    "name": "ITAOBIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12399,
+    "name": "ITAPAGIPE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12404,
+    "name": "ITAPECERICA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12415,
+    "name": "ITAPEVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12455,
+    "name": "ITATIAIUÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12465,
+    "name": "ITAVERAVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12469,
+    "name": "ITAÚ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12471,
+    "name": "ITAÚNA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12473,
+    "name": "ITINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12485,
+    "name": "ITUETA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12486,
+    "name": "ITUIUTABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12488,
+    "name": "ITUMIRIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12492,
+    "name": "ITURAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12493,
+    "name": "ITUTINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12516,
+    "name": "JABOTICATUBAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12525,
+    "name": "JACINTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12533,
+    "name": "JACUTINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12534,
+    "name": "JACUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12539,
+    "name": "JAGUARAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12554,
+    "name": "JAMPRUCA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12555,
+    "name": "JANAÚBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12564,
+    "name": "JANUÁRIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12568,
+    "name": "JAPARAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12573,
+    "name": "JAPONVAR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12608,
+    "name": "JAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12611,
+    "name": "JECEABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12612,
+    "name": "JENIPAPO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12614,
+    "name": "JEQUERI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12615,
+    "name": "JEQUITAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12616,
+    "name": "JEQUITIBÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12617,
+    "name": "JEQUITINHONHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12625,
+    "name": "JESUÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12634,
+    "name": "JOANÉSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12636,
+    "name": "JOAQUIM FELÍCIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12642,
+    "name": "JOAÍMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12646,
+    "name": "JORDÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12649,
+    "name": "JOSENÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12652,
+    "name": "JOSÉ GONÇALVES DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12653,
+    "name": "JOSÉ RAYDAN",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12663,
+    "name": "JOÃO MONLEVADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12666,
+    "name": "JOÃO PINHEIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12671,
+    "name": "JUATUBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12680,
+    "name": "JUIZ DE FORA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12694,
+    "name": "JURAMENTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12700,
+    "name": "JURUAIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12712,
+    "name": "JUVENÍLIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12722,
+    "name": "LADAINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12725,
+    "name": "LAGAMAR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12751,
+    "name": "LAGOA DA PRATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12766,
+    "name": "LAGOA DOS PATOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12736,
+    "name": "LAGOA DOURADA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12737,
+    "name": "LAGOA FORMOSA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12739,
+    "name": "LAGOA GRANDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12744,
+    "name": "LAGOA SANTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12786,
+    "name": "LAJINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12788,
+    "name": "LAMBARI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12790,
+    "name": "LAMIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12795,
+    "name": "LARANJAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12801,
+    "name": "LASSANCE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12808,
+    "name": "LAVRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12813,
+    "name": "LEANDRO FERREIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12816,
+    "name": "LEME DO PRADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12820,
+    "name": "LEOPOLDINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12824,
+    "name": "LIBERDADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12828,
+    "name": "LIMA DUARTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12830,
+    "name": "LIMEIRA DO OESTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12850,
+    "name": "LONTRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12863,
+    "name": "LUISBURGO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12864,
+    "name": "LUISLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12868,
+    "name": "LUMINÁRIAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12873,
+    "name": "LUZ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12897,
+    "name": "MACHACALIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12900,
+    "name": "MACHADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12908,
+    "name": "MADRE DE DEUS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12924,
+    "name": "MALACACHETA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12934,
+    "name": "MAMONAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12946,
+    "name": "MANGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12949,
+    "name": "MANHUAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12950,
+    "name": "MANHUMIRIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12958,
+    "name": "MANTENA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12962,
+    "name": "MAR DE ESPANHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12987,
+    "name": "MARAVILHAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13005,
+    "name": "MARIA DA FÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13007,
+    "name": "MARIANA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13013,
+    "name": "MARILAC",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13021,
+    "name": "MARIPÁ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13026,
+    "name": "MARLIÉRIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13028,
+    "name": "MARMELÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13031,
+    "name": "MARTINHO CAMPOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13033,
+    "name": "MARTINS SOARES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13048,
+    "name": "MATA VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13053,
+    "name": "MATERLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13054,
+    "name": "MATEUS LEME",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13055,
+    "name": "MATHIAS LOBATO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13056,
+    "name": "MATIAS BARBOSA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13057,
+    "name": "MATIAS CARDOSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13063,
+    "name": "MATIPÓ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13069,
+    "name": "MATO VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13071,
+    "name": "MATOZINHOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13076,
+    "name": "MATUTINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13090,
+    "name": "MEDEIROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13094,
+    "name": "MEDINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13098,
+    "name": "MENDES PIMENTEL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13101,
+    "name": "MERCÊS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13105,
+    "name": "MESQUITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13122,
+    "name": "MINAS NOVAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13125,
+    "name": "MINDURI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13130,
+    "name": "MIRABELA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13136,
+    "name": "MIRADOURO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13152,
+    "name": "MIRAVÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13153,
+    "name": "MIRAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13162,
+    "name": "MOEDA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13163,
+    "name": "MOEMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13176,
+    "name": "MONJOLOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13179,
+    "name": "MONSENHOR PAULO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13182,
+    "name": "MONTALVÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13189,
+    "name": "MONTE ALEGRE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13196,
+    "name": "MONTE AZUL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13198,
+    "name": "MONTE BELO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13201,
+    "name": "MONTE CARMELO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13204,
+    "name": "MONTE FORMOSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13209,
+    "name": "MONTE SANTO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13211,
+    "name": "MONTE SIÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13212,
+    "name": "MONTE VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13220,
+    "name": "MONTES CLAROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13222,
+    "name": "MONTEZUMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13228,
+    "name": "MORADA NOVA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13247,
+    "name": "MORRO DA GARÇA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13250,
+    "name": "MORRO DO PILAR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13272,
+    "name": "MUNHOZ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13278,
+    "name": "MURIAÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13285,
+    "name": "MUTUM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13288,
+    "name": "MUZAMBINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13290,
+    "name": "MÁRIO CAMPOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13294,
+    "name": "NACIP RAYDAN",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13296,
+    "name": "NANUQUE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13297,
+    "name": "NAQUE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13300,
+    "name": "NATALÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13305,
+    "name": "NATÉRCIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13308,
+    "name": "NAZARENO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13317,
+    "name": "NEPOMUCENO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13327,
+    "name": "NINHEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13357,
+    "name": "NOVA BELÉM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13372,
+    "name": "NOVA ERA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13398,
+    "name": "NOVA LIMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13406,
+    "name": "NOVA MÓDICA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13419,
+    "name": "NOVA PONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13420,
+    "name": "NOVA PORTEIRINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13426,
+    "name": "NOVA RESENDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13436,
+    "name": "NOVA SERRANA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13443,
+    "name": "NOVA UNIÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13457,
+    "name": "NOVO CRUZEIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13472,
+    "name": "NOVO ORIENTE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13483,
+    "name": "NOVORIZONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13493,
+    "name": "OLARIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13501,
+    "name": "OLHOS-D'ÁGUA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13506,
+    "name": "OLIVEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13507,
+    "name": "OLIVEIRA FORTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13512,
+    "name": "OLÍMPIO NORONHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13514,
+    "name": "ONÇA DE PITANGUI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13515,
+    "name": "ORATÓRIOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13520,
+    "name": "ORIZÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13540,
+    "name": "OURO BRANCO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13541,
+    "name": "OURO FINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13542,
+    "name": "OURO PRETO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13548,
+    "name": "OURO VERDE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13562,
+    "name": "PADRE CARVALHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13564,
+    "name": "PADRE PARAÍSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13566,
+    "name": "PAI PEDRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13569,
+    "name": "PAINEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13571,
+    "name": "PAINS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13572,
+    "name": "PAIVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13581,
+    "name": "PALMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13610,
+    "name": "PALMÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13620,
+    "name": "PAPAGAIOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13624,
+    "name": "PARACATU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13627,
+    "name": "PARAGUAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13632,
+    "name": "PARAISÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13650,
+    "name": "PARAOPEBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13684,
+    "name": "PARÁ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13685,
+    "name": "PASSA QUATRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13687,
+    "name": "PASSA TEMPO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13689,
+    "name": "PASSA-VINTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13690,
+    "name": "PASSABÉM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13700,
+    "name": "PASSOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13703,
+    "name": "PATIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13707,
+    "name": "PATOS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13709,
+    "name": "PATROCÍNIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13711,
+    "name": "PATROCÍNIO DO MURIAÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13721,
+    "name": "PAULA CÂNDIDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13729,
+    "name": "PAULISTAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13741,
+    "name": "PAVÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13746,
+    "name": "PEDRA AZUL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13748,
+    "name": "PEDRA BONITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13758,
+    "name": "PEDRA DO ANTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13759,
+    "name": "PEDRA DO INDAIÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13752,
+    "name": "PEDRA DOURADA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13760,
+    "name": "PEDRALVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13765,
+    "name": "PEDRAS DE MARIA DA CRUZ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13771,
+    "name": "PEDRINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13779,
+    "name": "PEDRO LEOPOLDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13782,
+    "name": "PEDRO TEIXEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13799,
+    "name": "PEQUERI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13800,
+    "name": "PEQUI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13802,
+    "name": "PERDIGÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13803,
+    "name": "PERDIZES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13804,
+    "name": "PERDÕES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13809,
+    "name": "PERIQUITO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13815,
+    "name": "PESCADOR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13822,
+    "name": "PEÇANHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13826,
+    "name": "PIAU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13832,
+    "name": "PIEDADE DE CARATINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13833,
+    "name": "PIEDADE DE PONTE NOVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13834,
+    "name": "PIEDADE DO RIO GRANDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13835,
+    "name": "PIEDADE DOS GERAIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13844,
+    "name": "PIMENTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13857,
+    "name": "PINGO-D'ÁGUA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13877,
+    "name": "PINTÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13885,
+    "name": "PIRACEMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13889,
+    "name": "PIRAJUBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13892,
+    "name": "PIRANGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13894,
+    "name": "PIRANGUINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13895,
+    "name": "PIRANGUÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13899,
+    "name": "PIRAPETINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13900,
+    "name": "PIRAPORA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13913,
+    "name": "PIRAÚBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13924,
+    "name": "PITANGUI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13927,
+    "name": "PIUMHI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13928,
+    "name": "PIUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13943,
+    "name": "PLANURA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13948,
+    "name": "POCRANE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13955,
+    "name": "POMPÉU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13970,
+    "name": "PONTE NOVA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13976,
+    "name": "PONTO CHIQUE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13978,
+    "name": "PONTO DOS VOLANTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13988,
+    "name": "PORTEIRINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14006,
+    "name": "PORTO FIRME",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14037,
+    "name": "POTÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14038,
+    "name": "POUSO ALEGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14039,
+    "name": "POUSO ALTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14047,
+    "name": "POÇO FUNDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14053,
+    "name": "POÇOS DE CALDAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14061,
+    "name": "PRADOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14069,
+    "name": "PRATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14071,
+    "name": "PRATINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14072,
+    "name": "PRATÁPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14076,
+    "name": "PRESIDENTE BERNARDES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14085,
+    "name": "PRESIDENTE JUSCELINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14089,
+    "name": "PRESIDENTE KUBITSCHEK",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14094,
+    "name": "PRESIDENTE OLEGÁRIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14113,
+    "name": "PRUDENTE DE MORAIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14127,
+    "name": "QUARTEL GERAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14144,
+    "name": "QUELUZITO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14175,
+    "name": "RAPOSOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14176,
+    "name": "RAUL SOARES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14180,
+    "name": "RECREIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14187,
+    "name": "REDUTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14198,
+    "name": "RESENDE COSTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14203,
+    "name": "RESPLENDOR",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14204,
+    "name": "RESSAQUINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14209,
+    "name": "RIACHINHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14217,
+    "name": "RIACHO DOS MACHADOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14247,
+    "name": "RIBEIRÃO DAS NEVES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14245,
+    "name": "RIBEIRÃO VERMELHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14257,
+    "name": "RIO ACIMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14268,
+    "name": "RIO CASCA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14315,
+    "name": "RIO DO PRADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14272,
+    "name": "RIO DOCE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14273,
+    "name": "RIO ESPERA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14280,
+    "name": "RIO MANSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14285,
+    "name": "RIO NOVO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14287,
+    "name": "RIO PARANAÍBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14289,
+    "name": "RIO PARDO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14290,
+    "name": "RIO PIRACICABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14291,
+    "name": "RIO POMBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14292,
+    "name": "RIO PRETO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14302,
+    "name": "RIO VERMELHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14323,
+    "name": "RITÁPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14327,
+    "name": "ROCHEDO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14330,
+    "name": "RODEIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14338,
+    "name": "ROMARIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14352,
+    "name": "ROSÁRIO DA LIMEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14357,
+    "name": "RUBELITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14359,
+    "name": "RUBIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14366,
+    "name": "SABARÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14368,
+    "name": "SABINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14372,
+    "name": "SACRAMENTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14387,
+    "name": "SALINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14398,
+    "name": "SALTO DA DIVISA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14423,
+    "name": "SANTA BÁRBARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14426,
+    "name": "SANTA BÁRBARA DO LESTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14427,
+    "name": "SANTA BÁRBARA DO MONTE VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14430,
+    "name": "SANTA BÁRBARA DO TUGÚRIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14448,
+    "name": "SANTA CRUZ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14450,
+    "name": "SANTA CRUZ DE SALINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14453,
+    "name": "SANTA CRUZ DO ESCALVADO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14459,
+    "name": "SANTA EFIGÊNIA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14466,
+    "name": "SANTA FÉ DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14475,
+    "name": "SANTA HELENA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14486,
+    "name": "SANTA JULIANA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14490,
+    "name": "SANTA LUZIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14500,
+    "name": "SANTA MARGARIDA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14509,
+    "name": "SANTA MARIA DE ITABIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14515,
+    "name": "SANTA MARIA DO SALTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14516,
+    "name": "SANTA MARIA DO SUAÇUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14527,
+    "name": "SANTA RITA DE CALDAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14529,
+    "name": "SANTA RITA DE IBITIPOCA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14530,
+    "name": "SANTA RITA DE JACUTINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14531,
+    "name": "SANTA RITA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14533,
+    "name": "SANTA RITA DO ITUETO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14537,
+    "name": "SANTA RITA DO SAPUCAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14541,
+    "name": "SANTA ROSA DA SERRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14565,
+    "name": "SANTA VITÓRIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14572,
+    "name": "SANTANA DA VARGEM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14573,
+    "name": "SANTANA DE CATAGUASES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14576,
+    "name": "SANTANA DE PIRAPAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14580,
+    "name": "SANTANA DO DESERTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14581,
+    "name": "SANTANA DO GARAMBÉU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14584,
+    "name": "SANTANA DO JACARÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14586,
+    "name": "SANTANA DO MANHUAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14590,
+    "name": "SANTANA DO PARAÍSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14592,
+    "name": "SANTANA DO RIACHO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14596,
+    "name": "SANTANA DOS MONTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14621,
+    "name": "SANTO ANTÔNIO DO AMPARO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14623,
+    "name": "SANTO ANTÔNIO DO AVENTUREIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14626,
+    "name": "SANTO ANTÔNIO DO GRAMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14627,
+    "name": "SANTO ANTÔNIO DO ITAMBÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14629,
+    "name": "SANTO ANTÔNIO DO JACINTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14633,
+    "name": "SANTO ANTÔNIO DO MONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14638,
+    "name": "SANTO ANTÔNIO DO RETIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14639,
+    "name": "SANTO ANTÔNIO DO RIO ABAIXO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14649,
+    "name": "SANTO HIPÓLITO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14654,
+    "name": "SANTOS DUMONT",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14664,
+    "name": "SAPUCAÍ-MIRIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14670,
+    "name": "SARDOÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14672,
+    "name": "SARZEDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14691,
+    "name": "SEM-PEIXE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14694,
+    "name": "SENADOR AMARAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14696,
+    "name": "SENADOR CORTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14698,
+    "name": "SENADOR FIRMINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14701,
+    "name": "SENADOR JOSÉ BENTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14704,
+    "name": "SENADOR MODESTINO GONÇALVES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14711,
+    "name": "SENHORA DE OLIVEIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14712,
+    "name": "SENHORA DO PORTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14713,
+    "name": "SENHORA DOS REMÉDIOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14717,
+    "name": "SERICITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14719,
+    "name": "SERITINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14724,
+    "name": "SERRA AZUL DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14736,
+    "name": "SERRA DA SAUDADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14741,
+    "name": "SERRA DO SALITRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14742,
+    "name": "SERRA DOS AIMORÉS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14744,
+    "name": "SERRANIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14746,
+    "name": "SERRANOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14748,
+    "name": "SERRANÓPOLIS DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14755,
+    "name": "SERRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14765,
+    "name": "SETE LAGOAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14768,
+    "name": "SETUBINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14779,
+    "name": "SILVEIRÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14781,
+    "name": "SILVIANÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14784,
+    "name": "SIMONÉSIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14787,
+    "name": "SIMÃO PEREIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14799,
+    "name": "SOBRÁLIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14804,
+    "name": "SOLEDADE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14837,
+    "name": "SÃO BENTO ABADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14851,
+    "name": "SÃO BRÁS DO SUAÇUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14866,
+    "name": "SÃO DOMINGOS DAS DORES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14873,
+    "name": "SÃO DOMINGOS DO PRATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14882,
+    "name": "SÃO FRANCISCO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14888,
+    "name": "SÃO FRANCISCO DE PAULA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14889,
+    "name": "SÃO FRANCISCO DE SALES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14892,
+    "name": "SÃO FRANCISCO DO GLÓRIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14901,
+    "name": "SÃO FÉLIX DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14912,
+    "name": "SÃO GERALDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14913,
+    "name": "SÃO GERALDO DA PIEDADE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14915,
+    "name": "SÃO GERALDO DO BAIXIO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14917,
+    "name": "SÃO GONÇALO DO ABAETÉ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14921,
+    "name": "SÃO GONÇALO DO PARÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14923,
+    "name": "SÃO GONÇALO DO RIO ABAIXO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14924,
+    "name": "SÃO GONÇALO DO RIO PRETO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14925,
+    "name": "SÃO GONÇALO DO SAPUCAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14927,
+    "name": "SÃO GOTARDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14932,
+    "name": "SÃO JOAQUIM DE BICAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14939,
+    "name": "SÃO JOSÉ DA BARRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14945,
+    "name": "SÃO JOSÉ DA LAPA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14946,
+    "name": "SÃO JOSÉ DA SAFIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14948,
+    "name": "SÃO JOSÉ DA VARGINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14959,
+    "name": "SÃO JOSÉ DO ALEGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14969,
+    "name": "SÃO JOSÉ DO DIVINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14971,
+    "name": "SÃO JOSÉ DO GOIABAL",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14975,
+    "name": "SÃO JOSÉ DO JACURI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14977,
+    "name": "SÃO JOSÉ DO MANTIMENTO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15002,
+    "name": "SÃO JOÃO BATISTA DO GLÓRIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15010,
+    "name": "SÃO JOÃO DA LAGOA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15011,
+    "name": "SÃO JOÃO DA MATA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15014,
+    "name": "SÃO JOÃO DA PONTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15019,
+    "name": "SÃO JOÃO DAS MISSÕES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15023,
+    "name": "SÃO JOÃO DEL REI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15032,
+    "name": "SÃO JOÃO DO MANHUAÇU",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15033,
+    "name": "SÃO JOÃO DO MANTENINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15035,
+    "name": "SÃO JOÃO DO ORIENTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15036,
+    "name": "SÃO JOÃO DO PACUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15038,
+    "name": "SÃO JOÃO DO PARAÍSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15003,
+    "name": "SÃO JOÃO EVANGELISTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15004,
+    "name": "SÃO JOÃO NEPOMUCENO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15052,
+    "name": "SÃO LOURENÇO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15086,
+    "name": "SÃO MIGUEL DO ANTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15111,
+    "name": "SÃO PEDRO DA UNIÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15120,
+    "name": "SÃO PEDRO DO SUAÇUÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15124,
+    "name": "SÃO PEDRO DOS FERROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15130,
+    "name": "SÃO ROMÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15132,
+    "name": "SÃO ROQUE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15138,
+    "name": "SÃO SEBASTIÃO DA BELA VISTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15141,
+    "name": "SÃO SEBASTIÃO DA VARGEM ALEGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15144,
+    "name": "SÃO SEBASTIÃO DO ANTA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15146,
+    "name": "SÃO SEBASTIÃO DO MARANHÃO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15147,
+    "name": "SÃO SEBASTIÃO DO OESTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15148,
+    "name": "SÃO SEBASTIÃO DO PARAÍSO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15150,
+    "name": "SÃO SEBASTIÃO DO RIO PRETO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15151,
+    "name": "SÃO SEBASTIÃO DO RIO VERDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15158,
+    "name": "SÃO THOMÉ DAS LETRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15159,
+    "name": "SÃO TIAGO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15160,
+    "name": "SÃO TOMÁS DE AQUINO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15172,
+    "name": "SÃO VICENTE DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15191,
+    "name": "TABULEIRO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15202,
+    "name": "TAIOBEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15224,
+    "name": "TAPARUBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15233,
+    "name": "TAPIRA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15237,
+    "name": "TAPIRAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15244,
+    "name": "TAQUARAÇU DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15256,
+    "name": "TARUMIRIM",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15268,
+    "name": "TEIXEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15301,
+    "name": "TEÓFILO OTONI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15319,
+    "name": "TIMÓTEO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15321,
+    "name": "TIRADENTES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15323,
+    "name": "TIROS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15325,
+    "name": "TOCANTINS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15328,
+    "name": "TOCOS DO MOJI",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15330,
+    "name": "TOLEDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15333,
+    "name": "TOMBOS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15373,
+    "name": "TRÊS CORAÇÕES",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15378,
+    "name": "TRÊS MARIAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15381,
+    "name": "TRÊS PONTAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15392,
+    "name": "TUMIRITINGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15398,
+    "name": "TUPACIGUARA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15413,
+    "name": "TURMALINA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15420,
+    "name": "TURVOLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15427,
+    "name": "UBAPORANGA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15431,
+    "name": "UBAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15433,
+    "name": "UBERABA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15434,
+    "name": "UBERLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15438,
+    "name": "UBÁ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15448,
+    "name": "UMBURATIBA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15453,
+    "name": "UNAÍ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15460,
+    "name": "UNIÃO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15470,
+    "name": "URUANA DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15476,
+    "name": "URUCUIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15478,
+    "name": "URUCÂNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15508,
+    "name": "VARGEM ALEGRE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15510,
+    "name": "VARGEM BONITA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15514,
+    "name": "VARGEM GRANDE DO RIO PARDO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15517,
+    "name": "VARGINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15520,
+    "name": "VARJÃO DE MINAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15523,
+    "name": "VARZELÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15525,
+    "name": "VAZANTE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15540,
+    "name": "VERDELÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15542,
+    "name": "VEREDINHA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15543,
+    "name": "VERMELHO NOVO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15547,
+    "name": "VERÍSSIMO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15548,
+    "name": "VESPASIANO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15562,
+    "name": "VIEIRAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15582,
+    "name": "VIRGEM DA LAPA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15583,
+    "name": "VIRGINÓPOLIS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15584,
+    "name": "VIRGOLÂNDIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15585,
+    "name": "VIRGÍNIA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15587,
+    "name": "VISCONDE DO RIO BRANCO",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15607,
+    "name": "VIÇOSA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15609,
+    "name": "VOLTA GRANDE",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15621,
+    "name": "VÁRZEA DA PALMA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15628,
+    "name": "WENCESLAU BRAZ",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15650,
+    "name": "ÁGUA BOA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15655,
+    "name": "ÁGUA COMPRIDA",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15666,
+    "name": "ÁGUAS FORMOSAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15670,
+    "name": "ÁGUAS VERMELHAS",
+    "state": "MINAS GERAIS",
+    "state_iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

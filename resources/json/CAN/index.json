@@ -1,0 +1,132 @@
+[
+  {
+    "id": 872,
+    "name": "ALBERTA",
+    "iso2": "AB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Edmonton"
+  },
+  {
+    "id": 875,
+    "name": "BRITISH COLUMBIA",
+    "iso2": "BC",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Vancouver"
+  },
+  {
+    "id": 867,
+    "name": "MANITOBA",
+    "iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Winnipeg"
+  },
+  {
+    "id": 868,
+    "name": "NEW BRUNSWICK",
+    "iso2": "NB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Moncton"
+  },
+  {
+    "id": 877,
+    "name": "NEWFOUNDLAND AND LABRADOR",
+    "iso2": "NL",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/St_Johns"
+  },
+  {
+    "id": 878,
+    "name": "NORTHWEST TERRITORIES",
+    "iso2": "NT",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Yellowknife"
+  },
+  {
+    "id": 874,
+    "name": "NOVA SCOTIA",
+    "iso2": "NS",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Halifax"
+  },
+  {
+    "id": 876,
+    "name": "NUNAVUT",
+    "iso2": "NU",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Iqaluit"
+  },
+  {
+    "id": 866,
+    "name": "ONTARIO",
+    "iso2": "ON",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Toronto"
+  },
+  {
+    "id": 871,
+    "name": "PRINCE EDWARD ISLAND",
+    "iso2": "PE",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Halifax"
+  },
+  {
+    "id": 873,
+    "name": "QUEBEC",
+    "iso2": "QC",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Toronto"
+  },
+  {
+    "id": 870,
+    "name": "SASKATCHEWAN",
+    "iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Regina"
+  },
+  {
+    "id": 869,
+    "name": "YUKON",
+    "iso2": "YT",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA",
+    "timezone": "America/Whitehorse"
+  }
+]

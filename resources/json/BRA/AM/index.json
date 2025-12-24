@@ -1,0 +1,902 @@
+[
+  {
+    "id": 10191,
+    "name": "ALVARÃES",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10212,
+    "name": "AMATURÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10233,
+    "name": "ANAMÃ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10266,
+    "name": "ANORI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10303,
+    "name": "APUÍ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10436,
+    "name": "ATALAIA DO NORTE",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10454,
+    "name": "AUTAZES",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 80572,
+    "name": "BAGUA GRANDE",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 10513,
+    "name": "BARCELOS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10553,
+    "name": "BARREIRINHA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10626,
+    "name": "BENJAMIN CONSTANT",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10641,
+    "name": "BERURI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10674,
+    "name": "BOA VISTA DO RAMOS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10678,
+    "name": "BOCA DO ACRE",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10749,
+    "name": "BORBA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10841,
+    "name": "CAAPIRANGA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 80582,
+    "name": "CAJARURO",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 11059,
+    "name": "CANUTAMA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11111,
+    "name": "CARAUARI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11125,
+    "name": "CAREIRO",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11126,
+    "name": "CAREIRO DA VÁRZEA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 80602,
+    "name": "CHACHAPOYAS",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 11304,
+    "name": "COARI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11313,
+    "name": "CODAJÁS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 80632,
+    "name": "CONDORCANQUI",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 11676,
+    "name": "EIRUNEPÉ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 20807,
+    "name": "EL ENCANTO",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 11711,
+    "name": "ENVIRA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11848,
+    "name": "FONTE BOA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12018,
+    "name": "GUAJARÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12110,
+    "name": "HUMAITÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12281,
+    "name": "IPIXUNA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12306,
+    "name": "IRANDUBA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12342,
+    "name": "ITACOATIARA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12378,
+    "name": "ITAMARATI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12421,
+    "name": "ITAPIRANGA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12575,
+    "name": "JAPURÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12703,
+    "name": "JURUÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12710,
+    "name": "JUTAÍ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 20977,
+    "name": "LA CHORRERA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 80689,
+    "name": "LA PECA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 20998,
+    "name": "LA PEDRERA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21014,
+    "name": "LA VICTORIA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21027,
+    "name": "LETICIA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 12883,
+    "name": "LÁBREA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12936,
+    "name": "MANACAPURU",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12937,
+    "name": "MANAQUIRI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12939,
+    "name": "MANAUS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12951,
+    "name": "MANICORÉ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12988,
+    "name": "MARAÃ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 130106,
+    "name": "MAROA",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 13085,
+    "name": "MAUÉS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 21086,
+    "name": "MIRITI - PARANÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 130110,
+    "name": "MUNICIPIO AUTÓNOMO ALTO ORINOCO",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 13321,
+    "name": "NHAMUNDÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13413,
+    "name": "NOVA OLINDA DO NORTE",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13451,
+    "name": "NOVO AIRÃO",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13453,
+    "name": "NOVO ARIPUANÃ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13672,
+    "name": "PARINTINS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13720,
+    "name": "PAUINI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14082,
+    "name": "PRESIDENTE FIGUEIREDO",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 80781,
+    "name": "PROVINCIA DE BAGUA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 80784,
+    "name": "PROVINCIA DE BONGARÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 80803,
+    "name": "PROVINCIA DE CHACHAPOYAS",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 80857,
+    "name": "PROVINCIA DE LUYA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 80885,
+    "name": "PROVINCIA DE RODRÍGUEZ DE MENDOZA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  },
+  {
+    "id": 21231,
+    "name": "PUERTO ALEGRÍA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21232,
+    "name": "PUERTO ARICA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 130131,
+    "name": "PUERTO AYACUCHO",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 21249,
+    "name": "PUERTO NARIÑO",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21256,
+    "name": "PUERTO SANTANDER",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 14293,
+    "name": "RIO PRETO DA EVA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 130142,
+    "name": "SAN CARLOS DE RÍO NEGRO",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 130146,
+    "name": "SAN FERNANDO DE ATABAPO",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 130149,
+    "name": "SAN JUAN DE MANAPIARE",
+    "state": "AMAZONAS",
+    "state_iso2": "Z",
+    "country": "VENEZUELA",
+    "country_iso2": "VE",
+    "country_iso3": "VEN",
+    "country_native": "VENEZUELA"
+  },
+  {
+    "id": 14483,
+    "name": "SANTA ISABEL DO RIO NEGRO",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14628,
+    "name": "SANTO ANTÔNIO DO IÇÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14780,
+    "name": "SILVES",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14909,
+    "name": "SÃO GABRIEL DA CACHOEIRA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15103,
+    "name": "SÃO PAULO DE OLIVENÇA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15153,
+    "name": "SÃO SEBASTIÃO DO UATUMÃ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15184,
+    "name": "TABATINGA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15225,
+    "name": "TAPAUÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 21512,
+    "name": "TARAPACÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 15264,
+    "name": "TEFÉ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15336,
+    "name": "TONANTINS",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15423,
+    "name": "UARINI",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15475,
+    "name": "URUCARÁ",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15477,
+    "name": "URUCURITUBA",
+    "state": "AMAZONAS",
+    "state_iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 81006,
+    "name": "UTCUBAMBA",
+    "state": "AMAZONAS",
+    "state_iso2": "AMA",
+    "country": "PERU",
+    "country_iso2": "PE",
+    "country_iso3": "PER",
+    "country_native": "PERÚ"
+  }
+]

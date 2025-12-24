@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 102987,
+    "name": "ALAFORS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 102991,
+    "name": "ALINGSÅS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 102997,
+    "name": "ANDALEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103000,
+    "name": "ANDERSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103003,
+    "name": "ANGERED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103006,
+    "name": "ANNELUND",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103024,
+    "name": "AXVALL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103030,
+    "name": "BENGTSFORS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103040,
+    "name": "BILLDAL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103043,
+    "name": "BILLINGSFORS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103052,
+    "name": "BJÖRBOHOLM",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103055,
+    "name": "BJÖRKÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103056,
+    "name": "BJÖRLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103064,
+    "name": "BOLLEBYGD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103077,
+    "name": "BORÅS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103081,
+    "name": "BRASTAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103095,
+    "name": "BRÅLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103110,
+    "name": "DALS LÅNGED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103112,
+    "name": "DALSJÖFORS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103120,
+    "name": "DISERÖD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103124,
+    "name": "DONSÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103127,
+    "name": "ED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103139,
+    "name": "ELLÖS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103148,
+    "name": "ERIKSBO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103159,
+    "name": "FALKÖPING",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103175,
+    "name": "FLOBY",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103183,
+    "name": "FRISTAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103184,
+    "name": "FRITSLA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103189,
+    "name": "FURULUND",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103191,
+    "name": "FÄRGELANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103220,
+    "name": "GREBBESTAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103228,
+    "name": "GRÄSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103230,
+    "name": "GRÅBO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103232,
+    "name": "GULLSPÅNG",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103242,
+    "name": "GÅNGHESTER",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103243,
+    "name": "GÅRDSTEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103244,
+    "name": "GÖTA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103245,
+    "name": "GÖTEBORG",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103246,
+    "name": "GÖTEBORGS STAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103247,
+    "name": "GÖTENE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103261,
+    "name": "HAMMARKULLEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103280,
+    "name": "HENÅN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103282,
+    "name": "HERRLJUNGA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103286,
+    "name": "HINDÅS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103288,
+    "name": "HJO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103290,
+    "name": "HJUVIK",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103298,
+    "name": "HORRED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103300,
+    "name": "HOVA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103309,
+    "name": "HUNNEBOSTRAND",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103337,
+    "name": "HÖNÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103341,
+    "name": "HÖVIKSNÄS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103345,
+    "name": "INGARED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103355,
+    "name": "JONSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103368,
+    "name": "JÖRLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103375,
+    "name": "KARLSBORG",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103393,
+    "name": "KINNA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103406,
+    "name": "KODE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103425,
+    "name": "KUNGSHAMN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103430,
+    "name": "KUNGÄLV",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103435,
+    "name": "KVÄNUM",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103436,
+    "name": "KÄLLBY",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103441,
+    "name": "KÅLLERED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103452,
+    "name": "LANDVETTER",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103459,
+    "name": "LERUM",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103464,
+    "name": "LIDKÖPING",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103466,
+    "name": "LILLA EDET",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103468,
+    "name": "LIMMARED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103472,
+    "name": "LINDOME",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103484,
+    "name": "LJUNGSKILE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103499,
+    "name": "LYSEKIL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103501,
+    "name": "LÄNGHEM",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103508,
+    "name": "LÖDÖSE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103510,
+    "name": "LÖVGÄRDET",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103512,
+    "name": "MAJORNA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103529,
+    "name": "MARIESTAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103536,
+    "name": "MELLERUD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103553,
+    "name": "MUNKEDAL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103557,
+    "name": "MYGGENÄS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103560,
+    "name": "MÖLLTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103562,
+    "name": "MÖLNDAL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103564,
+    "name": "MÖLNLYCKE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103576,
+    "name": "NOLVIK",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103592,
+    "name": "NOSSEBRO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103611,
+    "name": "OLOFSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103615,
+    "name": "OLSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103620,
+    "name": "ORUST",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103632,
+    "name": "PARTILLE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103643,
+    "name": "RANNEBERGEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103667,
+    "name": "RÄVLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103674,
+    "name": "RÖNNÄNG",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103679,
+    "name": "SANDARED",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103691,
+    "name": "SJUNTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103694,
+    "name": "SJÖMARKEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103696,
+    "name": "SKARA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103703,
+    "name": "SKEPPLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103712,
+    "name": "SKULTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103720,
+    "name": "SKÄRHAMN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103724,
+    "name": "SKÖVDE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103733,
+    "name": "SMÖGEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103734,
+    "name": "SOLLEBRUNN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103751,
+    "name": "STENKULLEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103753,
+    "name": "STENSTORP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103754,
+    "name": "STENUNGSUND",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103761,
+    "name": "STORA HÖGA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103775,
+    "name": "STRÖMSTAD",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103780,
+    "name": "STYRSÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103782,
+    "name": "STÖPEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103792,
+    "name": "SURTE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103796,
+    "name": "SVANESUND",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103799,
+    "name": "SVENLJUNGA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103809,
+    "name": "SÄTILA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103816,
+    "name": "SÅLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103838,
+    "name": "TANUMSHEDE",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103842,
+    "name": "TIBRO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103844,
+    "name": "TIDAHOLM",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103854,
+    "name": "TJUVKIL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103865,
+    "name": "TORSLANDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103869,
+    "name": "TRANEMO",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103876,
+    "name": "TROLLHÄTTAN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103892,
+    "name": "TÖREBODA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103894,
+    "name": "UDDEVALLA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103896,
+    "name": "ULRICEHAMN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103922,
+    "name": "VARA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103926,
+    "name": "VARGÖN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103953,
+    "name": "VINNINGA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103958,
+    "name": "VISKAFORS",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103962,
+    "name": "VÄNERSBORG",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103973,
+    "name": "VÄSTRA FRÖLUNDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103979,
+    "name": "VÅRGÅRDA",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103995,
+    "name": "ÄLVÄNGEN",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104001,
+    "name": "ÅKARP",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104007,
+    "name": "ÅMÅL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104025,
+    "name": "ÖCKERÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104029,
+    "name": "ÖDSMÅL",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104031,
+    "name": "ÖJERSJÖ",
+    "state": "VÄSTRA GÖTALAND",
+    "state_iso2": "O",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  }
+]

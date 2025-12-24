@@ -1,0 +1,962 @@
+[
+  {
+    "id": 111039,
+    "name": "ADDISON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111040,
+    "name": "ADDISON COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111469,
+    "name": "ARLINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111842,
+    "name": "BARRE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112124,
+    "name": "BELLOWS FALLS",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112177,
+    "name": "BENNINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112178,
+    "name": "BENNINGTON COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112690,
+    "name": "BRANDON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112699,
+    "name": "BRATTLEBORO",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112780,
+    "name": "BRIDPORT",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112810,
+    "name": "BRISTOL",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113072,
+    "name": "BURLINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113193,
+    "name": "CALEDONIA",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113552,
+    "name": "CASTLETON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113780,
+    "name": "CHARLOTTE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113835,
+    "name": "CHELSEA",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113891,
+    "name": "CHESTER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113982,
+    "name": "CHITTENDEN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113983,
+    "name": "CHITTENDEN COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114111,
+    "name": "CLARENDON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114384,
+    "name": "COLCHESTER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115017,
+    "name": "DANBY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115452,
+    "name": "DOVER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116146,
+    "name": "ENOSBURG FALLS",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116197,
+    "name": "ESSEX COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116199,
+    "name": "ESSEX JUNCTION",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116283,
+    "name": "FAIR HAVEN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116495,
+    "name": "FERRISBURGH",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116863,
+    "name": "FRANKLIN COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117464,
+    "name": "GRAND ISLE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117783,
+    "name": "GUILDHALL",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118010,
+    "name": "HARDWICK",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118092,
+    "name": "HARTFORD",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118481,
+    "name": "HINESBURG",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118852,
+    "name": "HYDE PARK",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119112,
+    "name": "JAMAICA",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119225,
+    "name": "JERICHO",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119255,
+    "name": "JOHNSON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120072,
+    "name": "LAMOILLE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120338,
+    "name": "LEICESTER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120508,
+    "name": "LINCOLN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120724,
+    "name": "LONDONDERRY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120888,
+    "name": "LUNENBURG",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120924,
+    "name": "LYNDON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120925,
+    "name": "LYNDONVILLE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121103,
+    "name": "MANCHESTER CENTER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121654,
+    "name": "MENDON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121773,
+    "name": "MIDDLEBURY (VILLAGE)",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121919,
+    "name": "MILTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122137,
+    "name": "MONTGOMERY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122177,
+    "name": "MONTPELIER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122232,
+    "name": "MORETOWN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122283,
+    "name": "MORRISTOWN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122287,
+    "name": "MORRISVILLE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122350,
+    "name": "MOUNT HOLLY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122827,
+    "name": "NEWFANE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122850,
+    "name": "NEWPORT",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122986,
+    "name": "NORTH BENNINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123038,
+    "name": "NORTH HERO",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123154,
+    "name": "NORTHFIELD",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123520,
+    "name": "ORANGE COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123566,
+    "name": "ORLEANS",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123931,
+    "name": "PAWLET",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124604,
+    "name": "POULTNEY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124619,
+    "name": "POWNAL",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124868,
+    "name": "RANDOLPH",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125065,
+    "name": "RICHFORD",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125304,
+    "name": "ROCKINGHAM",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125557,
+    "name": "RUTLAND",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125558,
+    "name": "RUTLAND COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125596,
+    "name": "SAINT ALBANS",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125668,
+    "name": "SAINT JOHNSBURY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125760,
+    "name": "SALISBURY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126616,
+    "name": "SOUTH BARRE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126634,
+    "name": "SOUTH BURLINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126904,
+    "name": "SPRINGFIELD",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126925,
+    "name": "ST JOHNSBURY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126988,
+    "name": "STARKSBORO",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127114,
+    "name": "STOWE",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127327,
+    "name": "SWANTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127767,
+    "name": "TOWNSHEND",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128182,
+    "name": "VERGENNES",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128550,
+    "name": "WASHINGTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128575,
+    "name": "WASHINGTON COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128603,
+    "name": "WATERBURY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128834,
+    "name": "WEST BRATTLEBORO",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128970,
+    "name": "WEST RUTLAND",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129157,
+    "name": "WHITE RIVER JUNCTION",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129232,
+    "name": "WILDER",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129289,
+    "name": "WILLIAMSTOWN",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129298,
+    "name": "WILLISTON",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129374,
+    "name": "WINDHAM COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129384,
+    "name": "WINDSOR",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129388,
+    "name": "WINDSOR COUNTY",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129427,
+    "name": "WINOOSKI",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129566,
+    "name": "WOODSTOCK",
+    "state": "VERMONT",
+    "state_iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 79955,
+    "name": "AGUA BUENA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79976,
+    "name": "AVE MARÍA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79978,
+    "name": "BAHÍA HONDA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79980,
+    "name": "BAJO CORRAL",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79988,
+    "name": "BAYANO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79990,
+    "name": "BELLA VISTA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80029,
+    "name": "CAMBUTAL",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80037,
+    "name": "CAÑAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80042,
+    "name": "CEDRO ARRIBA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80111,
+    "name": "DISTRITO DE GUARARÉ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80117,
+    "name": "DISTRITO DE LAS TABLAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80119,
+    "name": "DISTRITO DE LOS SANTOS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80120,
+    "name": "DISTRITO DE MACARACAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80127,
+    "name": "DISTRITO DE PEDASÍ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80130,
+    "name": "DISTRITO DE POCRÍ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80146,
+    "name": "DISTRITO DE TONOSÍ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80155,
+    "name": "EL CARATE",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80156,
+    "name": "EL CAÑAFÍSTULO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80161,
+    "name": "EL COCAL",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80169,
+    "name": "EL EJIDO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80176,
+    "name": "EL GUÁSIMO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80177,
+    "name": "EL HATO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80180,
+    "name": "EL MACANO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80181,
+    "name": "EL MANANTIAL",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80184,
+    "name": "EL MUÑOZ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80188,
+    "name": "EL PEDREGOSO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80211,
+    "name": "FLORES",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80221,
+    "name": "GUARARÉ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80222,
+    "name": "GUARARÉ ARRIBA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80244,
+    "name": "LA COLORADA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80248,
+    "name": "LA ENEA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80253,
+    "name": "LA ESPIGADILLA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80260,
+    "name": "LA LAJA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80263,
+    "name": "LA MESA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80267,
+    "name": "LA MIEL",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80270,
+    "name": "LA PALMA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80272,
+    "name": "LA PASERA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80278,
+    "name": "LA TIZA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80280,
+    "name": "LA TRONOSA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80282,
+    "name": "LAJAMINA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80287,
+    "name": "LAS CRUCES",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80289,
+    "name": "LAS GUABAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80302,
+    "name": "LAS PALMAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80304,
+    "name": "LAS PALMITAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80306,
+    "name": "LAS TABLAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80307,
+    "name": "LAS TRANCAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80313,
+    "name": "LLANO ABAJO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80322,
+    "name": "LLANO DE PIEDRA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80318,
+    "name": "LLANO LARGO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80329,
+    "name": "LOS ASIENTOS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80339,
+    "name": "LOS OLIVOS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80342,
+    "name": "LOS SANTOS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80346,
+    "name": "MACARACAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80357,
+    "name": "MOGOLLÓN",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80369,
+    "name": "NUARIO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80385,
+    "name": "ORIA ARRIBA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80395,
+    "name": "PARAÍSO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80399,
+    "name": "PARITILLA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80403,
+    "name": "PEDASÍ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80407,
+    "name": "PERALES",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80409,
+    "name": "PEÑA BLANCA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80463,
+    "name": "RÍO HONDO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80467,
+    "name": "SABANA GRANDE",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80496,
+    "name": "SANTA ANA ARRIBA",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80512,
+    "name": "SESTEADERO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80526,
+    "name": "TONOSÍ",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80529,
+    "name": "TRES QUEBRADAS",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80536,
+    "name": "VALLE RICO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80538,
+    "name": "VALLERRIQUITO",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80544,
+    "name": "VILLA LOURDES",
+    "state": "LOS SANTOS",
+    "state_iso2": "7",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  }
+]

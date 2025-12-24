@@ -1,0 +1,632 @@
+[
+  {
+    "id": 62290,
+    "name": "ABERDEEN",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62293,
+    "name": "ACCOMPONG",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62303,
+    "name": "ALLIGATOR POND",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62326,
+    "name": "BALACLAVA",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62328,
+    "name": "BALLARDS VALLEY",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62333,
+    "name": "BARBARY HALL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62360,
+    "name": "BIGWOODS",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62363,
+    "name": "BLACK RIVER",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62371,
+    "name": "BOGUE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62381,
+    "name": "BRAES RIVER",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62390,
+    "name": "BRIGHTON",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62393,
+    "name": "BROMPTON",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62401,
+    "name": "BULL SAVANNA",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62402,
+    "name": "BULL SAVANNAH",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62405,
+    "name": "BURNT SAVANNAH",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62419,
+    "name": "CARISBROOK",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62483,
+    "name": "COTTERWOOD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62487,
+    "name": "CRAWFORD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62534,
+    "name": "ELDERSLIE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62577,
+    "name": "FULLERSWOOD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62584,
+    "name": "GIDDY HALL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62586,
+    "name": "GINGER HILL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62599,
+    "name": "GOSHEN",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62651,
+    "name": "HOLLAND",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62655,
+    "name": "HOPETON",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62682,
+    "name": "JUNCTION",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62699,
+    "name": "LACOVIA",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62705,
+    "name": "LEEDS",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62717,
+    "name": "LITITZ",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62739,
+    "name": "MAGGOTTY",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62743,
+    "name": "MALVERN",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62770,
+    "name": "MERRYWOOD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62771,
+    "name": "MIDDLE QUARTERS",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62805,
+    "name": "MOUNTAINSIDE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62806,
+    "name": "MULGRAVE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62807,
+    "name": "MYERSVILLE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62809,
+    "name": "NAIN",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62818,
+    "name": "NEW MARKET",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62823,
+    "name": "NEWELL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62826,
+    "name": "NEWTON",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62854,
+    "name": "PAROTTEE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62872,
+    "name": "PEDRO PLAINS",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62877,
+    "name": "PEPPER",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62884,
+    "name": "PISGAH",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62889,
+    "name": "PONDSIDE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62902,
+    "name": "POTSDAM",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62909,
+    "name": "QUICK STEP",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62915,
+    "name": "RED BANK",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62923,
+    "name": "RETIREMENT",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62951,
+    "name": "ROSE HALL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62960,
+    "name": "RUSSELS",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62971,
+    "name": "SANTA CRUZ",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62976,
+    "name": "SCHOLEFIELD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62993,
+    "name": "SILOAH",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 62996,
+    "name": "SLIPE",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63004,
+    "name": "SOUTHFIELD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63017,
+    "name": "SPRINGFIELD",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63049,
+    "name": "THORNTON",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63054,
+    "name": "TOP HILL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63062,
+    "name": "TREASURE BEACH",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63083,
+    "name": "WARMINISTER",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63086,
+    "name": "WATCHWELL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  },
+  {
+    "id": 63100,
+    "name": "WHITE HILL",
+    "state": "SAINT ELIZABETH",
+    "state_iso2": "11",
+    "country": "JAMAICA",
+    "country_iso2": "JM",
+    "country_iso3": "JAM",
+    "country_native": "JAMAICA"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 104372,
+    "name": "BARDEJOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104380,
+    "name": "CHLMEC",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104393,
+    "name": "GIRALTOVCE",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104399,
+    "name": "HUMENNÉ",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104405,
+    "name": "KEŽMAROK",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104422,
+    "name": "LEVOČA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104423,
+    "name": "LIPANY",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104432,
+    "name": "MEDZILABORCE",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104442,
+    "name": "NOVÁ LESNÁ",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104449,
+    "name": "OKRES BARDEJOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104464,
+    "name": "OKRES HUMENNÉ",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104466,
+    "name": "OKRES KEŽMAROK",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104472,
+    "name": "OKRES LEVOČA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104477,
+    "name": "OKRES MEDZILABORCE",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104488,
+    "name": "OKRES POPRAD",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104490,
+    "name": "OKRES PREŠOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104496,
+    "name": "OKRES SABINOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104500,
+    "name": "OKRES SNINA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104503,
+    "name": "OKRES STARÁ ĹUBOVŇA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104504,
+    "name": "OKRES STROPKOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104505,
+    "name": "OKRES SVIDNÍK",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104513,
+    "name": "OKRES VRANOV NAD TOPĽOU",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104526,
+    "name": "PODOLÍNEC",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104528,
+    "name": "POPRAD",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104530,
+    "name": "PREŠOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104539,
+    "name": "SABINOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104546,
+    "name": "SNINA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104548,
+    "name": "SPIŠSKÁ BELÁ",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104550,
+    "name": "SPIŠSKÉ PODHRADIE",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104552,
+    "name": "STARÁ ĽUBOVŇA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104553,
+    "name": "STROPKOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104556,
+    "name": "SVIDNÍK",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104557,
+    "name": "SVIT",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104577,
+    "name": "VRANOV NAD TOPĽOU",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104578,
+    "name": "VRBOV",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104582,
+    "name": "VYSOKÉ TATRY",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104583,
+    "name": "VYŠNÉ RUŽBACHY",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104590,
+    "name": "ĽUBICA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104594,
+    "name": "ŠTRBA",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  },
+  {
+    "id": 104598,
+    "name": "ŽDIAR",
+    "state": "PREŠOV",
+    "state_iso2": "PV",
+    "country": "SLOVAKIA",
+    "country_iso2": "SK",
+    "country_iso3": "SVK",
+    "country_native": "SLOVENSKO"
+  }
+]

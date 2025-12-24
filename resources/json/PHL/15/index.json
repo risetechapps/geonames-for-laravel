@@ -1,0 +1,602 @@
+[
+  {
+    "id": 81154,
+    "name": "AGBANNAWAG",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81243,
+    "name": "AMBUCLAO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81248,
+    "name": "AMLIMAY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81250,
+    "name": "AMPUSUNGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81264,
+    "name": "ANGAD",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81294,
+    "name": "APAYAO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81327,
+    "name": "ATOK",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81375,
+    "name": "BACULONGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81408,
+    "name": "BAGUINGE",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81409,
+    "name": "BAGUIO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81426,
+    "name": "BAKUN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81529,
+    "name": "BANGAO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81534,
+    "name": "BANGUED",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81680,
+    "name": "BETWAGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81759,
+    "name": "BOCOS",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81764,
+    "name": "BOKOD",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81770,
+    "name": "BOLINEY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81824,
+    "name": "BUCAY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81851,
+    "name": "BUGUIAS",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81864,
+    "name": "BULALACAO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81924,
+    "name": "BUTIGUI",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82007,
+    "name": "CALABA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82335,
+    "name": "DAGUIOMAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82349,
+    "name": "DALIPEY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82355,
+    "name": "DALUPIRIP",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82370,
+    "name": "DANGLAS",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82557,
+    "name": "GAMBANG",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82639,
+    "name": "GUINSADAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82678,
+    "name": "HAPAO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82775,
+    "name": "ITOGON",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82855,
+    "name": "KALINGA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82867,
+    "name": "KAPANGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82897,
+    "name": "KIBUNGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82953,
+    "name": "LA TRINIDAD",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82973,
+    "name": "LAGANGILANG",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82976,
+    "name": "LAGAYAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83055,
+    "name": "LAYA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83102,
+    "name": "LICUAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83152,
+    "name": "LIWAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83156,
+    "name": "LOACAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83191,
+    "name": "LUBA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83482,
+    "name": "MANABO",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83528,
+    "name": "MANKAYAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83697,
+    "name": "MONAMON",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83717,
+    "name": "MOUNTAIN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83771,
+    "name": "NANGALISAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83791,
+    "name": "NATUBLENG",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84079,
+    "name": "PEÑARRUBIA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84084,
+    "name": "PIDIGAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84372,
+    "name": "SABLAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84377,
+    "name": "SADSADAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84600,
+    "name": "SAN RAMON",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84889,
+    "name": "TABAAN",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84918,
+    "name": "TACADANG",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84994,
+    "name": "TALOY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85082,
+    "name": "TAYUM",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85170,
+    "name": "TOPDAC",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85191,
+    "name": "TUBLAY",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85205,
+    "name": "TUDING",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85302,
+    "name": "VILLAVICIOSA",
+    "state": "CORDILLERA ADMINISTRATIVE",
+    "state_iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  }
+]

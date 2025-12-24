@@ -1,0 +1,422 @@
+[
+  {
+    "id": 97569,
+    "name": "ALEKSANDROVSK-SAKHALINSKIY",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97632,
+    "name": "ANIVA",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98047,
+    "name": "BOSHNYAKOVO",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98097,
+    "name": "BYKOV",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98136,
+    "name": "CHEKHOV",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98303,
+    "name": "DOLINSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98459,
+    "name": "GASTELLO",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98535,
+    "name": "GORNOZAVODSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98996,
+    "name": "KHOLMSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99218,
+    "name": "KORSAKOV",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99304,
+    "name": "KRASNOGORSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99462,
+    "name": "KURILSKY",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99463,
+    "name": "KURIL’SK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99581,
+    "name": "LEONIDOVO",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99741,
+    "name": "MAKAROV",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99886,
+    "name": "MGACHI",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100116,
+    "name": "NEVEL’SK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100195,
+    "name": "NOGLIKI",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100401,
+    "name": "OKHA",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100503,
+    "name": "OTRADA",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100779,
+    "name": "PORONAYSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100801,
+    "name": "PRAVDA",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101212,
+    "name": "SEVERO-KURIL’SK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101240,
+    "name": "SHAKHTERSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101286,
+    "name": "SHEBUNINO",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101312,
+    "name": "SHIKOTAN",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101373,
+    "name": "SINEGORSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101413,
+    "name": "SMIRNYKH",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101436,
+    "name": "SOKOL",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101882,
+    "name": "TOMARI",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101925,
+    "name": "TROITSKOYE",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101970,
+    "name": "TUNGOR",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101992,
+    "name": "TYMOVSKOYE",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102027,
+    "name": "UGLEGORSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102029,
+    "name": "UGLEGORSKIY RAYON",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102033,
+    "name": "UGLEZAVODSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102175,
+    "name": "VAKHRUSHEV",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102401,
+    "name": "VOSTOK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102457,
+    "name": "YABLOCHNYY",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102613,
+    "name": "YUZHNO-KURILSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102614,
+    "name": "YUZHNO-KURILSKY",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102615,
+    "name": "YUZHNO-SAKHALINSK",
+    "state": "SAKHALIN",
+    "state_iso2": "SAK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

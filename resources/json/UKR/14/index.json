@@ -1,0 +1,782 @@
+[
+  {
+    "id": 109318,
+    "name": "AMVROSIIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109319,
+    "name": "AMVROSIYIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109333,
+    "name": "AVDIYIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109342,
+    "name": "BAKHMUT",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109343,
+    "name": "BAKHMUT RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109389,
+    "name": "BEZIMENNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109407,
+    "name": "BILYTS’KE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109410,
+    "name": "BLAHODATNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109441,
+    "name": "BOYKIVSKE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109442,
+    "name": "BOYKIVSKE RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109473,
+    "name": "CHASIV YAR",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109526,
+    "name": "CHYSTYAKOVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109532,
+    "name": "DEBAL’TSEVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109546,
+    "name": "DMYTRIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109556,
+    "name": "DOBROPILLIA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109557,
+    "name": "DOBROPILLYA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109563,
+    "name": "DOKUCHAYEVS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109570,
+    "name": "DONETSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109581,
+    "name": "DRUZHKIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109641,
+    "name": "HORLIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109668,
+    "name": "ILOVAYS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109728,
+    "name": "KHARTSYZ’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109811,
+    "name": "KOSTIANTYNIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109817,
+    "name": "KOSTYANTYNIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109828,
+    "name": "KRAMATORS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109848,
+    "name": "KRASNOTORKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109862,
+    "name": "KRINICHNAYA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109888,
+    "name": "KURAKHOVO",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109893,
+    "name": "KUTEYNYKOVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109940,
+    "name": "LUHANS’KE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109950,
+    "name": "LYMAN",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109952,
+    "name": "LYMAN RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109976,
+    "name": "MAKIYIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109977,
+    "name": "MAKIYIVS’KA MIS’KRADA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109994,
+    "name": "MANHUSH",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109997,
+    "name": "MAR'YINKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110000,
+    "name": "MARIUPOL",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110016,
+    "name": "MELEKYNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110055,
+    "name": "MOSPYNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110075,
+    "name": "MYRNOHRAD",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110097,
+    "name": "NIKOLSKE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110120,
+    "name": "NOVOAZOVS'K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110123,
+    "name": "NOVODONETS’KE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110161,
+    "name": "NOVYY SVIT",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110167,
+    "name": "NYZHNYA KRYNKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110219,
+    "name": "P'YATYPILL'YA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110291,
+    "name": "POKROVSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110292,
+    "name": "POKROVSK RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110359,
+    "name": "RODYNS’KE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110385,
+    "name": "ROZSYPNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110408,
+    "name": "SARTANA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110413,
+    "name": "SELYDIVS’KA MIS’KRADA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110414,
+    "name": "SELYDOVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110420,
+    "name": "SEREBRYANKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110428,
+    "name": "SHAKHTARS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110435,
+    "name": "SHCHERBYNIVKA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110454,
+    "name": "SHYROKE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110464,
+    "name": "SIVERS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110486,
+    "name": "SLOVIANSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110487,
+    "name": "SLOVIANSK RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110493,
+    "name": "SNIZHNE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110503,
+    "name": "SOLEDAR",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110531,
+    "name": "STAROBESHEVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110539,
+    "name": "STARYY KRYM",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110552,
+    "name": "STIZHKIVS’KE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110575,
+    "name": "SVETLODARSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110579,
+    "name": "SVYATOGORSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110581,
+    "name": "SYEDOVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110595,
+    "name": "TEMRIUK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110616,
+    "name": "TORETSK",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110659,
+    "name": "URZUF",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110732,
+    "name": "VOLNOVAKHA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110753,
+    "name": "VUHLEHIRS’K",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110777,
+    "name": "YALTA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110790,
+    "name": "YASYNUVATA",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110791,
+    "name": "YASYNUVATA RAION",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110796,
+    "name": "YENAKIYEVE",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110867,
+    "name": "ZUHRES",
+    "state": "DONETSKA",
+    "state_iso2": "14",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

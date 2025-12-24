@@ -1,0 +1,802 @@
+[
+  {
+    "id": 102986,
+    "name": "AKALLA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 102988,
+    "name": "ALBY",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103014,
+    "name": "ARNÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103037,
+    "name": "BERGSHAMRA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103066,
+    "name": "BOLLMORA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103070,
+    "name": "BOO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103085,
+    "name": "BREVIK",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103086,
+    "name": "BRO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103088,
+    "name": "BROMMA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103091,
+    "name": "BRUNN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103092,
+    "name": "BRUNNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103108,
+    "name": "DALARÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103121,
+    "name": "DJURSHOLM",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103123,
+    "name": "DJURÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103133,
+    "name": "EKERÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103143,
+    "name": "ENEBYBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103147,
+    "name": "ERIKSBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103168,
+    "name": "FISKSÄTRA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103169,
+    "name": "FITTJA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103199,
+    "name": "GAMLA STAN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103235,
+    "name": "GUSTAVSBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103257,
+    "name": "HALLSTAVIK",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103264,
+    "name": "HANDEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103265,
+    "name": "HANINGE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103278,
+    "name": "HEMMESTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103303,
+    "name": "HUDDINGE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103336,
+    "name": "HÖLÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103351,
+    "name": "JAKOBSBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103357,
+    "name": "JORDBRO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103363,
+    "name": "JÄRNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103397,
+    "name": "KISTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103410,
+    "name": "KOPPARMORA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103422,
+    "name": "KUMMELNÄS",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103426,
+    "name": "KUNGSHOLMEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103427,
+    "name": "KUNGSÄNGEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103463,
+    "name": "LIDINGÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103471,
+    "name": "LINDHOLMEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103505,
+    "name": "LÅNGVIK",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103558,
+    "name": "MÄRSTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103561,
+    "name": "MÖLNBO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103571,
+    "name": "MÖRTNÄS",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103572,
+    "name": "NACKA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103588,
+    "name": "NORRTÄLJE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103596,
+    "name": "NYKVARN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103600,
+    "name": "NYNÄSHAMN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103634,
+    "name": "PERSHAGEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103645,
+    "name": "RESARÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103646,
+    "name": "RIMBO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103648,
+    "name": "RINDÖ",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103657,
+    "name": "ROSERSBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103669,
+    "name": "RÅSUNDA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103673,
+    "name": "RÖNNINGE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103678,
+    "name": "SALTSJÖBADEN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103684,
+    "name": "SEGELTORP",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103686,
+    "name": "SIGTUNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103717,
+    "name": "SKÄNNINGE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103737,
+    "name": "SOLLENTUNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103739,
+    "name": "SOLNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103747,
+    "name": "STAVSNÄS",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103749,
+    "name": "STENHAMRA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103758,
+    "name": "STOCKHOLM",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103773,
+    "name": "STRÖMMA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103783,
+    "name": "SUNDBYBERG",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103823,
+    "name": "SÖDERMALM",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103824,
+    "name": "SÖDERTÄLJE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103841,
+    "name": "TENSTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103881,
+    "name": "TULLINGE",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103882,
+    "name": "TUMBA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103900,
+    "name": "UPPLANDS VÄSBY",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103918,
+    "name": "VALLENTUNA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103927,
+    "name": "VASASTAN",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103929,
+    "name": "VAXHOLM",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103978,
+    "name": "VÅRBY",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103981,
+    "name": "VÅRSTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103987,
+    "name": "ÄLMSTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 103988,
+    "name": "ÄLTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104004,
+    "name": "ÅKERSBERGA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104013,
+    "name": "ÅRSTA",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104042,
+    "name": "ÖSMO",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  },
+  {
+    "id": 104045,
+    "name": "ÖSTERMALM",
+    "state": "STOCKHOLM",
+    "state_iso2": "AB",
+    "country": "SWEDEN",
+    "country_iso2": "SE",
+    "country_iso3": "SWE",
+    "country_native": "SVERIGE"
+  }
+]

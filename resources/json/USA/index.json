@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1456,
+    "name": "ALABAMA",
+    "iso2": "AL",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1400,
+    "name": "ALASKA",
+    "iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Anchorage"
+  },
+  {
+    "id": 1424,
+    "name": "AMERICAN SAMOA",
+    "iso2": "AS",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1434,
+    "name": "ARIZONA",
+    "iso2": "AZ",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Phoenix"
+  },
+  {
+    "id": 1444,
+    "name": "ARKANSAS",
+    "iso2": "AR",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1416,
+    "name": "CALIFORNIA",
+    "iso2": "CA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 1450,
+    "name": "COLORADO",
+    "iso2": "CO",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": 1435,
+    "name": "CONNECTICUT",
+    "iso2": "CT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1399,
+    "name": "DELAWARE",
+    "iso2": "DE",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1437,
+    "name": "DISTRICT OF COLUMBIA",
+    "iso2": "DC",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1436,
+    "name": "FLORIDA",
+    "iso2": "FL",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1455,
+    "name": "GEORGIA",
+    "iso2": "GA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1412,
+    "name": "GUAM",
+    "iso2": "GU",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1411,
+    "name": "HAWAII",
+    "iso2": "HI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "Pacific/Honolulu"
+  },
+  {
+    "id": 1460,
+    "name": "IDAHO",
+    "iso2": "ID",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": 1425,
+    "name": "ILLINOIS",
+    "iso2": "IL",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1440,
+    "name": "INDIANA",
+    "iso2": "IN",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "id": 1459,
+    "name": "IOWA",
+    "iso2": "IA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1406,
+    "name": "KANSAS",
+    "iso2": "KS",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1419,
+    "name": "KENTUCKY",
+    "iso2": "KY",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "id": 1457,
+    "name": "LOUISIANA",
+    "iso2": "LA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1453,
+    "name": "MAINE",
+    "iso2": "ME",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1401,
+    "name": "MARYLAND",
+    "iso2": "MD",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1433,
+    "name": "MASSACHUSETTS",
+    "iso2": "MA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1426,
+    "name": "MICHIGAN",
+    "iso2": "MI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Detroit"
+  },
+  {
+    "id": 1420,
+    "name": "MINNESOTA",
+    "iso2": "MN",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1430,
+    "name": "MISSISSIPPI",
+    "iso2": "MS",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1451,
+    "name": "MISSOURI",
+    "iso2": "MO",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1446,
+    "name": "MONTANA",
+    "iso2": "MT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": 1408,
+    "name": "NEBRASKA",
+    "iso2": "NE",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1458,
+    "name": "NEVADA",
+    "iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 1404,
+    "name": "NEW HAMPSHIRE",
+    "iso2": "NH",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1417,
+    "name": "NEW JERSEY",
+    "iso2": "NJ",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1423,
+    "name": "NEW MEXICO",
+    "iso2": "NM",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": 1452,
+    "name": "NEW YORK",
+    "iso2": "NY",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1447,
+    "name": "NORTH CAROLINA",
+    "iso2": "NC",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1418,
+    "name": "NORTH DAKOTA",
+    "iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1431,
+    "name": "NORTHERN MARIANA ISLANDS",
+    "iso2": "MP",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 4851,
+    "name": "OHIO",
+    "iso2": "OH",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1421,
+    "name": "OKLAHOMA",
+    "iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1415,
+    "name": "OREGON",
+    "iso2": "OR",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 1422,
+    "name": "PENNSYLVANIA",
+    "iso2": "PA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1449,
+    "name": "PUERTO RICO",
+    "iso2": "PR",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1461,
+    "name": "RHODE ISLAND",
+    "iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1443,
+    "name": "SOUTH CAROLINA",
+    "iso2": "SC",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1445,
+    "name": "SOUTH DAKOTA",
+    "iso2": "SD",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1454,
+    "name": "TENNESSEE",
+    "iso2": "TN",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1407,
+    "name": "TEXAS",
+    "iso2": "TX",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1432,
+    "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "iso2": "UM",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1413,
+    "name": "UNITED STATES VIRGIN ISLANDS",
+    "iso2": "VI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1414,
+    "name": "UTAH",
+    "iso2": "UT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": 1409,
+    "name": "VERMONT",
+    "iso2": "VT",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1427,
+    "name": "VIRGINIA",
+    "iso2": "VA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1462,
+    "name": "WASHINGTON",
+    "iso2": "WA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 1429,
+    "name": "WEST VIRGINIA",
+    "iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": 1441,
+    "name": "WISCONSIN",
+    "iso2": "WI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": 1442,
+    "name": "WYOMING",
+    "iso2": "WY",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": "America/Denver"
+  }
+]

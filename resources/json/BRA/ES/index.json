@@ -1,0 +1,792 @@
+[
+  {
+    "id": 10087,
+    "name": "AFONSO CLÁUDIO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10123,
+    "name": "ALEGRE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10131,
+    "name": "ALFREDO CHAVES",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10182,
+    "name": "ALTO RIO NOVO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10240,
+    "name": "ANCHIETA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10292,
+    "name": "APIACÁ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10314,
+    "name": "ARACRUZ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10441,
+    "name": "ATÍLIO VIVACQUA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10479,
+    "name": "BAIXO GUANDU",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10528,
+    "name": "BARRA DE SÃO FRANCISCO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10657,
+    "name": "BOA ESPERANÇA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10712,
+    "name": "BOM JESUS DO NORTE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10784,
+    "name": "BREJETUBA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10879,
+    "name": "CACHOEIRO DE ITAPEMIRIM",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11127,
+    "name": "CARIACICA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11187,
+    "name": "CASTELO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11320,
+    "name": "COLATINA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11346,
+    "name": "CONCEIÇÃO DA BARRA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11356,
+    "name": "CONCEIÇÃO DO CASTELO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11602,
+    "name": "DIVINO DE SÃO LOURENÇO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11637,
+    "name": "DOMINGOS MARTINS",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11646,
+    "name": "DORES DO RIO PRETO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11673,
+    "name": "ECOPORANGA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11904,
+    "name": "FUNDÃO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11985,
+    "name": "GOVERNADOR LINDENBERG",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12051,
+    "name": "GUARAPARI",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12075,
+    "name": "GUAÇUÍ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12124,
+    "name": "IBATIBA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12154,
+    "name": "IBIRAÇU",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12160,
+    "name": "IBITIRAMA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12172,
+    "name": "ICONHA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12321,
+    "name": "IRUPI",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12355,
+    "name": "ITAGUAÇU",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12409,
+    "name": "ITAPEMIRIM",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12447,
+    "name": "ITARANA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12507,
+    "name": "IÚNA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12550,
+    "name": "JAGUARÉ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12624,
+    "name": "JERÔNIMO MONTEIRO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12628,
+    "name": "JETIBÁ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12664,
+    "name": "JOÃO NEIVA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12794,
+    "name": "LARANJA DA TERRA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12840,
+    "name": "LINHARES",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12959,
+    "name": "MANTENÓPOLIS",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12981,
+    "name": "MARATAIZES",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13000,
+    "name": "MARECHAL FLORIANO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13016,
+    "name": "MARILÂNDIA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13120,
+    "name": "MIMOSO DO SUL",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13183,
+    "name": "MONTANHA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13263,
+    "name": "MUCURICI",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13275,
+    "name": "MUNIZ FREIRE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13276,
+    "name": "MUQUI",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13446,
+    "name": "NOVA VENÉCIA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13614,
+    "name": "PANCAS",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13775,
+    "name": "PEDRO CANÁRIO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13872,
+    "name": "PINHEIROS",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13931,
+    "name": "PIÚMA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13975,
+    "name": "PONTO BELO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14087,
+    "name": "PRESIDENTE KENNEDY",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14259,
+    "name": "RIO BANANAL",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14286,
+    "name": "RIO NOVO DO SUL",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14487,
+    "name": "SANTA LEOPOLDINA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14510,
+    "name": "SANTA MARIA DE JETIBÁ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14551,
+    "name": "SANTA TERESA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14721,
+    "name": "SERRA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14810,
+    "name": "SOORETAMA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14872,
+    "name": "SÃO DOMINGOS DO NORTE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14910,
+    "name": "SÃO GABRIEL DA PALHA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14964,
+    "name": "SÃO JOSÉ DO CALÇADO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15075,
+    "name": "SÃO MATEUS",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15133,
+    "name": "SÃO ROQUE DO CANAÃ",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15509,
+    "name": "VARGEM ALTA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15526,
+    "name": "VENDA NOVA DO IMIGRANTE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15553,
+    "name": "VIANA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15574,
+    "name": "VILA PAVÃO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15577,
+    "name": "VILA VALÉRIO",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15578,
+    "name": "VILA VELHA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15597,
+    "name": "VITÓRIA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15658,
+    "name": "ÁGUA DOCE DO NORTE",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15676,
+    "name": "ÁGUIA BRANCA",
+    "state": "ESPÍRITO SANTO",
+    "state_iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

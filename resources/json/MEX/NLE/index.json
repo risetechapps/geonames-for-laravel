@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 68123,
+    "name": "AGUALEGUAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149670,
+    "name": "AGUALEGUAS NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149671,
+    "name": "ALBERTO VILLARREAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149672,
+    "name": "ALDAMA ESTACIÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149673,
+    "name": "ALFONSO REYES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68203,
+    "name": "ALIANZA REAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149674,
+    "name": "ALLENDE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149675,
+    "name": "ALTAMIRA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149676,
+    "name": "AMPLIACIÓN DE LA LAGUNA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68285,
+    "name": "ANÁHUAC",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149677,
+    "name": "APODACA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149678,
+    "name": "AQUILES SERDÁN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68328,
+    "name": "ARAMBERRI",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149679,
+    "name": "ARMANDO FERNÁNDEZ GARZA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68375,
+    "name": "ARTEMIO TREVIÑO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149680,
+    "name": "BARRIO ALDAMAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149681,
+    "name": "BARRIO DE JALISCO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149682,
+    "name": "BELLO AMANECER",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68644,
+    "name": "BOSQUES DE SAN PEDRO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68661,
+    "name": "BUENA VISTA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68694,
+    "name": "BUSTAMANTE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68717,
+    "name": "CADEREYTA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68718,
+    "name": "CADEREYTA JIMÉNEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149683,
+    "name": "CAJA PINTA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149684,
+    "name": "CAMPESTRE EL MONTESITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149685,
+    "name": "CANTÚ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149686,
+    "name": "CARBONERAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68826,
+    "name": "CARMEN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149687,
+    "name": "CASA ROSA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68861,
+    "name": "CATARINO RODRÍGUEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149688,
+    "name": "CAÑÓN DE VACAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149689,
+    "name": "CENTRO HABITACIONAL BURÓCRATAS DE GUADALUPE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68908,
+    "name": "CERRALVO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149690,
+    "name": "CHARCO REDONDO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69080,
+    "name": "CHINA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149691,
+    "name": "CINCO SEÑORES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69144,
+    "name": "CIUDAD APODACA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69146,
+    "name": "CIUDAD BENITO JUÁREZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69148,
+    "name": "CIUDAD CERRALVO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69185,
+    "name": "CIUDAD DE ALLENDE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69194,
+    "name": "CIUDAD DE VILLALDAMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69156,
+    "name": "CIUDAD GENERAL ESCOBEDO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69157,
+    "name": "CIUDAD GENERAL TERÁN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69177,
+    "name": "CIUDAD SABINAS HIDALGO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69180,
+    "name": "CIUDAD SATÉLITE DEL NORTE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69198,
+    "name": "CIÉNEGA DE FLORES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69259,
+    "name": "COLINAS DEL AEROPUERTO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149693,
+    "name": "COLINAS DEL RÍO JUÁREZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149694,
+    "name": "COLOMBIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149695,
+    "name": "COLONIA INDEPENDENCIA (MONTERREY)",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149696,
+    "name": "COLONIA LA MESA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149697,
+    "name": "CONFERÍN ARIZPE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69450,
+    "name": "CONGREGACIÓN CALLES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149698,
+    "name": "CONSTITUCIÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149699,
+    "name": "DIECIOCHO DE MARZO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149700,
+    "name": "DIECISÉIS DE SEPTIEMBRE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149701,
+    "name": "DOCE DE OCTUBRE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69692,
+    "name": "DOCTOR ARROYO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69694,
+    "name": "DOCTOR COSS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149702,
+    "name": "DOCTOR COSS NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69696,
+    "name": "DOCTOR GONZÁLEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149703,
+    "name": "DOLORES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149704,
+    "name": "EL BAJÍO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149705,
+    "name": "EL BARCO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149706,
+    "name": "EL BOSQUE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149707,
+    "name": "EL BRASIL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149708,
+    "name": "EL CARMEN DE LOS ELIZONDO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149709,
+    "name": "EL CARMEN NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149710,
+    "name": "EL CEDRAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149711,
+    "name": "EL CERRITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149712,
+    "name": "EL CHAMIZAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149713,
+    "name": "EL DIECISÉIS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149714,
+    "name": "EL DIEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149715,
+    "name": "EL FRAILE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149716,
+    "name": "EL LEAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149717,
+    "name": "EL MAGUEY",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149718,
+    "name": "EL MOSQUITO LINARES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149719,
+    "name": "EL NOGALITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149720,
+    "name": "EL PALMITAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149721,
+    "name": "EL PASTOR",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149722,
+    "name": "EL RANCHITO NÚMERO UNO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149723,
+    "name": "EL REALITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149724,
+    "name": "EL REFUGIO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149725,
+    "name": "EL REFUGIO Y EL REPARO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149726,
+    "name": "EL RUCIO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149727,
+    "name": "EL SALADITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149728,
+    "name": "EL SALITRE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70288,
+    "name": "EMILIANO ZAPATA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70308,
+    "name": "ENTRONQUE LAREDO-SALINAS VICTORIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149729,
+    "name": "ESTADOS UNIDOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70417,
+    "name": "FRACCIONAMIENTO COSMÓPOLIS OCTAVO SECTOR",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149730,
+    "name": "FRACCIONAMIENTO DEL VALLE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70427,
+    "name": "FRACCIONAMIENTO MISIÓN DE SAN JAVIER",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70435,
+    "name": "FRACCIONAMIENTO REAL PALMAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149731,
+    "name": "FRANCISCO I. MADERO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149732,
+    "name": "FRANCISCO VILLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70509,
+    "name": "GALEANA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70520,
+    "name": "GARCÍA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149733,
+    "name": "GARZA GARCÍA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149734,
+    "name": "GARZA GONZÁLEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70526,
+    "name": "GENERAL BRAVO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149735,
+    "name": "GENERAL ESCOBEDO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149736,
+    "name": "GENERAL TAPIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149737,
+    "name": "GENERAL TERÁN NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149738,
+    "name": "GENERAL TREVIÑO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70546,
+    "name": "GENERAL ZUAZUA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149739,
+    "name": "GRACIANO BORTONI",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70573,
+    "name": "GUADALUPE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149741,
+    "name": "HACIENDA DE ENMEDIO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149740,
+    "name": "HACIENDA SAN JUAN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70653,
+    "name": "HACIENDA SAN PEDRO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149742,
+    "name": "HIDALGO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149743,
+    "name": "HIGUERAS NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70724,
+    "name": "HUALAHUISES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149744,
+    "name": "HUERTAS ESTACIÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70827,
+    "name": "HÉCTOR CABALLERO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149745,
+    "name": "IBARRILLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149746,
+    "name": "ISMAEL FLORES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70893,
+    "name": "ITURBIDE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149747,
+    "name": "ITURBIDE NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149748,
+    "name": "JARDINES DE LA SILLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71005,
+    "name": "JARDINES DE LA SILLA (JARDINES)",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149749,
+    "name": "JESÚS MARÍA AGUIRRE GALEANA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149750,
+    "name": "JESÚS MARÍA DE BERRONES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149751,
+    "name": "JESÚS MARÍA DEL TERRERO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149752,
+    "name": "JUAN SALAZAR",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149753,
+    "name": "JUÁREZ NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149754,
+    "name": "JÁUREGUI",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149755,
+    "name": "KILÓMETRO DIECISÉIS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149756,
+    "name": "LA AGÜITA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149757,
+    "name": "LA ALDEA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149758,
+    "name": "LA ARENA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71176,
+    "name": "LA ASCENSIÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149759,
+    "name": "LA BARRETA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149760,
+    "name": "LA BATICOLLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149761,
+    "name": "LA BOQUILLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149762,
+    "name": "LA CAMPANA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149763,
+    "name": "LA CANDELARIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149764,
+    "name": "LA CARDONA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149765,
+    "name": "LA CHIRIPA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149766,
+    "name": "LA CHUECA CADEREYTA JIMÉNEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149767,
+    "name": "LA COLMENA DE ARRIBA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149768,
+    "name": "LA ESCUADRA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149769,
+    "name": "LA ESPERANZA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149770,
+    "name": "LA ESTRELLA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149771,
+    "name": "LA FAMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149772,
+    "name": "LA FLORIDA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149773,
+    "name": "LA GLORIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149774,
+    "name": "LA HACIENDITA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149775,
+    "name": "LA JOYA DE ALARDÍN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149776,
+    "name": "LA LAGUNITA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149777,
+    "name": "LA LOBERA DE PORTILLO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149778,
+    "name": "LA MAESTRANZA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149779,
+    "name": "LA MESA DE BERRONES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149780,
+    "name": "LA PALMITA NUEVO LEON",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149781,
+    "name": "LA PRESITA DE BERLANGA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149782,
+    "name": "LA PROVIDENCIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149783,
+    "name": "LA PURÍSIMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149784,
+    "name": "LA REFORMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149785,
+    "name": "LA SOLEDAD",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149786,
+    "name": "LA TINAJA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149787,
+    "name": "LA TRINIDAD",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149788,
+    "name": "LA UNIÓN Y EL CARDONAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149789,
+    "name": "LA VENTANA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149790,
+    "name": "LADRILLERA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71567,
+    "name": "LAMPAZOS DE NARANJO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149791,
+    "name": "LAS BARRETAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149792,
+    "name": "LAS BRISAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149793,
+    "name": "LAS MESAS DE SAN JUAN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149794,
+    "name": "LAS PALOMAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71643,
+    "name": "LAS TORRES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71644,
+    "name": "LAS TORRES DE GUADALUPE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71679,
+    "name": "LINARES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149795,
+    "name": "LINARES NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71740,
+    "name": "LOMA LA PAZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149796,
+    "name": "LOMAS DE SAN FRANCISCO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71750,
+    "name": "LOMAS DE SAN MARTÍN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149797,
+    "name": "LOS ALDAMAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149798,
+    "name": "LOS DOS RÍOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149799,
+    "name": "LOS HERRERAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71828,
+    "name": "LOS PARQUES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149800,
+    "name": "LOS POCITOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71839,
+    "name": "LOS RAMONES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149801,
+    "name": "LOS ÁLAMOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149802,
+    "name": "LOS ÁNGELES NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149803,
+    "name": "MARÍA AURORA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149804,
+    "name": "MARÍA AUXILIADORA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72007,
+    "name": "MARÍN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72045,
+    "name": "MAZATLAN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149805,
+    "name": "MELCHOR OCAMPO NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149806,
+    "name": "MEXIQUITO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149807,
+    "name": "MIER Y NORIEGA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72141,
+    "name": "MINA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72159,
+    "name": "MISIÓN SAN PABLO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72162,
+    "name": "MITRAS PONIENTE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72192,
+    "name": "MONCLOVA PRIMER SECTOR",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72193,
+    "name": "MONCLOVA SEGUNDO SECTOR",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72202,
+    "name": "MONTE KRISTAL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72215,
+    "name": "MONTEMORELOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72219,
+    "name": "MONTERREY",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149809,
+    "name": "NÁÑEZ GONZÁLEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72657,
+    "name": "PARQUE INDUSTRIAL CIUDAD MITRAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72664,
+    "name": "PARÁS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149810,
+    "name": "PARÁS NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72668,
+    "name": "PASEO DE SAN JAVIER",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149811,
+    "name": "PEDRO IBARRA HERNÁNDEZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72740,
+    "name": "PESQUERÍA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72854,
+    "name": "PORTAL DE LAS SALINAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72878,
+    "name": "PRADERAS DE SAN FRANCISCO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72882,
+    "name": "PRADOS DE SANTA ROSA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72937,
+    "name": "PUEBLO NUEVO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149812,
+    "name": "PUERTO GENOVEVO SANTIAGO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73085,
+    "name": "RAYONES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73091,
+    "name": "REAL DEL SOL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149813,
+    "name": "RUBÉN CARLOS GALLEGOS REYES VILLALDAMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73185,
+    "name": "RÍO VERDE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149814,
+    "name": "SABINAS HIDALGO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73215,
+    "name": "SALINAS VICTORIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73316,
+    "name": "SAN ANTONIO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149815,
+    "name": "SAN ANTONIO DE ALAMITOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149816,
+    "name": "SAN BERNARDO NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149817,
+    "name": "SAN JOSÉ DE CUATRO CAMINOS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149818,
+    "name": "SAN JOSÉ DE MEDINA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73825,
+    "name": "SAN JOSÉ DE RAÍCES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149819,
+    "name": "SAN JOSÉ LINARES",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73858,
+    "name": "SAN JUAN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149820,
+    "name": "SAN MATEO DOCTOR ARROYO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74273,
+    "name": "SAN NICOLÁS DE LOS GARZA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74335,
+    "name": "SAN PEDRO GARZA GARCIA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74427,
+    "name": "SAN RAFAEL",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149821,
+    "name": "SANTA CATARINA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74837,
+    "name": "SANTA ROSA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149822,
+    "name": "SANTA TERESITA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149823,
+    "name": "SANTA VERÓNICA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74868,
+    "name": "SANTIAGO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75083,
+    "name": "SIMEPRODESO (COLECTIVO NUEVO)",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75880,
+    "name": "UNIÓN AGROPECUARIOS LÁZARO CÁRDENAS DEL NORTE",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149824,
+    "name": "VALLE ALTO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75922,
+    "name": "VALLE DE JUÁREZ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75923,
+    "name": "VALLE DE LINCOLN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75925,
+    "name": "VALLE DE VAQUERÍAS",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75930,
+    "name": "VALLECILLO",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76082,
+    "name": "VILLALDAMA",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 149825,
+    "name": "VILLALDAMA NUEVO LEÓN",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76087,
+    "name": "VILLAS DE ALCALÁ",
+    "state": "NUEVO LEÓN",
+    "state_iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

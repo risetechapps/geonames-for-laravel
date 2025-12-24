@@ -1,0 +1,712 @@
+[
+  {
+    "id": 52415,
+    "name": "AGÍA FOTEINÍ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52416,
+    "name": "AGÍA GALÍNI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52418,
+    "name": "AGÍA MARÍNA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52427,
+    "name": "AGÍA VARVÁRA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52467,
+    "name": "ANO ARHANES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52480,
+    "name": "ANÓGEIA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52493,
+    "name": "ARKALOCHÓRI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52512,
+    "name": "ASÍMION",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52517,
+    "name": "ATSIPÓPOULO",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52530,
+    "name": "CHANIÁ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52544,
+    "name": "CHÓRA SFAKÍON",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52546,
+    "name": "DARÁTSOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52582,
+    "name": "ELOÚNDA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52623,
+    "name": "GALATÁS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52633,
+    "name": "GEORGIOUPOLIS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52636,
+    "name": "GERÁNI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52641,
+    "name": "GOÚRNES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52642,
+    "name": "GRA LIYIÁ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52648,
+    "name": "GÁZI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52654,
+    "name": "GÉRGERI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 153541,
+    "name": "HERAKLION",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52659,
+    "name": "IERÁPETRA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52666,
+    "name": "IRÁKLEION",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52692,
+    "name": "KALÝVES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52726,
+    "name": "KASTRÍ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52728,
+    "name": "KASTÉLLI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52738,
+    "name": "KENTRÍ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52756,
+    "name": "KOKKÍNI CHÁNI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52760,
+    "name": "KOLYMPÁRI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52787,
+    "name": "KRITSÁ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52789,
+    "name": "KROUSÓN",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52806,
+    "name": "KÁTO ASÍTAI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52809,
+    "name": "KÁTO GOÚVES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52822,
+    "name": "KÍSSAMOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52855,
+    "name": "LIMÍN KHERSONÍSOU",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52939,
+    "name": "MOKHÓS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52944,
+    "name": "MOURNIÉS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52946,
+    "name": "MOUZOURÁS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52948,
+    "name": "MOÍRES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52953,
+    "name": "MÁLIA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52971,
+    "name": "NEROKOÚROS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52973,
+    "name": "NEÁPOLI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52986,
+    "name": "NOMÓS IRAKLEÍOU",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52991,
+    "name": "NOMÓS RETHÝMNIS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52999,
+    "name": "NÉA ALIKARNASSÓS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53000,
+    "name": "NÉA ANATOLÍ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53079,
+    "name": "PALAIÓCHORA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53083,
+    "name": "PALEKASTRO",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53114,
+    "name": "PERIVÓLIA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53124,
+    "name": "PITHÁRI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53142,
+    "name": "PROFÍTIS ILÍAS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53163,
+    "name": "PÁNORMOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53176,
+    "name": "PÉRAMA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53185,
+    "name": "PÝRGOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53187,
+    "name": "RETHYMNO",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53210,
+    "name": "SCHÍSMA ELOÚNDAS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53217,
+    "name": "SITIA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53219,
+    "name": "SKALÁNION",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53237,
+    "name": "SOÚDA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53244,
+    "name": "STALÍS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53272,
+    "name": "SÍSION",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53281,
+    "name": "THRAPSANÓN",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53296,
+    "name": "TSIKALARIÁ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53299,
+    "name": "TYMPÁKI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53302,
+    "name": "TÍLISOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53321,
+    "name": "VIOLÍ CHARÁKI",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53337,
+    "name": "VRÝSES",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53359,
+    "name": "ZARÓS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53364,
+    "name": "ZONIANÁ",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53371,
+    "name": "ÁGIOI DÉKA",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53380,
+    "name": "ÁGIOS NIKÓLAOS",
+    "state": "CRETE",
+    "state_iso2": "M",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  }
+]

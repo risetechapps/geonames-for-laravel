@@ -1,0 +1,4702 @@
+[
+  {
+    "id": 135238,
+    "name": "ABBADIA SAN SALVATORE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135244,
+    "name": "ABETONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135276,
+    "name": "ACQUAVIVA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135301,
+    "name": "AGLIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135371,
+    "name": "ALBIANO MAGRA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135378,
+    "name": "ALBINIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135446,
+    "name": "ALTOPASCIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135466,
+    "name": "AMBRA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135478,
+    "name": "ANCHIONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135497,
+    "name": "ANGHIARI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135513,
+    "name": "ANTELLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135554,
+    "name": "ARBIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135567,
+    "name": "ARCIDOSSO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135590,
+    "name": "AREZZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135654,
+    "name": "ASCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135687,
+    "name": "AULLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135696,
+    "name": "AVANE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135739,
+    "name": "BADIA AL PINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135738,
+    "name": "BADIA TEDALDA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135757,
+    "name": "BAGNI DI LUCCA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135761,
+    "name": "BAGNO A RIPOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135760,
+    "name": "BAGNO ROSELLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135774,
+    "name": "BAGNONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135817,
+    "name": "BARBA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135822,
+    "name": "BARBARASCO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135828,
+    "name": "BARBERINO DI MUGELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135827,
+    "name": "BARBERINO VAL D'ELSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135848,
+    "name": "BARGA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135907,
+    "name": "BATTIFOLLE-RUSCELLO-POGGIOLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135941,
+    "name": "BELLAVISTA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135968,
+    "name": "BELVERDE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136021,
+    "name": "BETTOLLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136039,
+    "name": "BIBBIENA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136040,
+    "name": "BIBBONA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136049,
+    "name": "BIENTINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136164,
+    "name": "BORGHETTO-MELARA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136197,
+    "name": "BORGO A BUGGIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136198,
+    "name": "BORGO A MOZZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136184,
+    "name": "BORGO SAN LORENZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136280,
+    "name": "BRACCAGNI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136389,
+    "name": "BUCINE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136407,
+    "name": "BUONCONVENTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136437,
+    "name": "BUTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136503,
+    "name": "CALCI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136505,
+    "name": "CALCINAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136518,
+    "name": "CALDINE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136522,
+    "name": "CALENZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136567,
+    "name": "CAMAIORE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136602,
+    "name": "CAMPAGNATICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136615,
+    "name": "CAMPI BISENZIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136618,
+    "name": "CAMPIGLIA MARITTIMA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136626,
+    "name": "CAMPO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136637,
+    "name": "CAMPO NELL'ELBA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136632,
+    "name": "CAMPO TIZZORO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136675,
+    "name": "CAMPORGIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136684,
+    "name": "CAMUCIA-MONSIGLIOLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136737,
+    "name": "CANTAGALLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136738,
+    "name": "CANTAGRILLO-CASALGUIDI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136759,
+    "name": "CAPALBIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136760,
+    "name": "CAPANNE-PRATO-CINQUALE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136761,
+    "name": "CAPANNOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136762,
+    "name": "CAPANNORI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136783,
+    "name": "CAPOLIVERI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136784,
+    "name": "CAPOLONA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136799,
+    "name": "CAPRAIA E LIMITE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136798,
+    "name": "CAPRAIA ISOLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136807,
+    "name": "CAPRESE MICHELANGELO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136864,
+    "name": "CAREGGINE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136892,
+    "name": "CARMIGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136923,
+    "name": "CARRAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136924,
+    "name": "CARRARA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136977,
+    "name": "CASALE MARITTIMO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137047,
+    "name": "CASCIANA TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137048,
+    "name": "CASCINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137051,
+    "name": "CASCINE-LA CROCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137080,
+    "name": "CASOLA IN LUNIGIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137082,
+    "name": "CASOLE D'ELSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137117,
+    "name": "CASTAGNETO CARDUCCI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137166,
+    "name": "CASTEL DEL PIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137153,
+    "name": "CASTEL SAN NICCOLÒ",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137193,
+    "name": "CASTELFIORENTINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137199,
+    "name": "CASTELFRANCO DI SOPRA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137200,
+    "name": "CASTELFRANCO DI SOTTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137208,
+    "name": "CASTELL'AZZARA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137246,
+    "name": "CASTELLINA IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137244,
+    "name": "CASTELLINA MARITTIMA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137245,
+    "name": "CASTELLINA SCALO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137283,
+    "name": "CASTELNUOVO BERARDENGA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137296,
+    "name": "CASTELNUOVO DEI SABBIONI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137302,
+    "name": "CASTELNUOVO DI GARFAGNANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137304,
+    "name": "CASTELNUOVO DI VAL DI CECINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137336,
+    "name": "CASTIGLION FIBOCCHI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137337,
+    "name": "CASTIGLION FIORENTINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137350,
+    "name": "CASTIGLIONE D'ORCIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137354,
+    "name": "CASTIGLIONE DELLA PESCAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137356,
+    "name": "CASTIGLIONE DI GARFAGNANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137393,
+    "name": "CATENA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137417,
+    "name": "CAVALLINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137444,
+    "name": "CAVRIGLIA-MONASTERO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137454,
+    "name": "CECINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137486,
+    "name": "CENAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137519,
+    "name": "CERBAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137563,
+    "name": "CERRETO GUIDI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137578,
+    "name": "CERTALDO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137601,
+    "name": "CESA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137622,
+    "name": "CETONA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137645,
+    "name": "CHIANCIANO TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137646,
+    "name": "CHIANNI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137656,
+    "name": "CHIASSA-TREGOZZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137670,
+    "name": "CHIESINA UZZANESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137671,
+    "name": "CHIESINO-COLLODI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137681,
+    "name": "CHITIGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137695,
+    "name": "CHIUSDINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137696,
+    "name": "CHIUSI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137698,
+    "name": "CHIUSI DELLA VERNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137697,
+    "name": "CHIUSI SCALO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137733,
+    "name": "CINIGIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137741,
+    "name": "CINTOLESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137804,
+    "name": "CIVITELLA IN VAL DI CHIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137797,
+    "name": "CIVITELLA MARITTIMA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137873,
+    "name": "COLLE DI VAL D'ELSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137893,
+    "name": "COLLESALVETTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137935,
+    "name": "COMANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137937,
+    "name": "COMEANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137949,
+    "name": "COMPIOBBI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138005,
+    "name": "COREGLIA ANTELMINELLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138046,
+    "name": "CORSANICO-BARGECCHIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138071,
+    "name": "CORTONA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138146,
+    "name": "CRESPINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138217,
+    "name": "CUTIGLIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138265,
+    "name": "DICOMANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138303,
+    "name": "DONORATICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138356,
+    "name": "EMPOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138391,
+    "name": "FABBRICHE DI VALLICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138402,
+    "name": "FAELLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138456,
+    "name": "FAUGLIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138511,
+    "name": "FIESOLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138519,
+    "name": "FIGLINE VALDARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138525,
+    "name": "FILATTIERA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138528,
+    "name": "FILETTOLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138543,
+    "name": "FIRENZUOLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138556,
+    "name": "FIVIZZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138563,
+    "name": "FLORENCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138578,
+    "name": "FOIANO DELLA CHIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138584,
+    "name": "FOLLONICA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138593,
+    "name": "FONTANA DELLE MONACHE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138608,
+    "name": "FONTEBLANDA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138622,
+    "name": "FORCOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138645,
+    "name": "FORNACELLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138646,
+    "name": "FORNACETTE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138650,
+    "name": "FORNACI DI BARGA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138661,
+    "name": "FORTE DEI MARMI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138665,
+    "name": "FOSCIANDORA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138666,
+    "name": "FOSDINOVO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138746,
+    "name": "FUCECCHIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138768,
+    "name": "GABELLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138791,
+    "name": "GAIOLE IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138803,
+    "name": "GALLIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138807,
+    "name": "GALLICANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138829,
+    "name": "GAMBASSI TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138880,
+    "name": "GAVORRANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138890,
+    "name": "GELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138958,
+    "name": "GIGLIO CASTELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138964,
+    "name": "GINESTRA FIORENTINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138978,
+    "name": "GIOVI-PONTE ALLA CHIASSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138994,
+    "name": "GIUNCUGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139073,
+    "name": "GRASSINA PONTE A EMA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139092,
+    "name": "GREVE IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139118,
+    "name": "GROSSETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139166,
+    "name": "GUARDISTALLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139170,
+    "name": "GUASTICCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139171,
+    "name": "GUAZZINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139193,
+    "name": "IL ROMITO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139202,
+    "name": "IMPRUNETA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139205,
+    "name": "INCISA IN VAL D'ARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139237,
+    "name": "ISOLA D'ARBIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139244,
+    "name": "ISOLA DEL GIGLIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139265,
+    "name": "ISTIA D'OMBRONE-LE STIACCIOLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139288,
+    "name": "LA CALIFORNIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139298,
+    "name": "LA PIEVE-MOLINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139301,
+    "name": "LA ROTTA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139337,
+    "name": "LAJATICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139350,
+    "name": "LAMPORECCHIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139370,
+    "name": "LARCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139374,
+    "name": "LARI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139385,
+    "name": "LASTRA A SIGNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139387,
+    "name": "LATERINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139423,
+    "name": "LAZZERETTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139424,
+    "name": "LE CASINE-PERIGNANO-SPINELLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139495,
+    "name": "LICCIANA NARDI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139523,
+    "name": "LIMITE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139551,
+    "name": "LIVORNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139587,
+    "name": "LONDA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139607,
+    "name": "LORENZANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139613,
+    "name": "LORO CIUFFENNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139629,
+    "name": "LUCCA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139632,
+    "name": "LUCIGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139637,
+    "name": "LUCO MUGELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139711,
+    "name": "MADONNA DELL'ACQUA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139730,
+    "name": "MAGLIANO IN TOSCANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139770,
+    "name": "MALMANTILE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139782,
+    "name": "MANCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139810,
+    "name": "MANTIGNANO-UGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139845,
+    "name": "MARCIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139846,
+    "name": "MARCIANA MARINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139848,
+    "name": "MARCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139849,
+    "name": "MARCIANO DELLA CHIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139851,
+    "name": "MARCIGNANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139864,
+    "name": "MARGINE COPERTA-TRAVERSAGNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139879,
+    "name": "MARINA DI CAMPO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139881,
+    "name": "MARINA DI CARRARA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139888,
+    "name": "MARINA DI GROSSETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139889,
+    "name": "MARINA DI MASSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139891,
+    "name": "MARINA DI PISA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139892,
+    "name": "MARINA DI PISA-TIRRENIA-CALAMBRONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139904,
+    "name": "MARLIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139915,
+    "name": "MARRADI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139929,
+    "name": "MARTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139966,
+    "name": "MASSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139973,
+    "name": "MASSA MARITTIMA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139980,
+    "name": "MASSAROSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140072,
+    "name": "MERCATALE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140073,
+    "name": "MERCATALE-SAN QUIRICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140102,
+    "name": "METATO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140134,
+    "name": "MIGLIARINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140163,
+    "name": "MINUCCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140211,
+    "name": "MOLAZZANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140224,
+    "name": "MOLINO DEL PIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140303,
+    "name": "MONSUMMANO TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140314,
+    "name": "MONTAIONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140319,
+    "name": "MONTALCINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140326,
+    "name": "MONTALE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140330,
+    "name": "MONTALTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140352,
+    "name": "MONTE ARGENTARIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140377,
+    "name": "MONTE SAN SAVINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140392,
+    "name": "MONTEBONELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140399,
+    "name": "MONTECALVOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140400,
+    "name": "MONTECARLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140405,
+    "name": "MONTECATINI VAL DI CECINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140406,
+    "name": "MONTECATINI-TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140481,
+    "name": "MONTELUPO FIORENTINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140493,
+    "name": "MONTEMIGNAIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140498,
+    "name": "MONTEMURLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140510,
+    "name": "MONTEPULCIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140511,
+    "name": "MONTEPULCIANO STAZIONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140513,
+    "name": "MONTERCHI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140517,
+    "name": "MONTERIGGIONI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140519,
+    "name": "MONTERONI D'ARBIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140527,
+    "name": "MONTEROTONDO MARITTIMO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140537,
+    "name": "MONTESCUDAIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140543,
+    "name": "MONTESPERTOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140547,
+    "name": "MONTEVARCHI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140550,
+    "name": "MONTEVERDI MARITTIMO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140554,
+    "name": "MONTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140570,
+    "name": "MONTICIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140571,
+    "name": "MONTIERI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140574,
+    "name": "MONTIGNOSO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140580,
+    "name": "MONTOPOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140682,
+    "name": "MULAZZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140692,
+    "name": "MURLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140940,
+    "name": "ORBETELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140941,
+    "name": "ORBETELLO SCALO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140943,
+    "name": "ORCIANO PISANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140947,
+    "name": "ORENTANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140985,
+    "name": "ORTIGNANO RAGGIOLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140996,
+    "name": "ORZIGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58222,
+    "name": "PALAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58237,
+    "name": "PALAZZUOLO SUL SENIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58252,
+    "name": "PALLERONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58286,
+    "name": "PANZANO IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58347,
+    "name": "PATIGNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58367,
+    "name": "PECCIOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58390,
+    "name": "PELAGO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58422,
+    "name": "PERGINE VALDARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58448,
+    "name": "PESCAGLIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58457,
+    "name": "PESCIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58509,
+    "name": "PIAN DI MUGNONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58510,
+    "name": "PIAN DI SCÒ",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58517,
+    "name": "PIANCASTAGNAIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58541,
+    "name": "PIANO DI CONCA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58542,
+    "name": "PIANO DI COREGLIA-GHIVIZZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58544,
+    "name": "PIANO DI MOMMIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58569,
+    "name": "PIAZZA AL SERCHIO-SAN MICHELE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58597,
+    "name": "PIENZA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58625,
+    "name": "PIETRASANTA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58643,
+    "name": "PIEVE A NIEVOLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58644,
+    "name": "PIEVE AL TOPPO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58635,
+    "name": "PIEVE FOSCIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58639,
+    "name": "PIEVE SANTO STEFANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58689,
+    "name": "PIOMBINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58702,
+    "name": "PISA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58714,
+    "name": "PISTOIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58716,
+    "name": "PITEGLIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58718,
+    "name": "PITIGLIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58744,
+    "name": "PODENZANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58747,
+    "name": "POGGETTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58749,
+    "name": "POGGIBONSI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58750,
+    "name": "POGGIO A CAIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58808,
+    "name": "POMARANCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58825,
+    "name": "PONSACCO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58830,
+    "name": "PONTASSERCHIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58831,
+    "name": "PONTASSIEVE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58833,
+    "name": "PONTE A ELSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58851,
+    "name": "PONTE A POPPI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58834,
+    "name": "PONTE A TRESSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58836,
+    "name": "PONTE BUGGIANESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58869,
+    "name": "PONTEDERA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58878,
+    "name": "PONTESTAZZEMESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58886,
+    "name": "PONTICINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58893,
+    "name": "PONTREMOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58901,
+    "name": "POPPI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58903,
+    "name": "PORCARI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58923,
+    "name": "PORTO AZZURRO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58929,
+    "name": "PORTO ERCOLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58936,
+    "name": "PORTO SANTO STEFANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58944,
+    "name": "PORTOFERRAIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58978,
+    "name": "POZZALE-CASE NUOVE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59018,
+    "name": "PRATANTICO-INDICATORE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59026,
+    "name": "PRATO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59036,
+    "name": "PRATOVECCHIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59100,
+    "name": "PROVINCE OF AREZZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59102,
+    "name": "PROVINCE OF FLORENCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59103,
+    "name": "PROVINCE OF PISA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59136,
+    "name": "PROVINCIA DI GROSSETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59143,
+    "name": "PROVINCIA DI LIVORNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59145,
+    "name": "PROVINCIA DI LUCCA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59148,
+    "name": "PROVINCIA DI MASSA-CARRARA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59162,
+    "name": "PROVINCIA DI PISTOIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59165,
+    "name": "PROVINCIA DI PRATO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59175,
+    "name": "PROVINCIA DI SIENA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59218,
+    "name": "QUARATA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59224,
+    "name": "QUARRATA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59237,
+    "name": "QUATTRO STRADE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59240,
+    "name": "QUERCIANELLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59261,
+    "name": "RADDA IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59263,
+    "name": "RADICOFANI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59264,
+    "name": "RADICONDOLI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59286,
+    "name": "RAPOLANO TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59290,
+    "name": "RASSINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59319,
+    "name": "REGGELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59360,
+    "name": "RIBOLLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59379,
+    "name": "RIGNANO SULL'ARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59386,
+    "name": "RIO MARINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59390,
+    "name": "RIO NELL'ELBA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59400,
+    "name": "RIPA-POZZI-QUERCETA-PONTEROSSO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59407,
+    "name": "RIPARBELLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59505,
+    "name": "ROCCALBEGNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59525,
+    "name": "ROCCASTRADA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59617,
+    "name": "RONTA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59638,
+    "name": "ROSIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59639,
+    "name": "ROSIGNANO MARITTIMO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59641,
+    "name": "ROSIGNANO SOLVAY-CASTIGLIONCELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59699,
+    "name": "RUFINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59710,
+    "name": "S.P. IN PALAZZI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59770,
+    "name": "SALINE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59803,
+    "name": "SAMBUCA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59804,
+    "name": "SAMBUCA PISTOIESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59857,
+    "name": "SAN CASCIANO DEI BAGNI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59858,
+    "name": "SAN CASCIANO IN VAL DI PESA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59872,
+    "name": "SAN CIPRIANO-S.BARBARA-CENTINALE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59895,
+    "name": "SAN DONATO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59900,
+    "name": "SAN DONNINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59926,
+    "name": "SAN FRANCESCO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59949,
+    "name": "SAN GIMIGNANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59993,
+    "name": "SAN GIOVANNI D'ASSO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59990,
+    "name": "SAN GIOVANNI VALDARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60005,
+    "name": "SAN GIULIANO TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60016,
+    "name": "SAN GIUSTINO VALDARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60018,
+    "name": "SAN GODENZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60026,
+    "name": "SAN JACOPO AL GIRONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60059,
+    "name": "SAN MARCELLO PISTOIESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60091,
+    "name": "SAN MARTINO IN FREDDANA-MONSAGRATI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60104,
+    "name": "SAN MAURO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60127,
+    "name": "SAN MINIATO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60128,
+    "name": "SAN MINIATO BASSO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60166,
+    "name": "SAN PIERINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60168,
+    "name": "SAN PIERO A SIEVE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60175,
+    "name": "SAN PIETRO BELVEDERE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60217,
+    "name": "SAN QUIRICO D'ORCIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60224,
+    "name": "SAN ROCCO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60227,
+    "name": "SAN ROMANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60228,
+    "name": "SAN ROMANO IN GARFAGNANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60267,
+    "name": "SAN VINCENZO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60285,
+    "name": "SAN VITO-CERRETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60313,
+    "name": "SANSEPOLCRO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60332,
+    "name": "SANT'ALBINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60430,
+    "name": "SANTA CROCE SULL'ARNO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60436,
+    "name": "SANTA FIORA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60443,
+    "name": "SANTA LUCE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60444,
+    "name": "SANTA LUCIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60470,
+    "name": "SANTA MARIA A MONTE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60560,
+    "name": "SARTEANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60570,
+    "name": "SASSETTA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60617,
+    "name": "SCANDICCI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60625,
+    "name": "SCANSANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60632,
+    "name": "SCARLINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60633,
+    "name": "SCARLINO SCALO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60636,
+    "name": "SCARPERIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60673,
+    "name": "SEANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60688,
+    "name": "SEGGIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60709,
+    "name": "SELVATELLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60717,
+    "name": "SEMPRONIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60735,
+    "name": "SERAVEZZA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60773,
+    "name": "SERRAVALLE PISTOIESE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60780,
+    "name": "SERRE DI RAPOLANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60793,
+    "name": "SESTINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60797,
+    "name": "SESTO FIORENTINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60843,
+    "name": "SIECI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60844,
+    "name": "SIENA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60846,
+    "name": "SIGNA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60853,
+    "name": "SILLANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60863,
+    "name": "SINALUNGA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60894,
+    "name": "SOCI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60947,
+    "name": "SORANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60983,
+    "name": "SOVICILLE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61004,
+    "name": "SPIANATE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61006,
+    "name": "SPICCHIO-SOVIGLIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61037,
+    "name": "STABBIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61040,
+    "name": "STAGGIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61050,
+    "name": "STAZIONE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61052,
+    "name": "STAZIONE MASOTTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61069,
+    "name": "STIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61070,
+    "name": "STIAVA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61083,
+    "name": "STRADA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61085,
+    "name": "STRADA IN CHIANTI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61094,
+    "name": "STRETTOIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61108,
+    "name": "SUBBIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61135,
+    "name": "SUVERETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61155,
+    "name": "TALLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61180,
+    "name": "TAVARNELLE VAL DI PESA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61181,
+    "name": "TAVARNUZZE",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61186,
+    "name": "TAVERNE D'ARBIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61204,
+    "name": "TEGOLETO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61234,
+    "name": "TERONTOLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61243,
+    "name": "TERRANUOVA BRACCIOLINI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61244,
+    "name": "TERRAROSSA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61251,
+    "name": "TERRICCIOLA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61372,
+    "name": "TORRE DEL LAGO PUCCINI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61385,
+    "name": "TORRENIERI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61410,
+    "name": "TORRITA DI SIENA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61472,
+    "name": "TREGGIAIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61490,
+    "name": "TREQUANDA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61492,
+    "name": "TRESANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61589,
+    "name": "UGGIA-PAZZERA-BIZZARRINO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61594,
+    "name": "ULIVETO TERME",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61621,
+    "name": "UZZANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61623,
+    "name": "VACCHERECCIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61627,
+    "name": "VADA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61633,
+    "name": "VAGLIA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61637,
+    "name": "VAIANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61646,
+    "name": "VAL DI CAVA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61658,
+    "name": "VALDOTTAVO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61666,
+    "name": "VALENZATICO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61787,
+    "name": "VECCHIANO-NODICA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61829,
+    "name": "VENTURINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61857,
+    "name": "VERNIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61879,
+    "name": "VESCOVADO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61905,
+    "name": "VIAREGGIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61910,
+    "name": "VICARELLO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61913,
+    "name": "VICCHIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61915,
+    "name": "VICIOMAGGIO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61925,
+    "name": "VICOPISANO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61957,
+    "name": "VIGNALE RIOTORTO",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61964,
+    "name": "VIGNOLE-OLMI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61986,
+    "name": "VILLA BASILICA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61994,
+    "name": "VILLA COLLEMANDINA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62062,
+    "name": "VILLAFRANCA IN LUNIGIANA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62163,
+    "name": "VINCI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62218,
+    "name": "VOLTERRA",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62253,
+    "name": "ZERI",
+    "state": "TUSCANY",
+    "state_iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  }
+]

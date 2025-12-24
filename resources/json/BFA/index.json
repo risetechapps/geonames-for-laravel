@@ -1,0 +1,582 @@
+[
+  {
+    "id": 3160,
+    "name": "BALÉ",
+    "iso2": "BAL",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3155,
+    "name": "BAM",
+    "iso2": "BAM",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3120,
+    "name": "BANWA",
+    "iso2": "BAN",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3152,
+    "name": "BAZÈGA",
+    "iso2": "BAZ",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3138,
+    "name": "BOUCLE DU MOUHOUN",
+    "iso2": "01",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3121,
+    "name": "BOUGOURIBA",
+    "iso2": "BGR",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3131,
+    "name": "BOULGOU",
+    "iso2": "BLG",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 5343,
+    "name": "BOULKIEMDE",
+    "iso2": "BLK",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3153,
+    "name": "CASCADES",
+    "iso2": "02",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3136,
+    "name": "CENTRE",
+    "iso2": "03",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3162,
+    "name": "CENTRE-EST",
+    "iso2": "04",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3127,
+    "name": "CENTRE-NORD",
+    "iso2": "05",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3115,
+    "name": "CENTRE-OUEST",
+    "iso2": "06",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3149,
+    "name": "CENTRE-SUD",
+    "iso2": "07",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3167,
+    "name": "COMOÉ",
+    "iso2": "COM",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3158,
+    "name": "EST",
+    "iso2": "08",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3148,
+    "name": "GANZOURGOU",
+    "iso2": "GAN",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3122,
+    "name": "GNAGNA",
+    "iso2": "GNA",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3143,
+    "name": "GOURMA",
+    "iso2": "GOU",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3165,
+    "name": "HAUTS-BASSINS",
+    "iso2": "09",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3129,
+    "name": "HOUET",
+    "iso2": "HOU",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3135,
+    "name": "IOBA",
+    "iso2": "IOB",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3168,
+    "name": "KADIOGO",
+    "iso2": "KAD",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3132,
+    "name": "KOMONDJARI",
+    "iso2": "KMD",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3157,
+    "name": "KOMPIENGA",
+    "iso2": "KMP",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3146,
+    "name": "KOSSI",
+    "iso2": "KOS",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3133,
+    "name": "KOULPÉLOGO",
+    "iso2": "KOP",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3161,
+    "name": "KOURITENGA",
+    "iso2": "KOT",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3147,
+    "name": "KOURWÉOGO",
+    "iso2": "KOW",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3112,
+    "name": "KÉNÉDOUGOU",
+    "iso2": "KEN",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3151,
+    "name": "LOROUM",
+    "iso2": "LOR",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3159,
+    "name": "LÉRABA",
+    "iso2": "LER",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3123,
+    "name": "MOUHOUN",
+    "iso2": "MOU",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3116,
+    "name": "NAHOURI",
+    "iso2": "NAO",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3113,
+    "name": "NAMENTENGA",
+    "iso2": "NAM",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3142,
+    "name": "NAYALA",
+    "iso2": "NAY",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3164,
+    "name": "NORD",
+    "iso2": "10",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3156,
+    "name": "NOUMBIEL",
+    "iso2": "NOU",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3141,
+    "name": "OUBRITENGA",
+    "iso2": "OUB",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3144,
+    "name": "OUDALAN",
+    "iso2": "OUD",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3117,
+    "name": "PASSORÉ",
+    "iso2": "PAS",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3125,
+    "name": "PLATEAU-CENTRAL",
+    "iso2": "11",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3163,
+    "name": "PONI",
+    "iso2": "PON",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3114,
+    "name": "SAHEL",
+    "iso2": "12",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3154,
+    "name": "SANGUIÉ",
+    "iso2": "SNG",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3126,
+    "name": "SANMATENGA",
+    "iso2": "SMT",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3119,
+    "name": "SISSILI",
+    "iso2": "SIS",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3166,
+    "name": "SOUM",
+    "iso2": "SOM",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3137,
+    "name": "SOUROU",
+    "iso2": "SOR",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3140,
+    "name": "SUD-OUEST",
+    "iso2": "13",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3139,
+    "name": "SÉNO",
+    "iso2": "SEN",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3128,
+    "name": "TAPOA",
+    "iso2": "TAP",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3134,
+    "name": "TUY",
+    "iso2": "TUI",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3124,
+    "name": "YAGHA",
+    "iso2": "YAG",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3150,
+    "name": "YATENGA",
+    "iso2": "YAT",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3145,
+    "name": "ZIRO",
+    "iso2": "ZIR",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3130,
+    "name": "ZONDOMA",
+    "iso2": "ZON",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  },
+  {
+    "id": 3118,
+    "name": "ZOUNDWÉOGO",
+    "iso2": "ZOU",
+    "country": "BURKINA FASO",
+    "country_iso2": "BF",
+    "country_iso3": "BFA",
+    "country_native": "BURKINA FASO",
+    "timezone": "Africa/Ouagadougou"
+  }
+]

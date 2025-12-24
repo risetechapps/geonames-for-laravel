@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1679,
+    "name": "ABRUZZO",
+    "iso2": "65",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1727,
+    "name": "AGRIGENTO",
+    "iso2": "AG",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1783,
+    "name": "ALESSANDRIA",
+    "iso2": "AL",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1672,
+    "name": "ANCONA",
+    "iso2": "AN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1716,
+    "name": "AOSTA VALLEY",
+    "iso2": "23",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1688,
+    "name": "APULIA",
+    "iso2": "75",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1761,
+    "name": "AREZZO",
+    "iso2": "AR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1681,
+    "name": "ASCOLI PICENO",
+    "iso2": "AP",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1780,
+    "name": "ASTI",
+    "iso2": "AT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1692,
+    "name": "AVELLINO",
+    "iso2": "AV",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5626,
+    "name": "BARI",
+    "iso2": "BA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1686,
+    "name": "BARLETTA-ANDRIA-TRANI",
+    "iso2": "BT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1706,
+    "name": "BASILICATA",
+    "iso2": "77",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1689,
+    "name": "BELLUNO",
+    "iso2": "BL",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1701,
+    "name": "BENEVENTO",
+    "iso2": "BN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1704,
+    "name": "BERGAMO",
+    "iso2": "BG",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1778,
+    "name": "BIELLA",
+    "iso2": "BI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5627,
+    "name": "BOLOGNA",
+    "iso2": "BO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1717,
+    "name": "BRESCIA",
+    "iso2": "BS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1714,
+    "name": "BRINDISI",
+    "iso2": "BR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5628,
+    "name": "CAGLIARI",
+    "iso2": "CA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1703,
+    "name": "CALABRIA",
+    "iso2": "78",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1718,
+    "name": "CALTANISSETTA",
+    "iso2": "CL",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1669,
+    "name": "CAMPANIA",
+    "iso2": "72",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1721,
+    "name": "CAMPOBASSO",
+    "iso2": "CB",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1731,
+    "name": "CASERTA",
+    "iso2": "CE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5629,
+    "name": "CATANIA",
+    "iso2": "CT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1728,
+    "name": "CATANZARO",
+    "iso2": "CZ",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1739,
+    "name": "CHIETI",
+    "iso2": "CH",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1740,
+    "name": "COMO",
+    "iso2": "CO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1742,
+    "name": "COSENZA",
+    "iso2": "CS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1751,
+    "name": "CREMONA",
+    "iso2": "CR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1754,
+    "name": "CROTONE",
+    "iso2": "KR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1775,
+    "name": "CUNEO",
+    "iso2": "CN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1773,
+    "name": "EMILIA-ROMAGNA",
+    "iso2": "45",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1723,
+    "name": "ENNA",
+    "iso2": "EN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1744,
+    "name": "FERMO",
+    "iso2": "FM",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1746,
+    "name": "FERRARA",
+    "iso2": "FE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5630,
+    "name": "FLORENCE",
+    "iso2": "FI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1771,
+    "name": "FOGGIA",
+    "iso2": "FG",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1779,
+    "name": "FORLÌ-CESENA",
+    "iso2": "FC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1756,
+    "name": "FRIULI–VENEZIA GIULIA",
+    "iso2": "36",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1776,
+    "name": "FROSINONE",
+    "iso2": "FR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5631,
+    "name": "GENOA",
+    "iso2": "GE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1777,
+    "name": "GORIZIA",
+    "iso2": "GO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1787,
+    "name": "GROSSETO",
+    "iso2": "GR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1788,
+    "name": "IMPERIA",
+    "iso2": "IM",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1789,
+    "name": "ISERNIA",
+    "iso2": "IS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1781,
+    "name": "L'AQUILA",
+    "iso2": "AQ",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1791,
+    "name": "LA SPEZIA",
+    "iso2": "SP",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1674,
+    "name": "LATINA",
+    "iso2": "LT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1678,
+    "name": "LAZIO",
+    "iso2": "62",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1675,
+    "name": "LECCE",
+    "iso2": "LE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1677,
+    "name": "LECCO",
+    "iso2": "LC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1768,
+    "name": "LIGURIA",
+    "iso2": "42",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1745,
+    "name": "LIVORNO",
+    "iso2": "LI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1747,
+    "name": "LODI",
+    "iso2": "LO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1705,
+    "name": "LOMBARDY",
+    "iso2": "25",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1749,
+    "name": "LUCCA",
+    "iso2": "LU",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1750,
+    "name": "MACERATA",
+    "iso2": "MC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1758,
+    "name": "MANTUA",
+    "iso2": "MN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1670,
+    "name": "MARCHE",
+    "iso2": "57",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1759,
+    "name": "MASSA AND CARRARA",
+    "iso2": "MS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1760,
+    "name": "MATERA",
+    "iso2": "MT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5632,
+    "name": "MESSINA",
+    "iso2": "ME",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5633,
+    "name": "MILAN",
+    "iso2": "MI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1757,
+    "name": "MODENA",
+    "iso2": "MO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1695,
+    "name": "MOLISE",
+    "iso2": "67",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1769,
+    "name": "MONZA AND BRIANZA",
+    "iso2": "MB",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5634,
+    "name": "NAPLES",
+    "iso2": "NA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1774,
+    "name": "NOVARA",
+    "iso2": "NO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1790,
+    "name": "NUORO",
+    "iso2": "NU",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1786,
+    "name": "ORISTANO",
+    "iso2": "OR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1665,
+    "name": "PADUA",
+    "iso2": "PD",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1668,
+    "name": "PALERMO",
+    "iso2": "PA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1666,
+    "name": "PARMA",
+    "iso2": "PR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1676,
+    "name": "PAVIA",
+    "iso2": "PV",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1691,
+    "name": "PERUGIA",
+    "iso2": "PG",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1693,
+    "name": "PESARO AND URBINO",
+    "iso2": "PU",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1694,
+    "name": "PESCARA",
+    "iso2": "PE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1696,
+    "name": "PIACENZA",
+    "iso2": "PC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1702,
+    "name": "PIEDMONT",
+    "iso2": "21",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1685,
+    "name": "PISA",
+    "iso2": "PI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1687,
+    "name": "PISTOIA",
+    "iso2": "PT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1690,
+    "name": "PORDENONE",
+    "iso2": "PN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1697,
+    "name": "POTENZA",
+    "iso2": "PZ",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1700,
+    "name": "PRATO",
+    "iso2": "PO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1729,
+    "name": "RAGUSA",
+    "iso2": "RG",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1707,
+    "name": "RAVENNA",
+    "iso2": "RA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5635,
+    "name": "REGGIO CALABRIA",
+    "iso2": "RC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1708,
+    "name": "REGGIO EMILIA",
+    "iso2": "RE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1712,
+    "name": "RIETI",
+    "iso2": "RI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1713,
+    "name": "RIMINI",
+    "iso2": "RN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5636,
+    "name": "ROME",
+    "iso2": "RM",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1719,
+    "name": "ROVIGO",
+    "iso2": "RO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1720,
+    "name": "SALERNO",
+    "iso2": "SA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1715,
+    "name": "SARDINIA",
+    "iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1722,
+    "name": "SASSARI",
+    "iso2": "SS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1732,
+    "name": "SAVONA",
+    "iso2": "SV",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1709,
+    "name": "SICILY",
+    "iso2": "82",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1734,
+    "name": "SIENA",
+    "iso2": "SI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1667,
+    "name": "SIRACUSA",
+    "iso2": "SR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1741,
+    "name": "SONDRIO",
+    "iso2": "SO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1730,
+    "name": "SOUTH SARDINIA",
+    "iso2": "SU",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5639,
+    "name": "SOUTH TYROL",
+    "iso2": "BZ",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1743,
+    "name": "TARANTO",
+    "iso2": "TA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1752,
+    "name": "TERAMO",
+    "iso2": "TE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1755,
+    "name": "TERNI",
+    "iso2": "TR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1733,
+    "name": "TRAPANI",
+    "iso2": "TP",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5640,
+    "name": "TRENTINO",
+    "iso2": "TN",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1725,
+    "name": "TRENTINO-SOUTH TYROL",
+    "iso2": "32",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1762,
+    "name": "TREVISO",
+    "iso2": "TV",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1763,
+    "name": "TRIESTE",
+    "iso2": "TS",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5637,
+    "name": "TURIN",
+    "iso2": "TO",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1664,
+    "name": "TUSCANY",
+    "iso2": "52",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1764,
+    "name": "UDINE",
+    "iso2": "UD",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1683,
+    "name": "UMBRIA",
+    "iso2": "55",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1765,
+    "name": "VARESE",
+    "iso2": "VA",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1753,
+    "name": "VENETO",
+    "iso2": "34",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5638,
+    "name": "VENICE",
+    "iso2": "VE",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1726,
+    "name": "VERBANO-CUSIO-OSSOLA",
+    "iso2": "VB",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1785,
+    "name": "VERCELLI",
+    "iso2": "VC",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1736,
+    "name": "VERONA",
+    "iso2": "VR",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1737,
+    "name": "VIBO VALENTIA",
+    "iso2": "VV",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1738,
+    "name": "VICENZA",
+    "iso2": "VI",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 1735,
+    "name": "VITERBO",
+    "iso2": "VT",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA",
+    "timezone": "Europe/Rome"
+  }
+]

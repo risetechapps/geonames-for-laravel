@@ -1,0 +1,742 @@
+[
+  {
+    "id": 658,
+    "name": "ALVEAR",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 696,
+    "name": "BERÓN DE ASTRADA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 698,
+    "name": "BONPLAND",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 756,
+    "name": "CHAVARRÍA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 789,
+    "name": "CONCEPCIÓN",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 803,
+    "name": "CORRIENTES",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 810,
+    "name": "CRUZ DE LOS MILAGROS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 813,
+    "name": "CURUZÚ CUATIÁ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 836,
+    "name": "DEPARTAMENTO DE BELLA VISTA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 838,
+    "name": "DEPARTAMENTO DE BERÓN DE ASTRADA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 847,
+    "name": "DEPARTAMENTO DE CAPITAL",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 866,
+    "name": "DEPARTAMENTO DE CONCEPCIÓN",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 872,
+    "name": "DEPARTAMENTO DE CURUZÚ CUATIÁ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 879,
+    "name": "DEPARTAMENTO DE EMPEDRADO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 881,
+    "name": "DEPARTAMENTO DE ESQUINA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 888,
+    "name": "DEPARTAMENTO DE GENERAL ALVEAR",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 895,
+    "name": "DEPARTAMENTO DE GENERAL PAZ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 899,
+    "name": "DEPARTAMENTO DE GOYA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 912,
+    "name": "DEPARTAMENTO DE ITATÍ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 913,
+    "name": "DEPARTAMENTO DE ITUZAINGÓ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 925,
+    "name": "DEPARTAMENTO DE LAVALLE",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 940,
+    "name": "DEPARTAMENTO DE MBURUCUYÁ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 941,
+    "name": "DEPARTAMENTO DE MERCEDES",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 945,
+    "name": "DEPARTAMENTO DE MONTE CASEROS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 957,
+    "name": "DEPARTAMENTO DE PASO DE LOS LIBRES",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 980,
+    "name": "DEPARTAMENTO DE SALADAS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 984,
+    "name": "DEPARTAMENTO DE SAN COSME",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 995,
+    "name": "DEPARTAMENTO DE SAN LUIS DEL PALMAR",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 996,
+    "name": "DEPARTAMENTO DE SAN MARTÍN",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1001,
+    "name": "DEPARTAMENTO DE SAN MIGUEL",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1004,
+    "name": "DEPARTAMENTO DE SAN ROQUE",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1009,
+    "name": "DEPARTAMENTO DE SANTO TOMÉ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1014,
+    "name": "DEPARTAMENTO DE SAUCE",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1068,
+    "name": "EMPEDRADO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1071,
+    "name": "ESQUINA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1077,
+    "name": "FELIPE YOFRÉ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1089,
+    "name": "GARRUCHOS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1118,
+    "name": "GOBERNADOR JUAN E. MARTÍNEZ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1121,
+    "name": "GOBERNADOR VIRASORA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1123,
+    "name": "GOYA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1134,
+    "name": "HERLITZKA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1161,
+    "name": "ITATÍ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1162,
+    "name": "ITUZAINGÓ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1163,
+    "name": "ITÁ IBATÉ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1171,
+    "name": "JUAN PUJOL",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1184,
+    "name": "LA CRUZ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1235,
+    "name": "LIBERTAD",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1237,
+    "name": "LOMAS DE VALLEJOS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1242,
+    "name": "LORETO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1271,
+    "name": "MARIANO I. LOZA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1275,
+    "name": "MBURUCUYÁ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1279,
+    "name": "MERCEDES",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1284,
+    "name": "MOCORETÁ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1287,
+    "name": "MONTE CASEROS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1301,
+    "name": "NUESTRA SEÑORA DEL ROSARIO DE CAA CATÍ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1303,
+    "name": "NUEVE DE JULIO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1311,
+    "name": "PALMAR GRANDE",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1323,
+    "name": "PASO DE LA PATRIA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1324,
+    "name": "PASO DE LOS LIBRES",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1325,
+    "name": "PEDRO R. FERNÁNDEZ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1327,
+    "name": "PERUGORRÍA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1349,
+    "name": "PUEBLO LIBERTADOR",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1382,
+    "name": "RIACHUELO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1399,
+    "name": "SALADAS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1416,
+    "name": "SAN CARLOS",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1419,
+    "name": "SAN COSME",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1437,
+    "name": "SAN LORENZO",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1439,
+    "name": "SAN LUIS DEL PALMAR",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1443,
+    "name": "SAN MIGUEL",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1461,
+    "name": "SANTA LUCÍA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1466,
+    "name": "SANTA ROSA",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1476,
+    "name": "SANTO TOMÉ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1594,
+    "name": "YAPEYÚ",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1595,
+    "name": "YATAITY CALLE",
+    "state": "CORRIENTES",
+    "state_iso2": "W",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

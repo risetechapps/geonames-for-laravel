@@ -1,0 +1,902 @@
+[
+  {
+    "id": 4627,
+    "name": "BENEŠOV",
+    "iso2": "201",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4620,
+    "name": "BEROUN",
+    "iso2": "202",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4615,
+    "name": "BLANSKO",
+    "iso2": "641",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4568,
+    "name": "BRNO-MĚSTO",
+    "iso2": "642",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4545,
+    "name": "BRNO-VENKOV",
+    "iso2": "643",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4644,
+    "name": "BRUNTÁL",
+    "iso2": "801",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4542,
+    "name": "BŘECLAV",
+    "iso2": "644",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4573,
+    "name": "CHEB",
+    "iso2": "411",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4553,
+    "name": "CHOMUTOV",
+    "iso2": "422",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4634,
+    "name": "CHRUDIM",
+    "iso2": "531",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4641,
+    "name": "DOMAŽLICE",
+    "iso2": "321",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4609,
+    "name": "DĚČÍN",
+    "iso2": "421",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4559,
+    "name": "FRÝDEK-MÍSTEK",
+    "iso2": "802",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4611,
+    "name": "HAVLÍČKŮV BROD",
+    "iso2": "631",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4561,
+    "name": "HODONÍN",
+    "iso2": "645",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4580,
+    "name": "HRADEC KRÁLOVÉ",
+    "iso2": "521",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4612,
+    "name": "JABLONEC NAD NISOU",
+    "iso2": "512",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4625,
+    "name": "JESENÍK",
+    "iso2": "711",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4613,
+    "name": "JIHLAVA",
+    "iso2": "632",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4602,
+    "name": "JIHOMORAVSKÝ KRAJ",
+    "iso2": "64",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4639,
+    "name": "JIHOČESKÝ KRAJ",
+    "iso2": "31",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4624,
+    "name": "JINDŘICHŮV HRADEC",
+    "iso2": "313",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4640,
+    "name": "JIČÍN",
+    "iso2": "522",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4581,
+    "name": "KARLOVARSKÝ KRAJ",
+    "iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4604,
+    "name": "KARLOVY VARY",
+    "iso2": "412",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4586,
+    "name": "KARVINÁ",
+    "iso2": "803",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4631,
+    "name": "KLADNO",
+    "iso2": "203",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4591,
+    "name": "KLATOVY",
+    "iso2": "322",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4618,
+    "name": "KOLÍN",
+    "iso2": "204",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4575,
+    "name": "KRAJ VYSOČINA",
+    "iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4593,
+    "name": "KROMĚŘÍŽ",
+    "iso2": "721",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4614,
+    "name": "KRÁLOVÉHRADECKÝ KRAJ",
+    "iso2": "52",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4923,
+    "name": "KUTNÁ HORA",
+    "iso2": "205",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4590,
+    "name": "LIBEREC",
+    "iso2": "513",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4601,
+    "name": "LIBERECKÝ KRAJ",
+    "iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4605,
+    "name": "LITOMĚŘICE",
+    "iso2": "423",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4617,
+    "name": "LOUNY",
+    "iso2": "424",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4643,
+    "name": "MLADÁ BOLESLAV",
+    "iso2": "207",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4600,
+    "name": "MORAVSKOSLEZSKÝ KRAJ",
+    "iso2": "80",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4629,
+    "name": "MOST",
+    "iso2": "425",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4638,
+    "name": "MĚLNÍK",
+    "iso2": "206",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4548,
+    "name": "NOVÝ JIČÍN",
+    "iso2": "804",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4582,
+    "name": "NYMBURK",
+    "iso2": "208",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4550,
+    "name": "NÁCHOD",
+    "iso2": "523",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4574,
+    "name": "OLOMOUC",
+    "iso2": "712",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4589,
+    "name": "OLOMOUCKÝ KRAJ",
+    "iso2": "71",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4623,
+    "name": "OPAVA",
+    "iso2": "805",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4584,
+    "name": "OSTRAVA-MĚSTO",
+    "iso2": "806",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4547,
+    "name": "PARDUBICE",
+    "iso2": "532",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4588,
+    "name": "PARDUBICKÝ KRAJ",
+    "iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4645,
+    "name": "PELHŘIMOV",
+    "iso2": "633",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4608,
+    "name": "PLZEŇ-JIH",
+    "iso2": "324",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4544,
+    "name": "PLZEŇ-MĚSTO",
+    "iso2": "323",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4564,
+    "name": "PLZEŇ-SEVER",
+    "iso2": "325",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4607,
+    "name": "PLZEŇSKÝ KRAJ",
+    "iso2": "32",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4578,
+    "name": "PRACHATICE",
+    "iso2": "315",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4598,
+    "name": "PRAHA, HLAVNÍ MĚSTO",
+    "iso2": "10",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4606,
+    "name": "PRAHA-VÝCHOD",
+    "iso2": "209",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4619,
+    "name": "PRAHA-ZÁPAD",
+    "iso2": "20A",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4551,
+    "name": "PROSTĚJOV",
+    "iso2": "713",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4560,
+    "name": "PÍSEK",
+    "iso2": "314",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4626,
+    "name": "PŘEROV",
+    "iso2": "714",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4546,
+    "name": "PŘÍBRAM",
+    "iso2": "20B",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4558,
+    "name": "RAKOVNÍK",
+    "iso2": "20C",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4583,
+    "name": "ROKYCANY",
+    "iso2": "326",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4636,
+    "name": "RYCHNOV NAD KNĚŽNOU",
+    "iso2": "524",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4596,
+    "name": "SEMILY",
+    "iso2": "514",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4595,
+    "name": "SOKOLOV",
+    "iso2": "413",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4628,
+    "name": "STRAKONICE",
+    "iso2": "316",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4554,
+    "name": "STŘEDOČESKÝ KRAJ",
+    "iso2": "20",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4571,
+    "name": "SVITAVY",
+    "iso2": "533",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4646,
+    "name": "TACHOV",
+    "iso2": "327",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4621,
+    "name": "TEPLICE",
+    "iso2": "426",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4579,
+    "name": "TRUTNOV",
+    "iso2": "525",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4565,
+    "name": "TÁBOR",
+    "iso2": "317",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4597,
+    "name": "TŘEBÍČ",
+    "iso2": "634",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4592,
+    "name": "UHERSKÉ HRADIŠTĚ",
+    "iso2": "722",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4572,
+    "name": "VSETÍN",
+    "iso2": "723",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4622,
+    "name": "VYŠKOV",
+    "iso2": "646",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4563,
+    "name": "ZLÍN",
+    "iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4552,
+    "name": "ZLÍNSKÝ KRAJ",
+    "iso2": "72",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4630,
+    "name": "ZNOJMO",
+    "iso2": "647",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4576,
+    "name": "ÚSTECKÝ KRAJ",
+    "iso2": "42",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4599,
+    "name": "ÚSTÍ NAD LABEM",
+    "iso2": "427",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4647,
+    "name": "ÚSTÍ NAD ORLICÍ",
+    "iso2": "534",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4633,
+    "name": "ČESKÁ LÍPA",
+    "iso2": "511",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4556,
+    "name": "ČESKÉ BUDĚJOVICE",
+    "iso2": "311",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4543,
+    "name": "ČESKÝ KRUMLOV",
+    "iso2": "312",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4642,
+    "name": "ŠUMPERK",
+    "iso2": "715",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "id": 4648,
+    "name": "ŽĎÁR NAD SÁZAVOU",
+    "iso2": "635",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA",
+    "timezone": "Europe/Prague"
+  }
+]

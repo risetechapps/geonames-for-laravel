@@ -1,0 +1,822 @@
+[
+  {
+    "id": 111095,
+    "name": "ALAMO",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111908,
+    "name": "BATTLE MOUNTAIN",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111982,
+    "name": "BEATTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112602,
+    "name": "BOULDER CITY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113043,
+    "name": "BUNKERVILLE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113213,
+    "name": "CALIENTE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113399,
+    "name": "CARLIN",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113478,
+    "name": "CARSON CITY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114012,
+    "name": "CHURCHILL",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114129,
+    "name": "CLARK COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114389,
+    "name": "COLD SPRINGS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115098,
+    "name": "DAYTON",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115434,
+    "name": "DOUGLAS COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115768,
+    "name": "EAST VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116008,
+    "name": "ELKO",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116009,
+    "name": "ELKO COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116086,
+    "name": "ELY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116149,
+    "name": "ENTERPRISE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116186,
+    "name": "ESMERALDA",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116237,
+    "name": "EUREKA",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116238,
+    "name": "EUREKA COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116378,
+    "name": "FALLON",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116491,
+    "name": "FERNLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117078,
+    "name": "GARDNERVILLE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117079,
+    "name": "GARDNERVILLE RANCHOS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117357,
+    "name": "GOLDEN VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117363,
+    "name": "GOLDFIELD",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118176,
+    "name": "HAWTHORNE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118278,
+    "name": "HENDERSON",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118780,
+    "name": "HUMBOLDT COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118888,
+    "name": "INCLINE VILLAGE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118909,
+    "name": "INDIAN HILLS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119057,
+    "name": "JACKPOT",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119273,
+    "name": "JOHNSON LANE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119610,
+    "name": "KINGSBURY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120097,
+    "name": "LANDER",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120163,
+    "name": "LAS VEGAS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120185,
+    "name": "LAUGHLIN",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120358,
+    "name": "LEMMON VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120532,
+    "name": "LINCOLN COUNTY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120825,
+    "name": "LOVELOCK",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120939,
+    "name": "LYON",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121502,
+    "name": "MCGILL",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121727,
+    "name": "MESQUITE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121930,
+    "name": "MINDEN",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121936,
+    "name": "MINERAL",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122007,
+    "name": "MOAPA TOWN",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122008,
+    "name": "MOAPA VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122017,
+    "name": "MOGUL",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122622,
+    "name": "NELLIS AIR FORCE BASE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123052,
+    "name": "NORTH LAS VEGAS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123222,
+    "name": "NYE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123724,
+    "name": "PAHRUMP",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123819,
+    "name": "PARADISE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124091,
+    "name": "PERSHING",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124273,
+    "name": "PIOCHE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125020,
+    "name": "RENO",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125885,
+    "name": "SANDY VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126435,
+    "name": "SILVER SPRINGS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126510,
+    "name": "SMITH",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126517,
+    "name": "SMITH VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126801,
+    "name": "SPANISH SPRINGS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126805,
+    "name": "SPARKS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126854,
+    "name": "SPRING CREEK",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126881,
+    "name": "SPRING VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126939,
+    "name": "STAGECOACH",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127102,
+    "name": "STOREY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127205,
+    "name": "SUMMERLIN SOUTH",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127242,
+    "name": "SUN VALLEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127269,
+    "name": "SUNRISE MANOR",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127722,
+    "name": "TONOPAH",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127731,
+    "name": "TOPAZ RANCH ESTATES",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128180,
+    "name": "VERDI",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128290,
+    "name": "VIRGINIA CITY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128590,
+    "name": "WASHOE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128783,
+    "name": "WELLS",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129004,
+    "name": "WEST WENDOVER",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129153,
+    "name": "WHITE PINE",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129209,
+    "name": "WHITNEY",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129361,
+    "name": "WINCHESTER",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129411,
+    "name": "WINNEMUCCA",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129682,
+    "name": "YERINGTON",
+    "state": "NEVADA",
+    "state_iso2": "NV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5252,
+    "name": "CAYMAN BRAC",
+    "iso2": "02",
+    "country": "CAYMAN ISLANDS",
+    "country_iso2": "KY",
+    "country_iso3": "CYM",
+    "country_native": "CAYMAN ISLANDS",
+    "timezone": "America/Cayman"
+  },
+  {
+    "id": 5251,
+    "name": "GRAND CAYMAN",
+    "iso2": "01",
+    "country": "CAYMAN ISLANDS",
+    "country_iso2": "KY",
+    "country_iso3": "CYM",
+    "country_native": "CAYMAN ISLANDS",
+    "timezone": "America/Cayman"
+  },
+  {
+    "id": 5253,
+    "name": "LITTLE CAYMAN",
+    "iso2": "03",
+    "country": "CAYMAN ISLANDS",
+    "country_iso2": "KY",
+    "country_iso3": "CYM",
+    "country_native": "CAYMAN ISLANDS",
+    "timezone": "America/Cayman"
+  }
+]

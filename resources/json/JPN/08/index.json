@@ -1,0 +1,722 @@
+[
+  {
+    "id": 63244,
+    "name": "AMI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63281,
+    "name": "BANDŌ",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63282,
+    "name": "BANDŌ-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63300,
+    "name": "CHIKUSEI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63301,
+    "name": "CHIKUSEI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63317,
+    "name": "DAIGO",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63331,
+    "name": "EDOSAKI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63354,
+    "name": "FUJISHIRO",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63376,
+    "name": "FUNAISHIKAWA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63504,
+    "name": "HITACHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63505,
+    "name": "HITACHI-NAKA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63506,
+    "name": "HITACHI-OTA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63507,
+    "name": "HITACHI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63508,
+    "name": "HITACHINAKA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63509,
+    "name": "HITACHIŌMIYA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63510,
+    "name": "HITACHIŌTA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63515,
+    "name": "HOKOTA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63570,
+    "name": "INASHIKI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63571,
+    "name": "INASHIKI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63592,
+    "name": "ISHIGE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63601,
+    "name": "ISHIOKA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63602,
+    "name": "ISHIOKA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63606,
+    "name": "ITAKO",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63607,
+    "name": "ITAKO-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63620,
+    "name": "IWAI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63631,
+    "name": "IWASE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63653,
+    "name": "JŌSŌ-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63698,
+    "name": "KAMISU-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63727,
+    "name": "KASAMA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63728,
+    "name": "KASAMA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63738,
+    "name": "KASHIMA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63749,
+    "name": "KASUMIGAURA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63750,
+    "name": "KASUMIGAURA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63759,
+    "name": "KATSUTA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63802,
+    "name": "KITAIBARAKI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63803,
+    "name": "KITAIBARAKI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63824,
+    "name": "KOGA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63826,
+    "name": "KOGA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63914,
+    "name": "MAKABE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63990,
+    "name": "MITO",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63991,
+    "name": "MITO-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63993,
+    "name": "MITSUKAIDŌ",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64032,
+    "name": "MORIYA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64033,
+    "name": "MORIYA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64081,
+    "name": "NAKA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64082,
+    "name": "NAKA-GUN",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64093,
+    "name": "NAMEGATA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64094,
+    "name": "NAMEGATA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64202,
+    "name": "OKUNOYA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64205,
+    "name": "OMITAMA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64233,
+    "name": "RYŪGASAKI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64234,
+    "name": "RYŪGASAKI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64255,
+    "name": "SAKAI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64271,
+    "name": "SAKURAGAWA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64272,
+    "name": "SAKURAGAWA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64332,
+    "name": "SHIMODATE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64337,
+    "name": "SHIMOTSUMA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64419,
+    "name": "TAKAHAGI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64510,
+    "name": "TOMOBE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64515,
+    "name": "TORIDE",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64516,
+    "name": "TORIDE-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64540,
+    "name": "TSUCHIURA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64545,
+    "name": "TSUKUBA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64546,
+    "name": "TSUKUBA-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64547,
+    "name": "TSUKUBAMIRAI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64548,
+    "name": "TSUKUBAMIRAI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64603,
+    "name": "USHIKU",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64604,
+    "name": "USHIKU-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64706,
+    "name": "YŪKI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64707,
+    "name": "YŪKI-SHI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64714,
+    "name": "ŌARAI",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64742,
+    "name": "ŌMIYA",
+    "state": "IBARAKI",
+    "state_iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  }
+]

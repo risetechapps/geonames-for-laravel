@@ -1,0 +1,252 @@
+[
+  {
+    "id": 23,
+    "name": "ANDRIJEVICA",
+    "iso2": "01",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 13,
+    "name": "BAR",
+    "iso2": "02",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 21,
+    "name": "BERANE",
+    "iso2": "03",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 25,
+    "name": "BIJELO POLJE",
+    "iso2": "04",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 30,
+    "name": "BUDVA",
+    "iso2": "05",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 14,
+    "name": "DANILOVGRAD",
+    "iso2": "07",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 24,
+    "name": "GUSINJE",
+    "iso2": "22",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 5682,
+    "name": "HERCEG-NOVI",
+    "iso2": "08",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 31,
+    "name": "KOLAŠIN",
+    "iso2": "09",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 26,
+    "name": "KOTOR",
+    "iso2": "10",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 22,
+    "name": "MOJKOVAC",
+    "iso2": "11",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 17,
+    "name": "NIKŠIĆ",
+    "iso2": "12",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 28,
+    "name": "OLD ROYAL CAPITAL CETINJE",
+    "iso2": "06",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 12,
+    "name": "PETNJICA",
+    "iso2": "23",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 19,
+    "name": "PLAV",
+    "iso2": "13",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 20,
+    "name": "PLJEVLJA",
+    "iso2": "14",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 16,
+    "name": "PLUŽINE",
+    "iso2": "15",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 27,
+    "name": "PODGORICA",
+    "iso2": "16",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 15,
+    "name": "ROŽAJE",
+    "iso2": "17",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 29,
+    "name": "TIVAT",
+    "iso2": "19",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 5683,
+    "name": "TUZI",
+    "iso2": "24",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 33,
+    "name": "ULCINJ",
+    "iso2": "20",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 5684,
+    "name": "ZETA",
+    "iso2": "25",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 18,
+    "name": "ŠAVNIK",
+    "iso2": "18",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  },
+  {
+    "id": 32,
+    "name": "ŽABLJAK",
+    "iso2": "21",
+    "country": "MONTENEGRO",
+    "country_iso2": "ME",
+    "country_iso3": "MNE",
+    "country_native": "ЦРНА ГОРА",
+    "timezone": "Europe/Podgorica"
+  }
+]

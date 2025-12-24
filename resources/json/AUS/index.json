@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3907,
+    "name": "AUSTRALIAN CAPITAL TERRITORY",
+    "iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 3909,
+    "name": "NEW SOUTH WALES",
+    "iso2": "NSW",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 3910,
+    "name": "NORTHERN TERRITORY",
+    "iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Darwin"
+  },
+  {
+    "id": 3905,
+    "name": "QUEENSLAND",
+    "iso2": "QLD",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 3904,
+    "name": "SOUTH AUSTRALIA",
+    "iso2": "SA",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 3908,
+    "name": "TASMANIA",
+    "iso2": "TAS",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 3903,
+    "name": "VICTORIA",
+    "iso2": "VIC",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 3906,
+    "name": "WESTERN AUSTRALIA",
+    "iso2": "WA",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA",
+    "timezone": "Australia/Perth"
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "id": 147979,
+    "name": "ALUGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147982,
+    "name": "ANITO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148066,
+    "name": "BALAGTAS",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148108,
+    "name": "BALAGUI",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148063,
+    "name": "BALINSACAYAO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148089,
+    "name": "BALITE",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148068,
+    "name": "BALOCAWEHAY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148106,
+    "name": "BALOGO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148058,
+    "name": "BANTIQUI",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148187,
+    "name": "BASUD",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148067,
+    "name": "BILWANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148185,
+    "name": "BITANJUAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148075,
+    "name": "BUGHO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148120,
+    "name": "BUGKO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148041,
+    "name": "BUNGA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148045,
+    "name": "BUTAZON",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148132,
+    "name": "CABACUÑGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148121,
+    "name": "CABAY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147974,
+    "name": "CABODIONGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148044,
+    "name": "CAGAMOTAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148046,
+    "name": "CALAPE",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148131,
+    "name": "CALBAYOG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147971,
+    "name": "CANHANDUGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148042,
+    "name": "CARAYCARAY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148117,
+    "name": "CARIDAD",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148078,
+    "name": "CAVITE",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148192,
+    "name": "CONSUEGRA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148052,
+    "name": "CULASIAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148128,
+    "name": "DAPDAP",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148211,
+    "name": "DOOS",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148191,
+    "name": "ERENAS",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148116,
+    "name": "GABAS",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148055,
+    "name": "GINABUYAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148086,
+    "name": "GUBANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148125,
+    "name": "GUINDAPUNAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147972,
+    "name": "GUIRANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148122,
+    "name": "HINGATUNGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148026,
+    "name": "HIPADPAD",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148048,
+    "name": "HIPASNGO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148040,
+    "name": "IBARRA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148051,
+    "name": "INANGATAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148137,
+    "name": "IPIL",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148028,
+    "name": "JUBASAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148027,
+    "name": "KABUYNAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148035,
+    "name": "KAMPOKPOK",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148143,
+    "name": "KILIM",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148196,
+    "name": "LALAUIGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148032,
+    "name": "LAMAK",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148197,
+    "name": "LAO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148037,
+    "name": "LIBAS",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147968,
+    "name": "LIBERTY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148112,
+    "name": "LIM-OO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148036,
+    "name": "LIMON",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148088,
+    "name": "LUBI",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148076,
+    "name": "MAHAGNAO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148199,
+    "name": "MAKIWALO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148138,
+    "name": "MALAGA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148144,
+    "name": "MALAJOG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148146,
+    "name": "MANTANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148148,
+    "name": "MARGEN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148030,
+    "name": "MASARAYAO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148194,
+    "name": "MATLANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148147,
+    "name": "MAYPANGDAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148024,
+    "name": "NAGHALIN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148169,
+    "name": "NAPURO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148205,
+    "name": "NENA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148154,
+    "name": "NENITA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147998,
+    "name": "PALANIT",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148155,
+    "name": "PALAROO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148015,
+    "name": "PALHI",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148007,
+    "name": "PANALANOY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148009,
+    "name": "PANGDAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148204,
+    "name": "PANGPANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148091,
+    "name": "PASAY",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148166,
+    "name": "PATONG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148002,
+    "name": "PAWING",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148165,
+    "name": "PINAMOPOAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148087,
+    "name": "PINANGOMHAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148151,
+    "name": "PIÑA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148152,
+    "name": "POLAHONGON",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148167,
+    "name": "POLAÑGE",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148011,
+    "name": "PUERTO BELLO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147988,
+    "name": "SABANG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148170,
+    "name": "SALVACION",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148006,
+    "name": "SAN EDUARDO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148092,
+    "name": "SAN POLICARPIO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147993,
+    "name": "SIGUINON",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148181,
+    "name": "SILANGA",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147992,
+    "name": "SULANGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148206,
+    "name": "TABING",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148207,
+    "name": "TAGBUBUNGANG DIOT",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148081,
+    "name": "TIBUR",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148174,
+    "name": "TINAMBACAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148180,
+    "name": "TUCDAO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148172,
+    "name": "TUGBONG",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147990,
+    "name": "TUTUBIGAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148210,
+    "name": "UMAGANHAN",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 147989,
+    "name": "VIRIATO",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 148175,
+    "name": "WRIGHT",
+    "state": "EASTERN VISAYAS",
+    "state_iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  }
+]

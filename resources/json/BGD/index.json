@@ -1,0 +1,722 @@
+[
+  {
+    "id": 5473,
+    "name": "BAGERHAT",
+    "iso2": "05",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5474,
+    "name": "BANDARBAN",
+    "iso2": "01",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5475,
+    "name": "BARGUNA",
+    "iso2": "02",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 807,
+    "name": "BARISAL",
+    "iso2": "A",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5476,
+    "name": "BARISHAL",
+    "iso2": "06",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5477,
+    "name": "BHOLA",
+    "iso2": "07",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5478,
+    "name": "BOGURA",
+    "iso2": "03",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5479,
+    "name": "BRAHMANBARIA",
+    "iso2": "04",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5480,
+    "name": "CHANDPUR",
+    "iso2": "09",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5481,
+    "name": "CHAPAI NAWABGANJ",
+    "iso2": "45",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5482,
+    "name": "CHATTOGRAM",
+    "iso2": "10",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 803,
+    "name": "CHITTAGONG",
+    "iso2": "B",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5483,
+    "name": "CHUADANGA",
+    "iso2": "12",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5484,
+    "name": "COX'S BAZAR",
+    "iso2": "11",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5485,
+    "name": "CUMILLA",
+    "iso2": "08",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 760,
+    "name": "DHAKA",
+    "iso2": "C",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5486,
+    "name": "DHAKA",
+    "iso2": "13",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5487,
+    "name": "DINAJPUR",
+    "iso2": "14",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5488,
+    "name": "FARIDPUR",
+    "iso2": "15",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5489,
+    "name": "FENI",
+    "iso2": "16",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5490,
+    "name": "GAIBANDHA",
+    "iso2": "19",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5491,
+    "name": "GAZIPUR",
+    "iso2": "18",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5492,
+    "name": "GOPALGANJ",
+    "iso2": "17",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5493,
+    "name": "HABIGANJ",
+    "iso2": "20",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5494,
+    "name": "JAMALPUR",
+    "iso2": "21",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5495,
+    "name": "JASHORE",
+    "iso2": "22",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5496,
+    "name": "JHALAKATHI",
+    "iso2": "25",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5497,
+    "name": "JHENAIDAH",
+    "iso2": "23",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5498,
+    "name": "JOYPURHAT",
+    "iso2": "24",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5499,
+    "name": "KHAGRACHHARI",
+    "iso2": "29",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 775,
+    "name": "KHULNA",
+    "iso2": "D",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5500,
+    "name": "KHULNA",
+    "iso2": "27",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5501,
+    "name": "KISHOREGANJ",
+    "iso2": "26",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5502,
+    "name": "KURIGRAM",
+    "iso2": "28",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5503,
+    "name": "KUSHTIA",
+    "iso2": "30",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5504,
+    "name": "LAKSHMIPUR",
+    "iso2": "31",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5505,
+    "name": "LALMONIRHAT",
+    "iso2": "32",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5506,
+    "name": "MADARIPUR",
+    "iso2": "36",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5507,
+    "name": "MAGURA",
+    "iso2": "37",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5508,
+    "name": "MANIKGANJ",
+    "iso2": "33",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5509,
+    "name": "MEHERPUR",
+    "iso2": "39",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5510,
+    "name": "MOULVIBAZAR",
+    "iso2": "38",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5511,
+    "name": "MUNSHIGANJ",
+    "iso2": "35",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 758,
+    "name": "MYMENSINGH",
+    "iso2": "H",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5512,
+    "name": "MYMENSINGH",
+    "iso2": "34",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5513,
+    "name": "NAOGAON",
+    "iso2": "48",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5514,
+    "name": "NARAIL",
+    "iso2": "43",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5515,
+    "name": "NARAYANGANJ",
+    "iso2": "40",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5516,
+    "name": "NARSINGDI",
+    "iso2": "42",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5517,
+    "name": "NATORE",
+    "iso2": "44",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5518,
+    "name": "NETRAKONA",
+    "iso2": "41",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5519,
+    "name": "NILPHAMARI",
+    "iso2": "46",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5520,
+    "name": "NOAKHALI",
+    "iso2": "47",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5521,
+    "name": "PABNA",
+    "iso2": "49",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5522,
+    "name": "PANCHAGARH",
+    "iso2": "52",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5523,
+    "name": "PATUAKHALI",
+    "iso2": "51",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5524,
+    "name": "PIROJPUR",
+    "iso2": "50",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5525,
+    "name": "RAJBARI",
+    "iso2": "53",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 753,
+    "name": "RAJSHAHI",
+    "iso2": "E",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5526,
+    "name": "RAJSHAHI",
+    "iso2": "54",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5527,
+    "name": "RANGAMATI",
+    "iso2": "56",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 750,
+    "name": "RANGPUR",
+    "iso2": "F",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5528,
+    "name": "RANGPUR",
+    "iso2": "55",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5529,
+    "name": "SATKHIRA",
+    "iso2": "58",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5530,
+    "name": "SHARIATPUR",
+    "iso2": "62",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5531,
+    "name": "SHERPUR",
+    "iso2": "57",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5532,
+    "name": "SIRAJGANJ",
+    "iso2": "59",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5533,
+    "name": "SUNAMGANJ",
+    "iso2": "61",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 765,
+    "name": "SYLHET",
+    "iso2": "G",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5534,
+    "name": "SYLHET",
+    "iso2": "60",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5535,
+    "name": "TANGAIL",
+    "iso2": "63",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  },
+  {
+    "id": 5536,
+    "name": "THAKURGAON",
+    "iso2": "64",
+    "country": "BANGLADESH",
+    "country_iso2": "BD",
+    "country_iso3": "BGD",
+    "country_native": "BANGLADESH",
+    "timezone": "Asia/Dhaka"
+  }
+]

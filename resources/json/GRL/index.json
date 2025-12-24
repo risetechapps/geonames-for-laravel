@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5379,
+    "name": "AVANNAATA",
+    "iso2": "AV",
+    "country": "GREENLAND",
+    "country_iso2": "GL",
+    "country_iso3": "GRL",
+    "country_native": "KALAALLIT NUNAAT",
+    "timezone": "America/Nuuk"
+  },
+  {
+    "id": 5380,
+    "name": "KUJALLEQ",
+    "iso2": "KU",
+    "country": "GREENLAND",
+    "country_iso2": "GL",
+    "country_iso3": "GRL",
+    "country_native": "KALAALLIT NUNAAT",
+    "timezone": "America/Nuuk"
+  },
+  {
+    "id": 5381,
+    "name": "QEQERTALIK",
+    "iso2": "QT",
+    "country": "GREENLAND",
+    "country_iso2": "GL",
+    "country_iso3": "GRL",
+    "country_native": "KALAALLIT NUNAAT",
+    "timezone": "America/Danmarkshavn"
+  },
+  {
+    "id": 5382,
+    "name": "QEQQATA",
+    "iso2": "QE",
+    "country": "GREENLAND",
+    "country_iso2": "GL",
+    "country_iso3": "GRL",
+    "country_native": "KALAALLIT NUNAAT",
+    "timezone": "America/Nuuk"
+  },
+  {
+    "id": 5383,
+    "name": "SERMERSOOQ",
+    "iso2": "SM",
+    "country": "GREENLAND",
+    "country_iso2": "GL",
+    "country_iso3": "GRL",
+    "country_native": "KALAALLIT NUNAAT",
+    "timezone": "America/Nuuk"
+  }
+]

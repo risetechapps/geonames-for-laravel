@@ -1,0 +1,642 @@
+[
+  {
+    "id": 97515,
+    "name": "AGEYEVO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97583,
+    "name": "ALEKSIN",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97584,
+    "name": "ALEKSINSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97679,
+    "name": "ARSEN’YEVO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97798,
+    "name": "BARSUKI",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97834,
+    "name": "BEGICHEVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97884,
+    "name": "BELËV",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97967,
+    "name": "BOGORODITSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97996,
+    "name": "BOLOKHOVO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98017,
+    "name": "BOL’SHOYE SKURATOVO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98031,
+    "name": "BORODINSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98059,
+    "name": "BRUSYANKA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98134,
+    "name": "CHEKALIN",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98155,
+    "name": "CHEREPET’",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98183,
+    "name": "CHERN’",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98312,
+    "name": "DONSKOY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98338,
+    "name": "DUBNA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98339,
+    "name": "DUBOVKA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98522,
+    "name": "GORELKI",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98591,
+    "name": "GRITSOVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98808,
+    "name": "KAMENETSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98924,
+    "name": "KAZACHKA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98959,
+    "name": "KHANINO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99042,
+    "name": "KIMOVSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99053,
+    "name": "KIREYEVSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99225,
+    "name": "KOSAYA GORA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99273,
+    "name": "KRAPIVNA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99465,
+    "name": "KURKINO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99571,
+    "name": "LENINSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99656,
+    "name": "LOMINTSEVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99830,
+    "name": "MAYSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99864,
+    "name": "MENDELEYEVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100245,
+    "name": "NOVOGUROVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100269,
+    "name": "NOVOMOSKOVSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100400,
+    "name": "ODOYEV",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100554,
+    "name": "PARTIZAN",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100617,
+    "name": "PERVOMAYSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100699,
+    "name": "PLAVSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100722,
+    "name": "PODLESNYY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100843,
+    "name": "PRIUPSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100970,
+    "name": "REVYAKINO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101016,
+    "name": "ROZHDESTVENSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101215,
+    "name": "SEVERO-ZADONSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101280,
+    "name": "SHCHËKINO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101364,
+    "name": "SHVARTSEVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101394,
+    "name": "SKURATOVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101401,
+    "name": "SLAVNIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101687,
+    "name": "SUVOROV",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101689,
+    "name": "SUVOROVSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101909,
+    "name": "TOVARKOVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101966,
+    "name": "TULA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102010,
+    "name": "TËPLO-OGARËVSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102011,
+    "name": "TËPLOYE",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102166,
+    "name": "UZLOVAYA",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102223,
+    "name": "VENEVSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102226,
+    "name": "VENËV",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102366,
+    "name": "VOLOVO",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102513,
+    "name": "YASNOGORSK",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102514,
+    "name": "YASNOGORSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102523,
+    "name": "YEFREMOV",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102563,
+    "name": "YEPIFAN’",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102643,
+    "name": "ZAOKSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102644,
+    "name": "ZAOKSKIY RAYON",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102716,
+    "name": "ZHDANKOVSKIY",
+    "state": "TULA",
+    "state_iso2": "TUL",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

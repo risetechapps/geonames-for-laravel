@@ -1,0 +1,502 @@
+[
+  {
+    "id": 57638,
+    "name": "ALDONA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57727,
+    "name": "ARAMBOL",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57795,
+    "name": "BAGA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57836,
+    "name": "BAMBOLIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57845,
+    "name": "BANDORA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57932,
+    "name": "BENAULIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58165,
+    "name": "CALANGUTE",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58167,
+    "name": "CANDOLIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58169,
+    "name": "CARAPUR",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58170,
+    "name": "CAVELOSSIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131542,
+    "name": "CHICALIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131559,
+    "name": "CHINCHINIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131622,
+    "name": "COLOVALE",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131623,
+    "name": "COLVA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131625,
+    "name": "CORTALIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131630,
+    "name": "CUNCOLIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131631,
+    "name": "CURCHOREM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131632,
+    "name": "CURTI",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131672,
+    "name": "DAVORLIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131764,
+    "name": "DICHOLI",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131960,
+    "name": "GOA VELHA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132015,
+    "name": "GUIRIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132297,
+    "name": "JUA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132705,
+    "name": "KANKON",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132811,
+    "name": "MADGAON",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133086,
+    "name": "MAPUCA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132997,
+    "name": "MORJIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132998,
+    "name": "MORMUGAO",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133185,
+    "name": "NAVELIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133238,
+    "name": "NORTH GOA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133330,
+    "name": "PALLE",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133342,
+    "name": "PANAJI",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133422,
+    "name": "PERNEM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133471,
+    "name": "PONDA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133572,
+    "name": "QUEPEM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133573,
+    "name": "QUEULA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133585,
+    "name": "RAIA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133764,
+    "name": "SALIGAO",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133777,
+    "name": "SANCOALE",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133786,
+    "name": "SANGUEM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133791,
+    "name": "SANQUELIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133795,
+    "name": "SANVORDEM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133850,
+    "name": "SERULA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133987,
+    "name": "SOLIM",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134010,
+    "name": "SOUTH GOA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134101,
+    "name": "TALEIGAO",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134311,
+    "name": "VAGATOR",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134321,
+    "name": "VALPOY",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134329,
+    "name": "VARCA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134333,
+    "name": "VASCO DA GAMA",
+    "state": "GOA",
+    "state_iso2": "GA",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

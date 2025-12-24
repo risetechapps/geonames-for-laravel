@@ -1,0 +1,952 @@
+[
+  {
+    "id": 68194,
+    "name": "ALFONSO GARZÓN [GRANJAS FAMILIARES]",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68586,
+    "name": "BENITO GARCÍA (EL ZORRILLO)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68596,
+    "name": "BENITO JUÁREZ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68689,
+    "name": "BUENOS AIRES",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68757,
+    "name": "CAMALÚ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68906,
+    "name": "CERESO DEL HONGO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69150,
+    "name": "CIUDAD COAHUILA (KILÓMETRO CINCUENTA Y SIETE)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69172,
+    "name": "CIUDAD MORELOS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69260,
+    "name": "COLINAS DEL SOL",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69310,
+    "name": "COLONIA GÓMEZ MORÍN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69323,
+    "name": "COLONIA LOMAS DE SAN RAMÓN (TRIQUIS)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69339,
+    "name": "COLONIA NUEVA ERA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69376,
+    "name": "COLONIA VENUSTIANO CARRANZA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69677,
+    "name": "DELTA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69691,
+    "name": "DOCTOR ALBERTO OVIEDO MOTA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69732,
+    "name": "DURANGO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69762,
+    "name": "EJIDO DOCTOR ALBERTO OVIEDO MOTA (EL INDIVISO)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69765,
+    "name": "EJIDO GENERAL LEANDRO VALLE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69768,
+    "name": "EJIDO JAVIER ROJO GÓMEZ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69770,
+    "name": "EJIDO JIQUILPAN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69774,
+    "name": "EJIDO LÁZARO CÁRDENAS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69776,
+    "name": "EJIDO MICHOACÁN DE OCAMPO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69778,
+    "name": "EJIDO NETZAHUALCÓYOTL",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69780,
+    "name": "EJIDO NUEVO LEÓN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69782,
+    "name": "EJIDO OJO DE AGUA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69784,
+    "name": "EJIDO PLAN DE AYALA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69785,
+    "name": "EJIDO PÁTZCUARO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69786,
+    "name": "EJIDO QUINTANA ROO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69787,
+    "name": "EJIDO SALTILLO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69792,
+    "name": "EJIDO SINALOA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69793,
+    "name": "EJIDO SONORA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69794,
+    "name": "EJIDO TABASCO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69795,
+    "name": "EJIDO TOLUCA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69798,
+    "name": "EJIDO VICENTE GUERRERO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69800,
+    "name": "EJIDO YUCATÁN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70066,
+    "name": "EL NIÑO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70116,
+    "name": "EL PORVENIR",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70178,
+    "name": "EL ROSARIO DE ARRIBA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70203,
+    "name": "EL SAUZAL DE RODRÍGUEZ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70289,
+    "name": "EMILIANO ZAPATA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70305,
+    "name": "ENSENADA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70337,
+    "name": "ESTACIÓN COAHUILA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70349,
+    "name": "ESTACIÓN PESCADEROS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70449,
+    "name": "FRACCIONAMIENTO DEL VALLE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70484,
+    "name": "FRANCISCO ZARCO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70599,
+    "name": "GUADALUPE VICTORIA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70633,
+    "name": "GUERRERO NEGRO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70655,
+    "name": "HACIENDA TECATE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70673,
+    "name": "HERMOSILLO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70888,
+    "name": "ISLAS AGRARIAS GRUPO A",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70889,
+    "name": "ISLAS AGRARIAS GRUPO B",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71277,
+    "name": "LA ESPERANZA [GRANJAS FAMILIARES]",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71463,
+    "name": "LA PROVIDENCIA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71581,
+    "name": "LAS BRISAS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71597,
+    "name": "LAS DELICIAS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71676,
+    "name": "LICENCIADO GUSTAVO DÍAZ ORDAZ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71753,
+    "name": "LOMAS DE SANTA ANITA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71757,
+    "name": "LOMAS DE TLATELOLCO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71766,
+    "name": "LOS ALGODONES",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71867,
+    "name": "LOS VALLES",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71883,
+    "name": "LUIS RODRÍGUEZ (EL VERGEL)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71891,
+    "name": "LÁZARO CÁRDENAS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71908,
+    "name": "MACLOVIO HERRERA (COLONIA AVIACIÓN)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71909,
+    "name": "MACLOVIO ROJAS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72099,
+    "name": "MEXICALI",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72815,
+    "name": "PLAYAS DE ROSARITO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72824,
+    "name": "POBLADO CHULAVISTA (EL CHORIZO)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72827,
+    "name": "POBLADO LÁZARO CÁRDENAS (LA VEINTIOCHO)",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72904,
+    "name": "PRIMO TAPIA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72910,
+    "name": "PROGRESO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72926,
+    "name": "PUEBLA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72930,
+    "name": "PUEBLO BENITO GARCÍA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73014,
+    "name": "PÓRTICOS DE SAN ANTONIO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73035,
+    "name": "QUINTA DEL CEDRO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73061,
+    "name": "RANCHO LA GLORIA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73071,
+    "name": "RANCHO VERDE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73147,
+    "name": "RODOLFO SÁNCHEZ TABOADA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73164,
+    "name": "ROSARITO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73165,
+    "name": "RUMOROSA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73229,
+    "name": "SALVADOR ROSAS MAGALLÓN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73510,
+    "name": "SAN FELIPE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74042,
+    "name": "SAN LUIS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74421,
+    "name": "SAN QUINTÍN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74492,
+    "name": "SAN VICENTE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74560,
+    "name": "SANTA ANITA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74663,
+    "name": "SANTA FÉ",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74673,
+    "name": "SANTA ISABEL",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75267,
+    "name": "TECATE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75276,
+    "name": "TECOLOTS",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75469,
+    "name": "TERRAZAS DEL VALLE",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75562,
+    "name": "TIJUANA",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75976,
+    "name": "VICENTE GUERRERO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76072,
+    "name": "VILLA DEL CAMPO",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76074,
+    "name": "VILLA DEL PRADO 2DA SECCIÓN",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76103,
+    "name": "VIÑAS DEL SOL",
+    "state": "BAJA CALIFORNIA",
+    "state_iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

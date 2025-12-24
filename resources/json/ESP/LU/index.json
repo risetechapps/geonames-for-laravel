@@ -1,0 +1,692 @@
+[
+  {
+    "id": 31901,
+    "name": "ABADÍN",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151064,
+    "name": "ALFOZ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151065,
+    "name": "ANTAS DE ULLA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151066,
+    "name": "BALEIRA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32639,
+    "name": "BARALLA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32672,
+    "name": "BARREIROS",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32723,
+    "name": "BECERREÁ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32727,
+    "name": "BEGONTE",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151094,
+    "name": "BURELA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151067,
+    "name": "BÓVEDA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151068,
+    "name": "CARBALLEDO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33490,
+    "name": "CASTRO DE REI",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33509,
+    "name": "CASTROVERDE",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151069,
+    "name": "CERVANTES",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33606,
+    "name": "CERVO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33617,
+    "name": "CHANTADA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151070,
+    "name": "CORGO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151071,
+    "name": "COSPEITO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151072,
+    "name": "FOLGOSO DO COUREL",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151073,
+    "name": "FONSAGRADA A",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34234,
+    "name": "FOZ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34267,
+    "name": "FRIOL",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34552,
+    "name": "GUITIRIZ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151075,
+    "name": "GUNTÍN",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151076,
+    "name": "INCIO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151078,
+    "name": "LOURENZÁ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35159,
+    "name": "LUGO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35175,
+    "name": "LÁNCARA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35381,
+    "name": "MEIRA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35506,
+    "name": "MONDOÑEDO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35513,
+    "name": "MONFORTE DE LEMOS",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35565,
+    "name": "MONTERROSO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35669,
+    "name": "MURAS",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35790,
+    "name": "NAVIA DE SUARNA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151079,
+    "name": "NEGUEIRA DE MUÑIZ",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151080,
+    "name": "NOGAIS AS",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35849,
+    "name": "O INCIO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35850,
+    "name": "O PÁRAMO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35984,
+    "name": "OUROL",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35986,
+    "name": "OUTEIRO DE REI",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151081,
+    "name": "PALAS DE REI",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36050,
+    "name": "PANTÓN",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36059,
+    "name": "PARADELA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151083,
+    "name": "PASTORIZA A",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151084,
+    "name": "PEDRAFITA DO CEBREIRO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151086,
+    "name": "POBRA DO BROLLÓN A",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151085,
+    "name": "POL",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151087,
+    "name": "PONTENOVA A",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36298,
+    "name": "PORTOMARÍN",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151082,
+    "name": "PÁRAMO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36529,
+    "name": "QUIROGA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36608,
+    "name": "RIBADEO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151088,
+    "name": "RIBAS DE SIL",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151089,
+    "name": "RIBEIRA DE PIQUÍN",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36707,
+    "name": "RÁBADE",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36718,
+    "name": "RÍOTORTO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36792,
+    "name": "SAMOS",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37168,
+    "name": "SARRIA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151090,
+    "name": "SAVIÑAO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37270,
+    "name": "SOBER",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37344,
+    "name": "TABOADA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37611,
+    "name": "TRABADA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151091,
+    "name": "TRIACASTELA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151092,
+    "name": "VALADOURO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151093,
+    "name": "VICEDO O",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37987,
+    "name": "VILALBA",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38403,
+    "name": "VIVEIRO",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151074,
+    "name": "XERMADE",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151077,
+    "name": "XOVE",
+    "state": "LUGO",
+    "state_iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  }
+]

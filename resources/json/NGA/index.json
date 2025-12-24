@@ -1,0 +1,372 @@
+[
+  {
+    "id": 303,
+    "name": "ABIA",
+    "iso2": "AB",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 293,
+    "name": "ABUJA FEDERAL CAPITAL TERRITORY",
+    "iso2": "FC",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 320,
+    "name": "ADAMAWA",
+    "iso2": "AD",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 304,
+    "name": "AKWA IBOM",
+    "iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 315,
+    "name": "ANAMBRA",
+    "iso2": "AN",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 312,
+    "name": "BAUCHI",
+    "iso2": "BA",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 305,
+    "name": "BAYELSA",
+    "iso2": "BY",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 291,
+    "name": "BENUE",
+    "iso2": "BE",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 307,
+    "name": "BORNO",
+    "iso2": "BO",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 314,
+    "name": "CROSS RIVER",
+    "iso2": "CR",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 316,
+    "name": "DELTA",
+    "iso2": "DE",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 311,
+    "name": "EBONYI",
+    "iso2": "EB",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 318,
+    "name": "EDO",
+    "iso2": "ED",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 309,
+    "name": "EKITI",
+    "iso2": "EK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 289,
+    "name": "ENUGU",
+    "iso2": "EN",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 310,
+    "name": "GOMBE",
+    "iso2": "GO",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 308,
+    "name": "IMO",
+    "iso2": "IM",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 288,
+    "name": "JIGAWA",
+    "iso2": "JI",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 294,
+    "name": "KADUNA",
+    "iso2": "KD",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 300,
+    "name": "KANO",
+    "iso2": "KN",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 313,
+    "name": "KATSINA",
+    "iso2": "KT",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 290,
+    "name": "KEBBI",
+    "iso2": "KE",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 298,
+    "name": "KOGI",
+    "iso2": "KO",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 295,
+    "name": "KWARA",
+    "iso2": "KW",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 306,
+    "name": "LAGOS",
+    "iso2": "LA",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 301,
+    "name": "NASARAWA",
+    "iso2": "NA",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 317,
+    "name": "NIGER",
+    "iso2": "NI",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 323,
+    "name": "OGUN",
+    "iso2": "OG",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 321,
+    "name": "ONDO",
+    "iso2": "ON",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 322,
+    "name": "OSUN",
+    "iso2": "OS",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 296,
+    "name": "OYO",
+    "iso2": "OY",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 302,
+    "name": "PLATEAU",
+    "iso2": "PL",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 4926,
+    "name": "RIVERS",
+    "iso2": "RI",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 292,
+    "name": "SOKOTO",
+    "iso2": "SO",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 319,
+    "name": "TARABA",
+    "iso2": "TA",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 297,
+    "name": "YOBE",
+    "iso2": "YO",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  },
+  {
+    "id": 299,
+    "name": "ZAMFARA",
+    "iso2": "ZA",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA",
+    "timezone": "Africa/Lagos"
+  }
+]

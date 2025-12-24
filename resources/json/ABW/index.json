@@ -1,0 +1,92 @@
+[
+  {
+    "id": 5243,
+    "name": "NOORD",
+    "iso2": "01",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5341,
+    "name": "ORANJESTAD",
+    "iso2": "09",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5245,
+    "name": "ORANJESTAD EAST",
+    "iso2": "03",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5244,
+    "name": "ORANJESTAD WEST",
+    "iso2": "02",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5246,
+    "name": "PARADERA",
+    "iso2": "04",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5247,
+    "name": "SAN NICOLAAS NOORD",
+    "iso2": "05",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5248,
+    "name": "SAN NICOLAAS ZUID",
+    "iso2": "06",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5249,
+    "name": "SANTA CRUZ",
+    "iso2": "07",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  },
+  {
+    "id": 5250,
+    "name": "SAVANETA",
+    "iso2": "08",
+    "country": "ARUBA",
+    "country_iso2": "AW",
+    "country_iso3": "ABW",
+    "country_native": "ARUBA",
+    "timezone": "America/Aruba"
+  }
+]

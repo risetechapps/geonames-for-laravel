@@ -1,0 +1,782 @@
+[
+  {
+    "id": 5134,
+    "name": "ADJUNTAS",
+    "iso2": "001",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5135,
+    "name": "AGUADA",
+    "iso2": "003",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5136,
+    "name": "AGUADILLA",
+    "iso2": "005",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5137,
+    "name": "AGUAS BUENAS",
+    "iso2": "007",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5138,
+    "name": "AIBONITO",
+    "iso2": "009",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5081,
+    "name": "ARECIBO",
+    "iso2": "AR",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5141,
+    "name": "ARROYO",
+    "iso2": "015",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5139,
+    "name": "AÑASCO",
+    "iso2": "011",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5142,
+    "name": "BARCELONETA",
+    "iso2": "017",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5143,
+    "name": "BARRANQUITAS",
+    "iso2": "019",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5076,
+    "name": "BAYAMON",
+    "iso2": "BY",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5145,
+    "name": "CABO ROJO",
+    "iso2": "023",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5079,
+    "name": "CAGUAS",
+    "iso2": "CG",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5147,
+    "name": "CAMUY",
+    "iso2": "027",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5148,
+    "name": "CANÓVANAS",
+    "iso2": "029",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5077,
+    "name": "CAROLINA",
+    "iso2": "CL",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5150,
+    "name": "CATAÑO",
+    "iso2": "033",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5151,
+    "name": "CAYEY",
+    "iso2": "035",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5152,
+    "name": "CEIBA",
+    "iso2": "037",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5153,
+    "name": "CIALES",
+    "iso2": "039",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5154,
+    "name": "CIDRA",
+    "iso2": "041",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5155,
+    "name": "COAMO",
+    "iso2": "043",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5156,
+    "name": "COMERÍO",
+    "iso2": "045",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5157,
+    "name": "COROZAL",
+    "iso2": "047",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5158,
+    "name": "CULEBRA",
+    "iso2": "049",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5159,
+    "name": "DORADO",
+    "iso2": "051",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5160,
+    "name": "FAJARDO",
+    "iso2": "053",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5161,
+    "name": "FLORIDA",
+    "iso2": "054",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5163,
+    "name": "GUAYAMA",
+    "iso2": "057",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5164,
+    "name": "GUAYANILLA",
+    "iso2": "059",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5080,
+    "name": "GUAYNABO",
+    "iso2": "GN",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5166,
+    "name": "GURABO",
+    "iso2": "063",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5162,
+    "name": "GUÁNICA",
+    "iso2": "055",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5167,
+    "name": "HATILLO",
+    "iso2": "065",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5168,
+    "name": "HORMIGUEROS",
+    "iso2": "067",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5169,
+    "name": "HUMACAO",
+    "iso2": "069",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5170,
+    "name": "ISABELA",
+    "iso2": "071",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5171,
+    "name": "JAYUYA",
+    "iso2": "073",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5172,
+    "name": "JUANA DÍAZ",
+    "iso2": "075",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5173,
+    "name": "JUNCOS",
+    "iso2": "077",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5174,
+    "name": "LAJAS",
+    "iso2": "079",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5175,
+    "name": "LARES",
+    "iso2": "081",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5176,
+    "name": "LAS MARÍAS",
+    "iso2": "083",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5177,
+    "name": "LAS PIEDRAS",
+    "iso2": "085",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5178,
+    "name": "LOÍZA",
+    "iso2": "087",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5179,
+    "name": "LUQUILLO",
+    "iso2": "089",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5180,
+    "name": "MANATÍ",
+    "iso2": "091",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5181,
+    "name": "MARICAO",
+    "iso2": "093",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5182,
+    "name": "MAUNABO",
+    "iso2": "095",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5083,
+    "name": "MAYAGÜEZ",
+    "iso2": "MG",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5184,
+    "name": "MOCA",
+    "iso2": "099",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5185,
+    "name": "MOROVIS",
+    "iso2": "101",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5186,
+    "name": "NAGUABO",
+    "iso2": "103",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5187,
+    "name": "NARANJITO",
+    "iso2": "105",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5188,
+    "name": "OROCOVIS",
+    "iso2": "107",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5189,
+    "name": "PATILLAS",
+    "iso2": "109",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5190,
+    "name": "PEÑUELAS",
+    "iso2": "111",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5078,
+    "name": "PONCE",
+    "iso2": "PO",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5192,
+    "name": "QUEBRADILLAS",
+    "iso2": "115",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5193,
+    "name": "RINCÓN",
+    "iso2": "117",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5194,
+    "name": "RÍO GRANDE",
+    "iso2": "119",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5195,
+    "name": "SABANA GRANDE",
+    "iso2": "121",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5196,
+    "name": "SALINAS",
+    "iso2": "123",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5197,
+    "name": "SAN GERMÁN",
+    "iso2": "125",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5075,
+    "name": "SAN JUAN",
+    "iso2": "SJ",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5199,
+    "name": "SAN LORENZO",
+    "iso2": "129",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5200,
+    "name": "SAN SEBASTIÁN",
+    "iso2": "131",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5201,
+    "name": "SANTA ISABEL",
+    "iso2": "133",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5202,
+    "name": "TOA ALTA",
+    "iso2": "135",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5082,
+    "name": "TOA BAJA",
+    "iso2": "TB",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5084,
+    "name": "TRUJILLO ALTO",
+    "iso2": "TA",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5205,
+    "name": "UTUADO",
+    "iso2": "141",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5206,
+    "name": "VEGA ALTA",
+    "iso2": "143",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5207,
+    "name": "VEGA BAJA",
+    "iso2": "145",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5208,
+    "name": "VIEQUES",
+    "iso2": "147",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5209,
+    "name": "VILLALBA",
+    "iso2": "149",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5210,
+    "name": "YABUCOA",
+    "iso2": "151",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  },
+  {
+    "id": 5211,
+    "name": "YAUCO",
+    "iso2": "153",
+    "country": "PUERTO RICO",
+    "country_iso2": "PR",
+    "country_iso3": "PRI",
+    "country_native": "PUERTO RICO",
+    "timezone": "America/Puerto_Rico"
+  }
+]

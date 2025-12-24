@@ -1,0 +1,752 @@
+[
+  {
+    "id": 55180,
+    "name": "AKASZTÓ",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55191,
+    "name": "APOSTAG",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55203,
+    "name": "BAJA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55204,
+    "name": "BAJAI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55225,
+    "name": "BALLÓSZÖG",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55283,
+    "name": "BUGAC",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55287,
+    "name": "BÁCSALMÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55288,
+    "name": "BÁCSALMÁSI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55289,
+    "name": "BÁCSBOKOD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55295,
+    "name": "BÁTYA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55331,
+    "name": "CSENGŐD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55347,
+    "name": "CSÁSZÁRTÖLTÉS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55348,
+    "name": "CSÁVOLY",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55377,
+    "name": "DUNAPATAJ",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55381,
+    "name": "DUNAVECSE",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55383,
+    "name": "DUSNOK",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55386,
+    "name": "DÁVOD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55424,
+    "name": "FELSŐSZENTIVÁN",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55439,
+    "name": "FÜLÖPJAKAB",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55440,
+    "name": "FÜLÖPSZÁLLÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55446,
+    "name": "GARA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55493,
+    "name": "HAJÓS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55499,
+    "name": "HARTA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55504,
+    "name": "HELVÉCIA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55505,
+    "name": "HERCEGSZÁNTÓ",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55531,
+    "name": "IZSÁK",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55535,
+    "name": "JÁNOSHALMA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55536,
+    "name": "JÁNOSHALMAI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55552,
+    "name": "JÁSZSZENTLÁSZLÓ",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55558,
+    "name": "KALOCSA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55559,
+    "name": "KALOCSAI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55574,
+    "name": "KATYMÁR",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55578,
+    "name": "KECEL",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55579,
+    "name": "KECSKEMÉT",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55580,
+    "name": "KECSKEMÉTI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55581,
+    "name": "KELEBIA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55587,
+    "name": "KEREKEGYHÁZA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55594,
+    "name": "KISKUNFÉLEGYHÁZA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55595,
+    "name": "KISKUNFÉLEGYHÁZI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55596,
+    "name": "KISKUNHALAS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55597,
+    "name": "KISKUNHALASI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55599,
+    "name": "KISKUNMAJSA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55600,
+    "name": "KISKUNMAJSAI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55602,
+    "name": "KISKŐRÖS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55603,
+    "name": "KISKŐRÖSI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55608,
+    "name": "KISSZÁLLÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55626,
+    "name": "KUNFEHÉRTÓ",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55630,
+    "name": "KUNSZENTMIKLÓS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55631,
+    "name": "KUNSZENTMIKLÓSI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55654,
+    "name": "LAJOSMIZSE",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55655,
+    "name": "LAKITELEK",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55672,
+    "name": "MADARAS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55731,
+    "name": "MÉLYKÚT",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55741,
+    "name": "NAGYBARACSKA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55765,
+    "name": "NEMESNÁDUDVAR",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55768,
+    "name": "NYÁRLŐRINC",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55799,
+    "name": "ORGOVÁNY",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55840,
+    "name": "PÁLMONOSTORA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55903,
+    "name": "SOLT",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55904,
+    "name": "SOLTVADKERT",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55913,
+    "name": "SZABADSZÁLLÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55917,
+    "name": "SZALKSZENTMÁRTON",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55919,
+    "name": "SZANK",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55942,
+    "name": "SZENTKIRÁLY",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55997,
+    "name": "SÜKÖSD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56016,
+    "name": "TASS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56021,
+    "name": "TISZAALPÁR",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56035,
+    "name": "TISZAKÉCSKE",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56036,
+    "name": "TISZAKÉCSKEI JÁRÁS",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56055,
+    "name": "TOMPA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56072,
+    "name": "TÁZLÁR",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56091,
+    "name": "VASKÚT",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56111,
+    "name": "VÁROSFÖLD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56141,
+    "name": "ÁGASEGYHÁZA",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56147,
+    "name": "ÉRSEKCSANÁD",
+    "state": "BÁCS-KISKUN",
+    "state_iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

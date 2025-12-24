@@ -1,0 +1,802 @@
+[
+  {
+    "id": 703,
+    "name": "AERODROM",
+    "iso2": "801",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 656,
+    "name": "ARAČINOVO",
+    "iso2": "802",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 716,
+    "name": "BEROVO",
+    "iso2": "201",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 679,
+    "name": "BITOLA",
+    "iso2": "501",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 649,
+    "name": "BOGDANCI",
+    "iso2": "401",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 721,
+    "name": "BOGOVINJE",
+    "iso2": "601",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 652,
+    "name": "BOSILOVO",
+    "iso2": "402",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 660,
+    "name": "BRVENICA",
+    "iso2": "602",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 694,
+    "name": "BUTEL",
+    "iso2": "803",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 702,
+    "name": "CENTAR",
+    "iso2": "814",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 720,
+    "name": "CENTAR ŽUPA",
+    "iso2": "313",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 5726,
+    "name": "DEBAR",
+    "iso2": "303",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 645,
+    "name": "DEBARCA",
+    "iso2": "304",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 695,
+    "name": "DELČEVO",
+    "iso2": "203",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 687,
+    "name": "DEMIR HISAR",
+    "iso2": "502",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 655,
+    "name": "DEMIR KAPIJA",
+    "iso2": "103",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 697,
+    "name": "DOJRAN",
+    "iso2": "406",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 675,
+    "name": "DOLNENI",
+    "iso2": "503",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 707,
+    "name": "GAZI BABA",
+    "iso2": "804",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 648,
+    "name": "GEVGELIJA",
+    "iso2": "405",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 722,
+    "name": "GJORČE PETROV",
+    "iso2": "805",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 693,
+    "name": "GOSTIVAR",
+    "iso2": "604",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 708,
+    "name": "GRADSKO",
+    "iso2": "102",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 690,
+    "name": "ILINDEN",
+    "iso2": "807",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 678,
+    "name": "JEGUNOVCE",
+    "iso2": "606",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 674,
+    "name": "KARBINCI",
+    "iso2": "205",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 681,
+    "name": "KARPOŠ",
+    "iso2": "808",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 713,
+    "name": "KAVADARCI",
+    "iso2": "104",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 686,
+    "name": "KISELA VODA",
+    "iso2": "809",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 688,
+    "name": "KIČEVO",
+    "iso2": "307",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 665,
+    "name": "KONČE",
+    "iso2": "407",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 723,
+    "name": "KOČANI",
+    "iso2": "206",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 641,
+    "name": "KRATOVO",
+    "iso2": "701",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 677,
+    "name": "KRIVA PALANKA",
+    "iso2": "702",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 647,
+    "name": "KRIVOGAŠTANI",
+    "iso2": "504",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 714,
+    "name": "KRUŠEVO",
+    "iso2": "505",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 683,
+    "name": "KUMANOVO",
+    "iso2": "703",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 659,
+    "name": "LIPKOVO",
+    "iso2": "704",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 705,
+    "name": "LOZOVO",
+    "iso2": "105",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 701,
+    "name": "MAKEDONSKA KAMENICA",
+    "iso2": "207",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 692,
+    "name": "MAKEDONSKI BROD",
+    "iso2": "308",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 669,
+    "name": "MAVROVO AND ROSTUŠA",
+    "iso2": "607",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 653,
+    "name": "MOGILA",
+    "iso2": "506",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 664,
+    "name": "NEGOTINO",
+    "iso2": "106",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 696,
+    "name": "NOVACI",
+    "iso2": "507",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 718,
+    "name": "NOVO SELO",
+    "iso2": "408",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 699,
+    "name": "OHRID",
+    "iso2": "310",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 685,
+    "name": "PEHČEVO",
+    "iso2": "208",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 698,
+    "name": "PETROVEC",
+    "iso2": "810",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 670,
+    "name": "PLASNICA",
+    "iso2": "311",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 666,
+    "name": "PRILEP",
+    "iso2": "508",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 646,
+    "name": "PROBIŠTIP",
+    "iso2": "209",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 709,
+    "name": "RADOVIŠ",
+    "iso2": "409",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 717,
+    "name": "RANKOVCE",
+    "iso2": "705",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 712,
+    "name": "RESEN",
+    "iso2": "509",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 691,
+    "name": "ROSOMAN",
+    "iso2": "107",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 667,
+    "name": "SARAJ",
+    "iso2": "811",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 719,
+    "name": "SOPIŠTE",
+    "iso2": "812",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 643,
+    "name": "STARO NAGORIČANE",
+    "iso2": "706",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 700,
+    "name": "STRUGA",
+    "iso2": "312",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 710,
+    "name": "STRUMICA",
+    "iso2": "410",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 711,
+    "name": "STUDENIČANI",
+    "iso2": "813",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 640,
+    "name": "SVETI NIKOLE",
+    "iso2": "108",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 654,
+    "name": "TEARCE",
+    "iso2": "608",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 663,
+    "name": "TETOVO",
+    "iso2": "609",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 671,
+    "name": "VALANDOVO",
+    "iso2": "403",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 658,
+    "name": "VASILEVO",
+    "iso2": "404",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 651,
+    "name": "VELES",
+    "iso2": "101",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 662,
+    "name": "VEVČANI",
+    "iso2": "301",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 672,
+    "name": "VINICA",
+    "iso2": "202",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 689,
+    "name": "VRAPČIŠTE",
+    "iso2": "603",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 706,
+    "name": "ZELENIKOVO",
+    "iso2": "806",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 673,
+    "name": "ZRNOVCI",
+    "iso2": "204",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 704,
+    "name": "ČAIR",
+    "iso2": "815",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 676,
+    "name": "ČAŠKA",
+    "iso2": "109",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 644,
+    "name": "ČEŠINOVO-OBLEŠEVO",
+    "iso2": "210",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 715,
+    "name": "ČUČER-SANDEVO",
+    "iso2": "816",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 661,
+    "name": "ŠTIP",
+    "iso2": "211",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 680,
+    "name": "ŠUTO ORIZARI",
+    "iso2": "817",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  },
+  {
+    "id": 668,
+    "name": "ŽELINO",
+    "iso2": "605",
+    "country": "NORTH MACEDONIA",
+    "country_iso2": "MK",
+    "country_iso3": "MKD",
+    "country_native": "СЕВЕРНА МАКЕДОНИЈА",
+    "timezone": "Europe/Skopje"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 97600,
+    "name": "ALNASHI",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97778,
+    "name": "BALEZINO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98254,
+    "name": "DEBESY",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98411,
+    "name": "FAKEL",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98495,
+    "name": "GLAZOV",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98575,
+    "name": "GRAKHOVO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98634,
+    "name": "IGRA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98746,
+    "name": "IZHEVSK",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98805,
+    "name": "KAMA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98806,
+    "name": "KAMBARKA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98865,
+    "name": "KARAKULINO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98866,
+    "name": "KARAKULINSKIY RAYON",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98947,
+    "name": "KEZ",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98990,
+    "name": "KHOKHRYAKI",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99084,
+    "name": "KIYASOVO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99085,
+    "name": "KIYASOVSKIY RAYON",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99096,
+    "name": "KIZNER",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99310,
+    "name": "KRASNOGORSKOYE",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99751,
+    "name": "MALAYA PURGA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99764,
+    "name": "MALOPURGINSKIY RAYON",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99987,
+    "name": "MOZHGA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100682,
+    "name": "PIROGOVO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100887,
+    "name": "PUDEM",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100913,
+    "name": "PYCHAS",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101112,
+    "name": "SARAPUL",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101113,
+    "name": "SARAPUL’SKIY RAYON",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101159,
+    "name": "SELTY",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101261,
+    "name": "SHARKAN",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101368,
+    "name": "SIGAYEVO",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101734,
+    "name": "SYUMSI",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102153,
+    "name": "UVA",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102206,
+    "name": "VAVOZH",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102403,
+    "name": "VOTKINSK",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102489,
+    "name": "YAR",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102589,
+    "name": "YUKAMENSKOYE",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102683,
+    "name": "ZAV’YALOVSKIY RAYON",
+    "state": "UDMURT",
+    "state_iso2": "UD",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

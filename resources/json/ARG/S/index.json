@@ -1,0 +1,702 @@
+[
+  {
+    "id": 670,
+    "name": "ARMSTRONG",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 673,
+    "name": "ARROYO SECO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 675,
+    "name": "ARRUFÓ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 676,
+    "name": "AVELLANEDA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 689,
+    "name": "BELLA ITALIA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 710,
+    "name": "CALCHAQUÍ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 729,
+    "name": "CAPITÁN BERMÚDEZ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 732,
+    "name": "CARCARAÑÁ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 736,
+    "name": "CASILDA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 743,
+    "name": "CAÑADA DE GÓMEZ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 747,
+    "name": "CERES",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 758,
+    "name": "CHAÑAR LADEADO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 796,
+    "name": "CORONDA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 835,
+    "name": "DEPARTAMENTO DE BELGRANO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 853,
+    "name": "DEPARTAMENTO DE CASEROS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 854,
+    "name": "DEPARTAMENTO DE CASTELLANOS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 869,
+    "name": "DEPARTAMENTO DE CONSTITUCIÓN",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 916,
+    "name": "DEPARTAMENTO DE LA CAPITAL",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 951,
+    "name": "DEPARTAMENTO DE NUEVE DE JULIO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 985,
+    "name": "DEPARTAMENTO DE SAN CRISTÓBAL",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 988,
+    "name": "DEPARTAMENTO DE SAN JAVIER",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 992,
+    "name": "DEPARTAMENTO DE SAN JUSTO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 993,
+    "name": "DEPARTAMENTO DE SAN LORENZO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1000,
+    "name": "DEPARTAMENTO DE SAN MARTÍN",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1033,
+    "name": "DEPARTAMENTO DE VERA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1062,
+    "name": "EL TRÉBOL",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1069,
+    "name": "ESPERANZA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1079,
+    "name": "FIRMAT",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1084,
+    "name": "FRAY LUIS A. BELTRÁN",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1086,
+    "name": "FUNES",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1093,
+    "name": "GATO COLORADO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1117,
+    "name": "GOBERNADOR GÁLVEZ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1124,
+    "name": "GRANADERO BAIGORRIA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1131,
+    "name": "GÁLVEZ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1133,
+    "name": "HELVECIA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1140,
+    "name": "HERSILIA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1158,
+    "name": "IRIONDO DEPARTMENT",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1210,
+    "name": "LAGUNA PAIVA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1227,
+    "name": "LAS PAREJAS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1230,
+    "name": "LAS ROSAS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1231,
+    "name": "LAS TOSCAS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1252,
+    "name": "LOS LAURELES",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1265,
+    "name": "MALABRIGO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1276,
+    "name": "MELINCUÉ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1366,
+    "name": "PÉREZ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1372,
+    "name": "RAFAELA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1376,
+    "name": "RECONQUISTA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1377,
+    "name": "RECREO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1383,
+    "name": "ROLDÁN",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1384,
+    "name": "ROSARIO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1386,
+    "name": "RUFINO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1417,
+    "name": "SAN CARLOS CENTRO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1420,
+    "name": "SAN CRISTÓBAL",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1427,
+    "name": "SAN JAVIER",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1428,
+    "name": "SAN JORGE",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1436,
+    "name": "SAN JUSTO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1458,
+    "name": "SANTA FE",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1475,
+    "name": "SANTO TOMÉ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1478,
+    "name": "SASTRE",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1490,
+    "name": "SUNCHALES",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1494,
+    "name": "TACUARENDÍ",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1509,
+    "name": "TOSTADO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1510,
+    "name": "TOTORAS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1529,
+    "name": "VENADO TUERTO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1530,
+    "name": "VERA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1545,
+    "name": "VILLA CAÑÁS",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1547,
+    "name": "VILLA CONSTITUCIÓN",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1566,
+    "name": "VILLA MUGUETA",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1568,
+    "name": "VILLA OCAMPO",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1577,
+    "name": "VILLA TRINIDAD",
+    "state": "SANTA FE",
+    "state_iso2": "S",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

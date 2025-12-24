@@ -1,0 +1,532 @@
+[
+  {
+    "id": 38732,
+    "name": "ALASTARO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38738,
+    "name": "ASKAINEN",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38740,
+    "name": "AURA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38742,
+    "name": "DRAGSFJÄRD",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38757,
+    "name": "HALIKKO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38775,
+    "name": "HOUTSKÄR",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38790,
+    "name": "INIÖ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38814,
+    "name": "KAARINA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38827,
+    "name": "KARINAINEN",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38851,
+    "name": "KIIKALA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38854,
+    "name": "KIMITO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38857,
+    "name": "KISKO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38884,
+    "name": "KUSTAVI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38886,
+    "name": "KUUSJOKI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38894,
+    "name": "LAITILA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38909,
+    "name": "LEMU",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38913,
+    "name": "LIETO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38928,
+    "name": "MARTTILA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38929,
+    "name": "MASKU",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38930,
+    "name": "MELLILÄ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38934,
+    "name": "MERIMASKU",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38936,
+    "name": "MIETOINEN",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38943,
+    "name": "MUURLA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38944,
+    "name": "MYNÄMÄKI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38948,
+    "name": "NAANTALI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38949,
+    "name": "NAGU",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38955,
+    "name": "NOUSIAINEN",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38963,
+    "name": "ORIPÄÄ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38970,
+    "name": "PAIMIO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38972,
+    "name": "PARGAS",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38978,
+    "name": "PERNIÖ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38980,
+    "name": "PERTTELI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 38986,
+    "name": "PIIKKIÖ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39006,
+    "name": "PYHÄRANTA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39009,
+    "name": "PÖYTYÄ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39012,
+    "name": "RAISIO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39030,
+    "name": "RUSKO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39032,
+    "name": "RYMÄTTYLÄ",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39037,
+    "name": "SALO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39039,
+    "name": "SAUVO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39054,
+    "name": "SOMERO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39060,
+    "name": "SUOMUSJÄRVI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39065,
+    "name": "SÄRKISALO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39069,
+    "name": "TAIVASSALO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39071,
+    "name": "TARVASJOKI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39081,
+    "name": "TURKU",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39093,
+    "name": "UUSIKAUPUNKI",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39096,
+    "name": "VAHTO",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39102,
+    "name": "VEHMAA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39104,
+    "name": "VELKUA",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39118,
+    "name": "VÄSTANFJÄRD",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39119,
+    "name": "VÄSTÅBOLAND",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  },
+  {
+    "id": 39128,
+    "name": "YLÄNE",
+    "state": "FINLAND PROPER",
+    "state_iso2": "19",
+    "country": "FINLAND",
+    "country_iso2": "FI",
+    "country_iso3": "FIN",
+    "country_native": "SUOMI"
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "id": 63218,
+    "name": "AGEO SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63219,
+    "name": "AGEOSHIMO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63260,
+    "name": "ASAKA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63261,
+    "name": "ASAKA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63294,
+    "name": "CHICHIBU",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63295,
+    "name": "CHICHIBU-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63345,
+    "name": "FUJIMI-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63346,
+    "name": "FUJIMINO SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63358,
+    "name": "FUKAYA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63360,
+    "name": "FUKIAGE-FUJIMI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63401,
+    "name": "GYŌDA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63437,
+    "name": "HANNŌ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63438,
+    "name": "HANNŌ-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63439,
+    "name": "HANYŪ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63440,
+    "name": "HANYŪ-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63446,
+    "name": "HASUDA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63447,
+    "name": "HASUDA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63448,
+    "name": "HATOGAYA-HONCHŌ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63457,
+    "name": "HIDAKA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63464,
+    "name": "HIGASHIMATSUYAMA SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63475,
+    "name": "HIKI-GUN",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63523,
+    "name": "HONJŌ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63524,
+    "name": "HONJŌ SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63579,
+    "name": "IRUMA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63635,
+    "name": "IWATSUKI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63688,
+    "name": "KAMIFUKUOKA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63747,
+    "name": "KASUKABE",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63748,
+    "name": "KASUKABE SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63768,
+    "name": "KAWAGOE",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63769,
+    "name": "KAWAGOE-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63770,
+    "name": "KAWAGUCHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63771,
+    "name": "KAWAGUCHI-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63778,
+    "name": "KAZO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63779,
+    "name": "KAZO-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63792,
+    "name": "KISAI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63810,
+    "name": "KITAMOTO SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63822,
+    "name": "KODAMACHŌ-KODAMAMINAMI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63844,
+    "name": "KONOSU-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63848,
+    "name": "KOSHIGAYA SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63856,
+    "name": "KUKI-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63857,
+    "name": "KUKICHŪŌ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63858,
+    "name": "KUMAGAYA SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63872,
+    "name": "KURIHASHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63898,
+    "name": "KŌNOSU",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63944,
+    "name": "MENUMA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63982,
+    "name": "MISATO SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64036,
+    "name": "MOROHONGŌ",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64136,
+    "name": "NIIZA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64187,
+    "name": "OGAWA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64198,
+    "name": "OKEGAWA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64199,
+    "name": "OKEGAWA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64250,
+    "name": "SAITAMA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64251,
+    "name": "SAITAMA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64253,
+    "name": "SAKADO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64254,
+    "name": "SAKADO-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64293,
+    "name": "SATTE",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64294,
+    "name": "SATTE SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64296,
+    "name": "SAYAMA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64320,
+    "name": "SHIKI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64321,
+    "name": "SHIKI SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64335,
+    "name": "SHIMOTODA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64355,
+    "name": "SHIRAOKA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64356,
+    "name": "SHIRAOKA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64370,
+    "name": "SHŌBU",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64377,
+    "name": "SUGITO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64400,
+    "name": "SŌKA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64401,
+    "name": "SŌKA SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64489,
+    "name": "TODA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64495,
+    "name": "TOKOROZAWA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64496,
+    "name": "TOKOROZAWA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64555,
+    "name": "TSURUGASHIMA-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64621,
+    "name": "WAKO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64623,
+    "name": "WAKŌ-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64624,
+    "name": "WARABI-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64656,
+    "name": "YASHIO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64657,
+    "name": "YASHIO-SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64681,
+    "name": "YONO",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64682,
+    "name": "YORII",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64685,
+    "name": "YOSHIKAWA",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64686,
+    "name": "YOSHIKAWA SHI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64725,
+    "name": "ŌI",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64754,
+    "name": "ŌSATO-GUN",
+    "state": "SAITAMA",
+    "state_iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  }
+]

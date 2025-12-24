@@ -1,0 +1,912 @@
+[
+  {
+    "id": 154260,
+    "name": "AGIOS EFSTRATIOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52440,
+    "name": "ALEXANDROUPOLI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52456,
+    "name": "AMYGDALEÓNAS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52497,
+    "name": "ARRIANÁ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52502,
+    "name": "ARÍSVI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154252,
+    "name": "CHIOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52535,
+    "name": "CHORISTÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52538,
+    "name": "CHRYSOCHÓRI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52539,
+    "name": "CHRYSOÚPOLIS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52555,
+    "name": "DIDYMÓTEICHO",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52565,
+    "name": "DRÁMA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52571,
+    "name": "ECHÍNOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52576,
+    "name": "ELAIOCHÓRI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52578,
+    "name": "ELEFTHEROÚPOLIS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52579,
+    "name": "ELEFTHERÉS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52603,
+    "name": "FILLÝRA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52610,
+    "name": "FOTOLÍVOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154259,
+    "name": "FOURNOI KORSEON",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52612,
+    "name": "FTELIÁ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52616,
+    "name": "FÉRES",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52632,
+    "name": "GENISSÉA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154253,
+    "name": "IKARIA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52661,
+    "name": "ILIOKENTIMA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52679,
+    "name": "KALAMPÁKI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52683,
+    "name": "KALLÍFYTOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52690,
+    "name": "KALÍ VRÝSI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52691,
+    "name": "KALÓS AGRÓS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52696,
+    "name": "KAMARIÓTISSA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52723,
+    "name": "KASTANIÉS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52735,
+    "name": "KAVÁLA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52737,
+    "name": "KAVÝLI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52739,
+    "name": "KERAMOTÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52748,
+    "name": "KIMMÉRIA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52755,
+    "name": "KOKKINÓCHOMA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52762,
+    "name": "KOMOTINÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52785,
+    "name": "KRINÍDES",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52798,
+    "name": "KYPRÍNOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52815,
+    "name": "KÁTO NEVROKÓPI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52829,
+    "name": "KÝRIA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52834,
+    "name": "LAGÓS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154254,
+    "name": "LEMNOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154255,
+    "name": "LESBOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52853,
+    "name": "LIMENÁRIA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52876,
+    "name": "LÁVARA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52882,
+    "name": "LÝKEIO",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52935,
+    "name": "MIKRÓPOLIS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154261,
+    "name": "MYTILENE",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52959,
+    "name": "MÝKI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52967,
+    "name": "NEOCHÓRI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52976,
+    "name": "NIKÍSIANI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53011,
+    "name": "NÉA IRAKLÍTSA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53013,
+    "name": "NÉA KARVÁLI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53014,
+    "name": "NÉA KARYÁ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53031,
+    "name": "NÉA PÉRAMOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53040,
+    "name": "NÉA VÝSSA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154257,
+    "name": "OINOUSSES",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53062,
+    "name": "ORESTIÁDA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53071,
+    "name": "PALAIOCHÓRI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53078,
+    "name": "PALAIÓ TSIFLÍKI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53093,
+    "name": "PARALÍA OFRYNÍOU",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53096,
+    "name": "PARANÉSTI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53117,
+    "name": "PETEINÓS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53118,
+    "name": "PETROCHÓRI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53120,
+    "name": "PETROÚSSA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53140,
+    "name": "POTAMIÁ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53145,
+    "name": "PROSOTSÁNI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53150,
+    "name": "PRÍNOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154258,
+    "name": "PSARA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53161,
+    "name": "PÁCHNI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53173,
+    "name": "PÉPLOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53201,
+    "name": "RÍZIA",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154256,
+    "name": "SAMOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53205,
+    "name": "SAMOTHRÁKI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53216,
+    "name": "SITAGROÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53230,
+    "name": "SMÍNTHI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53235,
+    "name": "SOUFLÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53264,
+    "name": "SÁPES",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53266,
+    "name": "SÉLERO",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53282,
+    "name": "THÁSOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53298,
+    "name": "TYCHERÓ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53345,
+    "name": "VÓLAKAS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 154262,
+    "name": "WEST LESBOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53350,
+    "name": "XIROPÓTAMOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53351,
+    "name": "XYLAGANÍ",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53353,
+    "name": "XÁNTHI",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53365,
+    "name": "ZYGÓS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53375,
+    "name": "ÁGIOS ATHANÁSIOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53398,
+    "name": "ÁRATOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53408,
+    "name": "ÁVATO",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53418,
+    "name": "ÉVLALO",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53420,
+    "name": "ÍASMOS",
+    "state": "EAST ATTICA",
+    "state_iso2": "A2",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  }
+]

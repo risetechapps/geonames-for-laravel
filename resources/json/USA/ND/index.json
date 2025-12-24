@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 111026,
+    "name": "ADAMS COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111287,
+    "name": "AMIDON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111543,
+    "name": "ASHLEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111826,
+    "name": "BARNES",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111962,
+    "name": "BEACH",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112052,
+    "name": "BELCOURT",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112058,
+    "name": "BELFIELD",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112186,
+    "name": "BENSON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112296,
+    "name": "BEULAH",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112345,
+    "name": "BILLINGS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112367,
+    "name": "BISMARCK",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112598,
+    "name": "BOTTINEAU",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112599,
+    "name": "BOTTINEAU COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112621,
+    "name": "BOWBELLS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112632,
+    "name": "BOWMAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112633,
+    "name": "BOWMAN COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113058,
+    "name": "BURKE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113060,
+    "name": "BURLEIGH",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113075,
+    "name": "BURLINGTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113326,
+    "name": "CANDO",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113446,
+    "name": "CARRINGTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113475,
+    "name": "CARSON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113533,
+    "name": "CASS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113536,
+    "name": "CASSELTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113581,
+    "name": "CAVALIER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113582,
+    "name": "CAVALIER COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113639,
+    "name": "CENTER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114606,
+    "name": "COOPERSTOWN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114844,
+    "name": "CROSBY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115298,
+    "name": "DEVILS LAKE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115323,
+    "name": "DICKEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115326,
+    "name": "DICKINSON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115357,
+    "name": "DIVIDE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115548,
+    "name": "DUNN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115823,
+    "name": "EDDY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116017,
+    "name": "ELLENDALE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116107,
+    "name": "EMMONS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116396,
+    "name": "FARGO",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116501,
+    "name": "FESSENDEN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116516,
+    "name": "FINLEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116676,
+    "name": "FORMAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116756,
+    "name": "FORT TOTTEN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116766,
+    "name": "FORT YATES",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116777,
+    "name": "FOSTER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117103,
+    "name": "GARRISON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117359,
+    "name": "GOLDEN VALLEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117431,
+    "name": "GRAFTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117457,
+    "name": "GRAND FORKS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117458,
+    "name": "GRAND FORKS AIR FORCE BASE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117459,
+    "name": "GRAND FORKS COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117518,
+    "name": "GRANT COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117734,
+    "name": "GRIGGS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118114,
+    "name": "HARVEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118210,
+    "name": "HAZEN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118346,
+    "name": "HETTINGER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118347,
+    "name": "HETTINGER COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118450,
+    "name": "HILLSBORO",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118661,
+    "name": "HORACE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119123,
+    "name": "JAMESTOWN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119461,
+    "name": "KENMARE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119552,
+    "name": "KIDDER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119558,
+    "name": "KILLDEER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120057,
+    "name": "LAKOTA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119803,
+    "name": "LAMOURE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120109,
+    "name": "LANGDON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120146,
+    "name": "LARIMORE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120510,
+    "name": "LINCOLN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120590,
+    "name": "LINTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120600,
+    "name": "LISBON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120701,
+    "name": "LOGAN COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121106,
+    "name": "MANDAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121136,
+    "name": "MANNING",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121454,
+    "name": "MAYVILLE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121472,
+    "name": "MCCLUSKY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121510,
+    "name": "MCHENRY COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121515,
+    "name": "MCINTOSH",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121521,
+    "name": "MCKENZIE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121530,
+    "name": "MCLEAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121608,
+    "name": "MEDORA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121681,
+    "name": "MERCER COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121959,
+    "name": "MINNEWAUKAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121966,
+    "name": "MINOT",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121967,
+    "name": "MINOT AIR FORCE BASE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122018,
+    "name": "MOHALL",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122297,
+    "name": "MORTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122312,
+    "name": "MOTT",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122440,
+    "name": "MOUNTRAIL",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122559,
+    "name": "NAPOLEON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122628,
+    "name": "NELSON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122774,
+    "name": "NEW ROCKFORD",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122787,
+    "name": "NEW TOWN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123275,
+    "name": "OAKES",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123443,
+    "name": "OLIVER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123853,
+    "name": "PARK RIVER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123889,
+    "name": "PARSHALL",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124003,
+    "name": "PEMBINA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124174,
+    "name": "PIERCE COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124844,
+    "name": "RAMSEY COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124888,
+    "name": "RANSOM",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125029,
+    "name": "RENVILLE COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125076,
+    "name": "RICHLAND",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125362,
+    "name": "ROLETTE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125364,
+    "name": "ROLLA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125503,
+    "name": "RUGBY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125950,
+    "name": "SARGENT",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126288,
+    "name": "SHELDON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126293,
+    "name": "SHELL VALLEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126326,
+    "name": "SHERIDAN COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126460,
+    "name": "SIOUX",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126507,
+    "name": "SLOPE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126961,
+    "name": "STANLEY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126970,
+    "name": "STANTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126985,
+    "name": "STARK",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127009,
+    "name": "STEELE",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127011,
+    "name": "STEELE COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127154,
+    "name": "STUTSMAN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127291,
+    "name": "SURREY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127591,
+    "name": "THOMPSON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127668,
+    "name": "TIOGA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127761,
+    "name": "TOWNER",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127762,
+    "name": "TOWNER COUNTY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127778,
+    "name": "TRAILL",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128101,
+    "name": "VALLEY CITY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128165,
+    "name": "VELVA",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128335,
+    "name": "WAHPETON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128427,
+    "name": "WALSH",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128459,
+    "name": "WARD",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128535,
+    "name": "WASHBURN",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128632,
+    "name": "WATFORD CITY",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128787,
+    "name": "WELLS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128869,
+    "name": "WEST FARGO",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129264,
+    "name": "WILLIAMS",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129299,
+    "name": "WILLISTON",
+    "state": "NORTH DAKOTA",
+    "state_iso2": "ND",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

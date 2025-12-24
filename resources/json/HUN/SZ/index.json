@@ -1,0 +1,942 @@
+[
+  {
+    "id": 55177,
+    "name": "AJAK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55187,
+    "name": "ANARCS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55189,
+    "name": "APAGY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55193,
+    "name": "ARANYOSAPÁTI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55208,
+    "name": "BAKTALÓRÁNTHÁZA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55209,
+    "name": "BAKTALÓRÁNTHÁZAI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55224,
+    "name": "BALKÁNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55285,
+    "name": "BUJ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55307,
+    "name": "BÖKÖNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55329,
+    "name": "CSENGER",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55330,
+    "name": "CSENGERI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55356,
+    "name": "DEMECSER",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55367,
+    "name": "DOMBRÁD",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55391,
+    "name": "DÖGE",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55406,
+    "name": "ENCSENCS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55420,
+    "name": "FEHÉRGYARMAT",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55421,
+    "name": "FEHÉRGYARMATI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55435,
+    "name": "FÉNYESLITKE",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55454,
+    "name": "GYULAHÁZA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55473,
+    "name": "GÉGÉNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55513,
+    "name": "HODÁSZ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55524,
+    "name": "IBRÁNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55525,
+    "name": "IBRÁNYI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55582,
+    "name": "KEMECSE",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55583,
+    "name": "KEMECSEI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55605,
+    "name": "KISLÉTA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55612,
+    "name": "KISVÁRDA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55613,
+    "name": "KISVÁRDAI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55616,
+    "name": "KOCSORD",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55636,
+    "name": "KÁLLÓSEMJÉN",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55637,
+    "name": "KÁLMÁNHÁZA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55639,
+    "name": "KÁNTORJÁNOSI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55641,
+    "name": "KÉK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55646,
+    "name": "KÓTAJ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55662,
+    "name": "LEVELEK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55721,
+    "name": "MÁNDOK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55723,
+    "name": "MÁRIAPÓCS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55728,
+    "name": "MÁTÉSZALKA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55729,
+    "name": "MÁTÉSZALKAI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55732,
+    "name": "MÉRK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55743,
+    "name": "NAGYCSERKESZ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55744,
+    "name": "NAGYDOBOS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55746,
+    "name": "NAGYECSED",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55747,
+    "name": "NAGYHALÁSZ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55751,
+    "name": "NAGYKÁLLÓ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55752,
+    "name": "NAGYKÁLLÓI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55764,
+    "name": "NAPKOR",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55773,
+    "name": "NYÍRBOGDÁNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55774,
+    "name": "NYÍRBOGÁT",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55775,
+    "name": "NYÍRBÁTOR",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55776,
+    "name": "NYÍRBÁTORI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55777,
+    "name": "NYÍRBÉLTEK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55778,
+    "name": "NYÍRCSAHOLY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55779,
+    "name": "NYÍREGYHÁZA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55780,
+    "name": "NYÍREGYHÁZI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55781,
+    "name": "NYÍRGYULAJ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55782,
+    "name": "NYÍRKARÁSZ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55783,
+    "name": "NYÍRLUGOS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55784,
+    "name": "NYÍRMADA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55785,
+    "name": "NYÍRMEGGYES",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55786,
+    "name": "NYÍRMIHÁLYDI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55788,
+    "name": "NYÍRPAZONY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55789,
+    "name": "NYÍRTASS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55790,
+    "name": "NYÍRTELEK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55791,
+    "name": "NYÍRVASVÁRI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55815,
+    "name": "PETNEHÁZA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55830,
+    "name": "PORCSALMA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55846,
+    "name": "PÁTROHA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55862,
+    "name": "RAKAMAZ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55916,
+    "name": "SZAKOLY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55918,
+    "name": "SZAMOSSZEG",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56015,
+    "name": "TARPA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56022,
+    "name": "TISZABERCEL",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56023,
+    "name": "TISZABEZDÉD",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56027,
+    "name": "TISZADADA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56028,
+    "name": "TISZADOB",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56029,
+    "name": "TISZAESZLÁR",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56037,
+    "name": "TISZALÖK",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56039,
+    "name": "TISZANAGYFALU",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56046,
+    "name": "TISZAVASVÁRI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56047,
+    "name": "TISZAVASVÁRI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56056,
+    "name": "TORNYOSPÁLCA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56057,
+    "name": "TUNYOGMATOLCS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56059,
+    "name": "TUZSÉR",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56060,
+    "name": "TYUKOD",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56088,
+    "name": "VAJA",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56114,
+    "name": "VÁSÁROSNAMÉNY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56115,
+    "name": "VÁSÁROSNAMÉNYI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56134,
+    "name": "ZÁHONY",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56135,
+    "name": "ZÁHONYI JÁRÁS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56150,
+    "name": "ÓFEHÉRTÓ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56153,
+    "name": "ÓPÁLYI",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56157,
+    "name": "ÖKÖRITÓFÜLPÖS",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56160,
+    "name": "ÚJFEHÉRTÓ",
+    "state": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "state_iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

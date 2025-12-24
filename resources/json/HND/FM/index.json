@@ -1,0 +1,522 @@
+[
+  {
+    "id": 53835,
+    "name": "AGALTECA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53848,
+    "name": "ALUBARÉN",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53892,
+    "name": "CEDROS",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53895,
+    "name": "CERRO GRANDE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53905,
+    "name": "COFRADÍA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53928,
+    "name": "CURARÉN",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53933,
+    "name": "DISTRITO CENTRAL",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53945,
+    "name": "EL CHIMBO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53951,
+    "name": "EL ESCANITO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53952,
+    "name": "EL ESCAÑO DE TEPALE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53953,
+    "name": "EL GUANTE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53954,
+    "name": "EL GUANTILLO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53955,
+    "name": "EL GUAPINOL",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53959,
+    "name": "EL LOLO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53972,
+    "name": "EL PEDERNAL",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53979,
+    "name": "EL PORVENIR",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53990,
+    "name": "EL SUYATAL",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53991,
+    "name": "EL TABLÓN",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53992,
+    "name": "EL TERRERO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54012,
+    "name": "GUAIMACA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54053,
+    "name": "LA ERMITA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54069,
+    "name": "LA LIBERTAD",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54084,
+    "name": "LA VENTA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54102,
+    "name": "LEPATERIQUE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54118,
+    "name": "MARAITA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54119,
+    "name": "MARALE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54123,
+    "name": "MATA DE PLÁTANO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54124,
+    "name": "MATEO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54146,
+    "name": "NUEVA ARMENIA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54155,
+    "name": "OJOJONA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54161,
+    "name": "ORICA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54193,
+    "name": "QUEBRADAS",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54196,
+    "name": "REITOCA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54198,
+    "name": "RÍO ABAJO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54204,
+    "name": "SABANAGRANDE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54218,
+    "name": "SAN ANTONIO DE ORIENTE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54222,
+    "name": "SAN BUENAVENTURA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54236,
+    "name": "SAN IGNACIO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54260,
+    "name": "SAN JUAN DE FLORES",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54276,
+    "name": "SAN MIGUELITO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54291,
+    "name": "SANTA ANA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54305,
+    "name": "SANTA LUCÍA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54325,
+    "name": "TALANGA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54329,
+    "name": "TATUMBLA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54333,
+    "name": "TEGUCIGALPA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54350,
+    "name": "TÁMARA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54354,
+    "name": "VALLE DE ÁNGELES",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54356,
+    "name": "VALLECILLO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54361,
+    "name": "VILLA DE SAN FRANCISCO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54359,
+    "name": "VILLA NUEVA",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54367,
+    "name": "YAGUACIRE",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54377,
+    "name": "ZAMBRANO",
+    "state": "FRANCISCO MORAZÁN",
+    "state_iso2": "FM",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": 97737,
+    "name": "BABAYEVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97738,
+    "name": "BABAYEVSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97873,
+    "name": "BELOZËRSK",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97874,
+    "name": "BELOZËRSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98108,
+    "name": "CHAGODA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98109,
+    "name": "CHAGODOSHCHENSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98129,
+    "name": "CHEBSARA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98156,
+    "name": "CHEREPOVETS",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98157,
+    "name": "CHEREPOVETSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98419,
+    "name": "FERAPONTOVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98526,
+    "name": "GORITSY",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98599,
+    "name": "GRYAZOVETS",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98600,
+    "name": "GRYAZOVETSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98661,
+    "name": "IMENI BABUSHKINA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98672,
+    "name": "IMENI ZHELYABOVA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98768,
+    "name": "KADNIKOV",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98771,
+    "name": "KADUY",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98772,
+    "name": "KADUYSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98966,
+    "name": "KHAROVSK",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98967,
+    "name": "KHAROVSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98989,
+    "name": "KHOKHLOVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99032,
+    "name": "KICHMENGSKIY GORODOK",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99033,
+    "name": "KICHMENGSKO-GORODETSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99055,
+    "name": "KIRILLOV",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99056,
+    "name": "KIRILLOVSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99274,
+    "name": "KRASAVINO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99504,
+    "name": "KUZINO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99634,
+    "name": "LIPIN BOR",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99882,
+    "name": "MEZHDURECHENSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99949,
+    "name": "MOLOCHNOYE",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100026,
+    "name": "MYAKSA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100097,
+    "name": "NELAZSKOYE",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100143,
+    "name": "NIKOL’SK",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100381,
+    "name": "NYUKSENITSA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101142,
+    "name": "SAZONOVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101288,
+    "name": "SHEKSNA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101289,
+    "name": "SHEKSNINSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101363,
+    "name": "SHUYSKOYE",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101431,
+    "name": "SOKOL",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101442,
+    "name": "SOKOL’SKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101641,
+    "name": "SUDA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101717,
+    "name": "SYAMZHA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101718,
+    "name": "SYAMZHENSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101777,
+    "name": "TARNOGSKIY GORODOK",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101778,
+    "name": "TARNOGSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101890,
+    "name": "TONSHALOVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101905,
+    "name": "TOTEMSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101907,
+    "name": "TOT’MA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102111,
+    "name": "USTYUZHENSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102112,
+    "name": "USTYUZHNA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102133,
+    "name": "UST’-KUBINSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102145,
+    "name": "UST’YE",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102212,
+    "name": "VELIKIY USTYUG",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102218,
+    "name": "VELIKOUSTYUGSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102278,
+    "name": "VERKHOVAZHSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102279,
+    "name": "VERKHOVAZH’YE",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102337,
+    "name": "VOKHTOGA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102354,
+    "name": "VOLOGDA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102355,
+    "name": "VOLOGODSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102407,
+    "name": "VOZHEGA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102453,
+    "name": "VYTEGORSKIY RAYON",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102454,
+    "name": "VYTEGRA",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102771,
+    "name": "ZUBOVO",
+    "state": "VOLOGDA",
+    "state_iso2": "VLG",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1986,
+    "name": "CENTRAL",
+    "iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1984,
+    "name": "COPPERBELT",
+    "iso2": "08",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1991,
+    "name": "EASTERN",
+    "iso2": "03",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1987,
+    "name": "LUAPULA",
+    "iso2": "04",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1988,
+    "name": "LUSAKA",
+    "iso2": "09",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1989,
+    "name": "MUCHINGA",
+    "iso2": "10",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1982,
+    "name": "NORTHERN",
+    "iso2": "05",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1985,
+    "name": "NORTHWESTERN",
+    "iso2": "06",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1990,
+    "name": "SOUTHERN",
+    "iso2": "07",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  },
+  {
+    "id": 1983,
+    "name": "WESTERN",
+    "iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA",
+    "timezone": "Africa/Lusaka"
+  }
+]

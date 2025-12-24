@@ -1,0 +1,472 @@
+[
+  {
+    "id": 181,
+    "name": "BARINGO",
+    "iso2": "01",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 210,
+    "name": "BOMET",
+    "iso2": "02",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 168,
+    "name": "BUNGOMA",
+    "iso2": "03",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 161,
+    "name": "BUSIA",
+    "iso2": "04",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 201,
+    "name": "ELGEYO-MARAKWET",
+    "iso2": "05",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 163,
+    "name": "EMBU",
+    "iso2": "06",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 196,
+    "name": "GARISSA",
+    "iso2": "07",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 195,
+    "name": "HOMA BAY",
+    "iso2": "08",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 170,
+    "name": "ISIOLO",
+    "iso2": "09",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 197,
+    "name": "KAJIADO",
+    "iso2": "10",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 158,
+    "name": "KAKAMEGA",
+    "iso2": "11",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 193,
+    "name": "KERICHO",
+    "iso2": "12",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 199,
+    "name": "KIAMBU",
+    "iso2": "13",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 174,
+    "name": "KILIFI",
+    "iso2": "14",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 167,
+    "name": "KIRINYAGA",
+    "iso2": "15",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 159,
+    "name": "KISII",
+    "iso2": "16",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 171,
+    "name": "KISUMU",
+    "iso2": "17",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 211,
+    "name": "KITUI",
+    "iso2": "18",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 173,
+    "name": "KWALE",
+    "iso2": "19",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 164,
+    "name": "LAIKIPIA",
+    "iso2": "20",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 166,
+    "name": "LAMU",
+    "iso2": "21",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 184,
+    "name": "MACHAKOS",
+    "iso2": "22",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 188,
+    "name": "MAKUENI",
+    "iso2": "23",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 187,
+    "name": "MANDERA",
+    "iso2": "24",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 194,
+    "name": "MARSABIT",
+    "iso2": "25",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 198,
+    "name": "MERU",
+    "iso2": "26",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 190,
+    "name": "MIGORI",
+    "iso2": "27",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 200,
+    "name": "MOMBASA",
+    "iso2": "28",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 178,
+    "name": "MURANG'A",
+    "iso2": "29",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 191,
+    "name": "NAIROBI CITY",
+    "iso2": "30",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 203,
+    "name": "NAKURU",
+    "iso2": "31",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 165,
+    "name": "NANDI",
+    "iso2": "32",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 175,
+    "name": "NAROK",
+    "iso2": "33",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 209,
+    "name": "NYAMIRA",
+    "iso2": "34",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 192,
+    "name": "NYANDARUA",
+    "iso2": "35",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 180,
+    "name": "NYERI",
+    "iso2": "36",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 207,
+    "name": "SAMBURU",
+    "iso2": "37",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 186,
+    "name": "SIAYA",
+    "iso2": "38",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 176,
+    "name": "TAITA–TAVETA",
+    "iso2": "39",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 205,
+    "name": "TANA RIVER",
+    "iso2": "40",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 185,
+    "name": "THARAKA-NITHI",
+    "iso2": "41",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 183,
+    "name": "TRANS NZOIA",
+    "iso2": "42",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 206,
+    "name": "TURKANA",
+    "iso2": "43",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 169,
+    "name": "UASIN GISHU",
+    "iso2": "44",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 202,
+    "name": "VIHIGA",
+    "iso2": "45",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 182,
+    "name": "WAJIR",
+    "iso2": "46",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "id": 208,
+    "name": "WEST POKOT",
+    "iso2": "47",
+    "country": "KENYA",
+    "country_iso2": "KE",
+    "country_iso3": "KEN",
+    "country_native": "KENYA",
+    "timezone": "Africa/Nairobi"
+  }
+]

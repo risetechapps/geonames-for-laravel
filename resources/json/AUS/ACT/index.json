@@ -1,0 +1,952 @@
+[
+  {
+    "id": 3915,
+    "name": "ACTON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3923,
+    "name": "AINSLIE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3974,
+    "name": "AMAROO",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3995,
+    "name": "ARANDA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4098,
+    "name": "BANKS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4129,
+    "name": "BARTON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4184,
+    "name": "BELCONNEN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4331,
+    "name": "BONNER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4338,
+    "name": "BONYTHON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4377,
+    "name": "BRADDON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4436,
+    "name": "BRUCE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4536,
+    "name": "CALWELL",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4555,
+    "name": "CAMPBELL",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4566,
+    "name": "CANBERRA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4621,
+    "name": "CASEY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4662,
+    "name": "CHAPMAN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4669,
+    "name": "CHARNWOOD",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4687,
+    "name": "CHIFLEY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4697,
+    "name": "CHISHOLM",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4787,
+    "name": "CONDER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4799,
+    "name": "COOK",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4816,
+    "name": "COOMBS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4855,
+    "name": "CRACE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4916,
+    "name": "CURTIN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4957,
+    "name": "DEAKIN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4989,
+    "name": "DICKSON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5024,
+    "name": "DOWNER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5036,
+    "name": "DUFFY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5046,
+    "name": "DUNLOP",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5197,
+    "name": "EVATT",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5204,
+    "name": "FADDEN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5219,
+    "name": "FARRER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5239,
+    "name": "FISHER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5257,
+    "name": "FLOREY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5258,
+    "name": "FLYNN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5261,
+    "name": "FORDE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5270,
+    "name": "FORREST",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5278,
+    "name": "FRANKLIN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5284,
+    "name": "FRASER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5306,
+    "name": "GARRAN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5336,
+    "name": "GILMORE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5340,
+    "name": "GIRALANG",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5420,
+    "name": "GORDON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5429,
+    "name": "GOWRIE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5461,
+    "name": "GREENWAY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5472,
+    "name": "GRIFFITH",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5485,
+    "name": "GUNGAHLIN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5498,
+    "name": "HACKETT",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5531,
+    "name": "HARRISON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5538,
+    "name": "HAWKER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5592,
+    "name": "HIGGINS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5629,
+    "name": "HOLDER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5639,
+    "name": "HOLT",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5663,
+    "name": "HUGHES",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5707,
+    "name": "ISAACS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5708,
+    "name": "ISABELLA PLAINS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5758,
+    "name": "KALEEN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5768,
+    "name": "KAMBAH",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5886,
+    "name": "KINGSTON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5980,
+    "name": "LATHAM",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6091,
+    "name": "LYNEHAM",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6093,
+    "name": "LYONS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6097,
+    "name": "MACARTHUR",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6102,
+    "name": "MACGREGOR",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6112,
+    "name": "MACQUARIE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6205,
+    "name": "MAWSON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6218,
+    "name": "MCKELLAR",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6234,
+    "name": "MELBA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6345,
+    "name": "MONASH",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6533,
+    "name": "NARRABUNDAH",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6583,
+    "name": "NGUNNAWAL",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6587,
+    "name": "NICHOLLS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6691,
+    "name": "O'CONNOR",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6749,
+    "name": "OXLEY",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6761,
+    "name": "PAGE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6770,
+    "name": "PALMERSTON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6820,
+    "name": "PEARCE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6848,
+    "name": "PHILLIP",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6977,
+    "name": "RED HILL",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6992,
+    "name": "REID",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7004,
+    "name": "RICHARDSON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7031,
+    "name": "RIVETT",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7157,
+    "name": "SCULLIN",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7303,
+    "name": "SPENCE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7348,
+    "name": "STIRLING",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7498,
+    "name": "THEODORE",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7544,
+    "name": "TORRENS",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7582,
+    "name": "TURNER",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7693,
+    "name": "WANNIASSA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7697,
+    "name": "WARAMANGA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7735,
+    "name": "WATSON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7753,
+    "name": "WEETANGERA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7827,
+    "name": "WESTON",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7955,
+    "name": "WRIGHT",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 8002,
+    "name": "YARRALUMLA",
+    "state": "AUSTRALIAN CAPITAL TERRITORY",
+    "state_iso2": "ACT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  }
+]

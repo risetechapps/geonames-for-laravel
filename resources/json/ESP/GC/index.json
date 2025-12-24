@@ -1,0 +1,742 @@
+[
+  {
+    "id": 31944,
+    "name": "AGAETE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 31973,
+    "name": "AGÜIMES",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32393,
+    "name": "ANTIGUA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32504,
+    "name": "ARRECIFE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32523,
+    "name": "ARTENARA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32528,
+    "name": "ARUCAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153196,
+    "name": "BETANCURIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33328,
+    "name": "CARRIZAL",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33802,
+    "name": "CORRALEJO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33818,
+    "name": "COSTA CALMA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33819,
+    "name": "COSTA TEGUISE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33839,
+    "name": "CRUCE DE ARINAGA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33994,
+    "name": "EL COTILLO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34004,
+    "name": "EL PASO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34190,
+    "name": "FIRGAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34541,
+    "name": "GUIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34559,
+    "name": "GÁLDAR",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34573,
+    "name": "HARÍA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34754,
+    "name": "INGENIO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153199,
+    "name": "LA ALDEA DE SAN NICOLÁS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34880,
+    "name": "LA GUANCHA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34887,
+    "name": "LA LAGUNA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34894,
+    "name": "LA MATANZA DE ACENTEJO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34897,
+    "name": "LA OLIVA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153197,
+    "name": "LA OLIVA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34898,
+    "name": "LA OROTAVA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34934,
+    "name": "LA VICTORIA DE ACENTEJO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34988,
+    "name": "LAS PALMAS DE GRAN CANARIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153198,
+    "name": "LAS PALMAS DE GRAN CANARIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34990,
+    "name": "LAS ROSAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35105,
+    "name": "LOMO DE ARICO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35122,
+    "name": "LOS GIGANTES",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35124,
+    "name": "LOS LLANOS DE ARIDANE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35132,
+    "name": "LOS REALEJOS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35135,
+    "name": "LOS SILOS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35324,
+    "name": "MASPALOMAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35357,
+    "name": "MAZO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35469,
+    "name": "MOGÁN",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35647,
+    "name": "MOYA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35702,
+    "name": "MÁCHER",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35794,
+    "name": "NAZARET",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36239,
+    "name": "PLAYA BLANCA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36240,
+    "name": "PLAYA DE LAS AMÉRICAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36241,
+    "name": "PLAYA DEL INGLES",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36376,
+    "name": "PROVINCIA DE LAS PALMAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36386,
+    "name": "PROVINCIA DE SANTA CRUZ DE TENERIFE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36455,
+    "name": "PUERTO DEL CARMEN",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36456,
+    "name": "PUERTO DEL ROSARIO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36448,
+    "name": "PUERTO RICO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36471,
+    "name": "PUNTA DE MUJERES",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36480,
+    "name": "PÁJARA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36553,
+    "name": "REALEJO ALTO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36806,
+    "name": "SAN BARTOLOMÉ",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36809,
+    "name": "SAN BARTOLOMÉ DE TIRAJANA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36895,
+    "name": "SAN NICOLÁS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37007,
+    "name": "SANTA BRÍGIDA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37062,
+    "name": "SANTA LUCÍA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153200,
+    "name": "SANTA LUCÍA DE TIRAJANA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 153201,
+    "name": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37180,
+    "name": "SAUZAL",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37368,
+    "name": "TANQUE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37392,
+    "name": "TEGUISE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37397,
+    "name": "TEJEDA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37400,
+    "name": "TELDE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37405,
+    "name": "TEROR",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37427,
+    "name": "TINAJO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37652,
+    "name": "TUINEJE",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37666,
+    "name": "TÍAS",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37850,
+    "name": "VALLEHERMOSA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37857,
+    "name": "VALLESECO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37875,
+    "name": "VALSEQUILLO DE GRAN CANARIA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37900,
+    "name": "VECINDARIO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37907,
+    "name": "VEGA DE SAN MATEO",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38425,
+    "name": "YAIZA",
+    "state": "LAS PALMAS",
+    "state_iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  }
+]

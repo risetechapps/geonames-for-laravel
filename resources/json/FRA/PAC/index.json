@@ -1,0 +1,5272 @@
+[
+  {
+    "id": 39294,
+    "name": "AIX-EN-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39322,
+    "name": "ALLAUCH",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39323,
+    "name": "ALLEINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39335,
+    "name": "ALPES-DE-HAUTE-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39334,
+    "name": "ALPES-MARITIMES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39337,
+    "name": "ALTHEN-DES-PALUDS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39424,
+    "name": "ANNOT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39429,
+    "name": "ANSOUIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39432,
+    "name": "ANTIBES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39446,
+    "name": "APT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39470,
+    "name": "ARENC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39488,
+    "name": "ARLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39550,
+    "name": "ASPREMONT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39566,
+    "name": "AUBAGNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39578,
+    "name": "AUBIGNAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39622,
+    "name": "AUPS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39626,
+    "name": "AUREILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39628,
+    "name": "AURIBEAU-SUR-SIAGNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39631,
+    "name": "AURIOL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39669,
+    "name": "AVIGNON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39712,
+    "name": "BAGNOLS-EN-FORÊT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39721,
+    "name": "BAILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39759,
+    "name": "BANDOL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39772,
+    "name": "BARBENTANE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39779,
+    "name": "BARCELONNETTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39783,
+    "name": "BARGEMON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39785,
+    "name": "BARJOLS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39855,
+    "name": "BEAULIEU-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39857,
+    "name": "BEAUMES-DE-VENISE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39864,
+    "name": "BEAUMONT-DE-PERTUIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39886,
+    "name": "BEAUSOLEIL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39903,
+    "name": "BELCODÈNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39905,
+    "name": "BELGENTIER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39909,
+    "name": "BELLE DE MAI",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39935,
+    "name": "BELSUNCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39959,
+    "name": "BERRE-L'ÉTANG",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39960,
+    "name": "BERRE-LES-ALPES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 39977,
+    "name": "BESSE-SUR-ISSOLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40029,
+    "name": "BIOT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40059,
+    "name": "BLAUSASC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40105,
+    "name": "BOLLÈNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40109,
+    "name": "BON-SECOURS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40125,
+    "name": "BONNEVEINE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40127,
+    "name": "BONNIEUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40139,
+    "name": "BOREL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40141,
+    "name": "BORMES-LES-MIMOSAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40149,
+    "name": "BOUC-BEL-AIR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40165,
+    "name": "BOULBON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40258,
+    "name": "BRAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40273,
+    "name": "BREIL-SUR-ROYA",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40300,
+    "name": "BRIANÇON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40313,
+    "name": "BRIGNOLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40413,
+    "name": "BÉDARRIDES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40414,
+    "name": "BÉDOIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40441,
+    "name": "CABANNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40443,
+    "name": "CABASSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40446,
+    "name": "CABRIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40448,
+    "name": "CABRIÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40453,
+    "name": "CADENET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40454,
+    "name": "CADEROUSSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40456,
+    "name": "CADOLIVE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40459,
+    "name": "CAGNES-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40472,
+    "name": "CALLAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40473,
+    "name": "CALLIAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40481,
+    "name": "CAMARET-SUR-AIGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40501,
+    "name": "CAMPS-LA-SOURCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40512,
+    "name": "CANNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40517,
+    "name": "CANTARON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40524,
+    "name": "CAP-D’AIL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40540,
+    "name": "CARCÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40551,
+    "name": "CARNOULES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40552,
+    "name": "CARNOUX-EN-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40554,
+    "name": "CAROMB",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40555,
+    "name": "CARPENTRAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40558,
+    "name": "CARQUEIRANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40561,
+    "name": "CARROS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40562,
+    "name": "CARRY-LE-ROUET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40571,
+    "name": "CASSIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40574,
+    "name": "CASTAGNIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40579,
+    "name": "CASTELLANE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40609,
+    "name": "CAUMONT-SUR-DURANCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40617,
+    "name": "CAVAILLON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40618,
+    "name": "CAVALAIRE-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40666,
+    "name": "CEYRESTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40892,
+    "name": "CHEVAL-BLANC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40926,
+    "name": "CHORGES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40929,
+    "name": "CHUTES-LAVIE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40961,
+    "name": "CHÂTEAUNEUF-DE-GADAGNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40964,
+    "name": "CHÂTEAUNEUF-DU-PAPE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40960,
+    "name": "CHÂTEAUNEUF-GRASSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40969,
+    "name": "CHÂTEAUNEUF-LE-ROUGE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40970,
+    "name": "CHÂTEAUNEUF-LES-MARTIGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40977,
+    "name": "CHÂTEAURENARD",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41020,
+    "name": "CINQ AVENUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41083,
+    "name": "COGOLIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41092,
+    "name": "COLLOBRIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41097,
+    "name": "COLOMARS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41155,
+    "name": "CONTES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41194,
+    "name": "CORNILLON-CONFOUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41211,
+    "name": "COTIGNAC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41221,
+    "name": "COUDOUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41269,
+    "name": "COURTHÉZON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41358,
+    "name": "CUCURON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41359,
+    "name": "CUERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41363,
+    "name": "CUGES-LES-PINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41396,
+    "name": "CÉRESTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41478,
+    "name": "DIGNE-LES-BAINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41566,
+    "name": "DRAGUIGNAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41569,
+    "name": "DRAP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41634,
+    "name": "DÉPARTEMENT DES BOUCHES-DU-RHÔNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41647,
+    "name": "DÉPARTEMENT DU VAUCLUSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41666,
+    "name": "EMBRUN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41677,
+    "name": "ENSUÈS-LA-REDONNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41678,
+    "name": "ENTRAIGUES-SUR-LA-SORGUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41752,
+    "name": "EYGALIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41753,
+    "name": "EYGUIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41756,
+    "name": "EYRAGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41767,
+    "name": "FALICON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41789,
+    "name": "FAYENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41817,
+    "name": "FIGANIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41829,
+    "name": "FLASSANS-SUR-ISSOLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41835,
+    "name": "FLAYOSC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41907,
+    "name": "FONTVIEILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41909,
+    "name": "FORCALQUEIRET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41910,
+    "name": "FORCALQUIER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41919,
+    "name": "FOS-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41985,
+    "name": "FRÉJUS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41996,
+    "name": "FUVEAU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42031,
+    "name": "GAP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42037,
+    "name": "GARDANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42041,
+    "name": "GARGAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42048,
+    "name": "GARÉOULT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42050,
+    "name": "GASSIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42052,
+    "name": "GATTIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42092,
+    "name": "GIGNAC-LA-NERTHE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42093,
+    "name": "GILETTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42098,
+    "name": "GINASSERVIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42130,
+    "name": "GONFARON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42134,
+    "name": "GORBIO",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42136,
+    "name": "GORDES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42148,
+    "name": "GOULT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42169,
+    "name": "GRAMBOIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42184,
+    "name": "GRANS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42186,
+    "name": "GRASSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42190,
+    "name": "GRAVESON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42213,
+    "name": "GRILLON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42214,
+    "name": "GRIMAUD",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42233,
+    "name": "GRÉASQUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42234,
+    "name": "GRÉOUX-LES-BAINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42261,
+    "name": "GUILLESTRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42293,
+    "name": "GÉMENOS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42351,
+    "name": "HAUTES-ALPES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42448,
+    "name": "HYÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42510,
+    "name": "ISTRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42542,
+    "name": "JAUSIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42558,
+    "name": "JONQUERETTES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42559,
+    "name": "JONQUIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42570,
+    "name": "JOUQUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42625,
+    "name": "L'ESTAQUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42632,
+    "name": "LA BARASSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42636,
+    "name": "LA BASTIDE-DES-JOURDANS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42643,
+    "name": "LA BLANCARDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42649,
+    "name": "LA BOUILLADISSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42660,
+    "name": "LA BÂTIE-NEUVE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42662,
+    "name": "LA CABUCELLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42663,
+    "name": "LA CALADE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42666,
+    "name": "LA CAPELETTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42670,
+    "name": "LA CELLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42708,
+    "name": "LA CIOTAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42712,
+    "name": "LA COLLE-SUR-LOUP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42713,
+    "name": "LA CONCEPTION",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42721,
+    "name": "LA CRAU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42722,
+    "name": "LA CROIX-ROUGE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42723,
+    "name": "LA CROIX-VALMER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42729,
+    "name": "LA DELORME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42730,
+    "name": "LA DESTROUSSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42732,
+    "name": "LA FARE-LES-OLIVIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42733,
+    "name": "LA FARLÈDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42755,
+    "name": "LA FOURRAGÈRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42761,
+    "name": "LA GARDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42763,
+    "name": "LA GARDE-FREINET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42767,
+    "name": "LA GAUDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42786,
+    "name": "LA JOLIETTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42792,
+    "name": "LA LONDE-LES-MAURES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42807,
+    "name": "LA MILLÈRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42812,
+    "name": "LA MOTTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42826,
+    "name": "LA PAGE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42828,
+    "name": "LA PANOUSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42829,
+    "name": "LA PENNE-SUR-HUVEAUNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42833,
+    "name": "LA POINTE ROUGE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42834,
+    "name": "LA POMME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42857,
+    "name": "LA ROCHE-DES-ARNAUDS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42865,
+    "name": "LA ROQUE-D’ANTHÉRON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42866,
+    "name": "LA ROQUEBRUSSANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42867,
+    "name": "LA ROQUETTE-SUR-SIAGNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42868,
+    "name": "LA ROSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42878,
+    "name": "LA SEYNE-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42888,
+    "name": "LA TIMONE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42898,
+    "name": "LA TRINITÉ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42902,
+    "name": "LA TURBIE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42903,
+    "name": "LA VALBARELLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42904,
+    "name": "LA VALENTINE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42905,
+    "name": "LA VALETTE-DU-VAR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42916,
+    "name": "LA VILLETTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42917,
+    "name": "LA VISTE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42956,
+    "name": "LAGNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42980,
+    "name": "LAMANON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42987,
+    "name": "LAMBESC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43050,
+    "name": "LANTOSQUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43056,
+    "name": "LANÇON-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43059,
+    "name": "LAPALUD",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43065,
+    "name": "LARAGNE-MONTÉGLIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43099,
+    "name": "LAURIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43125,
+    "name": "LE BAR-SUR-LOUP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43128,
+    "name": "LE BEAUSSET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43146,
+    "name": "LE BROC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43147,
+    "name": "LE BRUSQUET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43150,
+    "name": "LE CABOT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43152,
+    "name": "LE CAMAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43153,
+    "name": "LE CANET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43154,
+    "name": "LE CANNET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43155,
+    "name": "LE CANNET-DES-MAURES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43157,
+    "name": "LE CASTELLET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43164,
+    "name": "LE CHAPITRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43212,
+    "name": "LE LAVANDOU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43217,
+    "name": "LE LUC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43225,
+    "name": "LE MERLAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43237,
+    "name": "LE MONÊTIER-LES-BAINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43238,
+    "name": "LE MUY",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43255,
+    "name": "LE PHARO",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43262,
+    "name": "LE PLAN-DE-LA-TOUR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43275,
+    "name": "LE PONTET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43283,
+    "name": "LE PRADET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43286,
+    "name": "LE PUY-SAINTE-RÉPARADE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43292,
+    "name": "LE REDON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43294,
+    "name": "LE REVEST-LES-EAUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43296,
+    "name": "LE ROURET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43297,
+    "name": "LE ROVE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43314,
+    "name": "LE THOLONET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43316,
+    "name": "LE THOR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43317,
+    "name": "LE THORONET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43320,
+    "name": "LE TIGNET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43326,
+    "name": "LE VAL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43356,
+    "name": "LES ACCATES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43364,
+    "name": "LES ARCS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43365,
+    "name": "LES ARNAVAUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43370,
+    "name": "LES AYGALADES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43371,
+    "name": "LES BAUMETTES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43373,
+    "name": "LES CAILLOLS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43374,
+    "name": "LES CAMOINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43376,
+    "name": "LES CHARTREUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43381,
+    "name": "LES CROTTES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43393,
+    "name": "LES GRANDS CARMES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43413,
+    "name": "LES MÉDECINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43414,
+    "name": "LES MÉES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43416,
+    "name": "LES OLIVES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43420,
+    "name": "LES PENNES-MIRABEAU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43431,
+    "name": "LES TROIS-LUCS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43450,
+    "name": "LEVENS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43536,
+    "name": "LODI",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43586,
+    "name": "LORGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43588,
+    "name": "LORIOL-DU-COMTAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43609,
+    "name": "LOURMARIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43639,
+    "name": "LUCÉRAM",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43701,
+    "name": "L’ESCALE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43702,
+    "name": "L’ESCARÈNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43707,
+    "name": "L’ISLE-SUR-LA-SORGUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43733,
+    "name": "MAILLANE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43751,
+    "name": "MALAUCÈNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43754,
+    "name": "MALEMORT-DU-COMTAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43760,
+    "name": "MALIJAI",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43763,
+    "name": "MALLEMOISSON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43764,
+    "name": "MALLEMORT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43765,
+    "name": "MALPASSÉ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43773,
+    "name": "MANDELIEU-LA-NAPOULE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43777,
+    "name": "MANE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43780,
+    "name": "MANOSQUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43838,
+    "name": "MARIGNANE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43883,
+    "name": "MARSEILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43884,
+    "name": "MARSEILLE 01",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43885,
+    "name": "MARSEILLE 02",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43886,
+    "name": "MARSEILLE 03",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43887,
+    "name": "MARSEILLE 04",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43888,
+    "name": "MARSEILLE 05",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43889,
+    "name": "MARSEILLE 06",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43890,
+    "name": "MARSEILLE 07",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43891,
+    "name": "MARSEILLE 08",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43892,
+    "name": "MARSEILLE 09",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43893,
+    "name": "MARSEILLE 10",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43894,
+    "name": "MARSEILLE 11",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43895,
+    "name": "MARSEILLE 12",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43896,
+    "name": "MARSEILLE 13",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43897,
+    "name": "MARSEILLE 14",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43898,
+    "name": "MARSEILLE 15",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43899,
+    "name": "MARSEILLE 16",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43900,
+    "name": "MARSEILLE BOMPARD",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43901,
+    "name": "MARSEILLE ENDOUME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43902,
+    "name": "MARSEILLE PREFECTURE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43903,
+    "name": "MARSEILLE ROUCAS-BLANC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43904,
+    "name": "MARSEILLE SAINT-VICTOR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43905,
+    "name": "MARSEILLE VAUBAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43916,
+    "name": "MARTIGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43959,
+    "name": "MAUSSANE-LES-ALPILLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43972,
+    "name": "MAZAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43973,
+    "name": "MAZARGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44003,
+    "name": "MENPENTI",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44007,
+    "name": "MENTON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44059,
+    "name": "MEYRARGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44060,
+    "name": "MEYREUIL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44079,
+    "name": "MIMET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44087,
+    "name": "MIRAMAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44125,
+    "name": "MOLLÉGÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44139,
+    "name": "MONDRAGON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44186,
+    "name": "MONTAUROUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44229,
+    "name": "MONTEUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44234,
+    "name": "MONTFAVET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44237,
+    "name": "MONTFERRAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44296,
+    "name": "MONTOLIVET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44304,
+    "name": "MONTREDON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44355,
+    "name": "MORIÈRES-LÈS-AVIGNON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44359,
+    "name": "MORMOIRON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44362,
+    "name": "MORNAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44381,
+    "name": "MOUANS-SARTOUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44386,
+    "name": "MOUGINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44400,
+    "name": "MOURET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44401,
+    "name": "MOURIÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44462,
+    "name": "MÉNERBES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44468,
+    "name": "MÉOUNES-LÈS-MONTRIEUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44475,
+    "name": "MÉRINDOL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44504,
+    "name": "NANS-LES-PINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44587,
+    "name": "NICE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44607,
+    "name": "NOAILLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44649,
+    "name": "NOTRE-DAME DU MONT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44648,
+    "name": "NOTRE-DAME LIMITE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44666,
+    "name": "NOVES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44693,
+    "name": "NÉOULES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44735,
+    "name": "OLLIOULES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44747,
+    "name": "OPIO",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44748,
+    "name": "OPPÈDE LE VIEUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44749,
+    "name": "OPÉRA",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44752,
+    "name": "ORAISON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44753,
+    "name": "ORANGE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44764,
+    "name": "ORGON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44831,
+    "name": "PALAIS DE JUSTICE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44834,
+    "name": "PALAMA",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44846,
+    "name": "PARADOU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44882,
+    "name": "PEILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44883,
+    "name": "PEILLON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44885,
+    "name": "PEIPIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44898,
+    "name": "PERNES-LES-FONTAINES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44911,
+    "name": "PERTUIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44923,
+    "name": "PEYMEINADE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44924,
+    "name": "PEYNIER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44925,
+    "name": "PEYPIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44934,
+    "name": "PEYROLLES-EN-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44935,
+    "name": "PEYRUIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44953,
+    "name": "PIERREFEU-DU-VAR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44963,
+    "name": "PIERREVERT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44969,
+    "name": "PIGNANS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44974,
+    "name": "PIOLENC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44996,
+    "name": "PLAN-D'AUPS-SAINTE-BAUME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44997,
+    "name": "PLAN-DE-CUQUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45163,
+    "name": "PONT DE VIVAUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45233,
+    "name": "PORT-DE-BOUC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45229,
+    "name": "PORT-SAINT-LOUIS-DU-RHÔNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45266,
+    "name": "POURRIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45316,
+    "name": "PUGET-SUR-ARGENS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45314,
+    "name": "PUGET-THÉNIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45315,
+    "name": "PUGET-VILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45339,
+    "name": "PUYLOUBIER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45345,
+    "name": "PÉGOMAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45346,
+    "name": "PÉLISSANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45351,
+    "name": "PÉRIER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45421,
+    "name": "RAMATUELLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45449,
+    "name": "REILLANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45509,
+    "name": "RIEZ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45537,
+    "name": "ROBION",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45538,
+    "name": "ROCBARON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45558,
+    "name": "ROGNAC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45559,
+    "name": "ROGNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45560,
+    "name": "ROGNONAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45588,
+    "name": "ROQUEBILLIÈRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45589,
+    "name": "ROQUEBRUNE-CAP-MARTIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45590,
+    "name": "ROQUEBRUNE-SUR-ARGENS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45593,
+    "name": "ROQUEFORT-LA-BÉDOULE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45597,
+    "name": "ROQUEVAIRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45618,
+    "name": "ROUET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45624,
+    "name": "ROUGIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45637,
+    "name": "ROUSSET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45690,
+    "name": "RÉGUSSE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45699,
+    "name": "SABLET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45715,
+    "name": "SAIGNON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45754,
+    "name": "SAINT-ANDIOL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45755,
+    "name": "SAINT-ANDRÉ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45761,
+    "name": "SAINT-ANDRÉ-DE-LA-ROCHE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45770,
+    "name": "SAINT-ANTOINE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45802,
+    "name": "SAINT-BARNABÉ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45805,
+    "name": "SAINT-BARTHÉLÉMY",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45817,
+    "name": "SAINT-BONNET-EN-CHAMPSAUR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45837,
+    "name": "SAINT-CANNAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45845,
+    "name": "SAINT-CHAFFREY",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45846,
+    "name": "SAINT-CHAMAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45849,
+    "name": "SAINT-CHARLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45889,
+    "name": "SAINT-CYR-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45893,
+    "name": "SAINT-CÉZAIRE-SUR-SIAGNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46037,
+    "name": "SAINT-GINIEZ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46047,
+    "name": "SAINT-HENRI",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46082,
+    "name": "SAINT-JEAN DU DÉSERT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46085,
+    "name": "SAINT-JEAN-CAP-FERRAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46122,
+    "name": "SAINT-JEANNET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46127,
+    "name": "SAINT-JOSEPH",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46134,
+    "name": "SAINT-JULIEN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46166,
+    "name": "SAINT-JÉRÔME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46167,
+    "name": "SAINT-LAMBERT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46185,
+    "name": "SAINT-LAURENT-DU-VAR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46191,
+    "name": "SAINT-LAZARE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46196,
+    "name": "SAINT-LOUIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46199,
+    "name": "SAINT-LOUP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46235,
+    "name": "SAINT-MANDRIER-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46239,
+    "name": "SAINT-MARC-JAUMEGARDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46270,
+    "name": "SAINT-MARTIN-DE-CRAU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46276,
+    "name": "SAINT-MARTIN-DE-QUEYRIÈRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46292,
+    "name": "SAINT-MARTIN-DU-VAR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46266,
+    "name": "SAINT-MARTIN-VÉSUBIE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46322,
+    "name": "SAINT-MAURONT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46325,
+    "name": "SAINT-MAXIMIN-LA-SAINTE-BAUME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46329,
+    "name": "SAINT-MENET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46339,
+    "name": "SAINT-MICHEL-L’OBSERVATOIRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46343,
+    "name": "SAINT-MITRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46344,
+    "name": "SAINT-MITRE-LES-REMPARTS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46410,
+    "name": "SAINT-PAUL-DE-VENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46413,
+    "name": "SAINT-PAUL-EN-FORÊT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46428,
+    "name": "SAINT-PIERRE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46494,
+    "name": "SAINT-RAPHAËL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46511,
+    "name": "SAINT-RÉMY-DE-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46522,
+    "name": "SAINT-SATURNIN-LÈS-APT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46523,
+    "name": "SAINT-SATURNIN-LÈS-AVIGNON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46543,
+    "name": "SAINT-SAVOURNIN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46588,
+    "name": "SAINT-TRONC",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46589,
+    "name": "SAINT-TROPEZ",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46600,
+    "name": "SAINT-VALLIER-DE-THIEY",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46610,
+    "name": "SAINT-VICTORET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46634,
+    "name": "SAINT-ZACHARIE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46650,
+    "name": "SAINT-ÉTIENNE-DE-TINÉE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46654,
+    "name": "SAINT-ÉTIENNE-DU-GRÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46661,
+    "name": "SAINTE-AGNÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46662,
+    "name": "SAINTE-ANASTASIE-SUR-ISSOLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46663,
+    "name": "SAINTE-ANNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46675,
+    "name": "SAINTE-CÉCILE-LES-VIGNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46704,
+    "name": "SAINTE-MARGUERITE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46715,
+    "name": "SAINTE-MARTHE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46718,
+    "name": "SAINTE-MAXIME",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46732,
+    "name": "SAINTE-TULLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46735,
+    "name": "SAINTES-MARIES-DE-LA-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46745,
+    "name": "SALERNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46766,
+    "name": "SALON-DE-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46780,
+    "name": "SANARY-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46816,
+    "name": "SARRIANS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46844,
+    "name": "SAULT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46856,
+    "name": "SAUSSET-LES-PINS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46923,
+    "name": "SEILLANS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46951,
+    "name": "SEPTÈMES-LES-VALLONS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46966,
+    "name": "SERRES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46982,
+    "name": "SEYNE-LES-ALPES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46992,
+    "name": "SIGNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47002,
+    "name": "SIMIANE-COLLONGUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47009,
+    "name": "SISTERON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47010,
+    "name": "SIX-FOURS-LES-PLAGES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47030,
+    "name": "SOLLIÈS-PONT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47031,
+    "name": "SOLLIÈS-TOUCAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47032,
+    "name": "SOLLIÈS-VILLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47046,
+    "name": "SORGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47048,
+    "name": "SORMIOU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47052,
+    "name": "SOSPEL",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47095,
+    "name": "SPÉRACÈDES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47139,
+    "name": "SÉNAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47145,
+    "name": "SÉRIGNAN-DU-COMTAT",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47155,
+    "name": "TAILLADES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47164,
+    "name": "TALLARD",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47172,
+    "name": "TANNERON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47174,
+    "name": "TARADEAU",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47176,
+    "name": "TARASCON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47202,
+    "name": "TENDE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47228,
+    "name": "THIERS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47270,
+    "name": "THÉOULE-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47312,
+    "name": "TOULON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47331,
+    "name": "TOURRETTE-LEVENS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47332,
+    "name": "TOURRETTES-SUR-LOUP",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47335,
+    "name": "TOURVES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47348,
+    "name": "TRANS-EN-PROVENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47366,
+    "name": "TRETS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47421,
+    "name": "UCHAUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47451,
+    "name": "VACQUEYRAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47459,
+    "name": "VAISON-LA-ROMAINE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47467,
+    "name": "VALBONNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47476,
+    "name": "VALENSOLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47485,
+    "name": "VALLAURIS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47500,
+    "name": "VALRÉAS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47506,
+    "name": "VAR",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47554,
+    "name": "VEDÈNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47560,
+    "name": "VELAUX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47561,
+    "name": "VELLERON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47564,
+    "name": "VENASQUE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47565,
+    "name": "VENCE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47580,
+    "name": "VENELLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47587,
+    "name": "VENTABREN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47596,
+    "name": "VERDURON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47627,
+    "name": "VERNÈGUES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47652,
+    "name": "VEYNES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47673,
+    "name": "VIDAUBAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47674,
+    "name": "VIEILLE CHAPELLE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47709,
+    "name": "VILLAR-SAINT-PANCRACE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47728,
+    "name": "VILLECROZE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47740,
+    "name": "VILLEFRANCHE-SUR-MER",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47747,
+    "name": "VILLELAURE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47762,
+    "name": "VILLENEUVE-LOUBET",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47814,
+    "name": "VILLES-SUR-AUZON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47849,
+    "name": "VINON-SUR-VERDON",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47854,
+    "name": "VIOLÈS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47869,
+    "name": "VISAN",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47870,
+    "name": "VITROLLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47897,
+    "name": "VOLONNE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47900,
+    "name": "VOLX",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 48035,
+    "name": "ÈZE",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 48061,
+    "name": "ÉGUILLES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 48068,
+    "name": "ÉOURES",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 48117,
+    "name": "ÉVENOS",
+    "state": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "state_iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": 97735,
+    "name": "AZOVO",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97891,
+    "name": "BEREGOVOY",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98005,
+    "name": "BOL’SHERECH’YE",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98162,
+    "name": "CHERLAK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98694,
+    "name": "IRTYSHSKIY",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98779,
+    "name": "KALACHINSK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99145,
+    "name": "KOLOSOVKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99209,
+    "name": "KORMILOVKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99342,
+    "name": "KRASNOYARKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99380,
+    "name": "KRASNYY YAR",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99402,
+    "name": "KRUTAYA GORKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99404,
+    "name": "KRUTINKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99698,
+    "name": "LUZINO",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99717,
+    "name": "LYUBINSKIY",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100014,
+    "name": "MUROMTSEVO",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100016,
+    "name": "MUROMTSEVSKIY RAYON",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100079,
+    "name": "NAZYVAYEVSK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100184,
+    "name": "NIZHNYAYA OMKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100272,
+    "name": "NOVOOMSKIY",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100326,
+    "name": "NOVOVARSHAVKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100397,
+    "name": "ODESSKOYE",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100406,
+    "name": "OKONESHNIKOVO",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100440,
+    "name": "OMSK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100566,
+    "name": "PAVLOGRADKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100759,
+    "name": "POLTAVKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101008,
+    "name": "ROSTOVKA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101029,
+    "name": "RUSSKAYA POLYANA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101117,
+    "name": "SARGATSKOYE",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101147,
+    "name": "SEDEL’NIKOVSKIY RAYON",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101304,
+    "name": "SHERBAKUL’",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101768,
+    "name": "TARA",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101801,
+    "name": "TAVRICHESKOYE",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101845,
+    "name": "TEVRIZ",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101913,
+    "name": "TROITSK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102000,
+    "name": "TYUKALINSK",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102121,
+    "name": "UST’-ISHIM",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102324,
+    "name": "VKHODNOY",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102763,
+    "name": "ZNAMENSKOYE",
+    "state": "OMSK",
+    "state_iso2": "OMS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

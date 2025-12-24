@@ -1,0 +1,272 @@
+[
+  {
+    "id": 2012,
+    "name": "ACRE",
+    "iso2": "AC",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Rio_Branco"
+  },
+  {
+    "id": 2007,
+    "name": "ALAGOAS",
+    "iso2": "AL",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Maceio"
+  },
+  {
+    "id": 1999,
+    "name": "AMAPÁ",
+    "iso2": "AP",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Belem"
+  },
+  {
+    "id": 2004,
+    "name": "AMAZONAS",
+    "iso2": "AM",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Manaus"
+  },
+  {
+    "id": 2002,
+    "name": "BAHIA",
+    "iso2": "BA",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Bahia"
+  },
+  {
+    "id": 2016,
+    "name": "CEARÁ",
+    "iso2": "CE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": 2017,
+    "name": "DISTRITO FEDERAL",
+    "iso2": "DF",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2018,
+    "name": "ESPÍRITO SANTO",
+    "iso2": "ES",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2000,
+    "name": "GOIÁS",
+    "iso2": "GO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2015,
+    "name": "MARANHÃO",
+    "iso2": "MA",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": 2011,
+    "name": "MATO GROSSO",
+    "iso2": "MT",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Cuiaba"
+  },
+  {
+    "id": 2010,
+    "name": "MATO GROSSO DO SUL",
+    "iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Campo_Grande"
+  },
+  {
+    "id": 1998,
+    "name": "MINAS GERAIS",
+    "iso2": "MG",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2022,
+    "name": "PARANÁ",
+    "iso2": "PR",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2005,
+    "name": "PARAÍBA",
+    "iso2": "PB",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": 2009,
+    "name": "PARÁ",
+    "iso2": "PA",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Belem"
+  },
+  {
+    "id": 2006,
+    "name": "PERNAMBUCO",
+    "iso2": "PE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Recife"
+  },
+  {
+    "id": 2008,
+    "name": "PIAUÍ",
+    "iso2": "PI",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": 1997,
+    "name": "RIO DE JANEIRO",
+    "iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2019,
+    "name": "RIO GRANDE DO NORTE",
+    "iso2": "RN",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": 2001,
+    "name": "RIO GRANDE DO SUL",
+    "iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2013,
+    "name": "RONDÔNIA",
+    "iso2": "RO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Porto_Velho"
+  },
+  {
+    "id": 4858,
+    "name": "RORAIMA",
+    "iso2": "RR",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Boa_Vista"
+  },
+  {
+    "id": 2014,
+    "name": "SANTA CATARINA",
+    "iso2": "SC",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2003,
+    "name": "SERGIPE",
+    "iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Maceio"
+  },
+  {
+    "id": 2021,
+    "name": "SÃO PAULO",
+    "iso2": "SP",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 2020,
+    "name": "TOCANTINS",
+    "iso2": "TO",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL",
+    "timezone": "America/Araguaina"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": 97839,
+    "name": "BELAYA",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98147,
+    "name": "CHEREMISINOVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98148,
+    "name": "CHEREMISINOVSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98168,
+    "name": "CHERNITSYNO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98415,
+    "name": "FATEZH",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98416,
+    "name": "FATEZHSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98503,
+    "name": "GLUSHKOVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98565,
+    "name": "GORSHECHENSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98566,
+    "name": "GORSHECHNOYE",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98727,
+    "name": "IVANINO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98903,
+    "name": "KASTORENSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98904,
+    "name": "KASTORNOYE",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99001,
+    "name": "KHOMUTOVKA",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99068,
+    "name": "KIROVSKIY",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99196,
+    "name": "KONYSHEVKA",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99204,
+    "name": "KORENËVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99410,
+    "name": "KSHENSKIY",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99457,
+    "name": "KURCHATOV",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99474,
+    "name": "KURSK",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99476,
+    "name": "KURSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99726,
+    "name": "L’GOVSKIY",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99727,
+    "name": "L’GOVSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99784,
+    "name": "MANTUROVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99846,
+    "name": "MEDVENSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99896,
+    "name": "MIKHAYLOVKA",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100388,
+    "name": "OBOYANSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100389,
+    "name": "OBOYAN’",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100427,
+    "name": "OLYM",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100613,
+    "name": "PERVOAVGUSTOVSKIY",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100770,
+    "name": "PONYRI VTORYYE",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100840,
+    "name": "PRISTENSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100841,
+    "name": "PRISTEN’",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100875,
+    "name": "PRYAMITSYNO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101055,
+    "name": "RYL’SK",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101278,
+    "name": "SHCHIGRY",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101461,
+    "name": "SOLNTSEVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101462,
+    "name": "SOLNTSEVSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101515,
+    "name": "SOVETSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101647,
+    "name": "SUDZHA",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101857,
+    "name": "TIM",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102383,
+    "name": "VOROSHNËVO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102720,
+    "name": "ZHELEZNOGORSK",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102765,
+    "name": "ZOLOTUKHINO",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102766,
+    "name": "ZOLOTUKHINSKIY RAYON",
+    "state": "KURSK",
+    "state_iso2": "KRS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

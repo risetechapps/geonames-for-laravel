@@ -1,0 +1,942 @@
+[
+  {
+    "id": 10257,
+    "name": "ANGRA DOS REIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10291,
+    "name": "APERIBÉ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10356,
+    "name": "ARARUAMA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10381,
+    "name": "AREAL",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10402,
+    "name": "ARMAÇÃO DOS BÚZIOS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10408,
+    "name": "ARRAIAL DO CABO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10540,
+    "name": "BARRA DO PIRAÍ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10520,
+    "name": "BARRA MANSA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10602,
+    "name": "BELFORD ROXO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10694,
+    "name": "BOM JARDIM",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10711,
+    "name": "BOM JESUS DO ITABAPOANA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10853,
+    "name": "CABO FRIO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10875,
+    "name": "CACHOEIRAS DE MACACU",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10948,
+    "name": "CAMBUCI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11019,
+    "name": "CAMPOS DOS GOYTACAZES",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11052,
+    "name": "CANTAGALO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11108,
+    "name": "CARAPEBUS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11123,
+    "name": "CARDOSO MOREIRA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11142,
+    "name": "CARMO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11180,
+    "name": "CASIMIRO DE ABREU",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11341,
+    "name": "COMENDADOR LEVY GASPARIAN",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11352,
+    "name": "CONCEIÇÃO DE MACABU",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11399,
+    "name": "CORDEIRO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11664,
+    "name": "DUAS BARRAS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11669,
+    "name": "DUQUE DE CAXIAS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11702,
+    "name": "ENGENHEIRO PAULO DE FRONTIN",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12028,
+    "name": "GUAPIMIRIM",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12195,
+    "name": "IGUABA GRANDE",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12207,
+    "name": "ILHA GRANDE",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12336,
+    "name": "ITABORAÍ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12357,
+    "name": "ITAGUAÍ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12374,
+    "name": "ITALVA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12397,
+    "name": "ITAOCARA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12410,
+    "name": "ITAPERUNA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12454,
+    "name": "ITATIAIA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12569,
+    "name": "JAPERI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12774,
+    "name": "LAJE DO MURIAÉ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12892,
+    "name": "MACAÉ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12903,
+    "name": "MACUCO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12914,
+    "name": "MAGÉ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12947,
+    "name": "MANGARATIBA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13012,
+    "name": "MARICÁ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13097,
+    "name": "MENDES",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13104,
+    "name": "MESQUITA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13112,
+    "name": "MIGUEL PEREIRA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13132,
+    "name": "MIRACEMA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13301,
+    "name": "NATIVIDADE",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13325,
+    "name": "NILÓPOLIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13331,
+    "name": "NITERÓI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13380,
+    "name": "NOVA FRIBURGO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13389,
+    "name": "NOVA IGUAÇU",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13623,
+    "name": "PARACAMBI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13654,
+    "name": "PARATY",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13658,
+    "name": "PARAÍBA DO SUL",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13713,
+    "name": "PATY DO ALFERES",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13821,
+    "name": "PETRÓPOLIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13866,
+    "name": "PINHEIRAL",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13910,
+    "name": "PIRAÍ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13984,
+    "name": "PORCIÚNCULA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14013,
+    "name": "PORTO REAL",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14131,
+    "name": "QUATIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14141,
+    "name": "QUEIMADOS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14155,
+    "name": "QUISSAMÃ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14197,
+    "name": "RESENDE",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14261,
+    "name": "RIO BONITO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14270,
+    "name": "RIO CLARO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14305,
+    "name": "RIO DAS FLORES",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14306,
+    "name": "RIO DAS OSTRAS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14309,
+    "name": "RIO DE JANEIRO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14504,
+    "name": "SANTA MARIA MADALENA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14620,
+    "name": "SANTO ANTÔNIO DE PÁDUA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14662,
+    "name": "SAPUCAIA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14666,
+    "name": "SAQUAREMA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14720,
+    "name": "SEROPÉDICA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14775,
+    "name": "SILVA JARDIM",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14824,
+    "name": "SUMIDOURO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14878,
+    "name": "SÃO FIDÉLIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14886,
+    "name": "SÃO FRANCISCO DE ITABAPOANA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14916,
+    "name": "SÃO GONÇALO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14958,
+    "name": "SÃO JOSÉ DE UBÁ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14989,
+    "name": "SÃO JOSÉ DO VALE DO RIO PRETO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15006,
+    "name": "SÃO JOÃO DA BARRA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15021,
+    "name": "SÃO JOÃO DE MERITI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15105,
+    "name": "SÃO PEDRO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15108,
+    "name": "SÃO PEDRO DA ALDEIA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15143,
+    "name": "SÃO SEBASTIÃO DO ALTO",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15218,
+    "name": "TANGUÁ",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15286,
+    "name": "TERESÓPOLIS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15350,
+    "name": "TRAJANO DE MORAES",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15383,
+    "name": "TRÊS RIOS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15500,
+    "name": "VALENÇA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15521,
+    "name": "VARRE-SAI",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15524,
+    "name": "VASSOURAS",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15610,
+    "name": "VOLTA REDONDA",
+    "state": "RIO DE JANEIRO",
+    "state_iso2": "RJ",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

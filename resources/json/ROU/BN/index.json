@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 89899,
+    "name": "AGRIEȘ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89961,
+    "name": "ANIEȘ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90080,
+    "name": "BECLEAN",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90129,
+    "name": "BICHIGIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90147,
+    "name": "BISTRIŢA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90148,
+    "name": "BISTRIŢA BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90268,
+    "name": "BRANIŞTEA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90284,
+    "name": "BREAZA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90376,
+    "name": "BUDACU DE JOS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90377,
+    "name": "BUDACU DE SUS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90383,
+    "name": "BUDEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90671,
+    "name": "CHIOCHIŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90686,
+    "name": "CHIUZA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90695,
+    "name": "CICEU-GIURGEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90696,
+    "name": "CICEU-MIHĂIEȘTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90735,
+    "name": "CIREȘOAIA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90777,
+    "name": "COCIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90998,
+    "name": "COMUNA BISTRIŢA BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91077,
+    "name": "COMUNA BRANIŞTEA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91143,
+    "name": "COMUNA BUDACU DE JOS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91146,
+    "name": "COMUNA BUDEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91317,
+    "name": "COMUNA CHIOCHIŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91328,
+    "name": "COMUNA CHIUZA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91331,
+    "name": "COMUNA CICEU-GIURGEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91332,
+    "name": "COMUNA CICEU-MIHĂIEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91472,
+    "name": "COMUNA COŞBUC",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91568,
+    "name": "COMUNA CĂIANU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91722,
+    "name": "COMUNA DUMITRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91724,
+    "name": "COMUNA DUMITRIŢA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91755,
+    "name": "COMUNA FELDRU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91827,
+    "name": "COMUNA GALAŢII BISTRIŢEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92075,
+    "name": "COMUNA ILVA MARE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92076,
+    "name": "COMUNA ILVA MICĂ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92131,
+    "name": "COMUNA JOSENII BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92143,
+    "name": "COMUNA LECHINŢA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92160,
+    "name": "COMUNA LEŞU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92177,
+    "name": "COMUNA LIVEZILE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92204,
+    "name": "COMUNA LUNCA ILVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92247,
+    "name": "COMUNA MATEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92265,
+    "name": "COMUNA MICEŞTII DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92287,
+    "name": "COMUNA MILAS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92330,
+    "name": "COMUNA MONOR",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92391,
+    "name": "COMUNA MĂGURA ILVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92395,
+    "name": "COMUNA MĂIERU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92412,
+    "name": "COMUNA MĂRIŞELU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92436,
+    "name": "COMUNA NEGRILEŞTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92448,
+    "name": "COMUNA NIMIGEA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92458,
+    "name": "COMUNA NUŞENI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92540,
+    "name": "COMUNA PARVA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92568,
+    "name": "COMUNA PETRU RAREŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92686,
+    "name": "COMUNA PRUNDU BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92750,
+    "name": "COMUNA REBRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92752,
+    "name": "COMUNA REBRIŞOARA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92777,
+    "name": "COMUNA RODNA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92784,
+    "name": "COMUNA ROMULI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92854,
+    "name": "COMUNA RĂZBOENI-CETATE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92868,
+    "name": "COMUNA SALVA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92929,
+    "name": "COMUNA SILIVAŞU DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93059,
+    "name": "COMUNA SÂNMIHAIU DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93131,
+    "name": "COMUNA TEACA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93135,
+    "name": "COMUNA TELCIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93152,
+    "name": "COMUNA TIHA BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93227,
+    "name": "COMUNA TÂRLIŞUA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93283,
+    "name": "COMUNA URIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93284,
+    "name": "COMUNA URMENIŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93469,
+    "name": "COMUNA ZAGRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93499,
+    "name": "COMUNA ŞANŢ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93514,
+    "name": "COMUNA ŞIEU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93516,
+    "name": "COMUNA ŞIEU-MĂGHERUŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93517,
+    "name": "COMUNA ŞIEU-ODORHEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93518,
+    "name": "COMUNA ŞIEUŢ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93526,
+    "name": "COMUNA ŞINTEREAG",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93629,
+    "name": "CORMAIA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93688,
+    "name": "COŞBUC",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93721,
+    "name": "CRISTEȘTII CICEULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93827,
+    "name": "CĂIANU MIC",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93957,
+    "name": "DOBRIC",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94097,
+    "name": "DUMITRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94100,
+    "name": "DUMITRIȚA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94153,
+    "name": "FELDRU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94216,
+    "name": "FRUNZI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94273,
+    "name": "GALAŢII BISTRIŢEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94661,
+    "name": "ILVA MARE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94662,
+    "name": "ILVA MICĂ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94749,
+    "name": "JOSENII BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94768,
+    "name": "LECHINŢA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94790,
+    "name": "LEŞU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94825,
+    "name": "LIVEZILE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94865,
+    "name": "LUNCA ILVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94867,
+    "name": "LUNCA LEȘULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94936,
+    "name": "MATEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94966,
+    "name": "MICEŞTII DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94999,
+    "name": "MIJLOCENII BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95000,
+    "name": "MILAŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95069,
+    "name": "MONOR",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95113,
+    "name": "MUNICIPIUL BISTRIŢA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95242,
+    "name": "MĂGURA ILVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95249,
+    "name": "MĂIERU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95277,
+    "name": "MĂRIŞELU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95322,
+    "name": "NEGRILEȘTI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95328,
+    "name": "NEPOS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95345,
+    "name": "NIMIGEA DE JOS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95346,
+    "name": "NIMIGEA DE SUS",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95365,
+    "name": "NUŞENI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95376,
+    "name": "NĂSĂUD",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95401,
+    "name": "OCNIȚA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95460,
+    "name": "ORAŞ BECLEAN",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95554,
+    "name": "ORAŞ NÃSÃUD",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95595,
+    "name": "ORAŞ SÂNGEORZ-BÃI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95715,
+    "name": "PARVA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95754,
+    "name": "PETRIȘ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95874,
+    "name": "POIANA ILVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95967,
+    "name": "PRUNDU BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96064,
+    "name": "REBRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96066,
+    "name": "REBRIŞOARA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96088,
+    "name": "RETEAG",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96099,
+    "name": "RODNA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96108,
+    "name": "ROMULI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96155,
+    "name": "RUNCU SALVEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96237,
+    "name": "SALVA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96338,
+    "name": "SILIVAȘU DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96415,
+    "name": "SPERMEZEU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96513,
+    "name": "SUSENII BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96529,
+    "name": "SÂNGEORZ-BĂI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96536,
+    "name": "SÂNMIHAIU DE CÂMPIE",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106066,
+    "name": "TEACA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106075,
+    "name": "TELCIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106076,
+    "name": "TELCIȘOR",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106097,
+    "name": "TIHA BÂRGĂULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96560,
+    "name": "TUREAC",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96592,
+    "name": "TÂRLIŞUA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96667,
+    "name": "UNIREA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96678,
+    "name": "URIU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96682,
+    "name": "URMENIŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96712,
+    "name": "VALEA BORCUTULUI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96817,
+    "name": "VIILE TECII",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96825,
+    "name": "VIIȘOARA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96980,
+    "name": "ZAGRA",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97044,
+    "name": "ŞIEU",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97045,
+    "name": "ŞIEU-MĂGHERUŞ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97046,
+    "name": "ŞIEU-ODORHEI",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97047,
+    "name": "ŞIEUŢ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97055,
+    "name": "ŞINTEREAG",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97113,
+    "name": "ȘANȚ",
+    "state": "BISTRIȚA-NĂSĂUD",
+    "state_iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

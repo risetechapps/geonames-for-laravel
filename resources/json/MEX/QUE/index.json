@@ -1,0 +1,2022 @@
+[
+  {
+    "id": 68103,
+    "name": "AGUA AZUL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68112,
+    "name": "AGUA FRÍA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68118,
+    "name": "AGUA ZARCA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68138,
+    "name": "AHUACATLÁN DE GUADALUPE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68166,
+    "name": "AJUCHITLANCITO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68167,
+    "name": "AJUCHITLÁN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68189,
+    "name": "ALFAJAYUCAN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68250,
+    "name": "AMAZCALA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68251,
+    "name": "AMEALCO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68294,
+    "name": "APAPÁTARO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68340,
+    "name": "ARCILA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68365,
+    "name": "ARROYO SECO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68428,
+    "name": "ATONGO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68577,
+    "name": "BELLA VISTA DEL RÍO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68610,
+    "name": "BERNAL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68641,
+    "name": "BORDO BLANCO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68646,
+    "name": "BOXASNÍ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68647,
+    "name": "BOYÉ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68648,
+    "name": "BRAVO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68672,
+    "name": "BUENAVISTA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68716,
+    "name": "CADEREYTA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68727,
+    "name": "CALAMANDA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68817,
+    "name": "CARBONERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68848,
+    "name": "CASA BLANCA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68890,
+    "name": "CEJA DE BRAVO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68937,
+    "name": "CERRO DE LA CRUZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68926,
+    "name": "CERRO GORDO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68995,
+    "name": "CHARCO BLANCO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69028,
+    "name": "CHICHIMEQUILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69258,
+    "name": "COLINAS DE SANTA CRUZ SEGUNDA SECCIÓN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69403,
+    "name": "COLONIA LOS ÁNGELES",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69414,
+    "name": "COLÓN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69446,
+    "name": "CONCÁ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69524,
+    "name": "COYOTILLOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69703,
+    "name": "DOLORES CUADRILLA DE ENMEDIO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69847,
+    "name": "EL BLANCO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69873,
+    "name": "EL CARMEN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69889,
+    "name": "EL CAZADERO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69905,
+    "name": "EL CIERVO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69912,
+    "name": "EL COLORADO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69931,
+    "name": "EL COTO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69976,
+    "name": "EL GALLO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69999,
+    "name": "EL JARAL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70002,
+    "name": "EL JAZMÍN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70026,
+    "name": "EL LOBO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70037,
+    "name": "EL MILAGRO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70052,
+    "name": "EL NABO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70073,
+    "name": "EL ORGANAL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70078,
+    "name": "EL PALMAR",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70089,
+    "name": "EL PARAÍSO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70105,
+    "name": "EL PINTO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70129,
+    "name": "EL POZO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70136,
+    "name": "EL PUEBLITO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70159,
+    "name": "EL RINCÓN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70177,
+    "name": "EL ROSARIO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70187,
+    "name": "EL SALITRE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70204,
+    "name": "EL SAÚZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70215,
+    "name": "EL TEJOCOTE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70250,
+    "name": "EL VEGIL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70311,
+    "name": "EPIGMENIO GONZÁLEZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70319,
+    "name": "ESCOLASTICAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70328,
+    "name": "ESPERANZA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70391,
+    "name": "EZEQUIEL MONTES",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70497,
+    "name": "FUENTEZUELAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70514,
+    "name": "GALERAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70515,
+    "name": "GALINDO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70541,
+    "name": "GENERAL LÁZARO CÁRDENAS (EL COLORADO)",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70591,
+    "name": "GUADALUPE SEPTIÉN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70660,
+    "name": "HACIENDA LA CRUZ [FRACCIONAMIENTO]",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70697,
+    "name": "HIGUERILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70796,
+    "name": "HUIMILPAN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70844,
+    "name": "IGNACIO PÉREZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70979,
+    "name": "JALPAN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71031,
+    "name": "JESÚS MARÍA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71063,
+    "name": "JOAQUÍN HERRERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71068,
+    "name": "JOFRITO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71142,
+    "name": "JURIQUILLA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71182,
+    "name": "LA BARRETA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71206,
+    "name": "LA CAÑADA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71211,
+    "name": "LA CEJA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71257,
+    "name": "LA D",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71279,
+    "name": "LA ESTACADA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71281,
+    "name": "LA ESTANCIA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71296,
+    "name": "LA FUENTE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71306,
+    "name": "LA GOTERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71308,
+    "name": "LA GRIEGA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71349,
+    "name": "LA LAJA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71360,
+    "name": "LA LIRA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71361,
+    "name": "LA LLAVE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71366,
+    "name": "LA LOMA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71377,
+    "name": "LA LUZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71403,
+    "name": "LA MONJA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71404,
+    "name": "LA NEGRETA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71406,
+    "name": "LA NORIA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71420,
+    "name": "LA PALMA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71446,
+    "name": "LA PIEDAD",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71456,
+    "name": "LA PRADERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71489,
+    "name": "LA SOLANA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71495,
+    "name": "LA SOLEDAD",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71506,
+    "name": "LA TORTUGA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71508,
+    "name": "LA TRINIDAD",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71526,
+    "name": "LA VALLA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71530,
+    "name": "LA VERSOLILLA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71556,
+    "name": "LAGUNA DE VAQUERÍAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71564,
+    "name": "LAGUNILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71568,
+    "name": "LANDA DE MATAMOROS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71608,
+    "name": "LAS LAJITAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71641,
+    "name": "LAS TAPONAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71722,
+    "name": "LOMA LINDA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71778,
+    "name": "LOS BAÑOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71779,
+    "name": "LOS BENITOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71788,
+    "name": "LOS CERRITOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71795,
+    "name": "LOS CUES",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71825,
+    "name": "LOS OLVERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71835,
+    "name": "LOS POCITOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71875,
+    "name": "LOURDES",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72084,
+    "name": "MESILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72190,
+    "name": "MOMPANÍ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72216,
+    "name": "MONTENEGRO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72333,
+    "name": "NINGUNO [CERESO]",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72351,
+    "name": "NORIA NUEVA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72488,
+    "name": "OJO DE AGUA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72595,
+    "name": "PALMILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72605,
+    "name": "PALO ALTO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72673,
+    "name": "PASEOS DEL MARQUÉS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72674,
+    "name": "PASEOS DEL PEDREGAL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72688,
+    "name": "PASO DE MATA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72711,
+    "name": "PATRIA NUEVA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72725,
+    "name": "PEDRO ESCOBEDO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72752,
+    "name": "PEÑAMILLER",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72763,
+    "name": "PIE DE GALLO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72778,
+    "name": "PINAL DE AMOLES",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72783,
+    "name": "PINTILLO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72888,
+    "name": "PRESA DE RAYAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72962,
+    "name": "PUERTA DE PALMILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72975,
+    "name": "PUERTO DE AGUIRRE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72977,
+    "name": "PUERTO DE CARROZA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72978,
+    "name": "PUERTO DE CHIQUIHUITE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72979,
+    "name": "PUERTO DE NIETO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72995,
+    "name": "PURÍSIMA DE ARISTA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72998,
+    "name": "PURÍSIMA DE CUBOS (LA PURÍSIMA)",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73025,
+    "name": "QUERÉTARO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73058,
+    "name": "RANCHO BELLAVISTA [FRACCIONAMIENTO]",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73211,
+    "name": "SALDARRIAGA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73367,
+    "name": "SAN ANTONIO DE LA CAL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73468,
+    "name": "SAN CLEMENTE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73615,
+    "name": "SAN FRANCISCO DE LA PALMA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73659,
+    "name": "SAN ILDEFONSO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73661,
+    "name": "SAN ILDEFONSO TULTEPEC",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73677,
+    "name": "SAN ISIDRO BUENAVISTA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73680,
+    "name": "SAN ISIDRO MIRANDA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73696,
+    "name": "SAN JAVIER",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73736,
+    "name": "SAN JOSE DE LOS OLVERA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73751,
+    "name": "SAN JOSÉ BUENAVISTA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73830,
+    "name": "SAN JOSÉ DE LA LAJA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73836,
+    "name": "SAN JOSÉ DEL JAGÜEY",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73847,
+    "name": "SAN JOSÉ EL ALTO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73768,
+    "name": "SAN JOSÉ ITHO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73791,
+    "name": "SAN JOSÉ TEPUZAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73976,
+    "name": "SAN JUAN DEL RÍO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74084,
+    "name": "SAN MARTÍN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74097,
+    "name": "SAN MARTÍN FLORIDA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74161,
+    "name": "SAN MIGUEL AMAZCALA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74243,
+    "name": "SAN MIGUELITO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74248,
+    "name": "SAN NICOLÁS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74271,
+    "name": "SAN NICOLÁS DE LA TORRE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74302,
+    "name": "SAN PABLO TOLIMÁN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74309,
+    "name": "SAN PEDRO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74357,
+    "name": "SAN PEDRO MÁRTIR",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74426,
+    "name": "SAN RAFAEL",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74477,
+    "name": "SAN SEBASTIÁN DE LAS BARRANCAS SUR",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74509,
+    "name": "SAN VICENTE EL ALTO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74500,
+    "name": "SAN VICENTE FERRER",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74568,
+    "name": "SANTA BÁRBARA DE LA CUEVA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74578,
+    "name": "SANTA CATARINA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74610,
+    "name": "SANTA CRUZ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74623,
+    "name": "SANTA CRUZ ESCANDÓN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74721,
+    "name": "SANTA MARÍA BEGOÑA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74755,
+    "name": "SANTA MARÍA MAGDALENA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74824,
+    "name": "SANTA MATILDE",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74848,
+    "name": "SANTA ROSA DE LIMA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74843,
+    "name": "SANTA ROSA JAUREGUI",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74847,
+    "name": "SANTA ROSA XAJAY",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74985,
+    "name": "SANTIAGO DE QUERÉTARO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74923,
+    "name": "SANTIAGO MEXQUITITLÁN BARRIO 4TO.",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74992,
+    "name": "SANTILLÁN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75062,
+    "name": "SERGIO VILLASEÑOR",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75463,
+    "name": "TEQUISQUIAPAN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75543,
+    "name": "TIERRA BLANCA",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75614,
+    "name": "TLACOTE EL BAJO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75721,
+    "name": "TOLIMÁN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75889,
+    "name": "URECHO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75951,
+    "name": "VENCEREMOS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75968,
+    "name": "VIBORILLAS",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76006,
+    "name": "VILLA GUERRERO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76041,
+    "name": "VILLA PROGRESO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76086,
+    "name": "VILLAS FUNDADORES [FRACCIONAMIENTO]",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76096,
+    "name": "VISTA HERMOSA (CUASINADA)",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76098,
+    "name": "VISTHÁ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76102,
+    "name": "VIZARRÓN",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76245,
+    "name": "YOSPHÍ",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76296,
+    "name": "ZAMORANO",
+    "state": "QUERÉTARO",
+    "state_iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

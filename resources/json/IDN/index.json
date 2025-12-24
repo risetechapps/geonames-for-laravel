@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1822,
+    "name": "ACEH",
+    "iso2": "AC",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1826,
+    "name": "BALI",
+    "iso2": "BA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Makassar"
+  },
+  {
+    "id": 1810,
+    "name": "BANTEN",
+    "iso2": "BT",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1793,
+    "name": "BENGKULU",
+    "iso2": "BE",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1829,
+    "name": "DI YOGYAKARTA",
+    "iso2": "YO",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1805,
+    "name": "DKI JAKARTA",
+    "iso2": "JK",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1812,
+    "name": "GORONTALO",
+    "iso2": "GO",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Makassar"
+  },
+  {
+    "id": 1815,
+    "name": "JAMBI",
+    "iso2": "JA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5618,
+    "name": "JAWA",
+    "iso2": "JW",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1825,
+    "name": "JAWA BARAT",
+    "iso2": "JB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1802,
+    "name": "JAWA TENGAH",
+    "iso2": "JT",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1827,
+    "name": "JAWA TIMUR",
+    "iso2": "JI",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5619,
+    "name": "KALIMANTAN",
+    "iso2": "KA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1806,
+    "name": "KALIMANTAN BARAT",
+    "iso2": "KB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1819,
+    "name": "KALIMANTAN SELATAN",
+    "iso2": "KS",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1794,
+    "name": "KALIMANTAN TENGAH",
+    "iso2": "KT",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1804,
+    "name": "KALIMANTAN TIMUR",
+    "iso2": "KI",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1824,
+    "name": "KALIMANTAN UTARA",
+    "iso2": "KU",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1820,
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "iso2": "BB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1807,
+    "name": "KEPULAUAN RIAU",
+    "iso2": "KR",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1811,
+    "name": "LAMPUNG",
+    "iso2": "LA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1800,
+    "name": "MALUKU",
+    "iso2": "MA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jayapura"
+  },
+  {
+    "id": 5620,
+    "name": "MALUKU",
+    "iso2": "ML",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jayapura"
+  },
+  {
+    "id": 1801,
+    "name": "MALUKU UTARA",
+    "iso2": "MU",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5621,
+    "name": "NUSA TENGGARA",
+    "iso2": "NU",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1814,
+    "name": "NUSA TENGGARA BARAT",
+    "iso2": "NB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1818,
+    "name": "NUSA TENGGARA TIMUR",
+    "iso2": "NT",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1798,
+    "name": "PAPUA",
+    "iso2": "PA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jayapura"
+  },
+  {
+    "id": 5622,
+    "name": "PAPUA",
+    "iso2": "PP",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jayapura"
+  },
+  {
+    "id": 1799,
+    "name": "PAPUA BARAT",
+    "iso2": "PB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5238,
+    "name": "PAPUA BARAT DAYA",
+    "iso2": "PD",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5236,
+    "name": "PAPUA PEGUNUNGAN",
+    "iso2": "PE",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5237,
+    "name": "PAPUA SELATAN",
+    "iso2": "PS",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5235,
+    "name": "PAPUA TENGAH",
+    "iso2": "PT",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1809,
+    "name": "RIAU",
+    "iso2": "RI",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5623,
+    "name": "SULAWESI",
+    "iso2": "SL",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Makassar"
+  },
+  {
+    "id": 1817,
+    "name": "SULAWESI BARAT",
+    "iso2": "SR",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1795,
+    "name": "SULAWESI SELATAN",
+    "iso2": "SN",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1813,
+    "name": "SULAWESI TENGAH",
+    "iso2": "ST",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1796,
+    "name": "SULAWESI TENGGARA",
+    "iso2": "SG",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1808,
+    "name": "SULAWESI UTARA",
+    "iso2": "SA",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 5624,
+    "name": "SUMATERA",
+    "iso2": "SM",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1828,
+    "name": "SUMATERA BARAT",
+    "iso2": "SB",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1816,
+    "name": "SUMATERA SELATAN",
+    "iso2": "SS",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "id": 1792,
+    "name": "SUMATERA UTARA",
+    "iso2": "SU",
+    "country": "INDONESIA",
+    "country_iso2": "ID",
+    "country_iso3": "IDN",
+    "country_native": "INDONESIA",
+    "timezone": "Asia/Jakarta"
+  }
+]

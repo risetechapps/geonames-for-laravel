@@ -1,0 +1,362 @@
+[
+  {
+    "id": 98259,
+    "name": "DEMIDOV",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98269,
+    "name": "DESNOGORSK",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98319,
+    "name": "DOROGOBUZH",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98351,
+    "name": "DUKHOVSHCHINA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98446,
+    "name": "GAGARIN",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98499,
+    "name": "GLINKA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98511,
+    "name": "GOLYNKI",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98874,
+    "name": "KARDYMOVO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98910,
+    "name": "KATYN'",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98983,
+    "name": "KHISLAVICHI",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98993,
+    "name": "KHOLM-ZHIRKOVSKIY",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99956,
+    "name": "MONASTYRSHCHINA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100239,
+    "name": "NOVODUGINO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100494,
+    "name": "OSTER",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100523,
+    "name": "OZËRNYY",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100586,
+    "name": "PECHERSK",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100710,
+    "name": "POCHINOK",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101001,
+    "name": "ROSLAVL’",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101025,
+    "name": "RUDNYA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101070,
+    "name": "SAFONOVO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101071,
+    "name": "SAFONOVSKIY RAYON",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101267,
+    "name": "SHATALOVO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101352,
+    "name": "SHUMYACHI",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101415,
+    "name": "SMOLENSK",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101620,
+    "name": "STODOLISHCHE",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101721,
+    "name": "SYCHËVKA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101747,
+    "name": "TALASHKINO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102008,
+    "name": "TËMKINO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102040,
+    "name": "UGRA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102220,
+    "name": "VELIZH",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102238,
+    "name": "VERKHNEDNEPROVSKIY",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102424,
+    "name": "VYAZ’MA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102505,
+    "name": "YARTSEVO",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102531,
+    "name": "YEKIMOVICHI",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102551,
+    "name": "YEL’NYA",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102571,
+    "name": "YERSHICHI",
+    "state": "SMOLENSK",
+    "state_iso2": "SMO",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

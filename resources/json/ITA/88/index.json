@@ -1,0 +1,4022 @@
+[
+  {
+    "id": 135239,
+    "name": "ABBASANTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135299,
+    "name": "AGGIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135305,
+    "name": "AGLIENTU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135323,
+    "name": "AIDOMAGGIORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135348,
+    "name": "ALBAGIARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135393,
+    "name": "ALES",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135404,
+    "name": "ALGHERO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135414,
+    "name": "ALLAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135453,
+    "name": "ALÀ DEI SARDI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135494,
+    "name": "ANELA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135553,
+    "name": "ARBATAX",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135556,
+    "name": "ARBOREA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135558,
+    "name": "ARBUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135576,
+    "name": "ARDARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135577,
+    "name": "ARDAULI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135607,
+    "name": "ARITZO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135617,
+    "name": "ARMUNGIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135646,
+    "name": "ARZACHENA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135648,
+    "name": "ARZANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135665,
+    "name": "ASSEMINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135668,
+    "name": "ASSOLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135671,
+    "name": "ASUNI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135683,
+    "name": "ATZARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135695,
+    "name": "AUSTIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135730,
+    "name": "BACU ABIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135733,
+    "name": "BADESI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135790,
+    "name": "BALLAO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135800,
+    "name": "BANARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135801,
+    "name": "BANCALI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135808,
+    "name": "BARADILI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135815,
+    "name": "BARATILI SAN PIETRO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135846,
+    "name": "BARESSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135854,
+    "name": "BARI SARDO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135869,
+    "name": "BARRALI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135872,
+    "name": "BARUMINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135912,
+    "name": "BAULADU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135913,
+    "name": "BAUNEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135969,
+    "name": "BELVÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135974,
+    "name": "BENETUTTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 135982,
+    "name": "BERCHIDDA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136017,
+    "name": "BESSUDE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136045,
+    "name": "BIDONÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136057,
+    "name": "BIRORI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136070,
+    "name": "BITTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136112,
+    "name": "BOLOTANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136123,
+    "name": "BONARCADO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136140,
+    "name": "BONNANARO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136141,
+    "name": "BONO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136142,
+    "name": "BONORVA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136225,
+    "name": "BORONEDDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136226,
+    "name": "BORORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136230,
+    "name": "BORTIGALI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136231,
+    "name": "BORTIGIADAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136233,
+    "name": "BORUTTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136236,
+    "name": "BOSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136262,
+    "name": "BOTTIDDA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136390,
+    "name": "BUDDUSÒ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136392,
+    "name": "BUDONI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136395,
+    "name": "BUGGERRU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136403,
+    "name": "BULTEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136404,
+    "name": "BULZI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136411,
+    "name": "BURCEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136413,
+    "name": "BURGOS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136417,
+    "name": "BUSACHI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136450,
+    "name": "CABRAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136468,
+    "name": "CAGLIARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136485,
+    "name": "CALA GONONE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136490,
+    "name": "CALANGIANUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136495,
+    "name": "CALASETTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136788,
+    "name": "CAPOTERRA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136852,
+    "name": "CARBONIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136859,
+    "name": "CARDEDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136873,
+    "name": "CARGEGHE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 136888,
+    "name": "CARLOFORTE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137314,
+    "name": "CASTELSARDO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137335,
+    "name": "CASTIADAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137637,
+    "name": "CHEREMULE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137649,
+    "name": "CHIARAMONTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137827,
+    "name": "CODARUINA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137838,
+    "name": "CODRONGIANOS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 137903,
+    "name": "COLLINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138070,
+    "name": "CORTOGHIANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138089,
+    "name": "COSSOINE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138185,
+    "name": "CUGLIERI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138199,
+    "name": "CURCURIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138236,
+    "name": "DECIMOMANNU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138237,
+    "name": "DECIMOPUTZU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138258,
+    "name": "DESULO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138283,
+    "name": "DOLIANOVA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138293,
+    "name": "DOMUS DE MARIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138294,
+    "name": "DOMUSNOVAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138299,
+    "name": "DONIGALA FENUGHEDDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138304,
+    "name": "DONORÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138306,
+    "name": "DORGALI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138336,
+    "name": "DUALCHI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138352,
+    "name": "ELINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138354,
+    "name": "ELMAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138377,
+    "name": "ERULA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138380,
+    "name": "ESCALAPLANO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138381,
+    "name": "ESCOLCA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138385,
+    "name": "ESPORLATU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138387,
+    "name": "ESTERZILI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138566,
+    "name": "FLORINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138568,
+    "name": "FLUMINIMAGGIORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138569,
+    "name": "FLUSSIO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138590,
+    "name": "FONNI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138623,
+    "name": "FORDONGIANUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138759,
+    "name": "FURTEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138773,
+    "name": "GADONI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138792,
+    "name": "GAIRO SANT'ELENA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138822,
+    "name": "GALTELLÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138879,
+    "name": "GAVOI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138901,
+    "name": "GENONI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138902,
+    "name": "GENURI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138915,
+    "name": "GERGEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138924,
+    "name": "GESICO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138927,
+    "name": "GESTURI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138934,
+    "name": "GHILARZA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138950,
+    "name": "GIAVE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138954,
+    "name": "GIBA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 138982,
+    "name": "GIRASOLE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139014,
+    "name": "GOLFO ARANCI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139017,
+    "name": "GONI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139018,
+    "name": "GONNESA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139019,
+    "name": "GONNOSCODINA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139020,
+    "name": "GONNOSFANADIGA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139021,
+    "name": "GONNOSNÒ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139022,
+    "name": "GONNOSTRAMATZA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139150,
+    "name": "GUAMAGGIORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139168,
+    "name": "GUASILA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139184,
+    "name": "GUSPINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139191,
+    "name": "IGLESIAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139194,
+    "name": "ILBONO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139196,
+    "name": "ILLORAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139221,
+    "name": "IRGOLI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139234,
+    "name": "ISILI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139269,
+    "name": "ITTIREDDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139270,
+    "name": "ITTIRI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139277,
+    "name": "JERZU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139287,
+    "name": "LA CALETTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139293,
+    "name": "LA MADDALENA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139316,
+    "name": "LACONI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139319,
+    "name": "LAERRU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139360,
+    "name": "LANUSEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139377,
+    "name": "LAS PLASSAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139438,
+    "name": "LEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139491,
+    "name": "LI PUNTI-SAN GIOVANNI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139564,
+    "name": "LOCERI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139567,
+    "name": "LOCULI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139571,
+    "name": "LODINE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139574,
+    "name": "LODÈ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139577,
+    "name": "LOIRI PORTO SAN PAOLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139618,
+    "name": "LOTZORAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139627,
+    "name": "LU BAGNU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139653,
+    "name": "LULA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139657,
+    "name": "LUNAMATRONA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139663,
+    "name": "LUOGOSANTO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139668,
+    "name": "LURAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139703,
+    "name": "MACOMER",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139740,
+    "name": "MAGOMADAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139781,
+    "name": "MAMOIADA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139784,
+    "name": "MANDAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139817,
+    "name": "MARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139818,
+    "name": "MARACALAGONIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139916,
+    "name": "MARRUBIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139939,
+    "name": "MARTIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139950,
+    "name": "MASAINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 139991,
+    "name": "MASULLAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140013,
+    "name": "MEANA SARDO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140148,
+    "name": "MILIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140191,
+    "name": "MODOLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140200,
+    "name": "MOGORELLA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140201,
+    "name": "MOGORO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140261,
+    "name": "MONASTIR",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140302,
+    "name": "MONSERRATO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140467,
+    "name": "MONTELEONE ROCCA DORIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140553,
+    "name": "MONTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140590,
+    "name": "MONTRESTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140609,
+    "name": "MORES",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140614,
+    "name": "MORGONGIORI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140686,
+    "name": "MURAVERA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140695,
+    "name": "MUROS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140699,
+    "name": "MUSEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140715,
+    "name": "NARBOLIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140716,
+    "name": "NARCAO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140742,
+    "name": "NEONELI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140805,
+    "name": "NORAGUGUME",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140806,
+    "name": "NORBELLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140843,
+    "name": "NUGHEDU SAN NICOLÒ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140844,
+    "name": "NUGHEDU SANTA VITTORIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140845,
+    "name": "NULE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140846,
+    "name": "NULVI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140849,
+    "name": "NUORO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140853,
+    "name": "NURACHI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140854,
+    "name": "NURAGUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140855,
+    "name": "NURALLAO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140856,
+    "name": "NURAMINIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140857,
+    "name": "NURAXINIEDDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140858,
+    "name": "NURECI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140859,
+    "name": "NURRI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140864,
+    "name": "NUXIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140884,
+    "name": "OLBIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140896,
+    "name": "OLIA SPECIOSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140897,
+    "name": "OLIENA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140905,
+    "name": "OLLASTRA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140906,
+    "name": "OLLOLAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140908,
+    "name": "OLMEDO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140916,
+    "name": "OLZAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140921,
+    "name": "ONANÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140924,
+    "name": "ONIFAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140925,
+    "name": "ONIFERI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140937,
+    "name": "ORANI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140950,
+    "name": "ORGOSOLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140960,
+    "name": "ORISTANO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140966,
+    "name": "OROSEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140967,
+    "name": "OROTELLI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140969,
+    "name": "ORROLI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140980,
+    "name": "ORTACESUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140991,
+    "name": "ORTUERI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 140992,
+    "name": "ORUNE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141002,
+    "name": "OSCHIRI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141003,
+    "name": "OSIDDA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141006,
+    "name": "OSILO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141008,
+    "name": "OSINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141026,
+    "name": "OSSI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141047,
+    "name": "OTTANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141049,
+    "name": "OTTAVA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141059,
+    "name": "OVODDA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141062,
+    "name": "OZIERI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141067,
+    "name": "PABILLONIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141086,
+    "name": "PADRIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 141087,
+    "name": "PADRU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58225,
+    "name": "PALAU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58257,
+    "name": "PALMAS ARBOREA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58349,
+    "name": "PATTADA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58352,
+    "name": "PAU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58354,
+    "name": "PAULI ARBAREI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58355,
+    "name": "PAULILATINO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58416,
+    "name": "PERDASDEFOGU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58417,
+    "name": "PERDAXIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58421,
+    "name": "PERFUGAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58669,
+    "name": "PIMENTEL",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58705,
+    "name": "PISCINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58739,
+    "name": "PLOAGHE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58766,
+    "name": "POGGIO DEI PINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58821,
+    "name": "POMPU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58925,
+    "name": "PORTO CERVO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58938,
+    "name": "PORTO TORRES",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58949,
+    "name": "PORTOSCUSO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58952,
+    "name": "POSADA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 58987,
+    "name": "POZZOMAGGIORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59119,
+    "name": "PROVINCIA DI CAGLIARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59153,
+    "name": "PROVINCIA DI NUORO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59154,
+    "name": "PROVINCIA DI ORISTANO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59173,
+    "name": "PROVINCIA DI SASSARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59200,
+    "name": "PULA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59208,
+    "name": "PUTIFIGARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59231,
+    "name": "QUARTU SANT'ELENA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59232,
+    "name": "QUARTUCCIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59392,
+    "name": "RIOLA SARDO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59574,
+    "name": "ROMANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59700,
+    "name": "RUINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59722,
+    "name": "SADALI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59723,
+    "name": "SAGAMA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59799,
+    "name": "SAMASSI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59800,
+    "name": "SAMATZAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59816,
+    "name": "SAMUGHEO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59824,
+    "name": "SAN BASILIO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59930,
+    "name": "SAN GAVINO MONREALE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 59989,
+    "name": "SAN GIOVANNI SUERGIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60135,
+    "name": "SAN NICOLA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60143,
+    "name": "SAN NICOLO'GERREI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60149,
+    "name": "SAN NICOLÒ D'ARCIDANO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60249,
+    "name": "SAN SPERATE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60253,
+    "name": "SAN TEODORO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60264,
+    "name": "SAN VERO MILIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60272,
+    "name": "SAN VITO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60308,
+    "name": "SANLURI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60345,
+    "name": "SANT'ANDREA FRIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60374,
+    "name": "SANT'ANNA ARRESI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60377,
+    "name": "SANT'ANTIOCO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60384,
+    "name": "SANT'ANTONIO DI GALLURA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60439,
+    "name": "SANTA GIUSTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60461,
+    "name": "SANTA MARIA COGHINAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60467,
+    "name": "SANTA MARIA NAVARRESE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60495,
+    "name": "SANTA TERESA GALLURA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60501,
+    "name": "SANTADI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60531,
+    "name": "SANTU LUSSURGIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60543,
+    "name": "SARDARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60557,
+    "name": "SARROCH",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60562,
+    "name": "SARULE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60568,
+    "name": "SASSARI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60624,
+    "name": "SCANO DI MONTIFERRO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60682,
+    "name": "SEDILO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60683,
+    "name": "SEDINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60687,
+    "name": "SEGARIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60693,
+    "name": "SELARGIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60697,
+    "name": "SELEGAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60713,
+    "name": "SEMESTENE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60721,
+    "name": "SENEGHE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60725,
+    "name": "SENIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60729,
+    "name": "SENNARIOLO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60730,
+    "name": "SENNORI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60731,
+    "name": "SENORBÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60736,
+    "name": "SERDIANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60762,
+    "name": "SERRAMANNA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60781,
+    "name": "SERRENTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60782,
+    "name": "SERRI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60805,
+    "name": "SESTU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60814,
+    "name": "SETTIMO SAN PIETRO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60818,
+    "name": "SETZU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60819,
+    "name": "SEUI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60820,
+    "name": "SEULO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60833,
+    "name": "SIAMAGGIORE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60834,
+    "name": "SIAMANNA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60837,
+    "name": "SIAPICCIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60841,
+    "name": "SIDDI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60848,
+    "name": "SILANUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60850,
+    "name": "SILIGO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60851,
+    "name": "SILIQUA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60852,
+    "name": "SILIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60858,
+    "name": "SILÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60859,
+    "name": "SIMALA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60860,
+    "name": "SIMAXIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60864,
+    "name": "SINDIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60865,
+    "name": "SINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60868,
+    "name": "SINISCOLA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60869,
+    "name": "SINNAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60873,
+    "name": "SIRIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60882,
+    "name": "SIURGUS DONIGALA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60895,
+    "name": "SODDÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60901,
+    "name": "SOLANAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60908,
+    "name": "SOLARUSSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60913,
+    "name": "SOLEMINIS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60955,
+    "name": "SORGONO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60965,
+    "name": "SORRADILE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 60967,
+    "name": "SORSO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61077,
+    "name": "STINTINO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61106,
+    "name": "SU PLANU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61112,
+    "name": "SUELLI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61121,
+    "name": "SUNI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61139,
+    "name": "TADASUNI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61153,
+    "name": "TALANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61207,
+    "name": "TELTI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61210,
+    "name": "TEMPIO PAUSANIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61222,
+    "name": "TERGU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61238,
+    "name": "TERRALBA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61254,
+    "name": "TERTENIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61265,
+    "name": "TETI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61268,
+    "name": "TEULADA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61272,
+    "name": "THIESI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61273,
+    "name": "TIANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61279,
+    "name": "TINNURA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61286,
+    "name": "TISSI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61307,
+    "name": "TONARA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61340,
+    "name": "TORPÈ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61342,
+    "name": "TORRALBA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61411,
+    "name": "TORTOLÌ",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61430,
+    "name": "TRAMATZA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61447,
+    "name": "TRATALIAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61498,
+    "name": "TRESNURAGHES",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61523,
+    "name": "TRIEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61530,
+    "name": "TRINITÀ D'AGULTU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61531,
+    "name": "TRINITÀ D'AGULTU E VIGNOLA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61567,
+    "name": "TUILI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61568,
+    "name": "TULA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61576,
+    "name": "TURRI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61593,
+    "name": "ULASSAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61596,
+    "name": "ULÀ TIRSO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61600,
+    "name": "URAS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61607,
+    "name": "URI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61609,
+    "name": "URZULEI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61611,
+    "name": "USELLUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61612,
+    "name": "USINI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61614,
+    "name": "USSANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61615,
+    "name": "USSARAMANNA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61616,
+    "name": "USSASSAI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61620,
+    "name": "UTA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61706,
+    "name": "VALLEDORIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61714,
+    "name": "VALLERMOSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 61929,
+    "name": "VIDDALBA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62020,
+    "name": "VILLA SAN PIETRO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62023,
+    "name": "VILLA SANT'ANTONIO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62029,
+    "name": "VILLA VERDE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62050,
+    "name": "VILLACIDRO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62072,
+    "name": "VILLAGRANDE STRISAILI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62082,
+    "name": "VILLAMAR",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62084,
+    "name": "VILLAMASSARGIA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62101,
+    "name": "VILLANOVA MONTELEONE",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62103,
+    "name": "VILLANOVA TRUSCHEDU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62104,
+    "name": "VILLANOVA TULO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62111,
+    "name": "VILLANOVAFORRU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62112,
+    "name": "VILLANOVAFRANCA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62116,
+    "name": "VILLAPERUCCIO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62120,
+    "name": "VILLAPUTZU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62133,
+    "name": "VILLASALTO",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62136,
+    "name": "VILLASIMIUS",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62138,
+    "name": "VILLASOR",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62139,
+    "name": "VILLASPECIOSA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62144,
+    "name": "VILLAURBANA",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62240,
+    "name": "ZEDDIANI",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  },
+  {
+    "id": 62252,
+    "name": "ZERFALIU",
+    "state": "SARDINIA",
+    "state_iso2": "88",
+    "country": "ITALY",
+    "country_iso2": "IT",
+    "country_iso3": "ITA",
+    "country_native": "ITALIA"
+  }
+]

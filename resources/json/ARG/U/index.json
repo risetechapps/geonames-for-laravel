@@ -1,0 +1,372 @@
+[
+  {
+    "id": 655,
+    "name": "ALTO RÍO SENGUER",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 715,
+    "name": "CAMARONES",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 787,
+    "name": "COMODORO RIVADAVIA",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 839,
+    "name": "DEPARTAMENTO DE BIEDMA",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 873,
+    "name": "DEPARTAMENTO DE CUSHAMEN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 880,
+    "name": "DEPARTAMENTO DE ESCALANTE",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 883,
+    "name": "DEPARTAMENTO DE FLORENTINO AMEGHINO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 885,
+    "name": "DEPARTAMENTO DE FUTALEUFÚ",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 886,
+    "name": "DEPARTAMENTO DE GAIMÁN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 887,
+    "name": "DEPARTAMENTO DE GASTRE",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 923,
+    "name": "DEPARTAMENTO DE LANGUIÑEO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 949,
+    "name": "DEPARTAMENTO DE MÁRTIRES",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 956,
+    "name": "DEPARTAMENTO DE PASO DE INDIOS",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 963,
+    "name": "DEPARTAMENTO DE RAWSON",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 979,
+    "name": "DEPARTAMENTO DE RÍO SENGUERR",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1012,
+    "name": "DEPARTAMENTO DE SARMIENTO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1018,
+    "name": "DEPARTAMENTO DE TEHUELCHES",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1019,
+    "name": "DEPARTAMENTO DE TELSEN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1042,
+    "name": "DOLAVÓN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1058,
+    "name": "EL MAITÉN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1070,
+    "name": "ESQUEL",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1087,
+    "name": "GAIMÁN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1092,
+    "name": "GASTRE",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1115,
+    "name": "GOBERNADOR COSTA",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1141,
+    "name": "HOYO DE EPUYÉN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1169,
+    "name": "JOSÉ DE SAN MARTÍN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1206,
+    "name": "LAGO PUELO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1229,
+    "name": "LAS PLUMAS",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1359,
+    "name": "PUERTO MADRYN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1371,
+    "name": "RADA TILLY",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1374,
+    "name": "RAWSON",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1393,
+    "name": "RÍO MAYO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1394,
+    "name": "RÍO PICO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1477,
+    "name": "SARMIENTO",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1499,
+    "name": "TECKA",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1512,
+    "name": "TRELEW",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1516,
+    "name": "TREVELIN",
+    "state": "CHUBUT",
+    "state_iso2": "U",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": 2251,
+    "name": "ANHUI",
+    "iso2": "AH",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2257,
+    "name": "BEIJING",
+    "iso2": "BJ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2271,
+    "name": "CHONGQING",
+    "iso2": "CQ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2248,
+    "name": "FUJIAN",
+    "iso2": "FJ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2275,
+    "name": "GANSU",
+    "iso2": "GS",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2279,
+    "name": "GUANGDONG",
+    "iso2": "GD",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2278,
+    "name": "GUANGXI",
+    "iso2": "GX",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2261,
+    "name": "GUIZHOU",
+    "iso2": "GZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2273,
+    "name": "HAINAN",
+    "iso2": "HI",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2280,
+    "name": "HEBEI",
+    "iso2": "HE",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2265,
+    "name": "HEILONGJIANG",
+    "iso2": "HL",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2259,
+    "name": "HENAN",
+    "iso2": "HA",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2267,
+    "name": "HONG KONG SAR",
+    "iso2": "HK",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2274,
+    "name": "HUBEI",
+    "iso2": "HB",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2258,
+    "name": "HUNAN",
+    "iso2": "HN",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2269,
+    "name": "INNER MONGOLIA",
+    "iso2": "NM",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2250,
+    "name": "JIANGSU",
+    "iso2": "JS",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2256,
+    "name": "JIANGXI",
+    "iso2": "JX",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2253,
+    "name": "JILIN",
+    "iso2": "JL",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2268,
+    "name": "LIAONING",
+    "iso2": "LN",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2266,
+    "name": "MACAU SAR",
+    "iso2": "MO",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2262,
+    "name": "NINGXIA",
+    "iso2": "NX",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2270,
+    "name": "QINGHAI",
+    "iso2": "QH",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2272,
+    "name": "SHAANXI",
+    "iso2": "SN",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2252,
+    "name": "SHANDONG",
+    "iso2": "SD",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2249,
+    "name": "SHANGHAI",
+    "iso2": "SH",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2254,
+    "name": "SHANXI",
+    "iso2": "SX",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2277,
+    "name": "SICHUAN",
+    "iso2": "SC",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2255,
+    "name": "TAIWAN",
+    "iso2": "TW",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2276,
+    "name": "TIANJIN",
+    "iso2": "TJ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2264,
+    "name": "TIBET",
+    "iso2": "XZ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2263,
+    "name": "XINJIANG",
+    "iso2": "XJ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Urumqi"
+  },
+  {
+    "id": 2260,
+    "name": "YUNNAN",
+    "iso2": "YN",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 2247,
+    "name": "ZHEJIANG",
+    "iso2": "ZJ",
+    "country": "CHINA",
+    "country_iso2": "CN",
+    "country_iso3": "CHN",
+    "country_native": "中国",
+    "timezone": "Asia/Shanghai"
+  }
+]

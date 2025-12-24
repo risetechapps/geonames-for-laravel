@@ -1,0 +1,4332 @@
+[
+  {
+    "id": 68005,
+    "name": "10 DE ABRIL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68026,
+    "name": "ACAHUIZOTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68030,
+    "name": "ACALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68034,
+    "name": "ACAMIXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68037,
+    "name": "ACAPETLAHUAYA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68039,
+    "name": "ACAPULCO DE JUÁREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68040,
+    "name": "ACATEMPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68041,
+    "name": "ACATEMPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68045,
+    "name": "ACATEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68048,
+    "name": "ACATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68077,
+    "name": "ACUITLAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68119,
+    "name": "AGUA ZARCA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68124,
+    "name": "AGUAS BLANCAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68126,
+    "name": "AGUAS CALIENTES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68132,
+    "name": "AHUACACHAHUE (NDOG'YO ITÚN TICHI)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68140,
+    "name": "AHUACUOTZINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68141,
+    "name": "AHUAJUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68146,
+    "name": "AHUATEPEC PUEBLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68152,
+    "name": "AHUEHUEPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68158,
+    "name": "AHUEXOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68160,
+    "name": "AHUIHUIYUCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68168,
+    "name": "AJUCHITLÁN DEL PROGRESO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68180,
+    "name": "ALCHOLOA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68182,
+    "name": "ALCOZACÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68183,
+    "name": "ALCOZAUCA DE GUERRERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68211,
+    "name": "ALMOLONGA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68218,
+    "name": "ALPOYECA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68220,
+    "name": "ALPUYECANCINGO DE LAS MONTAÑAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68240,
+    "name": "AMATILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68263,
+    "name": "AMUCO DE LA REFORMA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68287,
+    "name": "APALANI",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68289,
+    "name": "APANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68291,
+    "name": "APANTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68302,
+    "name": "APAXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68303,
+    "name": "APAXTLA DE CASTREJÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68307,
+    "name": "APIPILULCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68333,
+    "name": "ARATICHANGUÍO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68338,
+    "name": "ARCELIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68339,
+    "name": "ARCELIA DE RODRÍGUEZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68348,
+    "name": "ARENAL DE ÁLVAREZ (ARENAL DE PACO)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68397,
+    "name": "ATENANGO DEL RÍO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68401,
+    "name": "ATENXOXOLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68413,
+    "name": "ATLAMAJAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68414,
+    "name": "ATLAMAJALCINGO DEL RÍO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68421,
+    "name": "ATLIACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68423,
+    "name": "ATLIXTAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68434,
+    "name": "ATOYAC DE ÁLVAREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68437,
+    "name": "ATZACOALOYA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68449,
+    "name": "AXAXACUALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68450,
+    "name": "AXIXINTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68457,
+    "name": "AYAHUALULCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68467,
+    "name": "AYOTZINAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68471,
+    "name": "AYUTLA DE LOS LIBRES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68473,
+    "name": "AZOYÚ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68503,
+    "name": "BAJOS DEL EJIDO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68519,
+    "name": "BARRA DE TECOANAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68528,
+    "name": "BARRIO NUEVO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68529,
+    "name": "BARRIO NUEVO DE LOS MUERTOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68660,
+    "name": "BUENA VISTA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68666,
+    "name": "BUENA VISTA DE LA SALUD",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68679,
+    "name": "BUENAVISTA DE ALLENDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68682,
+    "name": "BUENAVISTA DE CUÉLLAR",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68710,
+    "name": "CACALOTENANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68713,
+    "name": "CACALUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68719,
+    "name": "CAHUATACHE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68722,
+    "name": "CAJELITOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68769,
+    "name": "CAMPANARIO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68843,
+    "name": "CARRIZALILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68869,
+    "name": "CAXITEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68871,
+    "name": "CAYACO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68934,
+    "name": "CERRO DE PIEDRA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68944,
+    "name": "CHACALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68974,
+    "name": "CHANGATA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69000,
+    "name": "CHAUCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69012,
+    "name": "CHIAUCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69026,
+    "name": "CHICHIHUALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69051,
+    "name": "CHIEPETEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69062,
+    "name": "CHILACACHAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69065,
+    "name": "CHILAPA DE ÁLVAREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69072,
+    "name": "CHILPANCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69105,
+    "name": "CHONTALCOATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69143,
+    "name": "CIUDAD ALTAMIRANO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69190,
+    "name": "CIUDAD DE HUITZUCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69204,
+    "name": "COACHIMALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69208,
+    "name": "COACOYULA DE ÁLVAREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69209,
+    "name": "COACOYULICHÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69210,
+    "name": "COACOYULILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69214,
+    "name": "COAHUAYUTLA DE GUERRERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69215,
+    "name": "COAHUAYUTLA DE JOSÉ MARÍA IZAZAGA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69227,
+    "name": "COATEPEC COSTALES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69235,
+    "name": "COCHOAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69236,
+    "name": "COCHOAPA EL GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69244,
+    "name": "COCULA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69263,
+    "name": "COLOMBIA DE GUADALUPE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69273,
+    "name": "COLONIA AEROPUERTO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69278,
+    "name": "COLONIA ALBORADA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69288,
+    "name": "COLONIA CONSTITUCIÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69387,
+    "name": "COLONIA EL PEDREGAL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69324,
+    "name": "COLONIA LUCES EN EL MAR",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69340,
+    "name": "COLONIA NUEVA REVOLUCIÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69355,
+    "name": "COLONIA RENACIMIENTO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69411,
+    "name": "COLOTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69412,
+    "name": "COLOTLIPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69470,
+    "name": "COPALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69471,
+    "name": "COPALILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69472,
+    "name": "COPANATOYAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69484,
+    "name": "CORRAL FALSO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69514,
+    "name": "COYAHUALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69526,
+    "name": "COYUCA DE BENÍTEZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69527,
+    "name": "COYUCA DE CATALÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69528,
+    "name": "COYUQUILLA NORTE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69543,
+    "name": "CRUZ GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69544,
+    "name": "CRUZ QUEMADA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69553,
+    "name": "CUAJINICUILAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69554,
+    "name": "CUALÁC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69557,
+    "name": "CUANACAXTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69571,
+    "name": "CUATZOQUITENGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69577,
+    "name": "CUAUHTENANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69587,
+    "name": "CUAUTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69621,
+    "name": "CUETZALA DEL PROGRESO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69633,
+    "name": "CUMBRE DE BARRANCA HONDA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69641,
+    "name": "CUONETZINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69651,
+    "name": "CUTZAMALA DE PINZÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69654,
+    "name": "CUYUXTLAHUACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69716,
+    "name": "DOS ARROYOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69779,
+    "name": "EJIDO NUEVO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69799,
+    "name": "EJIDO VIEJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69843,
+    "name": "EL BEJUCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69869,
+    "name": "EL CARMEN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69907,
+    "name": "EL COACOYUL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69916,
+    "name": "EL CONCHERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69929,
+    "name": "EL CORTIJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69930,
+    "name": "EL CORTÉS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69947,
+    "name": "EL DURAZNO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69951,
+    "name": "EL EMBARCADERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69956,
+    "name": "EL ESCONDIDO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69964,
+    "name": "EL ESPINALILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69967,
+    "name": "EL FRESNO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70004,
+    "name": "EL JICARAL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70017,
+    "name": "EL LIMÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70034,
+    "name": "EL MESÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70035,
+    "name": "EL METLAPIL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70055,
+    "name": "EL NARANJITO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70071,
+    "name": "EL OCOTITO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70086,
+    "name": "EL PAPAYO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70090,
+    "name": "EL PARAÍSO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70098,
+    "name": "EL PERICÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70107,
+    "name": "EL PITAHAYO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70113,
+    "name": "EL POLVORÍN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70123,
+    "name": "EL POTRERILLO (POTRERILLO DEL RINCÓN)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70153,
+    "name": "EL REFUGIO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70161,
+    "name": "EL RINCÓN (SANTA CRUZ DEL RINCÓN)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70189,
+    "name": "EL SALTO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70210,
+    "name": "EL SÚCHIL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70214,
+    "name": "EL TEJOCOTE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70225,
+    "name": "EL TERRERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70226,
+    "name": "EL TICUI",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70316,
+    "name": "ESCALERILLA LAGUNAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70401,
+    "name": "FERMÍN RABADÁN CERVANTES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70407,
+    "name": "FLORENCIO VILLARREAL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70528,
+    "name": "GENERAL CANUTO A. NERI",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70534,
+    "name": "GENERAL HELIODORO CASTILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70604,
+    "name": "GUADALUPE VICTORIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70625,
+    "name": "GUAYAMEO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70657,
+    "name": "HACIENDA DE CABAÑAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70709,
+    "name": "HORCASITAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70728,
+    "name": "HUAMUCHAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70729,
+    "name": "HUAMUXTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70763,
+    "name": "HUEHUETÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70778,
+    "name": "HUEYCANTENANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70779,
+    "name": "HUEYITLALPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70810,
+    "name": "HUITZILTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70815,
+    "name": "HUITZUCO DE LOS FIGUEROA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70820,
+    "name": "HUIXTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70861,
+    "name": "IGUALA DE LA INDEPENDENCIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70862,
+    "name": "IGUALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70865,
+    "name": "ILIATENCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70897,
+    "name": "IXCAMILPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70900,
+    "name": "IXCAPUZALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70902,
+    "name": "IXCATEOPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70903,
+    "name": "IXCATEOPAN DE CUAUHTÉMOC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70906,
+    "name": "IXCATLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70927,
+    "name": "IXTAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70928,
+    "name": "IXTAPA-ZIHUATANEJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70949,
+    "name": "IZOTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70966,
+    "name": "JALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70971,
+    "name": "JALEACA DE CATALÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71042,
+    "name": "JICAYÁN DE TOVAR",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71073,
+    "name": "JOLOTICHÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71136,
+    "name": "JULIÁN BLANCO (DOS CAMINOS)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71157,
+    "name": "KILÓMETRO 30",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71158,
+    "name": "KILÓMETRO 40",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71179,
+    "name": "LA AZOZUCA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71228,
+    "name": "LA CONCEPCIÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71234,
+    "name": "LA CONCEPCIÓN (LA CONCHA)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71243,
+    "name": "LA CONCORDIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71260,
+    "name": "LA DICHA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71269,
+    "name": "LA ESPERANZA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71280,
+    "name": "LA ESTACIÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71310,
+    "name": "LA GUADALUPE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71378,
+    "name": "LA LUZ DE JUÁREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71400,
+    "name": "LA MOHONERA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71418,
+    "name": "LA PALMA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71492,
+    "name": "LA SOLEDAD",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71522,
+    "name": "LA UNIÓN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71563,
+    "name": "LAGUNILLAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71591,
+    "name": "LAS COMPUERTAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71593,
+    "name": "LAS CRUCES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71613,
+    "name": "LAS LOMAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71622,
+    "name": "LAS MESAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71634,
+    "name": "LAS PLAZUELAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71647,
+    "name": "LAS TUNAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71652,
+    "name": "LAS VIGAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71655,
+    "name": "LAS ÁNIMAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71694,
+    "name": "LLANO DE LA PUERTA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71683,
+    "name": "LLANO GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71706,
+    "name": "LODO GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71746,
+    "name": "LOMAS DE CHAPULTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71749,
+    "name": "LOMAS DE SAN JUAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71764,
+    "name": "LOS ACHOTES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71767,
+    "name": "LOS ALMENDROS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71811,
+    "name": "LOS LIROS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71817,
+    "name": "LOS MOGOTES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71858,
+    "name": "LOS SAUCES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71860,
+    "name": "LOS SAUCITOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71863,
+    "name": "LOS TEPETATES",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71874,
+    "name": "LOS ÓRGANOS DE SAN AGUSTÍN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71946,
+    "name": "MALINALTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71997,
+    "name": "MARQUELIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72027,
+    "name": "MAXELA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72031,
+    "name": "MAYANALÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72046,
+    "name": "MAZATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72071,
+    "name": "MELCHOR OCAMPO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72094,
+    "name": "METLAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72095,
+    "name": "METLATÓNOC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72105,
+    "name": "MEZCALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72173,
+    "name": "MOCHITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72179,
+    "name": "MOHONERAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72211,
+    "name": "MONTECILLOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72227,
+    "name": "MORELITA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72248,
+    "name": "MOYOTEPEC (MOYOTEPEC DE JUÁREZ)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72308,
+    "name": "NEJAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72365,
+    "name": "NUEVA FRONTERA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72379,
+    "name": "NUEVO BALSAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72386,
+    "name": "NUEVO GUERRERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72428,
+    "name": "NUXCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72454,
+    "name": "OCOTEQUILA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72455,
+    "name": "OCOTILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72458,
+    "name": "OCOTLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72500,
+    "name": "OLINALÁ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72506,
+    "name": "OMETEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72555,
+    "name": "OXTOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72558,
+    "name": "OZTOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72577,
+    "name": "PAINTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72596,
+    "name": "PALMILLAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72607,
+    "name": "PALO BLANCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72616,
+    "name": "PALOS BLANCOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72628,
+    "name": "PANTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72629,
+    "name": "PANTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72635,
+    "name": "PAPANOA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72644,
+    "name": "PARAJE MONTERO (PARAJE MONTERO DE ZARAGOZA)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72667,
+    "name": "PASCALA DEL ORO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72686,
+    "name": "PASO DE ARENA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72681,
+    "name": "PASO MORELOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72705,
+    "name": "PATAMBÓ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72708,
+    "name": "PATLICHA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72741,
+    "name": "PETACALCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72743,
+    "name": "PETAQUILLAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72744,
+    "name": "PETATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72775,
+    "name": "PILCAYA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72793,
+    "name": "PLACERES DEL ORO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72806,
+    "name": "PLATANILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72831,
+    "name": "POCHAHUIZCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72832,
+    "name": "POCHOTILLO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72833,
+    "name": "POCHUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72837,
+    "name": "POLOLCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72932,
+    "name": "PUEBLO HIDALGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72934,
+    "name": "PUEBLO MADERO (EL PLAYÓN)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72949,
+    "name": "PUEBLO VIEJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72985,
+    "name": "PUNGARABATO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73019,
+    "name": "QUECHULTENANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73021,
+    "name": "QUERENDAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73028,
+    "name": "QUETZALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73079,
+    "name": "RANCHO DE LAS LOMAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73076,
+    "name": "RANCHO VIEJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73077,
+    "name": "RANCHO VIEJO (RANCHO NUEVO DE LA DEMOCRACIA)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73193,
+    "name": "SABANILLAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73253,
+    "name": "SAN AGUSTÍN OAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73292,
+    "name": "SAN ANDRÉS PLAYA ENCANTADA (EL PODRIDO)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73330,
+    "name": "SAN ANTONIO COYAHUACÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73372,
+    "name": "SAN ANTONIO DE LAS HUERTAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73471,
+    "name": "SAN CRISTÓBAL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73540,
+    "name": "SAN FRANCISCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73584,
+    "name": "SAN FRANCISCO OXTUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73586,
+    "name": "SAN FRANCISCO OZOMATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73639,
+    "name": "SAN GREGORIO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73678,
+    "name": "SAN ISIDRO GALLINERO (EL GALLINERO)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73698,
+    "name": "SAN JERONIMITO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73725,
+    "name": "SAN JERÓNIMO DE JUÁREZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73727,
+    "name": "SAN JERÓNIMO EL GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73771,
+    "name": "SAN JOSÉ IXTAPA (BARRIO VIEJO)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73854,
+    "name": "SAN JOSÉ LA HACIENDA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73781,
+    "name": "SAN JOSÉ POLIUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73960,
+    "name": "SAN JUAN DE DIOS (NARANJAS DE DIOS)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73945,
+    "name": "SAN JUAN TOTOLCINTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73990,
+    "name": "SAN LORENZO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74043,
+    "name": "SAN LUIS ACATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74057,
+    "name": "SAN LUIS DE LA LOMA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74053,
+    "name": "SAN LUIS SAN PEDRO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74063,
+    "name": "SAN MARCOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74085,
+    "name": "SAN MARTÍN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74103,
+    "name": "SAN MARTÍN PACHIVIA (PACHIVIA)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74104,
+    "name": "SAN MARTÍN PERAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74167,
+    "name": "SAN MIGUEL AXOXUCA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74232,
+    "name": "SAN MIGUEL DE LAS PALMAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74239,
+    "name": "SAN MIGUEL EL GRANDE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74201,
+    "name": "SAN MIGUEL TECUICIAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74218,
+    "name": "SAN MIGUEL TOTOLAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74244,
+    "name": "SAN MIGUELITO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74246,
+    "name": "SAN NICOLÁS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74284,
+    "name": "SAN PABLO ATZOMPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74322,
+    "name": "SAN PEDRO CACAHUATEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74332,
+    "name": "SAN PEDRO CUITLAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74341,
+    "name": "SAN PEDRO HUITZAPULA NORTE (HUITZAPULA NORTE)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74417,
+    "name": "SAN PEDRO LAS PLAYAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74429,
+    "name": "SAN RAFAEL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74491,
+    "name": "SAN VICENTE",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74503,
+    "name": "SAN VICENTE PALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74506,
+    "name": "SAN VICENTE ZOYATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74511,
+    "name": "SAN ÁNGEL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74559,
+    "name": "SANTA ANITA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74567,
+    "name": "SANTA BÁRBARA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74575,
+    "name": "SANTA CATARINA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74607,
+    "name": "SANTA CRUZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74646,
+    "name": "SANTA CRUZ YUCUCANI",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74658,
+    "name": "SANTA FE TEPETLAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74703,
+    "name": "SANTA MARÍA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74858,
+    "name": "SANTA TERESA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74958,
+    "name": "SANTIAGO TILAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75087,
+    "name": "SINAHUA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75210,
+    "name": "TANGANHUATO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75246,
+    "name": "TAXCO EL VIEJO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75261,
+    "name": "TECALPULCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75275,
+    "name": "TECOLCUAUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75293,
+    "name": "TECUEXCONTITLÁN (TECOESCONTITLÁN)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75298,
+    "name": "TEHUILOTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75302,
+    "name": "TEHUIXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75320,
+    "name": "TELOLOAPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75364,
+    "name": "TENEXPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75405,
+    "name": "TEPECHICOTLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75407,
+    "name": "TEPECOACUILCO DE TRUJANO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75423,
+    "name": "TEPETIXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75452,
+    "name": "TEPOZCUAUTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75458,
+    "name": "TEQUICUILCO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75487,
+    "name": "TETIPAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75489,
+    "name": "TETITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75500,
+    "name": "TEXCA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75549,
+    "name": "TIERRA COLORADA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75593,
+    "name": "TIXTLA DE GUERRERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75594,
+    "name": "TIXTLANCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75603,
+    "name": "TLACOACHISTLAHUACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75604,
+    "name": "TLACOAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75606,
+    "name": "TLACOAXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75616,
+    "name": "TLACOTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75628,
+    "name": "TLAHUAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75635,
+    "name": "TLALCHAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75638,
+    "name": "TLALCOZOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75641,
+    "name": "TLALIXTAQUILLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75652,
+    "name": "TLALTEMPANAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75660,
+    "name": "TLAMACAZAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75667,
+    "name": "TLAMIXTLAHUACAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75673,
+    "name": "TLANIPATLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75675,
+    "name": "TLAPA DE COMONFORT",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75681,
+    "name": "TLAPEHUALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75683,
+    "name": "TLAQUILTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75689,
+    "name": "TLATLAUQUITEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75691,
+    "name": "TLATZALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75696,
+    "name": "TLAXCALIXTLAHUACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75701,
+    "name": "TLAXINGA (CLATZINGA)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75702,
+    "name": "TLAXMALAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75732,
+    "name": "TONALAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75733,
+    "name": "TONALAPA DEL SUR",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75739,
+    "name": "TONALÁ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75745,
+    "name": "TOPILTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75756,
+    "name": "TOTOMIXTLAHUACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75758,
+    "name": "TOTOTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75776,
+    "name": "TRES PALOS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75800,
+    "name": "TULIMÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75807,
+    "name": "TUNCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75818,
+    "name": "TUTEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75819,
+    "name": "TUXPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75855,
+    "name": "TÉCPAN DE GALEANA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75929,
+    "name": "VALLE DEL RÍO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75916,
+    "name": "VALLE LUZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75931,
+    "name": "VALLECITOS DE ZARAGOZA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76007,
+    "name": "VILLA HERMOSA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76008,
+    "name": "VILLA HERMOSA (LAS POZAS)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76016,
+    "name": "VILLA HIDALGO (EL CUBO)",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76031,
+    "name": "VILLA MADERO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76038,
+    "name": "VILLA NICOLÁS BRAVO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76042,
+    "name": "VILLA ROTARIA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76116,
+    "name": "XALATZALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76117,
+    "name": "XALITLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76120,
+    "name": "XALPATLAHUAC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76124,
+    "name": "XALTIANGUIS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76155,
+    "name": "XOCHAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76162,
+    "name": "XOCHIHUEHUETLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76170,
+    "name": "XOCHIPALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76171,
+    "name": "XOCHISTLAHUACA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76174,
+    "name": "XOCHITEPEC",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76187,
+    "name": "XOCOYOLZINTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76234,
+    "name": "YETLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76236,
+    "name": "YETLANCINGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76237,
+    "name": "YEXTLA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76242,
+    "name": "YOLOXÓCHITL",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76253,
+    "name": "ZACACOYUCA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76267,
+    "name": "ZACAPUATO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76279,
+    "name": "ZACATULA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76281,
+    "name": "ZACOALPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76286,
+    "name": "ZACUALPAN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76310,
+    "name": "ZAPOTITLÁN TABLAS",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76326,
+    "name": "ZELOCOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76335,
+    "name": "ZILACAYOTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76350,
+    "name": "ZIRÁNDARO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76351,
+    "name": "ZIRÁNDARO DE LOS CHÁVEZ",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76352,
+    "name": "ZITLALA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76354,
+    "name": "ZIZICAZAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76366,
+    "name": "ZOQUIAPA",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76372,
+    "name": "ZOQUITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76375,
+    "name": "ZOTOLTITLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76378,
+    "name": "ZOYATLÁN",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76387,
+    "name": "ZUMPANGO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76388,
+    "name": "ZUMPANGO DEL RÍO",
+    "state": "GUERRERO",
+    "state_iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

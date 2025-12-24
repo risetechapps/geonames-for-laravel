@@ -1,0 +1,992 @@
+[
+  {
+    "id": 79047,
+    "name": "ASKVOLL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79048,
+    "name": "ASKØY",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79053,
+    "name": "AURLAND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79056,
+    "name": "AUSTEVOLL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79057,
+    "name": "AUSTRHEIM",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79060,
+    "name": "BALESTRAND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79069,
+    "name": "BERGEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79088,
+    "name": "BREMANGER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79097,
+    "name": "BØMLO",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79098,
+    "name": "DALE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79110,
+    "name": "EID",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79112,
+    "name": "EIDFJORD",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79119,
+    "name": "EIKELANDSOSEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79120,
+    "name": "EIVINDVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79125,
+    "name": "ESPELAND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79126,
+    "name": "ETNE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79133,
+    "name": "FARNES",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79136,
+    "name": "FEDJE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79142,
+    "name": "FITJAR",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79143,
+    "name": "FJALER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79144,
+    "name": "FJELL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79151,
+    "name": "FLORA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79152,
+    "name": "FLORØ",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79160,
+    "name": "FREKHAUG",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79166,
+    "name": "FUSA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79169,
+    "name": "FØRDE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79171,
+    "name": "GAULAR",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79172,
+    "name": "GAUPNE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79183,
+    "name": "GLOPPEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79187,
+    "name": "GRANVIN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79194,
+    "name": "GULEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79198,
+    "name": "HAGAVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79206,
+    "name": "HARDBAKKE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79218,
+    "name": "HERMANSVERK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79235,
+    "name": "HORNINDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79243,
+    "name": "HYLKJE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79244,
+    "name": "HYLLESTAD",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79248,
+    "name": "HØYANGER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79252,
+    "name": "INDRE ARNA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79258,
+    "name": "JONDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79261,
+    "name": "JØLSTER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79269,
+    "name": "KINSARVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79277,
+    "name": "KNAPPSKOG",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79279,
+    "name": "KNARVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79291,
+    "name": "KVAM",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79293,
+    "name": "KVINNHERAD",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79308,
+    "name": "LEIKANGER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79311,
+    "name": "LEIRVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79326,
+    "name": "LINDÅS",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79328,
+    "name": "LONEVÅG",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79335,
+    "name": "LUSTER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79341,
+    "name": "LÆRDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79342,
+    "name": "LÆRDALSØYRI",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79351,
+    "name": "MANGER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79354,
+    "name": "MASFJORDEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79357,
+    "name": "MELAND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79367,
+    "name": "MODALEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79376,
+    "name": "MOSTERHAMN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79380,
+    "name": "MÅLØY",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79387,
+    "name": "NAUSTDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79406,
+    "name": "NORDFJORDEID",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79413,
+    "name": "NORHEIMSUND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79417,
+    "name": "ODDA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79423,
+    "name": "OS",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79426,
+    "name": "OSTERØY",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79434,
+    "name": "RADØY",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79457,
+    "name": "ROSENDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79459,
+    "name": "RUBBESTADNESET",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79473,
+    "name": "SAGVÅG",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79476,
+    "name": "SAMNANGER",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79478,
+    "name": "SANDANE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79479,
+    "name": "SANDE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79485,
+    "name": "SANDSLI",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79492,
+    "name": "SELJE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79517,
+    "name": "SKOGSVÅGEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79529,
+    "name": "SOGNDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79532,
+    "name": "SOLUND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79548,
+    "name": "STORD",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79550,
+    "name": "STOREBØ",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79558,
+    "name": "STRAUME",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79561,
+    "name": "STRYN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79564,
+    "name": "SUND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79568,
+    "name": "SVEIO",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79569,
+    "name": "SVELGEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79572,
+    "name": "SYFTELAND",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79617,
+    "name": "TYSNES",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79622,
+    "name": "ULLENSVANG",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79626,
+    "name": "ULVIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79629,
+    "name": "VAKSDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79652,
+    "name": "VIK",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79662,
+    "name": "VOSS",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79664,
+    "name": "VÅGSØY",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79670,
+    "name": "YTRE ARNA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79671,
+    "name": "YTREBYGDA",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79675,
+    "name": "ÅGOTNES",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79682,
+    "name": "ÅRDAL",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79683,
+    "name": "ÅRDALSTANGEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79702,
+    "name": "ØYGARDEN",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79703,
+    "name": "ØYSTESE",
+    "state": "VESTLAND",
+    "state_iso2": "46",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": 540,
+    "name": "ABSHERON",
+    "iso2": "ABS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 559,
+    "name": "AGDAM",
+    "iso2": "AGM",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 553,
+    "name": "AGDASH",
+    "iso2": "AGS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 577,
+    "name": "AGHJABADI",
+    "iso2": "AGC",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 543,
+    "name": "AGSTAFA",
+    "iso2": "AGA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 547,
+    "name": "AGSU",
+    "iso2": "AGU",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 528,
+    "name": "ASTARA",
+    "iso2": "AST",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 575,
+    "name": "BABEK",
+    "iso2": "BAB",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 552,
+    "name": "BAKU",
+    "iso2": "BA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 560,
+    "name": "BALAKAN",
+    "iso2": "BAL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 569,
+    "name": "BARDA",
+    "iso2": "BAR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 554,
+    "name": "BEYLAGAN",
+    "iso2": "BEY",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 532,
+    "name": "BILASUVAR",
+    "iso2": "BIL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 561,
+    "name": "DASHKASAN",
+    "iso2": "DAS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 527,
+    "name": "FIZULI",
+    "iso2": "FUZ",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 585,
+    "name": "GANJA",
+    "iso2": "GA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 573,
+    "name": "GOBUSTAN",
+    "iso2": "QOB",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 551,
+    "name": "GORANBOY",
+    "iso2": "GOR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 531,
+    "name": "GOYCHAY",
+    "iso2": "GOY",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 574,
+    "name": "GOYGOL",
+    "iso2": "GYG",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 589,
+    "name": "GƏDƏBƏY",
+    "iso2": "GAD",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 571,
+    "name": "HAJIGABUL",
+    "iso2": "HAC",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 544,
+    "name": "IMISHLI",
+    "iso2": "IMI",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 564,
+    "name": "ISMAILLI",
+    "iso2": "ISM",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 570,
+    "name": "JABRAYIL",
+    "iso2": "CAB",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 578,
+    "name": "JALILABAD",
+    "iso2": "CAL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 572,
+    "name": "JULFA",
+    "iso2": "CUL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 525,
+    "name": "KALBAJAR",
+    "iso2": "KAL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 567,
+    "name": "KANGARLI",
+    "iso2": "KAN",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 590,
+    "name": "KHACHMAZ",
+    "iso2": "XAC",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 5472,
+    "name": "KHANKENDI",
+    "iso2": "XA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 537,
+    "name": "KHIZI",
+    "iso2": "XIZ",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 524,
+    "name": "KHOJALI",
+    "iso2": "XCI",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 549,
+    "name": "KURDAMIR",
+    "iso2": "KUR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 541,
+    "name": "LACHIN",
+    "iso2": "LAC",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 558,
+    "name": "LANKARAN",
+    "iso2": "LA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 587,
+    "name": "LANKARAN",
+    "iso2": "LAN",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 546,
+    "name": "LERIK",
+    "iso2": "LER",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 568,
+    "name": "MARTUNI",
+    "iso2": "XVD",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 555,
+    "name": "MASALLY",
+    "iso2": "MAS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 580,
+    "name": "MINGACHEVIR",
+    "iso2": "MI",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 5470,
+    "name": "NAFTALAN",
+    "iso2": "NA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 562,
+    "name": "NAKHCHIVAN",
+    "iso2": "NX",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 5471,
+    "name": "NAKHCHIVAN",
+    "iso2": "NV",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 530,
+    "name": "NEFTCHALA",
+    "iso2": "NEF",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 556,
+    "name": "OGHUZ",
+    "iso2": "OGU",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 534,
+    "name": "ORDUBAD",
+    "iso2": "ORD",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 542,
+    "name": "QABALA",
+    "iso2": "QAB",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 526,
+    "name": "QAKH",
+    "iso2": "QAX",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 521,
+    "name": "QAZAKH",
+    "iso2": "QAZ",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 563,
+    "name": "QUBA",
+    "iso2": "QBA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 548,
+    "name": "QUBADLI",
+    "iso2": "QBI",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 588,
+    "name": "QUSAR",
+    "iso2": "QUS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 557,
+    "name": "SAATLY",
+    "iso2": "SAT",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 565,
+    "name": "SABIRABAD",
+    "iso2": "SAB",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 522,
+    "name": "SADARAK",
+    "iso2": "SAD",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 545,
+    "name": "SALYAN",
+    "iso2": "SAL",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 536,
+    "name": "SAMUKH",
+    "iso2": "SMX",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 591,
+    "name": "SHABRAN",
+    "iso2": "SBN",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 579,
+    "name": "SHAHBUZ",
+    "iso2": "SAH",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 518,
+    "name": "SHAKI",
+    "iso2": "SA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 586,
+    "name": "SHAKI",
+    "iso2": "SAK",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 529,
+    "name": "SHAMAKHI",
+    "iso2": "SMI",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 583,
+    "name": "SHAMKIR",
+    "iso2": "SKR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 535,
+    "name": "SHARUR",
+    "iso2": "SAR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 520,
+    "name": "SHIRVAN",
+    "iso2": "SR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 592,
+    "name": "SHUSHA",
+    "iso2": "SUS",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 584,
+    "name": "SIAZAN",
+    "iso2": "SIY",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 582,
+    "name": "SUMQAYIT",
+    "iso2": "SM",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 519,
+    "name": "TARTAR",
+    "iso2": "TAR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 533,
+    "name": "TOVUZ",
+    "iso2": "TOV",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 539,
+    "name": "UJAR",
+    "iso2": "UCA",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 550,
+    "name": "YARDYMLI",
+    "iso2": "YAR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 523,
+    "name": "YEVLAKH",
+    "iso2": "YEV",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 538,
+    "name": "YEVLAKH",
+    "iso2": "YE",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 581,
+    "name": "ZANGILAN",
+    "iso2": "ZAN",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 566,
+    "name": "ZAQATALA",
+    "iso2": "ZAQ",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  },
+  {
+    "id": 576,
+    "name": "ZARDAB",
+    "iso2": "ZAR",
+    "country": "AZERBAIJAN",
+    "country_iso2": "AZ",
+    "country_iso3": "AZE",
+    "country_native": "AZƏRBAYCAN",
+    "timezone": "Asia/Baku"
+  }
+]

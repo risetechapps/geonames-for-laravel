@@ -1,0 +1,1792 @@
+[
+  {
+    "id": 81024,
+    "name": "ABAU",
+    "state": "CENTRAL",
+    "state_iso2": "CPM",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 52157,
+    "name": "APAM",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 89720,
+    "name": "AREGUÁ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57446,
+    "name": "BET DAGAN",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57449,
+    "name": "BET YIẔH̱AQ",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57450,
+    "name": "BNEI AYISH",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 110880,
+    "name": "BUKOMANSIMBI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110886,
+    "name": "BUVUMA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110888,
+    "name": "BWEYOGERERE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110890,
+    "name": "BYAKABANDA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 52168,
+    "name": "CAPE COAST",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 89733,
+    "name": "CAPIATÁ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 131332,
+    "name": "CHIBOMBO",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 131333,
+    "name": "CHIBOMBO DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 67950,
+    "name": "CHIPOKA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 66463,
+    "name": "DAMBULLA",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 67955,
+    "name": "DEDZA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67956,
+    "name": "DEDZA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67957,
+    "name": "DOWA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67958,
+    "name": "DOWA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 52171,
+    "name": "DUNKWA",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 52173,
+    "name": "ELMINA",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 57463,
+    "name": "ELYAKHIN",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 110891,
+    "name": "ENTEBBE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 57466,
+    "name": "EVEN YEHUDA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57467,
+    "name": "EṬ ṬAIYIBA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 89765,
+    "name": "FERNANDO DE LA MORA",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 52174,
+    "name": "FOSO",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 57468,
+    "name": "GAN YAVNE",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57469,
+    "name": "GANEI TIKVA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57470,
+    "name": "GEDERA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15738,
+    "name": "GOBOJANGO",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 81041,
+    "name": "GOILALA",
+    "state": "CENTRAL",
+    "state_iso2": "CPM",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 110893,
+    "name": "GOMBA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 89774,
+    "name": "GUARAMBARÉ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 15739,
+    "name": "GWETA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 66476,
+    "name": "HATTON",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 57478,
+    "name": "HOD HASHARON",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 89784,
+    "name": "ITAUGUÁ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 89786,
+    "name": "ITÁ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57483,
+    "name": "JALJŪLYA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 157022,
+    "name": "JULIÁN AUGUSTO SALDÍVAR",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 131345,
+    "name": "KABWE",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 57491,
+    "name": "KAFR QĀSIM",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 81055,
+    "name": "KAIRUKU-HIRI",
+    "state": "CENTRAL",
+    "state_iso2": "CPM",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 110902,
+    "name": "KAJANSI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 15742,
+    "name": "KALAMARE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 110903,
+    "name": "KAMPALA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110904,
+    "name": "KAMPALA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66489,
+    "name": "KANDY",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66490,
+    "name": "KANDY DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110907,
+    "name": "KANONI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131352,
+    "name": "KAPIRI MPOSHI",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 52179,
+    "name": "KASOA",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 67961,
+    "name": "KASUNGU",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67962,
+    "name": "KASUNGU DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 110911,
+    "name": "KAYUNGA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 57494,
+    "name": "KEFAR H̱ABAD",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57499,
+    "name": "KEFAR YONA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57500,
+    "name": "KFAR SABA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 110913,
+    "name": "KIBOGA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110917,
+    "name": "KIREKA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110924,
+    "name": "KYOTERA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 89791,
+    "name": "LAMBARÉ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57503,
+    "name": "LAPID",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15750,
+    "name": "LETLHAKANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15752,
+    "name": "LETSHENG",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 67964,
+    "name": "LILONGWE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67965,
+    "name": "LILONGWE DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 89793,
+    "name": "LIMPIO",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57505,
+    "name": "LOD",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 110926,
+    "name": "LUGAZI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 157023,
+    "name": "LUQUE",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 110927,
+    "name": "LUWERO",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110928,
+    "name": "LYANTONDE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 15753,
+    "name": "MAAPI",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15754,
+    "name": "MACHANENG",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15755,
+    "name": "MAHALAPYE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15757,
+    "name": "MAKOBENG",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15758,
+    "name": "MAKWATA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 89794,
+    "name": "MARIANO ROQUE ALONSO",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 110930,
+    "name": "MASAKA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66505,
+    "name": "MATALE",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66506,
+    "name": "MATALE DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 15761,
+    "name": "MATHAKOLA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15762,
+    "name": "MATHAMBGWANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15763,
+    "name": "MATHATHANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15765,
+    "name": "MAUNATLALA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57507,
+    "name": "MAZKERET BATYA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 67973,
+    "name": "MCHINJI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67974,
+    "name": "MCHINJI DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 110936,
+    "name": "MITYANA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131371,
+    "name": "MKUSHI",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 57515,
+    "name": "MODI‘IN MAKKABBIM RE‘UT",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15770,
+    "name": "MOGAPI",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15772,
+    "name": "MOIJABANA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15774,
+    "name": "MOOKANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15775,
+    "name": "MOPIPI",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15776,
+    "name": "MOSETSE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 110939,
+    "name": "MPIGI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 67976,
+    "name": "MPONELA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 110940,
+    "name": "MUBENDE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110941,
+    "name": "MUBENDE DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110943,
+    "name": "MUKONO",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131380,
+    "name": "MUMBWA",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 52192,
+    "name": "MUMFORD",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 39145,
+    "name": "NAITASIRI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 110944,
+    "name": "NAKASONGOLA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110945,
+    "name": "NAMASUBA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 39146,
+    "name": "NAMOSI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 15778,
+    "name": "NATA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57525,
+    "name": "NEH̱ALIM",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 89802,
+    "name": "NEMBY",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57522,
+    "name": "NESS ZIONA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57523,
+    "name": "NETANYA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57526,
+    "name": "NIRIT",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 110947,
+    "name": "NJERU",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 67987,
+    "name": "NKHOTAKOTA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67988,
+    "name": "NKHOTAKOTA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 57527,
+    "name": "NOF AYALON",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57528,
+    "name": "NORDIYYA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 67991,
+    "name": "NTCHEU",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67992,
+    "name": "NTCHEU DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67993,
+    "name": "NTCHISI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 67994,
+    "name": "NTCHISI DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 89804,
+    "name": "NUEVA ITALIA",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 66517,
+    "name": "NUWARA ELIYA",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66518,
+    "name": "NUWARA ELIYA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 15781,
+    "name": "ORAPA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15783,
+    "name": "PALAPYE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57531,
+    "name": "PARDESIYYA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57533,
+    "name": "PETAH̱ TIQWA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15786,
+    "name": "PILIKWE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57534,
+    "name": "QALANSUWA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57541,
+    "name": "RA'ANANA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15787,
+    "name": "RAKOPS",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57546,
+    "name": "RAMLA",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15788,
+    "name": "RAMOKGONAMI",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15790,
+    "name": "RATHOLO",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57548,
+    "name": "REH̱OVOT",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 39149,
+    "name": "REWA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 81104,
+    "name": "RIGO",
+    "state": "CENTRAL",
+    "state_iso2": "CPM",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 57549,
+    "name": "RISHON LEẔIYYON",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57550,
+    "name": "ROSH HA‘AYIN",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 67999,
+    "name": "SALIMA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 68000,
+    "name": "SALIMA DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "MALAWI",
+    "country_iso2": "MW",
+    "country_iso3": "MWI",
+    "country_native": "MALAWI"
+  },
+  {
+    "id": 52199,
+    "name": "SALTPOND",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 89819,
+    "name": "SAN ANTONIO",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 89828,
+    "name": "SAN LORENZO",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57556,
+    "name": "SAVYON",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15792,
+    "name": "SEFOPHE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 110957,
+    "name": "SEMBABULE",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131393,
+    "name": "SERENJE",
+    "state": "CENTRAL",
+    "state_iso2": "02",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 15795,
+    "name": "SEROWE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 39150,
+    "name": "SERUA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 57560,
+    "name": "SHOHAM",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 66529,
+    "name": "SIGIRIYA",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 15797,
+    "name": "SUA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 39151,
+    "name": "SUVA",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 52205,
+    "name": "SWEDRU",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 39152,
+    "name": "TAILEVU",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 66531,
+    "name": "TALAWAKELE",
+    "state": "CENTRAL",
+    "state_iso2": "2",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 15798,
+    "name": "TAMASANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 57565,
+    "name": "TEL MOND",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57568,
+    "name": "TIRAH",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 15800,
+    "name": "TOBANE",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 15801,
+    "name": "TONOTA",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "BOTSWANA",
+    "country_iso2": "BW",
+    "country_iso3": "BWA",
+    "country_native": "BOTSWANA"
+  },
+  {
+    "id": 102905,
+    "name": "TULAGI",
+    "state": "CENTRAL",
+    "state_iso2": "CE",
+    "country": "SOLOMON ISLANDS",
+    "country_iso2": "SB",
+    "country_iso3": "SLB",
+    "country_native": "SOLOMON ISLANDS"
+  },
+  {
+    "id": 89843,
+    "name": "VILLA ELISA",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 157024,
+    "name": "VILLETA",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 110961,
+    "name": "WAKISO",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110962,
+    "name": "WAKISO DISTRICT",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 52215,
+    "name": "WINNEBA",
+    "state": "CENTRAL",
+    "state_iso2": "CP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 110963,
+    "name": "WOBULENZI",
+    "state": "CENTRAL",
+    "state_iso2": "C",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 57573,
+    "name": "YAVNÉ",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 57574,
+    "name": "YEHUD",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  },
+  {
+    "id": 89854,
+    "name": "YPACARAI",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 157025,
+    "name": "YPANÉ",
+    "state": "CENTRAL",
+    "state_iso2": "11",
+    "country": "PARAGUAY",
+    "country_iso2": "PY",
+    "country_iso3": "PRY",
+    "country_native": "PARAGUAY"
+  },
+  {
+    "id": 57580,
+    "name": "ẔUR MOSHE",
+    "state": "CENTRAL",
+    "state_iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": 3929,
+    "name": "ALBORZ",
+    "iso2": "30",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3934,
+    "name": "ARDABIL",
+    "iso2": "24",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3932,
+    "name": "BUSHEHR",
+    "iso2": "18",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3921,
+    "name": "CHAHARMAHAL AND BAKHTIARI",
+    "iso2": "14",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3944,
+    "name": "EAST AZERBAIJAN",
+    "iso2": "03",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3939,
+    "name": "FARS",
+    "iso2": "07",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3920,
+    "name": "GILAN",
+    "iso2": "01",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3933,
+    "name": "GOLESTAN",
+    "iso2": "27",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 4920,
+    "name": "HAMADAN",
+    "iso2": "13",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3937,
+    "name": "HORMOZGAN",
+    "iso2": "22",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3918,
+    "name": "ILAM",
+    "iso2": "16",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3923,
+    "name": "ISFAHAN",
+    "iso2": "10",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3943,
+    "name": "KERMAN",
+    "iso2": "08",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3919,
+    "name": "KERMANSHAH",
+    "iso2": "05",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3917,
+    "name": "KHUZESTAN",
+    "iso2": "06",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3926,
+    "name": "KOHGILUYEH AND BOYER-AHMAD",
+    "iso2": "17",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3935,
+    "name": "KURDISTAN",
+    "iso2": "12",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3928,
+    "name": "LORESTAN",
+    "iso2": "15",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3916,
+    "name": "MARKAZI",
+    "iso2": "00",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3938,
+    "name": "MAZANDARAN",
+    "iso2": "02",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3942,
+    "name": "NORTH KHORASAN",
+    "iso2": "28",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3941,
+    "name": "QAZVIN",
+    "iso2": "26",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3922,
+    "name": "QOM",
+    "iso2": "25",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3927,
+    "name": "RAZAVI KHORASAN",
+    "iso2": "09",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3940,
+    "name": "SEMNAN",
+    "iso2": "20",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3931,
+    "name": "SISTAN AND BALUCHESTAN",
+    "iso2": "11",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3930,
+    "name": "SOUTH KHORASAN",
+    "iso2": "29",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3945,
+    "name": "TEHRAN",
+    "iso2": "23",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3924,
+    "name": "WEST AZARBAIJAN",
+    "iso2": "04",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3936,
+    "name": "YAZD",
+    "iso2": "21",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  },
+  {
+    "id": 3925,
+    "name": "ZANJAN",
+    "iso2": "19",
+    "country": "IRAN",
+    "country_iso2": "IR",
+    "country_iso3": "IRN",
+    "country_native": "ایران",
+    "timezone": "Asia/Tehran"
+  }
+]

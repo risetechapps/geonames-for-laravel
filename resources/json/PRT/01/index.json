@@ -1,0 +1,622 @@
+[
+  {
+    "id": 88910,
+    "name": "AGUADA DE CIMA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88913,
+    "name": "ALBERGARIA-A-VELHA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88967,
+    "name": "ANADIA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88976,
+    "name": "ARADAS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88980,
+    "name": "ARCOS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88986,
+    "name": "ARGONCILHE",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88989,
+    "name": "AROUCA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88993,
+    "name": "ARRIFANA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89001,
+    "name": "AVANCA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89003,
+    "name": "AVEIRO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89025,
+    "name": "BEDUIDO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89048,
+    "name": "BRANCA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89106,
+    "name": "CASTELO DE PAIVA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89129,
+    "name": "CORTEGAÇA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89137,
+    "name": "CUCUJÃES",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89141,
+    "name": "EIXO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89147,
+    "name": "ESGUEIRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89148,
+    "name": "ESMORIZ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89149,
+    "name": "ESPARGO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89150,
+    "name": "ESPINHO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89153,
+    "name": "ESTARREJA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89170,
+    "name": "FEIRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89185,
+    "name": "FIÃES",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89203,
+    "name": "GAFANHA DA ENCARNAÇÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89204,
+    "name": "GAFANHA DA NAZARÉ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89234,
+    "name": "LAMAS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89246,
+    "name": "LOBÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89254,
+    "name": "LOUROSA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89257,
+    "name": "LUSO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89263,
+    "name": "MACIEIRA DE CAMBRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89287,
+    "name": "MEALHADA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89298,
+    "name": "MILHEIRÓS DE POIARES",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89334,
+    "name": "MOSTEIRÔ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89338,
+    "name": "MURTOSA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89349,
+    "name": "NOGUEIRA DA REGEDOURA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89355,
+    "name": "OIÃ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89363,
+    "name": "OLIVEIRA DE AZEMEIS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89366,
+    "name": "OLIVEIRA DO BAIRRO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89370,
+    "name": "OLIVEIRINHA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89374,
+    "name": "OVAR",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89379,
+    "name": "PAMPILHOSA DO BOTÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89381,
+    "name": "PARDILHÓ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89387,
+    "name": "PAÇOS DE BRANDÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89473,
+    "name": "RIO MEÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89484,
+    "name": "SALREU",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89492,
+    "name": "SANFINS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89493,
+    "name": "SANGALHOS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89507,
+    "name": "SANTA MARIA DA FEIRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89541,
+    "name": "SEVER DO VOUGA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89542,
+    "name": "SILVALDE",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89554,
+    "name": "SOUTO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89564,
+    "name": "SÃO JOÃO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89565,
+    "name": "SÃO JOÃO DA MADEIRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89570,
+    "name": "SÃO JOÃO DE VER",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89587,
+    "name": "SÃO ROQUE",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89619,
+    "name": "VAGOS",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89625,
+    "name": "VALE DE CAMBRA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89630,
+    "name": "VALONGO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89645,
+    "name": "VILA CHÃ",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89688,
+    "name": "VÁLEGA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89695,
+    "name": "ÁGUEDA",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89698,
+    "name": "ÍLHAVO",
+    "state": "AVEIRO",
+    "state_iso2": "01",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  }
+]

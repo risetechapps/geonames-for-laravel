@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 81148,
+    "name": "ADTUGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81160,
+    "name": "AGLAYAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81172,
+    "name": "AGUSAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81182,
+    "name": "ALAE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81189,
+    "name": "ALANIB",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81255,
+    "name": "ANAKAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81270,
+    "name": "ANI-E",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81296,
+    "name": "APLAYA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81330,
+    "name": "AUMBAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81389,
+    "name": "BAGAKAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81419,
+    "name": "BAIKINGON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81469,
+    "name": "BALILA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81470,
+    "name": "BALILI",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81488,
+    "name": "BALIWAGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81526,
+    "name": "BANGAHAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81558,
+    "name": "BANTUANON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81587,
+    "name": "BARRA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81593,
+    "name": "BASAK",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81693,
+    "name": "BIGA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81722,
+    "name": "BINITINAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81779,
+    "name": "BOLO BOLO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81785,
+    "name": "BONBON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81799,
+    "name": "BOROON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81845,
+    "name": "BUGCAON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81848,
+    "name": "BUGO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81916,
+    "name": "BUSDI",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81948,
+    "name": "CABANGAHAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81950,
+    "name": "CABANGLASAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82011,
+    "name": "CALABUGAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82104,
+    "name": "CANAYAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82110,
+    "name": "CANDIIS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82176,
+    "name": "CAROMATAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82193,
+    "name": "CASISANG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82287,
+    "name": "CONSUELO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82301,
+    "name": "COSINA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82338,
+    "name": "DAGUMBA-AN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82350,
+    "name": "DALIPUGA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82351,
+    "name": "DALIRIG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82352,
+    "name": "DALORONG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82356,
+    "name": "DALWANGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82361,
+    "name": "DAMILAG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82365,
+    "name": "DAMULOG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82367,
+    "name": "DANCAGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82428,
+    "name": "DIMALUNA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82431,
+    "name": "DIMAYON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82451,
+    "name": "DOLOGON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82458,
+    "name": "DON CARLOS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82464,
+    "name": "DORSALANAM",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82484,
+    "name": "DUMALAGUING",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82593,
+    "name": "GIMAMPANG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82635,
+    "name": "GUINISILIBAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82671,
+    "name": "HALAPITAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82692,
+    "name": "HINAPALANAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82721,
+    "name": "IGPIT",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82734,
+    "name": "IMBATUG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82735,
+    "name": "IMELDA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82737,
+    "name": "IMPALUTAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82747,
+    "name": "INDULANG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82753,
+    "name": "INOBULAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82822,
+    "name": "KABALANTIAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82830,
+    "name": "KABULOHAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82834,
+    "name": "KADINGILAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82843,
+    "name": "KALANGANAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82852,
+    "name": "KALILANGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82856,
+    "name": "KALUGMANAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82893,
+    "name": "KIBANGAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82894,
+    "name": "KIBAWE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82896,
+    "name": "KIBONSOD",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82898,
+    "name": "KIBUREAU",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82902,
+    "name": "KIMANUIT",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82903,
+    "name": "KIMAYA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82914,
+    "name": "KISOLON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82916,
+    "name": "KITAOTAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82919,
+    "name": "KITOBO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82940,
+    "name": "LA FORTUNA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82952,
+    "name": "LA ROXAS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82977,
+    "name": "LAGINDINGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82982,
+    "name": "LAGUITAS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83013,
+    "name": "LANGCANGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83019,
+    "name": "LANIPAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83024,
+    "name": "LANTAPAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83030,
+    "name": "LAPASE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83035,
+    "name": "LAPINING",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83095,
+    "name": "LIBONA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83096,
+    "name": "LIBORAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83119,
+    "name": "LIMBAAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83128,
+    "name": "LINABO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83138,
+    "name": "LINGATING",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83141,
+    "name": "LINGION",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83151,
+    "name": "LITTLE BAGUIO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83172,
+    "name": "LOOC",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83186,
+    "name": "LOURDES",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83222,
+    "name": "LUMBAYAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83223,
+    "name": "LUMBIA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83235,
+    "name": "LUNAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83247,
+    "name": "LURUGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83256,
+    "name": "MAANAS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83336,
+    "name": "MAGLAMIN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83366,
+    "name": "MAILAG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83418,
+    "name": "MALAYBALAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83439,
+    "name": "MALINAW",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83459,
+    "name": "MALUKO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83473,
+    "name": "MAMBATANGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83474,
+    "name": "MAMBAYAAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83481,
+    "name": "MAMUNGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83485,
+    "name": "MANAGOK",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83490,
+    "name": "MANANUM",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83502,
+    "name": "MANDANGOA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83532,
+    "name": "MANOLO FORTICH",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83537,
+    "name": "MANTAMPAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83557,
+    "name": "MAPUTI",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83561,
+    "name": "MARAMAG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83562,
+    "name": "MARANDING",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83575,
+    "name": "MARIA CRISTINA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83576,
+    "name": "MARIANO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83610,
+    "name": "MAT-I",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83619,
+    "name": "MATANGAD",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83668,
+    "name": "MIARAY",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83686,
+    "name": "MINLAGAS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83696,
+    "name": "MOLUGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83709,
+    "name": "MOOG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83776,
+    "name": "NAPALITAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83785,
+    "name": "NATALUNGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83797,
+    "name": "NAÑGKA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83731,
+    "name": "NIA VALENCIA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83941,
+    "name": "PAN-AN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83950,
+    "name": "PANALO-ON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83968,
+    "name": "PANGABUAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84000,
+    "name": "PANTAO-RAGAT",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84053,
+    "name": "PATROCINIO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84110,
+    "name": "PINES",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84157,
+    "name": "PONGOL",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84162,
+    "name": "PONTIAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84282,
+    "name": "PUNTA SILUM",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84333,
+    "name": "REBE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84402,
+    "name": "SALAWAGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84409,
+    "name": "SALIMBALAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84430,
+    "name": "SAMPAGAR",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84552,
+    "name": "SAN MARTIN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84619,
+    "name": "SAN VICENTE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84635,
+    "name": "SANKANAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84641,
+    "name": "SANTA ANA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84790,
+    "name": "SILAE",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84819,
+    "name": "SINONOC",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84841,
+    "name": "SOLANA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84859,
+    "name": "SUGBONGKOGON",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84877,
+    "name": "SUMILAO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84879,
+    "name": "SUMPONG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84880,
+    "name": "SUNGAI",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84895,
+    "name": "TABID",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84902,
+    "name": "TABOC",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84922,
+    "name": "TACUB",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84968,
+    "name": "TALAKAG",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85073,
+    "name": "TAYPANO",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85098,
+    "name": "TICALA-AN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85109,
+    "name": "TIGNAPALAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85190,
+    "name": "TUBIGAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85204,
+    "name": "TUDELA",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85230,
+    "name": "TUOD",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85233,
+    "name": "TUPSAN",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85256,
+    "name": "UNIDOS",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85322,
+    "name": "YUMBING",
+    "state": "BENGUET",
+    "state_iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  }
+]

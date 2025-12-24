@@ -1,0 +1,522 @@
+[
+  {
+    "id": 48583,
+    "name": "BODMIN",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48752,
+    "name": "BUDE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48755,
+    "name": "BUGLE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48832,
+    "name": "CAMBORNE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48839,
+    "name": "CAMELFORD",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48904,
+    "name": "CHACEWATER",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49107,
+    "name": "CORNWALL",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49257,
+    "name": "DELABOLE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49297,
+    "name": "DOBWALLS",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49525,
+    "name": "FALMOUTH",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49571,
+    "name": "FLEXBURY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49597,
+    "name": "FOUR LANES",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49599,
+    "name": "FOWEY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49637,
+    "name": "GERMOE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49863,
+    "name": "HAYLE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49894,
+    "name": "HELSTON",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49967,
+    "name": "HOLSWORTHY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50256,
+    "name": "LAUNCESTON",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50319,
+    "name": "LISKEARD",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50415,
+    "name": "LOOE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50417,
+    "name": "LOSTWITHIEL",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50562,
+    "name": "MEVAGISSEY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50641,
+    "name": "MOUNT HAWKE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50651,
+    "name": "MULLION",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50656,
+    "name": "MYLOR BRIDGE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50662,
+    "name": "NANPEAN",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50724,
+    "name": "NEWQUAY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50845,
+    "name": "PADSTOW",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50853,
+    "name": "PAR",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50888,
+    "name": "PENRYN",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50889,
+    "name": "PENSILVA",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50895,
+    "name": "PERRANPORTH",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50896,
+    "name": "PERRANWELL",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50934,
+    "name": "POLPERRO",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50935,
+    "name": "POLZEATH",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50961,
+    "name": "PORTHLEVEN",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50969,
+    "name": "PORTSCATHO",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50995,
+    "name": "PROBUS",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51055,
+    "name": "REDRUTH",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51094,
+    "name": "ROCHE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51097,
+    "name": "ROCK",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51162,
+    "name": "SAINT AGNES",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51168,
+    "name": "SAINT COLUMB MAJOR",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51171,
+    "name": "SAINT DENNIS",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51177,
+    "name": "SAINT STEPHEN",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51396,
+    "name": "ST AUSTELL",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51403,
+    "name": "ST. DAY",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51453,
+    "name": "STITHIANS",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51628,
+    "name": "TINTAGEL",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51675,
+    "name": "TRURO",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51697,
+    "name": "UNY LELANT",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51722,
+    "name": "WADEBRIDGE",
+    "state": "CORNWALL",
+    "state_iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  }
+]

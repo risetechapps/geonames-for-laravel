@@ -1,0 +1,2632 @@
+[
+  {
+    "id": 81135,
+    "name": "ABUCAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81144,
+    "name": "ACLI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81155,
+    "name": "AGBANNAWAG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81175,
+    "name": "AKLE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81227,
+    "name": "ALMENDRAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81233,
+    "name": "ALUA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81238,
+    "name": "AMACALAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81251,
+    "name": "AMUCAO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81253,
+    "name": "AMUÑGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81266,
+    "name": "ANGAT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81311,
+    "name": "ARENAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81316,
+    "name": "ARMINIA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81349,
+    "name": "BABO-PANGULO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81351,
+    "name": "BACABAC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81371,
+    "name": "BACSAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81385,
+    "name": "BAGAC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81398,
+    "name": "BAGONG BARRIO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81402,
+    "name": "BAGONG-SIKAT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81417,
+    "name": "BAHAY PARE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81425,
+    "name": "BAKULONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81434,
+    "name": "BALAGTAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81441,
+    "name": "BALANGA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81447,
+    "name": "BALAOANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81450,
+    "name": "BALAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81452,
+    "name": "BALASING",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81456,
+    "name": "BALAYANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81466,
+    "name": "BALIBAGO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81477,
+    "name": "BALINGCANAWAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81481,
+    "name": "BALITE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81485,
+    "name": "BALIUAG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81490,
+    "name": "BALOC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81497,
+    "name": "BALOY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81498,
+    "name": "BALSIC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81500,
+    "name": "BALUCUC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81506,
+    "name": "BALUT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81508,
+    "name": "BALUTU",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81517,
+    "name": "BANAWANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81523,
+    "name": "BANGAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81562,
+    "name": "BAQUERO NORTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81621,
+    "name": "BATASAN BATA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81624,
+    "name": "BATITANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81655,
+    "name": "BAYANAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81674,
+    "name": "BEDDENG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81686,
+    "name": "BIAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81687,
+    "name": "BIBICLAT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81689,
+    "name": "BICOS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81692,
+    "name": "BIGA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81699,
+    "name": "BILAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81747,
+    "name": "BITUÑGOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81755,
+    "name": "BOBON SECOND",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81758,
+    "name": "BOCAUE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81760,
+    "name": "BODEGA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81773,
+    "name": "BOLITOC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81834,
+    "name": "BUENLAG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81836,
+    "name": "BUENSUSESO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81867,
+    "name": "BULAON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81868,
+    "name": "BULARIT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81872,
+    "name": "BULAWIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81874,
+    "name": "BULIHAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81877,
+    "name": "BULIRAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81878,
+    "name": "BULIRAN SEGUNDO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81885,
+    "name": "BULUALTO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81893,
+    "name": "BUNDOC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81901,
+    "name": "BUNOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81920,
+    "name": "BUSTOS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81944,
+    "name": "CABANATUAN CITY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81962,
+    "name": "CABAYAOASAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81964,
+    "name": "CABCABEN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81974,
+    "name": "CABOG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 81991,
+    "name": "CAFE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82006,
+    "name": "CALABA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82022,
+    "name": "CALANCUASAN NORTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82023,
+    "name": "CALANGAIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82026,
+    "name": "CALANTAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82044,
+    "name": "CALAYAAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82049,
+    "name": "CALIBUNGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82050,
+    "name": "CALIBUTBUT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82054,
+    "name": "CALINGCUAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82072,
+    "name": "CALUMPANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82073,
+    "name": "CALUMPIT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82075,
+    "name": "CAMA JUAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82076,
+    "name": "CAMACHILE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82088,
+    "name": "CAMIAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82107,
+    "name": "CANDATING",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82226,
+    "name": "CAVITE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82232,
+    "name": "CAWAYAN BUGTONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82265,
+    "name": "COMILLAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82267,
+    "name": "COMMUNAL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82288,
+    "name": "CONVERSION",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82315,
+    "name": "CULIANIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82318,
+    "name": "CULUBASA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82323,
+    "name": "CUT-CUT PRIMERO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82364,
+    "name": "DAMPOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82409,
+    "name": "DEL PILAR",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82423,
+    "name": "DIGDIG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82427,
+    "name": "DILIMAN PRIMERO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82437,
+    "name": "DINALUPIHAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82467,
+    "name": "DOÑA REMEDIOS TRINIDAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82489,
+    "name": "DUMARAIS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82510,
+    "name": "ENTABLADO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82526,
+    "name": "ESTACION",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82530,
+    "name": "ESTIPONA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82531,
+    "name": "ESTRELLA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82617,
+    "name": "GUESET",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82620,
+    "name": "GUIGUINTO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82647,
+    "name": "GUISGUIS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82659,
+    "name": "GUTAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82662,
+    "name": "GUYONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82680,
+    "name": "HERMOSA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 82995,
+    "name": "LAMBAKIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83010,
+    "name": "LANAT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83049,
+    "name": "LAUG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83053,
+    "name": "LAWANG KUPANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83065,
+    "name": "LENNEC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83101,
+    "name": "LICIADA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83106,
+    "name": "LIGAYA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83118,
+    "name": "LIMAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83145,
+    "name": "LIOZON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83148,
+    "name": "LIPAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83163,
+    "name": "LOMA DE GATO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83166,
+    "name": "LOMBOY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83187,
+    "name": "LOURDES",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83197,
+    "name": "LUCAPON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83264,
+    "name": "MABABANABA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83266,
+    "name": "MABALACAT CITY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83269,
+    "name": "MABAYO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83270,
+    "name": "MABILANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83273,
+    "name": "MABILOG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83279,
+    "name": "MABINI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83302,
+    "name": "MACAPSING",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83303,
+    "name": "MACARSE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83304,
+    "name": "MACATBONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83337,
+    "name": "MAGLIMAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83348,
+    "name": "MAGTANGOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83351,
+    "name": "MAGUINAO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83386,
+    "name": "MALABON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83391,
+    "name": "MALACAMPA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83428,
+    "name": "MALIGAYA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83442,
+    "name": "MALINO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83454,
+    "name": "MALOLOS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83455,
+    "name": "MALOMA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83458,
+    "name": "MALUID",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83461,
+    "name": "MALUSAC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83475,
+    "name": "MAMBOG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83479,
+    "name": "MAMONIT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83483,
+    "name": "MANACSAC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83496,
+    "name": "MANATAL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83506,
+    "name": "MANDILI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83515,
+    "name": "MANGGA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83520,
+    "name": "MANIBAUG PASIG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83531,
+    "name": "MANOGPI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83548,
+    "name": "MAPALACSIAO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83549,
+    "name": "MAPALAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83552,
+    "name": "MAPANIQUI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83558,
+    "name": "MAQUIAPO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83566,
+    "name": "MARAWA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83583,
+    "name": "MARILAO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83586,
+    "name": "MARIVELES",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83593,
+    "name": "MASALIPIT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83622,
+    "name": "MATAYUMTAYUM",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83634,
+    "name": "MATURANOC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83664,
+    "name": "MEYCAUAYAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83711,
+    "name": "MORIONES",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83716,
+    "name": "MOTRICO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83748,
+    "name": "NAGPANDAYAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83765,
+    "name": "NAMBALAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83770,
+    "name": "NANCAMARINAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83815,
+    "name": "NIEVES",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83819,
+    "name": "NIUGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83822,
+    "name": "NORZAGARAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83835,
+    "name": "OBANDO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83857,
+    "name": "ORANI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83859,
+    "name": "ORION",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83874,
+    "name": "PACO ROMAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83878,
+    "name": "PADAPADA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83903,
+    "name": "PAITAN NORTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83918,
+    "name": "PALAYAN CITY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83932,
+    "name": "PALUSAPIS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83934,
+    "name": "PAMATAWAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83942,
+    "name": "PANABINGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83951,
+    "name": "PANAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83956,
+    "name": "PANCE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83958,
+    "name": "PANDACAQUI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83965,
+    "name": "PANDI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83966,
+    "name": "PANDO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 83994,
+    "name": "PANLINLANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84004,
+    "name": "PANTUBIG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84009,
+    "name": "PAOMBONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84010,
+    "name": "PAPAYA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84025,
+    "name": "PARISTA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84056,
+    "name": "PAU",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84081,
+    "name": "PIAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84104,
+    "name": "PINAMBARAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84118,
+    "name": "PIO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84127,
+    "name": "PIÑAHAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84137,
+    "name": "POBLACION SAN FELIPE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84164,
+    "name": "PORAIS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84171,
+    "name": "PRADO SIONGCO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84263,
+    "name": "PULILAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84265,
+    "name": "PULO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84266,
+    "name": "PULONG GUBAT",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84267,
+    "name": "PULONG SAMPALOK",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84270,
+    "name": "PULUNG SANTOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84271,
+    "name": "PULUNGMASLE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84276,
+    "name": "PUNCAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84284,
+    "name": "PURAC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84292,
+    "name": "PUTLOD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84321,
+    "name": "RAJAL NORTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84367,
+    "name": "SABANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84381,
+    "name": "SAGANA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84401,
+    "name": "SALAPUNGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84404,
+    "name": "SALAZA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84422,
+    "name": "SALVACION I",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84440,
+    "name": "SAN ALEJANDRO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84445,
+    "name": "SAN ANTON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84454,
+    "name": "SAN BASILIO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84461,
+    "name": "SAN CASIMIRO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84464,
+    "name": "SAN CRISTOBAL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84476,
+    "name": "SAN FELIPE OLD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84523,
+    "name": "SAN JOSE DEL MONTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84532,
+    "name": "SAN JUAN DE MATA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84581,
+    "name": "SAN PATRICIO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84610,
+    "name": "SAN ROQUE DAU FIRST",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84626,
+    "name": "SAN VINCENTE",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84673,
+    "name": "SANTA INES WEST",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84675,
+    "name": "SANTA JULIANA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84704,
+    "name": "SANTA TERESA FIRST",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84717,
+    "name": "SANTO CRISTO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84729,
+    "name": "SANTO ROSARIO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84742,
+    "name": "SAPANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84743,
+    "name": "SAPANG BUHO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84746,
+    "name": "SAPOL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84755,
+    "name": "SAYSAIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84762,
+    "name": "SEXMOAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84774,
+    "name": "SIBUL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84780,
+    "name": "SICLONG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84815,
+    "name": "SINILIAN FIRST",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84843,
+    "name": "SOLEDAD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84863,
+    "name": "SUKLAYIN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84864,
+    "name": "SULA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84872,
+    "name": "SULUCAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84890,
+    "name": "TABACAO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84906,
+    "name": "TABON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84912,
+    "name": "TABUATING",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84957,
+    "name": "TAL I MUN DOC",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84962,
+    "name": "TALAGA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84970,
+    "name": "TALANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 84996,
+    "name": "TALTAL",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85056,
+    "name": "TARIJI",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85061,
+    "name": "TARTARO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85070,
+    "name": "TAYABO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85086,
+    "name": "TELABASTAGAN",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85119,
+    "name": "TIKIW",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85131,
+    "name": "TINANG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85166,
+    "name": "TONDOD",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85239,
+    "name": "UACON",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85251,
+    "name": "UMIRAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85264,
+    "name": "UPIG",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85281,
+    "name": "VARGAS",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85292,
+    "name": "VILLA AGLIPAY",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85293,
+    "name": "VILLA ISLA",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85310,
+    "name": "VIZAL SAN PABLO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  },
+  {
+    "id": 85311,
+    "name": "VIZAL SANTO NIÑO",
+    "state": "CENTRAL LUZON",
+    "state_iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS"
+  }
+]

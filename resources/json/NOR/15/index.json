@@ -1,0 +1,522 @@
+[
+  {
+    "id": 79050,
+    "name": "AUKRA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79052,
+    "name": "AURE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79058,
+    "name": "AVERØY",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79066,
+    "name": "BATNFJORDSØRA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79086,
+    "name": "BRATTVÅG",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79111,
+    "name": "EIDE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79116,
+    "name": "EIDSVÅG",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79121,
+    "name": "ELNESVÅGEN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79164,
+    "name": "FRÆNA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79176,
+    "name": "GISKE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79177,
+    "name": "GJEMNES",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79200,
+    "name": "HALSA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79205,
+    "name": "HARAM",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79207,
+    "name": "HAREID",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79221,
+    "name": "HERØY",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79225,
+    "name": "HJELSET",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79234,
+    "name": "HOPEN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79288,
+    "name": "KRISTIANSUND",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79303,
+    "name": "LARSNES",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79364,
+    "name": "MIDSUND",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79372,
+    "name": "MOLDE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79397,
+    "name": "NESSET",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79405,
+    "name": "NORDDAL",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79410,
+    "name": "NORDSTRANDA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79440,
+    "name": "RAUMA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79448,
+    "name": "RENSVIK",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79481,
+    "name": "SANDE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79486,
+    "name": "SANDØY",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79501,
+    "name": "SJØHOLT",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79514,
+    "name": "SKODJE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79525,
+    "name": "SMØLA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79542,
+    "name": "STEINSHAMN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79549,
+    "name": "STORDAL",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79556,
+    "name": "STRANDA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79562,
+    "name": "SULA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79565,
+    "name": "SUNNDAL",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79566,
+    "name": "SUNNDALSØRA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79567,
+    "name": "SURNADAL",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79573,
+    "name": "SYKKYLVEN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79593,
+    "name": "TINGVOLL",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79600,
+    "name": "TOMRA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79623,
+    "name": "ULSTEIN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79624,
+    "name": "ULSTEINVIK",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79625,
+    "name": "ULSTEINVIK WEATHER PWS STATION",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79632,
+    "name": "VANYLVEN",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79635,
+    "name": "VATNE",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79644,
+    "name": "VESTNES",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79660,
+    "name": "VOLDA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79678,
+    "name": "ÅLESUND",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79680,
+    "name": "ÅNDALSNES",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79697,
+    "name": "ØRSKOG",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79698,
+    "name": "ØRSTA",
+    "state": "MØRE OG ROMSDAL",
+    "state_iso2": "15",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  }
+]

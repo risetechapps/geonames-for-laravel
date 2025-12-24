@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 111005,
+    "name": "ADA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111009,
+    "name": "ADAIR",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111052,
+    "name": "AFTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111158,
+    "name": "ALFALFA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111252,
+    "name": "ALTUS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111256,
+    "name": "ALVA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111298,
+    "name": "ANADARKO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111374,
+    "name": "ANTLERS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111379,
+    "name": "APACHE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111412,
+    "name": "ARAPAHO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111442,
+    "name": "ARDMORE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111459,
+    "name": "ARKOMA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111483,
+    "name": "ARNETT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111603,
+    "name": "ATOKA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111606,
+    "name": "ATOKA COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111833,
+    "name": "BARNSDALL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111860,
+    "name": "BARTLESVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111994,
+    "name": "BEAVER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111998,
+    "name": "BEAVER COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112016,
+    "name": "BECKHAM",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112045,
+    "name": "BEGGS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112273,
+    "name": "BETHANY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112283,
+    "name": "BETHEL ACRES",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112370,
+    "name": "BIXBY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112396,
+    "name": "BLACKWELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112405,
+    "name": "BLAINE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112417,
+    "name": "BLANCHARD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112509,
+    "name": "BOISE CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112513,
+    "name": "BOLEY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112702,
+    "name": "BRAY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112816,
+    "name": "BRISTOW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112841,
+    "name": "BROKEN ARROW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112842,
+    "name": "BROKEN BOW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112961,
+    "name": "BRYAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113008,
+    "name": "BUFFALO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113088,
+    "name": "BURNS FLAT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113104,
+    "name": "BUSHYHEAD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113137,
+    "name": "BYNG",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113155,
+    "name": "CACHE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113159,
+    "name": "CADDO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113160,
+    "name": "CADDO COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113195,
+    "name": "CALERA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113315,
+    "name": "CANADIAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113425,
+    "name": "CARNEGIE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113482,
+    "name": "CARTER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113576,
+    "name": "CATOOSA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113677,
+    "name": "CENTRAL HIGH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113729,
+    "name": "CHANDLER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113823,
+    "name": "CHECOTAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113830,
+    "name": "CHELSEA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113847,
+    "name": "CHEROKEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113853,
+    "name": "CHEROKEE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113925,
+    "name": "CHEYENNE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113941,
+    "name": "CHICKASHA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113985,
+    "name": "CHOCTAW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113988,
+    "name": "CHOCTAW COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113990,
+    "name": "CHOUTEAU",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114024,
+    "name": "CIMARRON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114107,
+    "name": "CLAREMORE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114237,
+    "name": "CLEORA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114245,
+    "name": "CLEVELAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114250,
+    "name": "CLEVELAND COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114276,
+    "name": "CLINTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114328,
+    "name": "COAL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114336,
+    "name": "COALGATE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114378,
+    "name": "COLBERT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114436,
+    "name": "COLLINSVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114510,
+    "name": "COMANCHE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114513,
+    "name": "COMANCHE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114523,
+    "name": "COMMERCE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114615,
+    "name": "COPELAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114636,
+    "name": "CORDELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114697,
+    "name": "COTTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114746,
+    "name": "COWETA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114757,
+    "name": "CRAIG",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114789,
+    "name": "CREEK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114794,
+    "name": "CRESCENT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114931,
+    "name": "CUSHING",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114935,
+    "name": "CUSTER COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114959,
+    "name": "CYRIL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115072,
+    "name": "DAVIS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115187,
+    "name": "DEL CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115204,
+    "name": "DELAWARE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115302,
+    "name": "DEWEY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115303,
+    "name": "DEWEY COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115330,
+    "name": "DICKSON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115482,
+    "name": "DRUMRIGHT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115521,
+    "name": "DUNCAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115567,
+    "name": "DURANT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115877,
+    "name": "EDMOND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115935,
+    "name": "EL RENO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115964,
+    "name": "ELGIN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115983,
+    "name": "ELK CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116031,
+    "name": "ELLIS COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116138,
+    "name": "ENID",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116163,
+    "name": "ERICK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116225,
+    "name": "EUFAULA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116302,
+    "name": "FAIRFAX",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116329,
+    "name": "FAIRLAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116350,
+    "name": "FAIRVIEW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116565,
+    "name": "FLETCHER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116665,
+    "name": "FOREST PARK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116713,
+    "name": "FORT GIBSON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116886,
+    "name": "FREDERICK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117082,
+    "name": "GARFIELD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117104,
+    "name": "GARVIN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117130,
+    "name": "GEARY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117176,
+    "name": "GERONIMO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117302,
+    "name": "GLENPOOL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117365,
+    "name": "GOLDSBY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117392,
+    "name": "GOODWELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117427,
+    "name": "GRADY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117491,
+    "name": "GRANITE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117510,
+    "name": "GRANT COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117714,
+    "name": "GREER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117754,
+    "name": "GROVE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117812,
+    "name": "GUTHRIE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117818,
+    "name": "GUYMON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117867,
+    "name": "HALL PARK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118028,
+    "name": "HARMON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118034,
+    "name": "HARPER COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118038,
+    "name": "HARRAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118103,
+    "name": "HARTSHORNE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118123,
+    "name": "HASKELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118125,
+    "name": "HASKELL COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118218,
+    "name": "HEALDTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118226,
+    "name": "HEAVENER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118250,
+    "name": "HELENA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118292,
+    "name": "HENNESSEY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118307,
+    "name": "HENRYETTA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118488,
+    "name": "HINTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118496,
+    "name": "HOBART",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118526,
+    "name": "HOLDENVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118547,
+    "name": "HOLLIS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118609,
+    "name": "HOMINY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118628,
+    "name": "HOOKER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118758,
+    "name": "HUGHES",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118765,
+    "name": "HUGO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118868,
+    "name": "IDABEL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118948,
+    "name": "INOLA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119086,
+    "name": "JACKSON COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119153,
+    "name": "JAY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119185,
+    "name": "JEFFERSON COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119217,
+    "name": "JENKS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119282,
+    "name": "JOHNSTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119291,
+    "name": "JONES",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119344,
+    "name": "JUSTICE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119401,
+    "name": "KAY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119430,
+    "name": "KELLYVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119503,
+    "name": "KENWOOD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119553,
+    "name": "KIEFER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119592,
+    "name": "KINGFISHER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119593,
+    "name": "KINGFISHER COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119622,
+    "name": "KINGSTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119647,
+    "name": "KIOWA COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119704,
+    "name": "KONAWA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119715,
+    "name": "KREBS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120116,
+    "name": "LANGSTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120173,
+    "name": "LATIMER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120218,
+    "name": "LAVERNE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120250,
+    "name": "LAWTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120259,
+    "name": "LE FLORE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120445,
+    "name": "LEXINGTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120523,
+    "name": "LINCOLN COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120572,
+    "name": "LINDSAY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120687,
+    "name": "LOCUST GROVE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120698,
+    "name": "LOGAN COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120726,
+    "name": "LONE GROVE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120755,
+    "name": "LONGTOWN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120820,
+    "name": "LOVE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120894,
+    "name": "LUTHER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120983,
+    "name": "MADILL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121053,
+    "name": "MAJOR",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121110,
+    "name": "MANGUM",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121133,
+    "name": "MANNFORD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121217,
+    "name": "MARIETTA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121285,
+    "name": "MARLOW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121314,
+    "name": "MARSHALL COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121416,
+    "name": "MAUD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121435,
+    "name": "MAYES",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121452,
+    "name": "MAYSVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121462,
+    "name": "MCALESTER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121469,
+    "name": "MCCLAIN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121481,
+    "name": "MCCORD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121490,
+    "name": "MCCURTAIN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121514,
+    "name": "MCINTOSH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121536,
+    "name": "MCLOUD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121591,
+    "name": "MEDFORD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121612,
+    "name": "MEEKER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121691,
+    "name": "MERIDIAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121747,
+    "name": "MIAMI",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121824,
+    "name": "MIDWEST CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121927,
+    "name": "MINCO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122200,
+    "name": "MOORE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122206,
+    "name": "MOORELAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122266,
+    "name": "MORRIS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122325,
+    "name": "MOUNDS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122456,
+    "name": "MULDROW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122494,
+    "name": "MURRAY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122512,
+    "name": "MUSKOGEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122513,
+    "name": "MUSKOGEE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122515,
+    "name": "MUSTANG",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122820,
+    "name": "NEWCASTLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122832,
+    "name": "NEWKIRK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122891,
+    "name": "NICHOLS HILLS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122897,
+    "name": "NICOMA PARK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122903,
+    "name": "NINNEKAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122916,
+    "name": "NOBLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122917,
+    "name": "NOBLE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122949,
+    "name": "NORMAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123209,
+    "name": "NOWATA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123210,
+    "name": "NOWATA COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123279,
+    "name": "OAKHURST",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123287,
+    "name": "OAKLAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123389,
+    "name": "OILTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123395,
+    "name": "OKARCHE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123400,
+    "name": "OKEENE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123401,
+    "name": "OKEMAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123403,
+    "name": "OKFUSKEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123405,
+    "name": "OKLAHOMA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123404,
+    "name": "OKLAHOMA CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123406,
+    "name": "OKMULGEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123407,
+    "name": "OKMULGEE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123492,
+    "name": "OOLOGAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123591,
+    "name": "OSAGE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123639,
+    "name": "OTTAWA COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123658,
+    "name": "OWASSO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123797,
+    "name": "PANAMA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123847,
+    "name": "PARK HILL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123925,
+    "name": "PAULS VALLEY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123930,
+    "name": "PAWHUSKA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123934,
+    "name": "PAWNEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123937,
+    "name": "PAWNEE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123946,
+    "name": "PAYNE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124062,
+    "name": "PERKINS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124069,
+    "name": "PERRY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124167,
+    "name": "PIEDMONT",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124270,
+    "name": "PINK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124295,
+    "name": "PITTSBURG",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124419,
+    "name": "POCOLA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124464,
+    "name": "PONCA CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124478,
+    "name": "PONTOTOC COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124579,
+    "name": "POTEAU",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124590,
+    "name": "POTTAWATOMIE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124622,
+    "name": "PRAGUE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124726,
+    "name": "PRYOR",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124727,
+    "name": "PRYOR CREEK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124753,
+    "name": "PURCELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124759,
+    "name": "PUSHMATAHA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124804,
+    "name": "QUINTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125144,
+    "name": "RINGLING",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125347,
+    "name": "ROGER MILLS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125352,
+    "name": "ROGERS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125359,
+    "name": "ROLAND",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125522,
+    "name": "RUSH SPRINGS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125745,
+    "name": "SALINA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125762,
+    "name": "SALLISAW",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125861,
+    "name": "SAND SPRINGS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125933,
+    "name": "SAPULPA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125989,
+    "name": "SAYRE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126145,
+    "name": "SEMINOLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126149,
+    "name": "SEMINOLE COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126165,
+    "name": "SEQUOYAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126241,
+    "name": "SHATTUCK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126250,
+    "name": "SHAWNEE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126478,
+    "name": "SKIATOOK",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126494,
+    "name": "SLAUGHTERVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126549,
+    "name": "SNYDER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126822,
+    "name": "SPENCER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126833,
+    "name": "SPERRY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126840,
+    "name": "SPIRO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127022,
+    "name": "STEPHENS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127057,
+    "name": "STIGLER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127060,
+    "name": "STILLWATER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127064,
+    "name": "STILWELL",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127123,
+    "name": "STRATFORD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127139,
+    "name": "STROUD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127195,
+    "name": "SULPHUR",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127377,
+    "name": "TAHLEQUAH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127388,
+    "name": "TALIHINA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127398,
+    "name": "TALOGA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127478,
+    "name": "TECUMSEH",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127543,
+    "name": "TEXANNA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127548,
+    "name": "TEXAS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127564,
+    "name": "THE VILLAGE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127578,
+    "name": "THOMAS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127650,
+    "name": "TILLMAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127682,
+    "name": "TISHOMINGO",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127721,
+    "name": "TONKAWA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127888,
+    "name": "TULSA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127889,
+    "name": "TULSA COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127899,
+    "name": "TURLEY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127918,
+    "name": "TUTTLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127981,
+    "name": "UNION CITY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128181,
+    "name": "VERDIGRIS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128214,
+    "name": "VIAN",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128277,
+    "name": "VINITA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128329,
+    "name": "WAGONER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128330,
+    "name": "WAGONER COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128429,
+    "name": "WALTERS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128473,
+    "name": "WARNER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128475,
+    "name": "WARR ACRES",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128564,
+    "name": "WASHINGTON COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128589,
+    "name": "WASHITA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128636,
+    "name": "WATONGA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128651,
+    "name": "WAUKOMIS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128659,
+    "name": "WAURIKA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128717,
+    "name": "WEATHERFORD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129077,
+    "name": "WESTVILLE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129091,
+    "name": "WETUMKA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129096,
+    "name": "WEWOKA",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129227,
+    "name": "WILBURTON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129330,
+    "name": "WILSON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129463,
+    "name": "WISTER",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129549,
+    "name": "WOODS",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129575,
+    "name": "WOODWARD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129577,
+    "name": "WOODWARD COUNTY",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129633,
+    "name": "WYNNEWOOD",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129654,
+    "name": "YALE",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129730,
+    "name": "YUKON",
+    "state": "OKLAHOMA",
+    "state_iso2": "OK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

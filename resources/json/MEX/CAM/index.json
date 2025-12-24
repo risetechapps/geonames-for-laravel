@@ -1,0 +1,732 @@
+[
+  {
+    "id": 68019,
+    "name": "ABELARDO L. RODRÍGUEZ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68197,
+    "name": "ALFREDO V. BONFIL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68223,
+    "name": "ALTAMIRA DE ZINÁPARO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68393,
+    "name": "ATASTA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68481,
+    "name": "BACABCHÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68606,
+    "name": "BENITO JUÁREZ UNO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68630,
+    "name": "BOLONCHÉN DE REJÓN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68696,
+    "name": "BÉCAL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68726,
+    "name": "CALAKMUL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68741,
+    "name": "CALKINÍ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68770,
+    "name": "CAMPECHE",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68789,
+    "name": "CANDELARIA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68827,
+    "name": "CARMEN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68838,
+    "name": "CARRILLO PUERTO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68858,
+    "name": "CASTAMAY",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68968,
+    "name": "CHAMPOTÓN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69019,
+    "name": "CHICBUL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69087,
+    "name": "CHINÁ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69117,
+    "name": "CHUNCHINTOK",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69195,
+    "name": "CIUDAD DEL CARMEN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69294,
+    "name": "COLONIA EMILIANO ZAPATA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69463,
+    "name": "CONSTITUCIÓN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69636,
+    "name": "CUMPICH",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69689,
+    "name": "DIVISIÓN DEL NORTE",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69712,
+    "name": "DON SAMUEL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69735,
+    "name": "DZIBALCHÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69741,
+    "name": "DZITBALCHÉ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69824,
+    "name": "EL AGUACATAL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70058,
+    "name": "EL NARANJO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70324,
+    "name": "ESCÁRCEGA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70662,
+    "name": "HAMPOLOL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70663,
+    "name": "HARO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70664,
+    "name": "HECELCHAKÁN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70707,
+    "name": "HOOL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70708,
+    "name": "HOPELCHÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70883,
+    "name": "ISLA AGUADA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70892,
+    "name": "ITURBIDE",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71331,
+    "name": "LA JOYA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71354,
+    "name": "LA LIBERTAD",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71663,
+    "name": "LERMA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71677,
+    "name": "LICENCIADO GUSTAVO DÍAZ ORDAZ (18 DE MARZO)",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71808,
+    "name": "LOS LAURELES",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71951,
+    "name": "MAMANTEL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72016,
+    "name": "MATAMOROS",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72030,
+    "name": "MAYA TECÚN I",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72405,
+    "name": "NUEVO PROGRESO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72426,
+    "name": "NUNKINÍ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72584,
+    "name": "PALIZADA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72759,
+    "name": "PICH",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72830,
+    "name": "POCBOC",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72847,
+    "name": "POMUCH",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73190,
+    "name": "SABANCUY",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73331,
+    "name": "SAN ANTONIO CÁRDENAS",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73347,
+    "name": "SAN ANTONIO SAHCABCHÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73573,
+    "name": "SAN FRANCISCO KOBÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74299,
+    "name": "SAN PABLO PIXTÚN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74608,
+    "name": "SANTA CRUZ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74624,
+    "name": "SANTA CRUZ EX-HACIENDA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74636,
+    "name": "SANTA CRUZ PUEBLO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75003,
+    "name": "SANTO DOMINGO KESTÉ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75065,
+    "name": "SEYBAPLAYA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75076,
+    "name": "SIHOCHAC",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75137,
+    "name": "SUC-TUC",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75215,
+    "name": "TANKUCHÉ",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75345,
+    "name": "TENABO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75390,
+    "name": "TEPAKÁN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75563,
+    "name": "TIKINMUL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75865,
+    "name": "UKÚM",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76029,
+    "name": "VILLA MADERO",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76130,
+    "name": "XBACAB",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76151,
+    "name": "XMABÉN",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76204,
+    "name": "XPUJIL",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76358,
+    "name": "ZOH-LAGUNA",
+    "state": "CAMPECHE",
+    "state_iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

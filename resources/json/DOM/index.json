@@ -1,0 +1,422 @@
+[
+  {
+    "id": 4114,
+    "name": "AZUA",
+    "iso2": "02",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4105,
+    "name": "BAORUCO",
+    "iso2": "03",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4090,
+    "name": "BARAHONA",
+    "iso2": "04",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5540,
+    "name": "CIBAO NORDESTE",
+    "iso2": "33",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5541,
+    "name": "CIBAO NOROESTE",
+    "iso2": "34",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5542,
+    "name": "CIBAO NORTE",
+    "iso2": "35",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5543,
+    "name": "CIBAO SUR",
+    "iso2": "36",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4107,
+    "name": "DAJABÓN",
+    "iso2": "05",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4095,
+    "name": "DISTRITO NACIONAL",
+    "iso2": "01",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4113,
+    "name": "DUARTE",
+    "iso2": "06",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4086,
+    "name": "EL SEIBO",
+    "iso2": "08",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5544,
+    "name": "EL VALLE",
+    "iso2": "37",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5539,
+    "name": "ELÍAS PIÑA",
+    "iso2": "07",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5545,
+    "name": "ENRIQUILLO",
+    "iso2": "38",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4102,
+    "name": "ESPAILLAT",
+    "iso2": "09",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4106,
+    "name": "HATO MAYOR",
+    "iso2": "30",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4089,
+    "name": "HERMANAS MIRABAL",
+    "iso2": "19",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5546,
+    "name": "HIGUAMO",
+    "iso2": "39",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4097,
+    "name": "INDEPENDENCIA",
+    "iso2": "10",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4109,
+    "name": "LA ALTAGRACIA",
+    "iso2": "11",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4087,
+    "name": "LA ROMANA",
+    "iso2": "12",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4116,
+    "name": "LA VEGA",
+    "iso2": "13",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4094,
+    "name": "MARÍA TRINIDAD SÁNCHEZ",
+    "iso2": "14",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4099,
+    "name": "MONSEÑOR NOUEL",
+    "iso2": "28",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4115,
+    "name": "MONTE CRISTI",
+    "iso2": "15",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4111,
+    "name": "MONTE PLATA",
+    "iso2": "29",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5547,
+    "name": "OZAMA",
+    "iso2": "40",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4101,
+    "name": "PEDERNALES",
+    "iso2": "16",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4096,
+    "name": "PERAVIA",
+    "iso2": "17",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4092,
+    "name": "PUERTO PLATA",
+    "iso2": "18",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4103,
+    "name": "SAMANÁ",
+    "iso2": "20",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4091,
+    "name": "SAN CRISTÓBAL",
+    "iso2": "21",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4112,
+    "name": "SAN JOSÉ DE OCOA",
+    "iso2": "31",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4098,
+    "name": "SAN JUAN",
+    "iso2": "22",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4110,
+    "name": "SAN PEDRO DE MACORÍS",
+    "iso2": "23",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4108,
+    "name": "SANTIAGO",
+    "iso2": "25",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4100,
+    "name": "SANTIAGO RODRÍGUEZ",
+    "iso2": "26",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4093,
+    "name": "SANTO DOMINGO",
+    "iso2": "32",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4088,
+    "name": "SÁNCHEZ RAMÍREZ",
+    "iso2": "24",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5548,
+    "name": "VALDESIA",
+    "iso2": "41",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 4104,
+    "name": "VALVERDE",
+    "iso2": "27",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5549,
+    "name": "YUMA",
+    "iso2": "42",
+    "country": "DOMINICAN REPUBLIC",
+    "country_iso2": "DO",
+    "country_iso3": "DOM",
+    "country_native": "REPÚBLICA DOMINICANA",
+    "timezone": "America/Santo_Domingo"
+  }
+]

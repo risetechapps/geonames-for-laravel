@@ -1,0 +1,722 @@
+[
+  {
+    "id": 97477,
+    "name": "ABAGUR",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97646,
+    "name": "ANZHERO-SUDZHENSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97685,
+    "name": "ARTYSHTA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97748,
+    "name": "BACHATSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97806,
+    "name": "BARZAS",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97852,
+    "name": "BELOGORSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97867,
+    "name": "BELOVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97907,
+    "name": "BERËZOVSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98039,
+    "name": "BOROVOY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98199,
+    "name": "CHISTOGORSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98576,
+    "name": "GRAMOTEINO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98617,
+    "name": "GUR’YEVSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98677,
+    "name": "INSKOY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98723,
+    "name": "ITATSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98749,
+    "name": "IZHMORSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98799,
+    "name": "KALTAN",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98862,
+    "name": "KARAGAYLA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98921,
+    "name": "KAZ",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98933,
+    "name": "KEDROVKA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98937,
+    "name": "KEMEROVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99078,
+    "name": "KISELËVSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99272,
+    "name": "KRAPIVINSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99298,
+    "name": "KRASNOBRODSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99307,
+    "name": "KRASNOGORSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99352,
+    "name": "KRASNOYE",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99499,
+    "name": "KUZEDEYEVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99569,
+    "name": "LENINSK-KUZNETSKIY RAYON",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99570,
+    "name": "LENINSK-KUZNETSKY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99639,
+    "name": "LISTVYAGI",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99795,
+    "name": "MARIINSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99880,
+    "name": "MEZHDURECHENSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100003,
+    "name": "MUNDYBASH",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100033,
+    "name": "MYSKI",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100131,
+    "name": "NIKITINSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100257,
+    "name": "NOVOKUZNETSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100258,
+    "name": "NOVOKUZNETSKIY RAYON",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100279,
+    "name": "NOVOPESTEREVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100487,
+    "name": "OSINNIKI",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100679,
+    "name": "PIONER",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100703,
+    "name": "PLOTNIKOVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100764,
+    "name": "POLYSAYEVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100842,
+    "name": "PRITOMSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100859,
+    "name": "PROKOP’YEVSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100860,
+    "name": "PROKOP’YEVSKIY RAYON",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100866,
+    "name": "PROMYSHLENNAYA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100867,
+    "name": "PROMYSHLENNOVSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101023,
+    "name": "RUDNICHNYY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101077,
+    "name": "SALAIR",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101305,
+    "name": "SHEREGESH",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101490,
+    "name": "SOSNOVKA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101527,
+    "name": "SPASSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101572,
+    "name": "STAROBACHATY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101590,
+    "name": "STAROPESTEREVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101684,
+    "name": "SUSLOVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101788,
+    "name": "TASHTAGOL",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101789,
+    "name": "TASHTAGOL’SKIY RAYON",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101802,
+    "name": "TAYGA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101806,
+    "name": "TAYZHINA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101815,
+    "name": "TEMIRTAU",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101864,
+    "name": "TISUL’",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101894,
+    "name": "TOPKI",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101930,
+    "name": "TRUDARMEYSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101990,
+    "name": "TYAZHINSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102085,
+    "name": "URSK",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102230,
+    "name": "VERKH-CHEBULA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102463,
+    "name": "YAGUNOVO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102464,
+    "name": "YAGUNOVSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102510,
+    "name": "YASHKINO",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102517,
+    "name": "YAYA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102593,
+    "name": "YURGA",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102595,
+    "name": "YURGINSKIY RAYON",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102697,
+    "name": "ZELENOGORSKIY",
+    "state": "KEMEROVO",
+    "state_iso2": "KEM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

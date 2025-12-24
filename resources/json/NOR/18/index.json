@@ -1,0 +1,782 @@
+[
+  {
+    "id": 79038,
+    "name": "ALSTAHAUG",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79041,
+    "name": "ANDENES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79042,
+    "name": "ANDØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79061,
+    "name": "BALLANGEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79067,
+    "name": "BEIARN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79074,
+    "name": "BINDAL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79076,
+    "name": "BJERKVIK",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79081,
+    "name": "BODØ",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79082,
+    "name": "BOGEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79091,
+    "name": "BRØNNØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79092,
+    "name": "BRØNNØYSUND",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79096,
+    "name": "BØ",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79108,
+    "name": "DØNNA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79128,
+    "name": "EVENES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79130,
+    "name": "EVJEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79135,
+    "name": "FAUSKE",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79146,
+    "name": "FLAKSTAD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79175,
+    "name": "GILDESKÅL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79181,
+    "name": "GLADSTAD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79182,
+    "name": "GLOMFJORD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79186,
+    "name": "GRANE",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79189,
+    "name": "GRAVDAL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79197,
+    "name": "HADSEL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79202,
+    "name": "HAMARØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79210,
+    "name": "HATTFJELLDAL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79213,
+    "name": "HAUKNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79215,
+    "name": "HEMNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79216,
+    "name": "HEMNESBERGET",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79220,
+    "name": "HERØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79255,
+    "name": "INNDYR",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79263,
+    "name": "KABELVÅG",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79273,
+    "name": "KJØPSVIK",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79285,
+    "name": "KORGEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79309,
+    "name": "LEIRFJORD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79313,
+    "name": "LEKNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79314,
+    "name": "LELAND",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79334,
+    "name": "LURØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79343,
+    "name": "LØDING",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79344,
+    "name": "LØDINGEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79345,
+    "name": "LØPSMARKA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79358,
+    "name": "MELBU",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79362,
+    "name": "MELØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79366,
+    "name": "MO I RANA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79373,
+    "name": "MOSJØEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79374,
+    "name": "MOSKENES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79377,
+    "name": "MYRE",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79386,
+    "name": "NARVIK",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79393,
+    "name": "NESNA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79436,
+    "name": "RANA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79442,
+    "name": "REINE",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79455,
+    "name": "ROGNAN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79466,
+    "name": "RØDØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79470,
+    "name": "RØST",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79475,
+    "name": "SALTDAL",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79484,
+    "name": "SANDNESSJØEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79534,
+    "name": "SORTLAND",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79540,
+    "name": "STEIGEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79546,
+    "name": "STOKMARKNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79557,
+    "name": "STRAUME",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79560,
+    "name": "STRAUMEN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79571,
+    "name": "SVOLVÆR",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79577,
+    "name": "SØMNA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79583,
+    "name": "SØRFOLD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79584,
+    "name": "SØRLAND",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79591,
+    "name": "TERRÅK",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79595,
+    "name": "TJELDSUND",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79607,
+    "name": "TROFORS",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79611,
+    "name": "TRÆNA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79616,
+    "name": "TYSFJORD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79637,
+    "name": "VEFSN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79638,
+    "name": "VEGA",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79647,
+    "name": "VESTVÅGØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79648,
+    "name": "VEVELSTAD",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79651,
+    "name": "VIK",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79663,
+    "name": "VÅGAN",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79669,
+    "name": "VÆRØY",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79692,
+    "name": "ØKSNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  },
+  {
+    "id": 79696,
+    "name": "ØRNES",
+    "state": "NORDLAND",
+    "state_iso2": "18",
+    "country": "NORWAY",
+    "country_iso2": "NO",
+    "country_iso3": "NOR",
+    "country_native": "NORGE"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": 17393,
+    "name": "ALTSTÄTTEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17394,
+    "name": "AMDEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17398,
+    "name": "ANDWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17419,
+    "name": "AU",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17430,
+    "name": "BAD RAGAZ",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17435,
+    "name": "BALGACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17458,
+    "name": "BENKEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17567,
+    "name": "BRONSCHHOFEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17580,
+    "name": "BUCHS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17606,
+    "name": "BÜTSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17678,
+    "name": "DEGERSHEIM",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17687,
+    "name": "DIEPOLDSAU",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17720,
+    "name": "EBNAT-KAPPEL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17730,
+    "name": "EGGERSRIET",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17736,
+    "name": "EICHBERG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17769,
+    "name": "ESCHENBACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17791,
+    "name": "FLAWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17794,
+    "name": "FLUMS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17821,
+    "name": "GAMS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17822,
+    "name": "GANTERSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17847,
+    "name": "GOLDACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17849,
+    "name": "GOLDINGEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17850,
+    "name": "GOMMISWALD",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17856,
+    "name": "GOSSAU",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17859,
+    "name": "GRABS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17890,
+    "name": "HAAG (RHEINTAL)",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17934,
+    "name": "HORN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17938,
+    "name": "HÄGGENSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17959,
+    "name": "JONA",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17962,
+    "name": "JONSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17969,
+    "name": "KALTBRUNN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17980,
+    "name": "KIRCHBERG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18009,
+    "name": "KRUMMENAU",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18081,
+    "name": "LICHTENSTEIG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18111,
+    "name": "LÜTISBURG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18160,
+    "name": "MOGELSBERG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18173,
+    "name": "MOSNANG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18178,
+    "name": "MUOLEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18194,
+    "name": "MÖRSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18221,
+    "name": "NIEDERBÜREN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18226,
+    "name": "NIEDERHELFENSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18255,
+    "name": "OBERHELFENSCHWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18262,
+    "name": "OBERRIET",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18269,
+    "name": "OBERUZWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18333,
+    "name": "QUARTEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18338,
+    "name": "RAPPERSWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18341,
+    "name": "REBSTEIN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18365,
+    "name": "RHEINECK",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18392,
+    "name": "RORSCHACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18410,
+    "name": "RÜTHI",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18438,
+    "name": "SANKT GALLEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18439,
+    "name": "SANKT GALLENKAPPEL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18440,
+    "name": "SANKT MARGRETHEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18442,
+    "name": "SANKT PETERZELL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18444,
+    "name": "SARGANS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18472,
+    "name": "SCHMERIKON",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18482,
+    "name": "SCHÄNIS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18509,
+    "name": "SENNWALD",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18515,
+    "name": "SEVELEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18581,
+    "name": "THAL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18654,
+    "name": "UZNACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18655,
+    "name": "UZWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18700,
+    "name": "WAHLKREIS RHEINTAL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18701,
+    "name": "WAHLKREIS RORSCHACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18702,
+    "name": "WAHLKREIS SARGANSERLAND",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18703,
+    "name": "WAHLKREIS SEE-GASTER",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18704,
+    "name": "WAHLKREIS ST. GALLEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18705,
+    "name": "WAHLKREIS TOGGENBURG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18706,
+    "name": "WAHLKREIS WERDENBERG",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18707,
+    "name": "WAHLKREIS WIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18711,
+    "name": "WALDKIRCH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18713,
+    "name": "WALENSTADT",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18725,
+    "name": "WATTWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18727,
+    "name": "WEESEN",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18749,
+    "name": "WIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18753,
+    "name": "WILDHAUS",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18759,
+    "name": "WITTENBACH",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18805,
+    "name": "ZUZWIL",
+    "state": "ST. GALLEN",
+    "state_iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

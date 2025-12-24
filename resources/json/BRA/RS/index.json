@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 10075,
+    "name": "ACEGUÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10097,
+    "name": "AGUDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10106,
+    "name": "AJURICABA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10122,
+    "name": "ALECRIM",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10124,
+    "name": "ALEGRETE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10126,
+    "name": "ALEGRIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10145,
+    "name": "ALMIRANTE TAMANDARÉ DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10148,
+    "name": "ALPESTRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10161,
+    "name": "ALTO ALEGRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10169,
+    "name": "ALTO FELIZ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10195,
+    "name": "ALVORADA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10207,
+    "name": "AMARAL FERRADOR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10215,
+    "name": "AMETISTA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10248,
+    "name": "ANDRÉ DA ROCHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10267,
+    "name": "ANTA GORDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10280,
+    "name": "ANTÔNIO PRADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10331,
+    "name": "ARAMBARÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10353,
+    "name": "ARARICÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10360,
+    "name": "ARATIBA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10412,
+    "name": "ARROIO DO MEIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10413,
+    "name": "ARROIO DO PADRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10414,
+    "name": "ARROIO DO SAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10415,
+    "name": "ARROIO DO TIGRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10416,
+    "name": "ARROIO DOS RATOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10410,
+    "name": "ARROIO GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10421,
+    "name": "ARVOREZINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10444,
+    "name": "AUGUSTO PESTANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10474,
+    "name": "BAGÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10488,
+    "name": "BALNEÁRIO PINHAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10536,
+    "name": "BARRA DO GUARITA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10541,
+    "name": "BARRA DO QUARAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10542,
+    "name": "BARRA DO RIBEIRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10543,
+    "name": "BARRA DO RIO AZUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10518,
+    "name": "BARRA FUNDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10548,
+    "name": "BARRACÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10567,
+    "name": "BARROS CASSAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10570,
+    "name": "BARÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10573,
+    "name": "BARÃO DE COTEGIPE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10577,
+    "name": "BARÃO DO TRIUNFO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10627,
+    "name": "BENJAMIN CONSTANT DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10629,
+    "name": "BENTO GONÇALVES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10669,
+    "name": "BOA VISTA DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10670,
+    "name": "BOA VISTA DO BURICÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10671,
+    "name": "BOA VISTA DO CADEADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10673,
+    "name": "BOA VISTA DO INCRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10675,
+    "name": "BOA VISTA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10701,
+    "name": "BOM JESUS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10719,
+    "name": "BOM PRINCÍPIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10721,
+    "name": "BOM PROGRESSO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10724,
+    "name": "BOM RETIRO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10744,
+    "name": "BOQUEIRÃO DO LEÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10756,
+    "name": "BOSSOROCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10762,
+    "name": "BOZANO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10763,
+    "name": "BRAGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10804,
+    "name": "BROCHIER",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10838,
+    "name": "BUTIÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10860,
+    "name": "CACEQUI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10873,
+    "name": "CACHOEIRA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10877,
+    "name": "CACHOEIRINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10884,
+    "name": "CACIQUE DOBLE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10901,
+    "name": "CAIBATÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10908,
+    "name": "CAIÇARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10940,
+    "name": "CAMAQUÃ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10942,
+    "name": "CAMARGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10945,
+    "name": "CAMBARÁ DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10959,
+    "name": "CAMPESTRE DA SERRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10966,
+    "name": "CAMPINA DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10972,
+    "name": "CAMPINAS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10984,
+    "name": "CAMPO BOM",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10999,
+    "name": "CAMPO NOVO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11010,
+    "name": "CAMPOS BORGES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11036,
+    "name": "CANDELÁRIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11038,
+    "name": "CANDIOTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11040,
+    "name": "CANELA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11043,
+    "name": "CANGUÇU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11049,
+    "name": "CANOAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11058,
+    "name": "CANUDOS DO VALE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11068,
+    "name": "CAPELA DE SANTANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11080,
+    "name": "CAPITÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11090,
+    "name": "CAPIVARI DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11097,
+    "name": "CAPÃO BONITO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11098,
+    "name": "CAPÃO DA CANOA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11099,
+    "name": "CAPÃO DO CIPÓ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11100,
+    "name": "CAPÃO DO LEÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11113,
+    "name": "CARAZINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11114,
+    "name": "CARAÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11138,
+    "name": "CARLOS BARBOSA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11140,
+    "name": "CARLOS GOMES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11174,
+    "name": "CASCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11179,
+    "name": "CASEIROS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11213,
+    "name": "CATUÍPE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11219,
+    "name": "CAXIAS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11223,
+    "name": "CAÇAPAVA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11236,
+    "name": "CENTENÁRIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11248,
+    "name": "CERRITO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11250,
+    "name": "CERRO BRANCO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11252,
+    "name": "CERRO GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11253,
+    "name": "CERRO GRANDE DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11254,
+    "name": "CERRO LARGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11259,
+    "name": "CHAPADA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11271,
+    "name": "CHARQUEADAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11272,
+    "name": "CHARRUA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11277,
+    "name": "CHIAPETTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11283,
+    "name": "CHUVISCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11284,
+    "name": "CHUÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11293,
+    "name": "CIDREIRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11296,
+    "name": "CIRÍACO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11323,
+    "name": "COLINAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11330,
+    "name": "COLORADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11374,
+    "name": "CONDOR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11388,
+    "name": "CONSTANTINA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11393,
+    "name": "COQUEIRO BAIXO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11395,
+    "name": "COQUEIROS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11415,
+    "name": "CORONEL BARROS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11416,
+    "name": "CORONEL BICACO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11428,
+    "name": "CORONEL PILAR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11453,
+    "name": "COTIPORÃ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11457,
+    "name": "COXILHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11466,
+    "name": "CRISSIUMAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11469,
+    "name": "CRISTAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11470,
+    "name": "CRISTAL DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11489,
+    "name": "CRUZ ALTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11493,
+    "name": "CRUZALTENSE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11500,
+    "name": "CRUZEIRO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11545,
+    "name": "CÂNDIDO GODÓI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11564,
+    "name": "DAVID CANABARRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11575,
+    "name": "DERRUBADAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11582,
+    "name": "DEZESSEIS DE NOVEMBRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11592,
+    "name": "DILERMANDO DE AGUIAR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11614,
+    "name": "DOIS IRMÃOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11615,
+    "name": "DOIS IRMÃOS DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11618,
+    "name": "DOIS LAJEADOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11628,
+    "name": "DOM FELICIANO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11632,
+    "name": "DOM PEDRITO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11634,
+    "name": "DOM PEDRO DE ALCÂNTARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11641,
+    "name": "DONA FRANCISCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11656,
+    "name": "DOUTOR MAURÍCIO CARDOSO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11658,
+    "name": "DOUTOR RICARDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11680,
+    "name": "ELDORADO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11694,
+    "name": "ENCANTADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11697,
+    "name": "ENCRUZILHADA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11703,
+    "name": "ENGENHO VELHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11709,
+    "name": "ENTRE RIOS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11710,
+    "name": "ENTRE-IJUÍS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11715,
+    "name": "EREBANGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11716,
+    "name": "ERECHIM",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11719,
+    "name": "ERNESTINA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11720,
+    "name": "ERVAL GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11721,
+    "name": "ERVAL SECO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11725,
+    "name": "ESMERALDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11733,
+    "name": "ESPERANÇA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11738,
+    "name": "ESPUMOSO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11743,
+    "name": "ESTAÇÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11744,
+    "name": "ESTEIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11748,
+    "name": "ESTRELA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11750,
+    "name": "ESTRELA VELHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11758,
+    "name": "ESTÂNCIA VELHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11762,
+    "name": "EUGÊNIO DE CASTRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11771,
+    "name": "FAGUNDES VARELA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11778,
+    "name": "FARROUPILHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11782,
+    "name": "FAXINAL DO SOTURNO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11784,
+    "name": "FAXINALZINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11787,
+    "name": "FAZENDA VILANOVA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11798,
+    "name": "FELIZ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11831,
+    "name": "FLORES DA CUNHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11842,
+    "name": "FLORIANO PEIXOTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11849,
+    "name": "FONTOURA XAVIER",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11851,
+    "name": "FORMIGUEIRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11860,
+    "name": "FORQUETINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11867,
+    "name": "FORTALEZA DOS VALOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11889,
+    "name": "FREDERICO WESTPHALEN",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11921,
+    "name": "GARIBALDI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11924,
+    "name": "GARRUCHOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11929,
+    "name": "GAURAMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11936,
+    "name": "GENERAL CÂMARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11940,
+    "name": "GENTIL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11943,
+    "name": "GETÚLIO VARGAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11946,
+    "name": "GIRUÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11949,
+    "name": "GLORINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11993,
+    "name": "GRAMADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11995,
+    "name": "GRAMADO DOS LOUREIROS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11994,
+    "name": "GRAMADO XAVIER",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12001,
+    "name": "GRAVATAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12010,
+    "name": "GUABIJU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12031,
+    "name": "GUAPORÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12045,
+    "name": "GUARANI DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12076,
+    "name": "GUAÍBA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12092,
+    "name": "HARMONIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12097,
+    "name": "HERVAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12099,
+    "name": "HERVEIRAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12106,
+    "name": "HORIZONTINA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12109,
+    "name": "HULHA NEGRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12111,
+    "name": "HUMAITÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12121,
+    "name": "IBARAMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12132,
+    "name": "IBIAÇÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12146,
+    "name": "IBIRAIARAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12150,
+    "name": "IBIRAPUITÃ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12156,
+    "name": "IBIRUBÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12194,
+    "name": "IGREJINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12205,
+    "name": "IJUÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12216,
+    "name": "ILÓPOLIS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12223,
+    "name": "IMBÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12225,
+    "name": "IMIGRANTE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12235,
+    "name": "INDEPENDÊNCIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12246,
+    "name": "INHACORÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12279,
+    "name": "IPIRANGA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12299,
+    "name": "IPÊ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12315,
+    "name": "IRAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12324,
+    "name": "ITAARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12345,
+    "name": "ITACURUBI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12436,
+    "name": "ITAPUCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12444,
+    "name": "ITAQUI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12453,
+    "name": "ITATI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12457,
+    "name": "ITATIBA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12504,
+    "name": "IVORÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12505,
+    "name": "IVOTI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12514,
+    "name": "JABOTICABA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12529,
+    "name": "JACUIZINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12532,
+    "name": "JACUTINGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12541,
+    "name": "JAGUARI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12549,
+    "name": "JAGUARÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12578,
+    "name": "JAQUIRANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12594,
+    "name": "JARI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12716,
+    "name": "JÓIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12719,
+    "name": "JÚLIO DE CASTILHOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12735,
+    "name": "LAGOA BONITA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12767,
+    "name": "LAGOA DOS TRÊS CANTOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12747,
+    "name": "LAGOA VERMELHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12770,
+    "name": "LAGOÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12775,
+    "name": "LAJEADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12779,
+    "name": "LAJEADO DO BUGRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12810,
+    "name": "LAVRAS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12823,
+    "name": "LIBERATO SALZANO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12836,
+    "name": "LINDOLFO COLLOR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12839,
+    "name": "LINHA NOVA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12898,
+    "name": "MACHADINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12935,
+    "name": "MAMPITUBA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12955,
+    "name": "MANOEL VIANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12960,
+    "name": "MAQUINÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12983,
+    "name": "MARATÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12984,
+    "name": "MARAU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12991,
+    "name": "MARCELINO RAMOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13008,
+    "name": "MARIANA PIMENTEL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13009,
+    "name": "MARIANO MORO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13029,
+    "name": "MARQUES DE SOUZA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13045,
+    "name": "MATA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13064,
+    "name": "MATO CASTELHANO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13066,
+    "name": "MATO LEITÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13067,
+    "name": "MATO QUEIMADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13087,
+    "name": "MAXIMILIANO DE ALMEIDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13089,
+    "name": "MAÇAMBARÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13123,
+    "name": "MINAS DO LEÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13137,
+    "name": "MIRAGUAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13185,
+    "name": "MONTAURI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13193,
+    "name": "MONTE ALEGRE DOS CAMPOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13199,
+    "name": "MONTE BELO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13218,
+    "name": "MONTENEGRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13233,
+    "name": "MORMAÇO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13238,
+    "name": "MORRINHOS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13243,
+    "name": "MORRO REDONDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13244,
+    "name": "MORRO REUTER",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13256,
+    "name": "MOSTARDAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13264,
+    "name": "MUITOS CAPÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13265,
+    "name": "MULITERNO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13289,
+    "name": "MUÇUM",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13323,
+    "name": "NICOLAU VERGUEIRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13333,
+    "name": "NONOAI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13347,
+    "name": "NOVA ALVORADA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13352,
+    "name": "NOVA ARAÇÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13356,
+    "name": "NOVA BASSANO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13358,
+    "name": "NOVA BOA VISTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13361,
+    "name": "NOVA BRÉSCIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13366,
+    "name": "NOVA CANDELÁRIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13377,
+    "name": "NOVA ESPERANÇA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13387,
+    "name": "NOVA HARTZ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13416,
+    "name": "NOVA PALMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13418,
+    "name": "NOVA PETRÓPOLIS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13421,
+    "name": "NOVA PRATA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13423,
+    "name": "NOVA PÁDUA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13424,
+    "name": "NOVA RAMADA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13428,
+    "name": "NOVA ROMA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13434,
+    "name": "NOVA SANTA RITA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13454,
+    "name": "NOVO BARREIRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13456,
+    "name": "NOVO CABRAIS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13459,
+    "name": "NOVO HAMBURGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13469,
+    "name": "NOVO MACHADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13480,
+    "name": "NOVO TIRADENTES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13482,
+    "name": "NOVO XINGU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13485,
+    "name": "NÃO ME TOQUE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13530,
+    "name": "OSÓRIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13568,
+    "name": "PAIM FILHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13585,
+    "name": "PALMARES DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13592,
+    "name": "PALMEIRA DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13607,
+    "name": "PALMITINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13612,
+    "name": "PANAMBI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13618,
+    "name": "PANTANO GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13657,
+    "name": "PARAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13663,
+    "name": "PARAÍSO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13668,
+    "name": "PARECI NOVO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13683,
+    "name": "PAROBÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13686,
+    "name": "PASSA SETE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13699,
+    "name": "PASSO DO SOBRADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13696,
+    "name": "PASSO FUNDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13732,
+    "name": "PAULO BENTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13739,
+    "name": "PAVERAMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13762,
+    "name": "PEDRAS ALTAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13780,
+    "name": "PEDRO OSÓRIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13790,
+    "name": "PEJUÇARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13791,
+    "name": "PELOTAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13828,
+    "name": "PICADA CAFÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13859,
+    "name": "PINHAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13861,
+    "name": "PINHAL DA SERRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13860,
+    "name": "PINHAL GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13867,
+    "name": "PINHEIRINHO DO VALE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13869,
+    "name": "PINHEIRO MACHADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13871,
+    "name": "PINHEIROS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13876,
+    "name": "PINTO BANDEIRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13903,
+    "name": "PIRAPÓ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13907,
+    "name": "PIRATINI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13940,
+    "name": "PLANALTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13971,
+    "name": "PONTE PRETA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13979,
+    "name": "PONTÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13994,
+    "name": "PORTO ALEGRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14009,
+    "name": "PORTO LUCENA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14010,
+    "name": "PORTO MAUÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14020,
+    "name": "PORTO VERA CRUZ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14023,
+    "name": "PORTO XAVIER",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14029,
+    "name": "PORTÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14040,
+    "name": "POUSO NOVO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14050,
+    "name": "POÇO DAS ANTAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14090,
+    "name": "PRESIDENTE LUCENA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14109,
+    "name": "PROGRESSO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14112,
+    "name": "PROTÁSIO ALVES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14117,
+    "name": "PUTINGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14126,
+    "name": "QUARAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14133,
+    "name": "QUATRO IRMÃOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14147,
+    "name": "QUEVEDOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14152,
+    "name": "QUINZE DE NOVEMBRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14182,
+    "name": "REDENTORA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14192,
+    "name": "RELVADO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14206,
+    "name": "RESTINGA SÊCA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14319,
+    "name": "RIO DOS ÍNDIOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14276,
+    "name": "RIO GRANDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14288,
+    "name": "RIO PARDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14321,
+    "name": "RIOZINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14325,
+    "name": "ROCA SALES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14329,
+    "name": "RODEIO BONITO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14334,
+    "name": "ROLADOR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14335,
+    "name": "ROLANTE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14341,
+    "name": "RONDA ALTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14342,
+    "name": "RONDINHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14347,
+    "name": "ROQUE GONZALES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14355,
+    "name": "ROSÁRIO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14373,
+    "name": "SAGRADA FAMÍLIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14376,
+    "name": "SALDANHA MARINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14402,
+    "name": "SALTO DO JACUÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14405,
+    "name": "SALVADOR DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14406,
+    "name": "SALVADOR DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14410,
+    "name": "SANANDUVA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14416,
+    "name": "SANT'ANA DO LIVRAMENTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14429,
+    "name": "SANTA BÁRBARA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14435,
+    "name": "SANTA CECÍLIA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14437,
+    "name": "SANTA CLARA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14456,
+    "name": "SANTA CRUZ DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14501,
+    "name": "SANTA MARGARIDA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14502,
+    "name": "SANTA MARIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14512,
+    "name": "SANTA MARIA DO HERVAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14540,
+    "name": "SANTA ROSA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14553,
+    "name": "SANTA TEREZA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14566,
+    "name": "SANTA VITÓRIA DO PALMAR",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14570,
+    "name": "SANTANA DA BOA VISTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14585,
+    "name": "SANTANA DO LIVRAMENTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14600,
+    "name": "SANTIAGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14613,
+    "name": "SANTO ANTÔNIO DA PATRULHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14615,
+    "name": "SANTO ANTÔNIO DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14634,
+    "name": "SANTO ANTÔNIO DO PALMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14637,
+    "name": "SANTO ANTÔNIO DO PLANALTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14644,
+    "name": "SANTO AUGUSTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14645,
+    "name": "SANTO CRISTO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14648,
+    "name": "SANTO EXPEDITO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14652,
+    "name": "SANTO ÂNGELO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14658,
+    "name": "SAPIRANGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14660,
+    "name": "SAPUCAIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14663,
+    "name": "SAPUCAIA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14667,
+    "name": "SARANDI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14686,
+    "name": "SEBERI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14687,
+    "name": "SEDE NOVA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14688,
+    "name": "SEGREDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14689,
+    "name": "SELBACH",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14707,
+    "name": "SENADOR SALGADO FILHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14714,
+    "name": "SENTINELA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14716,
+    "name": "SERAFINA CORRÊA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14760,
+    "name": "SERTÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14761,
+    "name": "SERTÃO SANTANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14767,
+    "name": "SETE DE SETEMBRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14770,
+    "name": "SEVERIANO DE ALMEIDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14777,
+    "name": "SILVEIRA MARTINS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14790,
+    "name": "SINIMBU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14796,
+    "name": "SOBRADINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14803,
+    "name": "SOLEDADE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14848,
+    "name": "SÃO BORJA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14874,
+    "name": "SÃO DOMINGOS DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14883,
+    "name": "SÃO FRANCISCO DE ASSIS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14887,
+    "name": "SÃO FRANCISCO DE PAULA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14908,
+    "name": "SÃO GABRIEL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14928,
+    "name": "SÃO JERÔNIMO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14934,
+    "name": "SÃO JORGE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14950,
+    "name": "SÃO JOSÉ DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14972,
+    "name": "SÃO JOSÉ DO HERVAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14973,
+    "name": "SÃO JOSÉ DO HORTÊNCIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14974,
+    "name": "SÃO JOSÉ DO INHACORÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14978,
+    "name": "SÃO JOSÉ DO NORTE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14979,
+    "name": "SÃO JOSÉ DO OURO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14988,
+    "name": "SÃO JOSÉ DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14991,
+    "name": "SÃO JOSÉ DOS AUSENTES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15016,
+    "name": "SÃO JOÃO DA URTIGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15041,
+    "name": "SÃO JOÃO DO POLÊSINE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15051,
+    "name": "SÃO LEOPOLDO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15057,
+    "name": "SÃO LOURENÇO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15060,
+    "name": "SÃO LUIZ GONZAGA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15071,
+    "name": "SÃO MARCOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15072,
+    "name": "SÃO MARTINHO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15074,
+    "name": "SÃO MARTINHO DA SERRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15083,
+    "name": "SÃO MIGUEL DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15099,
+    "name": "SÃO NICOLAU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15102,
+    "name": "SÃO PAULO DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15110,
+    "name": "SÃO PEDRO DA SERRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15113,
+    "name": "SÃO PEDRO DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15115,
+    "name": "SÃO PEDRO DO BUTIÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15121,
+    "name": "SÃO PEDRO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15145,
+    "name": "SÃO SEBASTIÃO DO CAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15155,
+    "name": "SÃO SEPÉ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15163,
+    "name": "SÃO VALENTIM",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15164,
+    "name": "SÃO VALENTIM DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15166,
+    "name": "SÃO VALÉRIO DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15167,
+    "name": "SÃO VENDELINO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15174,
+    "name": "SÃO VICENTE DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15175,
+    "name": "SÉRIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15186,
+    "name": "TABAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15227,
+    "name": "TAPEJARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15229,
+    "name": "TAPERA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15232,
+    "name": "TAPES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15240,
+    "name": "TAQUARA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15245,
+    "name": "TAQUARI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15251,
+    "name": "TAQUARUÇU DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15263,
+    "name": "TAVARES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15276,
+    "name": "TENENTE PORTELA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15298,
+    "name": "TERRA DE AREIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15300,
+    "name": "TEUTÔNIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15320,
+    "name": "TIO HUGO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15322,
+    "name": "TIRADENTES DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15339,
+    "name": "TOROPI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15341,
+    "name": "TORRES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15351,
+    "name": "TRAMANDAÍ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15352,
+    "name": "TRAVESSEIRO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15361,
+    "name": "TRINDADE DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15364,
+    "name": "TRIUNFO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15369,
+    "name": "TRÊS ARROIOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15372,
+    "name": "TRÊS CACHOEIRAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15374,
+    "name": "TRÊS COROAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15384,
+    "name": "TRÊS DE MAIO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15375,
+    "name": "TRÊS FORQUILHAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15379,
+    "name": "TRÊS PALMEIRAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15380,
+    "name": "TRÊS PASSOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15388,
+    "name": "TUCUNDUVA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15393,
+    "name": "TUNAS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15400,
+    "name": "TUPANCI DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15401,
+    "name": "TUPANCIRETÃ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15402,
+    "name": "TUPANDI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15403,
+    "name": "TUPARENDI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15416,
+    "name": "TURUÇU",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15437,
+    "name": "UBIRETAMA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15455,
+    "name": "UNISTALDA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15458,
+    "name": "UNIÃO DA SERRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15479,
+    "name": "URUGUAIANA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15490,
+    "name": "VACARIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15496,
+    "name": "VALE DO SOL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15491,
+    "name": "VALE REAL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15492,
+    "name": "VALE VERDE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15505,
+    "name": "VANINI",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15530,
+    "name": "VENÂNCIO AIRES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15534,
+    "name": "VERA CRUZ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15538,
+    "name": "VERANÓPOLIS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15549,
+    "name": "VESPASIANO CORRÊA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15550,
+    "name": "VIADUTOS",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15551,
+    "name": "VIAMÃO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15555,
+    "name": "VICENTE DUTRA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15558,
+    "name": "VICTOR GRAEFF",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15568,
+    "name": "VILA FLORES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15569,
+    "name": "VILA LÂNGARO",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15570,
+    "name": "VILA MARIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15572,
+    "name": "VILA NOVA DO SUL",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15589,
+    "name": "VISTA ALEGRE",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15591,
+    "name": "VISTA ALEGRE DO PRATA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15592,
+    "name": "VISTA GAÚCHA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15600,
+    "name": "VITÓRIA DAS MISSÕES",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15631,
+    "name": "WESTFÁLIA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15635,
+    "name": "XANGRI-LÁ",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15664,
+    "name": "ÁGUA SANTA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15680,
+    "name": "ÁUREA",
+    "state": "RIO GRANDE DO SUL",
+    "state_iso2": "RS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

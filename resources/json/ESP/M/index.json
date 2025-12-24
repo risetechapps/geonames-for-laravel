@@ -1,0 +1,2192 @@
+[
+  {
+    "id": 31985,
+    "name": "AJALVIR",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 31995,
+    "name": "ALAMEDA DEL VALLE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32072,
+    "name": "ALCALÁ DE HENARES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32097,
+    "name": "ALCOBENDAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32119,
+    "name": "ALCORCÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32144,
+    "name": "ALDEA DEL FRESNO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32219,
+    "name": "ALGETE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32327,
+    "name": "ALPEDRETE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32351,
+    "name": "AMBITE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32368,
+    "name": "ANCHUELO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32412,
+    "name": "ARANJUEZ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32462,
+    "name": "ARGANDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152810,
+    "name": "ARGANDA DEL REY",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32464,
+    "name": "ARGANZUELA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32513,
+    "name": "ARROYOMOLINOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32636,
+    "name": "BARAJAS DE MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32695,
+    "name": "BATRES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32725,
+    "name": "BECERRIL DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32750,
+    "name": "BELMONTE DE TAJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32875,
+    "name": "BERZOSA DEL LOZOYA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32917,
+    "name": "BOADILLA DEL MONTE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32918,
+    "name": "BOALO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32969,
+    "name": "BRAOJOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32975,
+    "name": "BREA DE TAJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32994,
+    "name": "BRUNETE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33013,
+    "name": "BUITRAGO DEL LOZOYA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33038,
+    "name": "BUSTARVIEJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33068,
+    "name": "CABANILLAS DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33115,
+    "name": "CADALSO DE LOS VIDRIOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33170,
+    "name": "CAMARMA DE ESTERUELAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33201,
+    "name": "CAMPO REAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33232,
+    "name": "CANENCIA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33272,
+    "name": "CARABANCHEL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33274,
+    "name": "CARABAÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33354,
+    "name": "CASARRUBUELOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33570,
+    "name": "CENICIENTOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33579,
+    "name": "CERCEDILLA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33596,
+    "name": "CERVERA DE BUITRAGO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33616,
+    "name": "CHAMBERÍ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33618,
+    "name": "CHAPINERÍA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33640,
+    "name": "CHINCHÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33658,
+    "name": "CIEMPOZUELOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33695,
+    "name": "CITY CENTER",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33696,
+    "name": "CIUDAD LINEAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33709,
+    "name": "COBEÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33733,
+    "name": "COLLADO MEDIANO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152815,
+    "name": "COLLADO VILLALBA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33744,
+    "name": "COLMENAR DE OREJA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33745,
+    "name": "COLMENAR DEL ARROYO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33742,
+    "name": "COLMENAR VIEJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33746,
+    "name": "COLMENAREJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33796,
+    "name": "CORPA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33817,
+    "name": "COSLADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33845,
+    "name": "CUBAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152816,
+    "name": "CUBAS DE LA SAGRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33908,
+    "name": "DAGANZO DE ARRIBA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152811,
+    "name": "EL ATAZAR",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152812,
+    "name": "EL BERRUECO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152813,
+    "name": "EL BOALO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33997,
+    "name": "EL ESCORIAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152817,
+    "name": "EL ESCORIAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34002,
+    "name": "EL MOLAR",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152824,
+    "name": "EL MOLAR",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34003,
+    "name": "EL PARDO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34024,
+    "name": "EL VELLÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152839,
+    "name": "EL VELLÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34029,
+    "name": "EL ÁLAMO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152809,
+    "name": "EL ÁLAMO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34147,
+    "name": "ESTREMERA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34249,
+    "name": "FRESNEDILLAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152818,
+    "name": "FRESNEDILLAS DE LA OLIVA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34259,
+    "name": "FRESNO DE TOROTE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34277,
+    "name": "FUENCARRAL-EL PARDO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34283,
+    "name": "FUENLABRADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34302,
+    "name": "FUENTE EL SAZ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152819,
+    "name": "FUENTE EL SAZ DE JARAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34361,
+    "name": "FUENTIDUEÑA DE TAJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34373,
+    "name": "GALAPAGAR",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34415,
+    "name": "GARGANTA DE LOS MONTES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152820,
+    "name": "GARGANTILLA DEL LOZOYA Y PINILLA DE BUITRAGO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34430,
+    "name": "GASCONES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34459,
+    "name": "GETAFE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34516,
+    "name": "GRIÑÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34524,
+    "name": "GUADALIX DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34528,
+    "name": "GUADARRAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34652,
+    "name": "HORCAJO DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152822,
+    "name": "HORCAJO DE LA SIERRA-AOSLOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34654,
+    "name": "HORCAJUELO DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34667,
+    "name": "HORTALEZA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34674,
+    "name": "HOYO DE MANZANARES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34701,
+    "name": "HUMANES DE MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152808,
+    "name": "LA ACEBEDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34860,
+    "name": "LA CABRERA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152814,
+    "name": "LA CABRERA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152821,
+    "name": "LA HIRUELA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152834,
+    "name": "LA SERNA DEL MONTE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34985,
+    "name": "LAS MATAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34991,
+    "name": "LAS ROZAS DE MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152832,
+    "name": "LAS ROZAS DE MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34992,
+    "name": "LAS TABLAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35002,
+    "name": "LATINA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35021,
+    "name": "LEGANÉS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35099,
+    "name": "LOECHES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35127,
+    "name": "LOS MOLINOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35134,
+    "name": "LOS SANTOS DE LA HUMOSA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35145,
+    "name": "LOZOYA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152840,
+    "name": "LOZOYUELA-NAVAS-SIETEIGLESIAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152823,
+    "name": "MADARCOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35186,
+    "name": "MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35214,
+    "name": "MAJADAHONDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35267,
+    "name": "MANZANARES EL REAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35366,
+    "name": "MECO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35384,
+    "name": "MEJORADA DEL CAMPO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35442,
+    "name": "MIRAFLORES DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152825,
+    "name": "MOLINOS LOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35501,
+    "name": "MONCLOA-ARAVACA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35555,
+    "name": "MONTEJO DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35602,
+    "name": "MORALEJA DE ENMEDIO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35612,
+    "name": "MORALZARZAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35616,
+    "name": "MORATA DE TAJUÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35617,
+    "name": "MORATALAZ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35708,
+    "name": "MÓSTOLES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35731,
+    "name": "NAVACERRADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35742,
+    "name": "NAVALAFUENTE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35743,
+    "name": "NAVALAGAMELLA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35744,
+    "name": "NAVALCARNERO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35758,
+    "name": "NAVALQUEJIGO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152826,
+    "name": "NAVARREDONDA Y SAN MAMÉS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35783,
+    "name": "NAVAS DEL REY",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35835,
+    "name": "NUEVO BAZTÁN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152827,
+    "name": "OLMEDA DE LAS FUENTES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152828,
+    "name": "ORUSCO DE TAJUÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36053,
+    "name": "PARACUELLOS DE JARAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36070,
+    "name": "PARLA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36082,
+    "name": "PATONES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36097,
+    "name": "PEDREZUELA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36122,
+    "name": "PELAYOS DE LA PRESA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36139,
+    "name": "PERALES DE TAJUÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36160,
+    "name": "PEZUELA DE LAS TORRES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36192,
+    "name": "PINAR DE CHAMARTÍN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36207,
+    "name": "PINILLA DEL VALLE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36215,
+    "name": "PINTO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152829,
+    "name": "PIÑUÉCAR-GANDULLAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36331,
+    "name": "POZUELO DE ALARCÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36338,
+    "name": "POZUELO DEL REY",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36379,
+    "name": "PROVINCIA DE MADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36406,
+    "name": "PRÁDENA DEL RINCÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152830,
+    "name": "PUEBLA DE LA SIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36437,
+    "name": "PUENTE DE VALLECAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152841,
+    "name": "PUENTES VIEJAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36500,
+    "name": "QUIJORNA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36547,
+    "name": "RASCAFRÍA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36563,
+    "name": "REDUEÑA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36587,
+    "name": "RETIRO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36613,
+    "name": "RIBATEJADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36639,
+    "name": "RIVAS-VACIAMADRID",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36651,
+    "name": "ROBLEDILLO DE LA JARA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36654,
+    "name": "ROBLEDO DE CHAVELA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152831,
+    "name": "ROBREGORDO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36686,
+    "name": "ROZAS DE PUERTO REAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36799,
+    "name": "SAN AGUSTÍN DEL GUADALIX",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36812,
+    "name": "SAN BLAS-CANILLEJAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36836,
+    "name": "SAN FERNANDO DE HENARES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36858,
+    "name": "SAN LORENZO DE EL ESCORIAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36873,
+    "name": "SAN MARTÍN DE LA VEGA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36870,
+    "name": "SAN MARTÍN DE VALDEIGLESIAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36922,
+    "name": "SAN SEBASTIÁN DE LOS REYES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37079,
+    "name": "SANTA MARÍA DE LA ALAMEDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37146,
+    "name": "SANTORCAZ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152833,
+    "name": "SANTOS DE LA HUMOSA LOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37225,
+    "name": "SERRANILLOS DEL VALLE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37240,
+    "name": "SEVILLA LA NUEVA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152835,
+    "name": "SOMOSIERRA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152836,
+    "name": "SOTO DEL REAL",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37354,
+    "name": "TALAMANCA DE JARAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37417,
+    "name": "TETUÁN DE LAS VICTORIAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37422,
+    "name": "TIELMES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37431,
+    "name": "TITULCIA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37538,
+    "name": "TORREJÓN DE ARDOZ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37540,
+    "name": "TORREJÓN DE LA CALZADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37539,
+    "name": "TORREJÓN DE VELASCO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37543,
+    "name": "TORRELAGUNA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37551,
+    "name": "TORRELODONES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37557,
+    "name": "TORREMOCHA DE JARAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37577,
+    "name": "TORRES DE LA ALAMEDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37629,
+    "name": "TRES CANTOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37705,
+    "name": "USERA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37726,
+    "name": "VALDARACETE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37735,
+    "name": "VALDEAVERO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152837,
+    "name": "VALDELAGUNA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37765,
+    "name": "VALDEMANCO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37767,
+    "name": "VALDEMAQUEDA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37772,
+    "name": "VALDEMORILLO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37774,
+    "name": "VALDEMORO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37781,
+    "name": "VALDEOLMOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 152838,
+    "name": "VALDEOLMOS-ALALPARDO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37786,
+    "name": "VALDEPIÉLAGOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37804,
+    "name": "VALDETORRES DE JARAMA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37810,
+    "name": "VALDILECHA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37882,
+    "name": "VALVERDE DE ALCALÁ",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37931,
+    "name": "VELILLA DE SAN ANTONIO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37946,
+    "name": "VENTURADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37963,
+    "name": "VICÁLVARO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38009,
+    "name": "VILLA DE VALLECAS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38012,
+    "name": "VILLA DEL PRADO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38034,
+    "name": "VILLACONEJOS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38105,
+    "name": "VILLALBILLA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38131,
+    "name": "VILLAMANRIQUE DE TAJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38133,
+    "name": "VILLAMANTA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38134,
+    "name": "VILLAMANTILLA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38196,
+    "name": "VILLANUEVA DE LA CAÑADA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38187,
+    "name": "VILLANUEVA DE PERALES",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38219,
+    "name": "VILLANUEVA DEL PARDILLO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38257,
+    "name": "VILLAR DEL OLMO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38273,
+    "name": "VILLAREJO DE SALVANÉS",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38343,
+    "name": "VILLAVERDE",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38357,
+    "name": "VILLAVICIOSA DE ODÓN",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38360,
+    "name": "VILLAVIEJA DEL LOZOYA",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38482,
+    "name": "ZARZALEJO",
+    "state": "MADRID",
+    "state_iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  }
+]

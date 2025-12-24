@@ -1,0 +1,592 @@
+[
+  {
+    "id": 55168,
+    "name": "ABA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55175,
+    "name": "ADONY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55181,
+    "name": "ALAP",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55205,
+    "name": "BAKONYCSERNYE",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55229,
+    "name": "BARACS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55230,
+    "name": "BARACSKA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55246,
+    "name": "BICSKE",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55247,
+    "name": "BICSKEI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55250,
+    "name": "BODAJK",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55314,
+    "name": "CECE",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55345,
+    "name": "CSÁKVÁR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56139,
+    "name": "DUNAÚJVÁROS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55382,
+    "name": "DUNAÚJVÁROSI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55387,
+    "name": "DÉG",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55403,
+    "name": "ELŐSZÁLLÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55408,
+    "name": "ENYING",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55409,
+    "name": "ENYINGI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55410,
+    "name": "ERCSI",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55414,
+    "name": "ETYEK",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55422,
+    "name": "FEHÉRVÁRCSURGÓ",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55471,
+    "name": "GÁRDONY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55472,
+    "name": "GÁRDONYI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55530,
+    "name": "IVÁNCSA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55593,
+    "name": "KINCSESBÁNYA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55604,
+    "name": "KISLÁNG",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55638,
+    "name": "KÁLOZ",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55640,
+    "name": "KÁPOLNÁSNYÉK",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55653,
+    "name": "LAJOSKOMÁROM",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55659,
+    "name": "LEPSÉNY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55665,
+    "name": "LOVASBERÉNY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55682,
+    "name": "MARTONVÁSÁR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55683,
+    "name": "MARTONVÁSÁRI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55691,
+    "name": "MEZŐFALVA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55698,
+    "name": "MEZŐSZILAS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55722,
+    "name": "MÁNY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55733,
+    "name": "MÓR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55736,
+    "name": "MÓRI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55814,
+    "name": "PERKÁTA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55828,
+    "name": "POLGÁRDI",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55834,
+    "name": "PUSZTASZABOLCS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55836,
+    "name": "PUSZTAVÁM",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55839,
+    "name": "PÁKOZD",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55848,
+    "name": "PÁZMÁND",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55870,
+    "name": "RÁCALMÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55871,
+    "name": "RÁCKERESZTÚR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55896,
+    "name": "SEREGÉLYES",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55908,
+    "name": "SOPONYA",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55911,
+    "name": "SZABADBATTYÁN",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55969,
+    "name": "SZÁRLIGET",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55974,
+    "name": "SZÉKESFEHÉRVÁR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55975,
+    "name": "SZÉKESFEHÉRVÁRI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55981,
+    "name": "SÁRBOGÁRD",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55982,
+    "name": "SÁRBOGÁRDI JÁRÁS",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55983,
+    "name": "SÁRKERESZTÚR",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55985,
+    "name": "SÁROSD",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55989,
+    "name": "SÁRSZENTMIHÁLY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56096,
+    "name": "VELENCE",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56108,
+    "name": "VÁL",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56137,
+    "name": "ZÁMOLY",
+    "state": "FEJÉR COUNTY",
+    "state_iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": 97504,
+    "name": "ADMIRALTEISKY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97570,
+    "name": "ALEKSANDROVSKAYA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97724,
+    "name": "AVTOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97859,
+    "name": "BELOOSTROV",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98105,
+    "name": "CENTRALNIY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98231,
+    "name": "DACHNOYE",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98438,
+    "name": "FRUNZENSKIY RAYON",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98523,
+    "name": "GORELOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98579,
+    "name": "GRAZHDANKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99144,
+    "name": "KOLOMYAGI",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99147,
+    "name": "KOLPINO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99161,
+    "name": "KOMAROVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99162,
+    "name": "KOMENDANTSKY AERODROM",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99319,
+    "name": "KRASNOGVARGEISKY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99353,
+    "name": "KRASNOYE SELO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99397,
+    "name": "KRONSHTADT",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99450,
+    "name": "KUPCHINO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99470,
+    "name": "KURORTNYY RAYON",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99486,
+    "name": "KUSHELEVKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99539,
+    "name": "LAKHTINSKIY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99614,
+    "name": "LEVASHOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99636,
+    "name": "LISIY NOS",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99657,
+    "name": "LOMONOSOV",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99873,
+    "name": "METALLOSTROY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99951,
+    "name": "MOLODEZHNOYE",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100203,
+    "name": "NOVAYA DEREVNYA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100392,
+    "name": "OBUKHOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100433,
+    "name": "OL’GINO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100517,
+    "name": "OZERKI",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100549,
+    "name": "PARGOLOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100571,
+    "name": "PAVLOVSK",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100637,
+    "name": "PESOCHNYY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100645,
+    "name": "PETERHOF",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100647,
+    "name": "PETRO-SLAVYANKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100648,
+    "name": "PETRODVORETS",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100649,
+    "name": "PETROGRADKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100769,
+    "name": "PONTONNYY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100833,
+    "name": "PRIMORSKIY RAYON",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100896,
+    "name": "PUSHKIN",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100951,
+    "name": "RAZLIV",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100961,
+    "name": "REPINO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101074,
+    "name": "SAINT PETERSBURG",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101104,
+    "name": "SAPËRNYY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101199,
+    "name": "SESTRORETSK",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101355,
+    "name": "SHUSHARY",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101359,
+    "name": "SHUVALOVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101455,
+    "name": "SOLNECHNOYE",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101485,
+    "name": "SOSNOVAYA POLYANA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101486,
+    "name": "SOSNOVKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101558,
+    "name": "STARAYA DEREVNYA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101624,
+    "name": "STREL'NA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101774,
+    "name": "TARKHOVKA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101989,
+    "name": "TYARLEVO",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102077,
+    "name": "URITSK",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102122,
+    "name": "UST’-IZHORA",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102196,
+    "name": "VASILEOSTROVSKIY RAYON",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102201,
+    "name": "VASYL'EVSKY OSTROV",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102695,
+    "name": "ZELENOGORSK",
+    "state": "SAINT PETERSBURG",
+    "state_iso2": "SPE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

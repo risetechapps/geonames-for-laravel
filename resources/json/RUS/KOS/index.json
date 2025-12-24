@@ -1,0 +1,442 @@
+[
+  {
+    "id": 97642,
+    "name": "ANTROPOVO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97643,
+    "name": "ANTROPOVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97978,
+    "name": "BOGOVAROVO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98090,
+    "name": "BUY",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98093,
+    "name": "BUYSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98203,
+    "name": "CHISTYYE BORY",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98218,
+    "name": "CHUKHLOMA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98450,
+    "name": "GALICH",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98451,
+    "name": "GALICHSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98478,
+    "name": "GEORGIYEVSKOYE",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98773,
+    "name": "KADYY",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98774,
+    "name": "KADYYSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99140,
+    "name": "KOLOGRIV",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99235,
+    "name": "KOSMYNINO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99241,
+    "name": "KOSTROMA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99242,
+    "name": "KOSTROMSKOY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99332,
+    "name": "KRASNOSEL’SKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99354,
+    "name": "KRASNOYE-NA-VOLGE",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99742,
+    "name": "MAKAR’YEV",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99785,
+    "name": "MANTUROVO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99786,
+    "name": "MANTUROVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100107,
+    "name": "NEREKHTA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100108,
+    "name": "NEREKHTSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100122,
+    "name": "NEYA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100123,
+    "name": "NEYSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100499,
+    "name": "OSTROVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100500,
+    "name": "OSTROVSKOYE",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100545,
+    "name": "PARFEN’YEVO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100546,
+    "name": "PARFEN’YEVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100564,
+    "name": "PAVINO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100766,
+    "name": "PONAZYREVO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100767,
+    "name": "PONAZYREVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100915,
+    "name": "PYSHCHUG",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101265,
+    "name": "SHAR’INSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101266,
+    "name": "SHAR’YA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101449,
+    "name": "SOLIGALICH",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101450,
+    "name": "SOLIGALICHSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101642,
+    "name": "SUDISLAVL’",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101643,
+    "name": "SUDISLAVSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101682,
+    "name": "SUSANINO",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102296,
+    "name": "VETLUZHSKIY",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102335,
+    "name": "VOKHMA",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102336,
+    "name": "VOKHOMSKIY RAYON",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102345,
+    "name": "VOLGORECHENSK",
+    "state": "KOSTROMA",
+    "state_iso2": "KOS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

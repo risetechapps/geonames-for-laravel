@@ -1,0 +1,792 @@
+[
+  {
+    "id": 63211,
+    "name": "ABASHIRI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63212,
+    "name": "ABASHIRI SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63225,
+    "name": "AKABIRA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63226,
+    "name": "AKABIRA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63259,
+    "name": "ASAHIKAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63264,
+    "name": "ASHIBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63265,
+    "name": "ASHIBETSU-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63285,
+    "name": "BIBAI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63309,
+    "name": "CHITOSE",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63310,
+    "name": "CHITOSE SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63322,
+    "name": "DATE",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63324,
+    "name": "DATE-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63326,
+    "name": "EBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63333,
+    "name": "ENIWA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63356,
+    "name": "FUKAGAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63357,
+    "name": "FUKAGAWA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63378,
+    "name": "FURANO-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63416,
+    "name": "HAKODATE",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63417,
+    "name": "HAKODATE SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63516,
+    "name": "HOKUTO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63519,
+    "name": "HOKUTO-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63521,
+    "name": "HONCHŌ",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63594,
+    "name": "ISHIKARI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63595,
+    "name": "ISHIKARI-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63626,
+    "name": "IWAMIZAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63627,
+    "name": "IWAMIZAWA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63628,
+    "name": "IWANAI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63691,
+    "name": "KAMIISO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63692,
+    "name": "KAMIKAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63800,
+    "name": "KITAHIROSHIMA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63801,
+    "name": "KITAHIROSHIMA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63809,
+    "name": "KITAMI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63851,
+    "name": "KTIAMI SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63886,
+    "name": "KUSHIRO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63887,
+    "name": "KUSHIRO SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63917,
+    "name": "MAKUBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63951,
+    "name": "MIKASA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 63952,
+    "name": "MIKASA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64024,
+    "name": "MOMBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64025,
+    "name": "MONBETSU SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64038,
+    "name": "MOTOMACHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64049,
+    "name": "MURORAN",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64050,
+    "name": "MURORAN-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64117,
+    "name": "NAYORO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64118,
+    "name": "NAYORO SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64120,
+    "name": "NEMURO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64145,
+    "name": "NISEKO TOWN",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64161,
+    "name": "NOBORIBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64162,
+    "name": "NOBORIBETSU-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64180,
+    "name": "OBIHIRO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64181,
+    "name": "OBIHIRO SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64215,
+    "name": "OTARU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64216,
+    "name": "OTARU-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64217,
+    "name": "OTOFUKE",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64224,
+    "name": "REBUN GUN",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64227,
+    "name": "RISHIRI GUN",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64228,
+    "name": "RISHIRI TOWN",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64230,
+    "name": "RUMOI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64231,
+    "name": "RUMOI-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64285,
+    "name": "SAPPORO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64310,
+    "name": "SHIBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64311,
+    "name": "SHIBETSU SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64329,
+    "name": "SHIMO-FURANO",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64354,
+    "name": "SHIRAOI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64365,
+    "name": "SHIZUNAI-FURUKAWACHŌ",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64386,
+    "name": "SUNAGAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64387,
+    "name": "SUNAGAWA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64451,
+    "name": "TAKIKAWA",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64452,
+    "name": "TAKIKAWA-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64501,
+    "name": "TOMAKOMAI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64502,
+    "name": "TOMAKOMAI SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64565,
+    "name": "TŌBETSU",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64607,
+    "name": "UTASHINAI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64608,
+    "name": "UTASHINAI-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64619,
+    "name": "WAKKANAI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64620,
+    "name": "WAKKANAI SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64668,
+    "name": "YOICHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64704,
+    "name": "YŪBARI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  },
+  {
+    "id": 64705,
+    "name": "YŪBARI-SHI",
+    "state": "HOKKAIDŌ",
+    "state_iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 10221,
+    "name": "AMPARO DE SÃO FRANCISCO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10304,
+    "name": "AQUIDABÃ",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10308,
+    "name": "ARACAJU",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10364,
+    "name": "ARAUÁ",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10385,
+    "name": "AREIA BRANCA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10546,
+    "name": "BARRA DOS COQUEIROS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10746,
+    "name": "BOQUIM",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10790,
+    "name": "BREJO GRANDE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11005,
+    "name": "CAMPO DO BRITO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11044,
+    "name": "CANHOBA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11047,
+    "name": "CANINDÉ DE SÃO FRANCISCO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11065,
+    "name": "CAPELA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11132,
+    "name": "CARIRA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11152,
+    "name": "CARMÓPOLIS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11232,
+    "name": "CEDRO DE SÃO JOÃO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11478,
+    "name": "CRISTINÁPOLIS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11515,
+    "name": "CUMBE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11599,
+    "name": "DIVINA PASTORA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11757,
+    "name": "ESTÂNCIA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11791,
+    "name": "FEIRA NOVA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11896,
+    "name": "FREI PAULO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11920,
+    "name": "GARARU",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11937,
+    "name": "GENERAL MAYNARD",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11991,
+    "name": "GRACHO CARDOSO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12210,
+    "name": "ILHA DAS FLORES",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12241,
+    "name": "INDIAROBA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12326,
+    "name": "ITABAIANA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12327,
+    "name": "ITABAIANINHA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12332,
+    "name": "ITABI",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12431,
+    "name": "ITAPORANGA D'AJUDA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12567,
+    "name": "JAPARATUBA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12572,
+    "name": "JAPOATÃ",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12726,
+    "name": "LAGARTO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12799,
+    "name": "LARANJEIRAS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12885,
+    "name": "MACAMBIRA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12927,
+    "name": "MALHADA DOS BOIS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12928,
+    "name": "MALHADOR",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13036,
+    "name": "MARUIM",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13169,
+    "name": "MOITA BONITA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13190,
+    "name": "MONTE ALEGRE DE SERGIPE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13279,
+    "name": "MURIBECA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13320,
+    "name": "NEÓPOLIS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13336,
+    "name": "NOSSA SENHORA APARECIDA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13337,
+    "name": "NOSSA SENHORA DA GLÓRIA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13338,
+    "name": "NOSSA SENHORA DAS DORES",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13340,
+    "name": "NOSSA SENHORA DE LOURDES",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13343,
+    "name": "NOSSA SENHORA DO SOCORRO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13558,
+    "name": "PACATUBA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13755,
+    "name": "PEDRA MOLE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13769,
+    "name": "PEDRINHAS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13874,
+    "name": "PINHÃO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13891,
+    "name": "PIRAMBU",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14024,
+    "name": "PORTO DA FOLHA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14048,
+    "name": "POÇO REDONDO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14049,
+    "name": "POÇO VERDE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14111,
+    "name": "PROPRIÁ",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14218,
+    "name": "RIACHUELO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14224,
+    "name": "RIACHÃO DO DANTAS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14253,
+    "name": "RIBEIRÓPOLIS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14353,
+    "name": "ROSÁRIO DO CATETE",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14383,
+    "name": "SALGADO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14494,
+    "name": "SANTA LUZIA DO ITANHY",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14543,
+    "name": "SANTA ROSA DE LIMA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14594,
+    "name": "SANTANA DO SÃO FRANCISCO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14605,
+    "name": "SANTO AMARO DAS BROTAS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14786,
+    "name": "SIMÃO DIAS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14794,
+    "name": "SIRIRI",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14858,
+    "name": "SÃO CRISTÓVÃO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14865,
+    "name": "SÃO DOMINGOS",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14880,
+    "name": "SÃO FRANCISCO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15085,
+    "name": "SÃO MIGUEL DO ALEIXO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15272,
+    "name": "TELHA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15324,
+    "name": "TOBIAS BARRETO",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15331,
+    "name": "TOMAR DO GERU",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15446,
+    "name": "UMBAÚBA",
+    "state": "SERGIPE",
+    "state_iso2": "SE",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

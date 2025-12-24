@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3583,
+    "name": "BAHR EL GAZEL",
+    "iso2": "BG",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3590,
+    "name": "BATHA",
+    "iso2": "BA",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3574,
+    "name": "BORKOU",
+    "iso2": "BO",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 5114,
+    "name": "CHARI-BAGUIRMI",
+    "iso2": "CB",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3575,
+    "name": "ENNEDI-EST",
+    "iso2": "EE",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3584,
+    "name": "ENNEDI-OUEST",
+    "iso2": "EO",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3576,
+    "name": "GUÉRA",
+    "iso2": "GR",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3573,
+    "name": "HADJER-LAMIS",
+    "iso2": "HL",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3588,
+    "name": "KANEM",
+    "iso2": "KA",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3577,
+    "name": "LAC",
+    "iso2": "LC",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3585,
+    "name": "LOGONE OCCIDENTAL",
+    "iso2": "LO",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3591,
+    "name": "LOGONE ORIENTAL",
+    "iso2": "LR",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3589,
+    "name": "MANDOUL",
+    "iso2": "MA",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3580,
+    "name": "MAYO-KEBBI EST",
+    "iso2": "ME",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3571,
+    "name": "MAYO-KEBBI OUEST",
+    "iso2": "MO",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3570,
+    "name": "MOYEN-CHARI",
+    "iso2": "MC",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3586,
+    "name": "N'DJAMENA",
+    "iso2": "ND",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3582,
+    "name": "OUADDAÏ",
+    "iso2": "OD",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3592,
+    "name": "SALAMAT",
+    "iso2": "SA",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3572,
+    "name": "SILA",
+    "iso2": "SI",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3579,
+    "name": "TANDJILÉ",
+    "iso2": "TA",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3587,
+    "name": "TIBESTI",
+    "iso2": "TI",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  },
+  {
+    "id": 3581,
+    "name": "WADI FIRA",
+    "iso2": "WF",
+    "country": "CHAD",
+    "country_iso2": "TD",
+    "country_iso3": "TCD",
+    "country_native": "TCHAD",
+    "timezone": "Africa/Ndjamena"
+  }
+]

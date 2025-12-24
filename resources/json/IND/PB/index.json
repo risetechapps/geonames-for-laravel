@@ -1,0 +1,3272 @@
+[
+  {
+    "id": 57587,
+    "name": "ABOHAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57592,
+    "name": "ADAMPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85332,
+    "name": "AHMADPUR SIAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85331,
+    "name": "AHMEDPUR EAST",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57612,
+    "name": "AJITGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57615,
+    "name": "AJNALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57629,
+    "name": "AKALGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57651,
+    "name": "ALAWALPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85335,
+    "name": "ALIPUR CHATHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57681,
+    "name": "AMLOH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57686,
+    "name": "AMRITSAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57697,
+    "name": "ANANDPUR SAHIB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85339,
+    "name": "ARIFWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85341,
+    "name": "ATTOCK TEHSIL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85343,
+    "name": "BADDOMALHI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57791,
+    "name": "BADHNI KALAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58109,
+    "name": "BAGHA PURANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85347,
+    "name": "BAHAWALNAGAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85348,
+    "name": "BAHAWALPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85349,
+    "name": "BAKHRI AHMAD KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57819,
+    "name": "BAKLOH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58118,
+    "name": "BALACHOR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57846,
+    "name": "BANGA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57859,
+    "name": "BANUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57882,
+    "name": "BARNALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85354,
+    "name": "BASIRPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85355,
+    "name": "BASTI DOSA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57906,
+    "name": "BATALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57914,
+    "name": "BEGOWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85359,
+    "name": "BEGOWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57950,
+    "name": "BHADAUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85363,
+    "name": "BHAKKAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85364,
+    "name": "BHALWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57904,
+    "name": "BHATINDA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85366,
+    "name": "BHAWANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 57977,
+    "name": "BHAWANIGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85367,
+    "name": "BHERA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 58018,
+    "name": "BHIKHI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57990,
+    "name": "BHOGPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 143761,
+    "name": "BHOLATH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85371,
+    "name": "BHOPALWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 58090,
+    "name": "BUDHLADA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85376,
+    "name": "BUREWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85378,
+    "name": "CHAK AZAM SAFFO",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85380,
+    "name": "CHAK JHUMRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85381,
+    "name": "CHAK ONE HUNDRED TWENTY NINE LEFT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85382,
+    "name": "CHAK THIRTY-ONE -ELEVEN LEFT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85383,
+    "name": "CHAK TWO HUNDRED FORTY-NINE TDA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85384,
+    "name": "CHAKWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85388,
+    "name": "CHAWINDA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85392,
+    "name": "CHICHAWATNI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131610,
+    "name": "CHIMA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85393,
+    "name": "CHINIOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85394,
+    "name": "CHISHTIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85396,
+    "name": "CHOA SAIDANSHAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143765,
+    "name": "CHUHAR KANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85400,
+    "name": "CHUNIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85404,
+    "name": "DAIRA DIN PANAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85405,
+    "name": "DAJAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85407,
+    "name": "DANDOT RS",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85409,
+    "name": "DARYA KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85411,
+    "name": "DASKA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131661,
+    "name": "DASUYA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 143767,
+    "name": "DAUD KHEL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85414,
+    "name": "DAULTALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131696,
+    "name": "DERA BABA NANAK",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 143763,
+    "name": "DERA BASSI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85418,
+    "name": "DERA GHAZI KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131713,
+    "name": "DHANAULA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85421,
+    "name": "DHANOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131756,
+    "name": "DHARIWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85422,
+    "name": "DHAUNKAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131736,
+    "name": "DHILWAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 143766,
+    "name": "DHOK AWAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143762,
+    "name": "DHUDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131760,
+    "name": "DHURI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85425,
+    "name": "DIJKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131816,
+    "name": "DINA NAGAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85426,
+    "name": "DINAN BASHNOIAN WALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85427,
+    "name": "DINGA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85428,
+    "name": "DIPALPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131777,
+    "name": "DIRBA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131790,
+    "name": "DORAHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85433,
+    "name": "DULLEWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85434,
+    "name": "DUNGA BUNGA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85435,
+    "name": "DUNYAPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85436,
+    "name": "EMINABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85437,
+    "name": "FAISALABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85438,
+    "name": "FAQIRWALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131859,
+    "name": "FARIDKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85439,
+    "name": "FARUKA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131865,
+    "name": "FATEHGARH CHURIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131866,
+    "name": "FATEHGARH SAHIB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131881,
+    "name": "FAZILKA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85440,
+    "name": "FAZILPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143768,
+    "name": "FEROZEWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131875,
+    "name": "FIROZPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131877,
+    "name": "FIROZPUR DISTRICT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85441,
+    "name": "FORT ABBAS",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131918,
+    "name": "GARDHIWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85444,
+    "name": "GARH MAHARAJA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 131921,
+    "name": "GARHSHANKAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131935,
+    "name": "GHANAUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131956,
+    "name": "GIDDARBAHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85451,
+    "name": "GOJRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85455,
+    "name": "GUJAR KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85456,
+    "name": "GUJRANWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143769,
+    "name": "GUJRANWALA DIVISION",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85457,
+    "name": "GUJRAT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132031,
+    "name": "GURDASPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132037,
+    "name": "GURU HAR SAHAI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85460,
+    "name": "HADALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85461,
+    "name": "HAFIZABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132136,
+    "name": "HAJIPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132077,
+    "name": "HARIANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85466,
+    "name": "HARNOLI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85467,
+    "name": "HARUNABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143770,
+    "name": "HASAN ABDAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85468,
+    "name": "HASILPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85469,
+    "name": "HAVELI LAKHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85471,
+    "name": "HAZRO",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132122,
+    "name": "HOSHIARPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85473,
+    "name": "HUJRA SHAH MUQEEM",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143764,
+    "name": "ISHANPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132192,
+    "name": "JAGRAON",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85478,
+    "name": "JAHANIAN SHAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132207,
+    "name": "JAITO",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132223,
+    "name": "JALALABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85479,
+    "name": "JALALPUR JATTAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85480,
+    "name": "JALALPUR PIRWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132211,
+    "name": "JALANDHAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85481,
+    "name": "JAMPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85483,
+    "name": "JAND",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132236,
+    "name": "JANDIALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132237,
+    "name": "JANDIALA GURU",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85484,
+    "name": "JANDIALA SHER KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85485,
+    "name": "JARANWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85487,
+    "name": "JATOI SHIMALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85488,
+    "name": "JAUHARABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85490,
+    "name": "JHANG",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85491,
+    "name": "JHANG SADAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85492,
+    "name": "JHAWARIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85493,
+    "name": "JHELUM",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85499,
+    "name": "KABIRWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85501,
+    "name": "KAHNA NAU",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85503,
+    "name": "KAHUTA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85505,
+    "name": "KALABAGH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132347,
+    "name": "KALANAUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85506,
+    "name": "KALASWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85508,
+    "name": "KALEKE MANDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85509,
+    "name": "KALLAR KAHAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85510,
+    "name": "KALUR KOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85512,
+    "name": "KAMALIA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85513,
+    "name": "KAMAR MUSHANI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85515,
+    "name": "KAMOKE",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85516,
+    "name": "KAMRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85520,
+    "name": "KANGANPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132392,
+    "name": "KAPURTHALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85525,
+    "name": "KAROR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132408,
+    "name": "KARTARPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85527,
+    "name": "KASUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85528,
+    "name": "KESHUPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85535,
+    "name": "KHAIRPUR TAMIWALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132465,
+    "name": "KHAMANON",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85537,
+    "name": "KHANDOWA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85538,
+    "name": "KHANEWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85539,
+    "name": "KHANGA DOGRAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85540,
+    "name": "KHANGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132469,
+    "name": "KHANNA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85541,
+    "name": "KHANPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132472,
+    "name": "KHARAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85544,
+    "name": "KHARIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132491,
+    "name": "KHEMKARAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85545,
+    "name": "KHEWRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85546,
+    "name": "KHURRIANWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85547,
+    "name": "KHUSHAB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143771,
+    "name": "KOHROR PAKKA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85553,
+    "name": "KOT ADDU TEHSIL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85555,
+    "name": "KOT GHULAM MUHAMMAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132591,
+    "name": "KOT ISA KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85557,
+    "name": "KOT MUMIN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85558,
+    "name": "KOT RADHA KISHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85559,
+    "name": "KOT RAJKOUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85560,
+    "name": "KOT SAMABA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85561,
+    "name": "KOT SULTAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132600,
+    "name": "KOTKAPURA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85564,
+    "name": "KOTLI LOHARAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85567,
+    "name": "KUNDIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85568,
+    "name": "KUNJAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85571,
+    "name": "LADHEWALA WARAICH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85572,
+    "name": "LAHORE",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85575,
+    "name": "LALA MUSA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85576,
+    "name": "LALIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132760,
+    "name": "LAUNGOWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85580,
+    "name": "LAYYAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85581,
+    "name": "LAYYAH DISTRICT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85582,
+    "name": "LILIANI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85583,
+    "name": "LODHRAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132785,
+    "name": "LUDHIANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133056,
+    "name": "MACHHIWARA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85588,
+    "name": "MAILSI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132861,
+    "name": "MAJITHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132862,
+    "name": "MAKHU",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85589,
+    "name": "MALAKWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132867,
+    "name": "MALAUT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133066,
+    "name": "MALERKOTLA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85592,
+    "name": "MAMU KANJAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85593,
+    "name": "MANANWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85594,
+    "name": "MANDI BAHAUDDIN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143772,
+    "name": "MANDI BAHAUDDIN DISTRICT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85595,
+    "name": "MANGLA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85596,
+    "name": "MANKERA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133082,
+    "name": "MANSA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132948,
+    "name": "MAUR MANDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85604,
+    "name": "MEHMAND CHAK",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85606,
+    "name": "MIAN CHANNUN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85607,
+    "name": "MIANKE MOR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85608,
+    "name": "MIANWALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85609,
+    "name": "MINCHINABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85619,
+    "name": "MITHA TIWANA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 132979,
+    "name": "MOGA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132980,
+    "name": "MOHALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132996,
+    "name": "MORINDA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85622,
+    "name": "MOZA SHAHWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133017,
+    "name": "MUKERIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85623,
+    "name": "MULTAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143773,
+    "name": "MULTAN DISTRICT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85624,
+    "name": "MURIDKE",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85625,
+    "name": "MURREE",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85626,
+    "name": "MUSTAFABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85627,
+    "name": "MUZAFFARGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133250,
+    "name": "NABHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133128,
+    "name": "NAKODAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133147,
+    "name": "NANGAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85631,
+    "name": "NANKANA SAHIB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85632,
+    "name": "NARANG MANDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85633,
+    "name": "NAROWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85638,
+    "name": "NAUSHAHRA VIRKAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133190,
+    "name": "NAWANSHAHR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85641,
+    "name": "NAZIR TOWN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133291,
+    "name": "NURMAHAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133293,
+    "name": "NURPUR KALAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85650,
+    "name": "OKARA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143774,
+    "name": "PAKKI SHAGWANWALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85655,
+    "name": "PAKPATTAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85659,
+    "name": "PASRUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133382,
+    "name": "PATHANKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133384,
+    "name": "PATIALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133390,
+    "name": "PATTI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85660,
+    "name": "PATTOKI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133431,
+    "name": "PHAGWARA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85662,
+    "name": "PHALIA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133439,
+    "name": "PHILLAUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85663,
+    "name": "PIND DADAN KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85664,
+    "name": "PINDI BHATTIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85665,
+    "name": "PINDI GHEB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85667,
+    "name": "PIR MAHAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133575,
+    "name": "QADIAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85670,
+    "name": "QADIRPUR RAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143775,
+    "name": "QILA DIDAR SINGH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85389,
+    "name": "RABWAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85674,
+    "name": "RAHIM YAR KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143776,
+    "name": "RAHIMYAR KHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133662,
+    "name": "RAHON",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133665,
+    "name": "RAIKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85675,
+    "name": "RAIWIND",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85676,
+    "name": "RAJA JANG",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85677,
+    "name": "RAJANPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133670,
+    "name": "RAJASANSI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133681,
+    "name": "RAJPURA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133690,
+    "name": "RAM DAS",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133708,
+    "name": "RAMPURA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85680,
+    "name": "RASULNAGAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85683,
+    "name": "RAWALPINDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85684,
+    "name": "RAWALPINDI DISTRICT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85685,
+    "name": "RENALA KHURD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85688,
+    "name": "ROJHAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133654,
+    "name": "RUPNAGAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85690,
+    "name": "SADIQABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85691,
+    "name": "SAHIWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85694,
+    "name": "SAMBRIAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133772,
+    "name": "SAMRALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133776,
+    "name": "SANAUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85696,
+    "name": "SANGLA HILL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133785,
+    "name": "SANGRUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85697,
+    "name": "SANJWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85699,
+    "name": "SARAI ALAMGIR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85701,
+    "name": "SARAI SIDHU",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133804,
+    "name": "SARDULGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85702,
+    "name": "SARGODHA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133854,
+    "name": "SHAHID BHAGAT SINGH NAGAR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133897,
+    "name": "SHAHKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 143777,
+    "name": "SHAHKOT TEHSIL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85709,
+    "name": "SHAHPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85711,
+    "name": "SHAHR SULTAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85712,
+    "name": "SHAKARGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133911,
+    "name": "SHAM CHURASI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85713,
+    "name": "SHARQPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85714,
+    "name": "SHEIKHUPURA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85719,
+    "name": "SHUJAABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85720,
+    "name": "SIALKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85722,
+    "name": "SILLANWALI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133955,
+    "name": "SIRHIND-FATEGARH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85726,
+    "name": "SODHRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 133019,
+    "name": "SRI MUKTSAR SAHIB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85729,
+    "name": "SUKHEKE MANDI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 134037,
+    "name": "SULTANPUR LODHI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134048,
+    "name": "SUNAM",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85732,
+    "name": "SURKHPUR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85735,
+    "name": "TALAGANG",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85736,
+    "name": "TALAMBA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 134105,
+    "name": "TALWANDI BHAI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134106,
+    "name": "TALWARA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85738,
+    "name": "TANDLIANWALA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 134118,
+    "name": "TARN TARAN SAHIB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 85748,
+    "name": "TAUNSA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85753,
+    "name": "TOBA TEK SINGH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143778,
+    "name": "UMERKOT",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85763,
+    "name": "VIHARI",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143779,
+    "name": "WAH",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143780,
+    "name": "WARBURTON",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85766,
+    "name": "WAZIRABAD",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 143781,
+    "name": "WEST PUNJAB",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85767,
+    "name": "YAZMAN",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85768,
+    "name": "ZAFARWAL",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 85769,
+    "name": "ZAHIR PIR",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "PAKISTAN",
+    "country_iso2": "PK",
+    "country_iso3": "PAK",
+    "country_native": "پاکستان"
+  },
+  {
+    "id": 134443,
+    "name": "ZIRA",
+    "state": "PUNJAB",
+    "state_iso2": "PB",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

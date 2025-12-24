@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1639,
+    "name": "AARGAU",
+    "iso2": "AG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1655,
+    "name": "APPENZELL AUSSERRHODEN",
+    "iso2": "AR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1649,
+    "name": "APPENZELL INNERRHODEN",
+    "iso2": "AI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1641,
+    "name": "BASEL-LAND",
+    "iso2": "BL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 4957,
+    "name": "BASEL-STADT",
+    "iso2": "BS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1645,
+    "name": "BERN",
+    "iso2": "BE",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1640,
+    "name": "FRIBOURG",
+    "iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1647,
+    "name": "GENEVA",
+    "iso2": "GE",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1661,
+    "name": "GLARUS",
+    "iso2": "GL",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1660,
+    "name": "GRAUBÜNDEN",
+    "iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1658,
+    "name": "JURA",
+    "iso2": "JU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1663,
+    "name": "LUCERNE",
+    "iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1659,
+    "name": "NEUCHÂTEL",
+    "iso2": "NE",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1652,
+    "name": "NIDWALDEN",
+    "iso2": "NW",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1650,
+    "name": "OBWALDEN",
+    "iso2": "OW",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1654,
+    "name": "SCHAFFHAUSEN",
+    "iso2": "SH",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1653,
+    "name": "SCHWYZ",
+    "iso2": "SZ",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1662,
+    "name": "SOLOTHURN",
+    "iso2": "SO",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1644,
+    "name": "ST. GALLEN",
+    "iso2": "SG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1657,
+    "name": "THURGAU",
+    "iso2": "TG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1643,
+    "name": "TICINO",
+    "iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1642,
+    "name": "URI",
+    "iso2": "UR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1648,
+    "name": "VALAIS",
+    "iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1651,
+    "name": "VAUD",
+    "iso2": "VD",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1646,
+    "name": "ZUG",
+    "iso2": "ZG",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 1656,
+    "name": "ZÜRICH",
+    "iso2": "ZH",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ",
+    "timezone": "Europe/Zurich"
+  }
+]

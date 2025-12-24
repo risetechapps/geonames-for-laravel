@@ -1,0 +1,592 @@
+[
+  {
+    "id": 97527,
+    "name": "AKADEMGORODOK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97751,
+    "name": "BAGAN",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97790,
+    "name": "BARABINSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97805,
+    "name": "BARYSHEVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97888,
+    "name": "BERDSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97997,
+    "name": "BOLOTNOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98114,
+    "name": "CHANY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98154,
+    "name": "CHEREPANOVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98219,
+    "name": "CHULYM",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98318,
+    "name": "DOROGINO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98342,
+    "name": "DUBROVINO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98541,
+    "name": "GORNYY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98711,
+    "name": "ISKITIM",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98712,
+    "name": "ISKITIMSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98869,
+    "name": "KARASUK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98878,
+    "name": "KARGAT",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99119,
+    "name": "KOCHENËVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99121,
+    "name": "KOCHKI",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99153,
+    "name": "KOLYVAN’",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99157,
+    "name": "KOL’TSOVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99329,
+    "name": "KRASNOOBSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99358,
+    "name": "KRASNOZËRSKOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99392,
+    "name": "KRIVODANOVKA",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99422,
+    "name": "KUDRYASHOVSKIY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99451,
+    "name": "KUPINO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99493,
+    "name": "KUYBYSHEV",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99520,
+    "name": "KYSHTOVKA",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99631,
+    "name": "LINËVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99640,
+    "name": "LISTVYANSKIY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99812,
+    "name": "MASLYANINO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99813,
+    "name": "MASLYANINSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99938,
+    "name": "MOCHISHCHE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99975,
+    "name": "MOSHKOVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99976,
+    "name": "MOSHKOVSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100264,
+    "name": "NOVOLUGOVOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100302,
+    "name": "NOVOSIBIRSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100303,
+    "name": "NOVOSIBIRSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100394,
+    "name": "OB’",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100458,
+    "name": "ORDYNSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100459,
+    "name": "ORDYNSKOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100757,
+    "name": "POLOVINNOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100861,
+    "name": "PROKUDSKOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101066,
+    "name": "SADOVYY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101205,
+    "name": "SEVERNOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101209,
+    "name": "SEVERNYY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101444,
+    "name": "SOKUR",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101555,
+    "name": "STANTSIONNO-OYASHINSKIY",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101693,
+    "name": "SUZUN",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101786,
+    "name": "TASHARA",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101792,
+    "name": "TATARSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101795,
+    "name": "TATARSKIY RAYON",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101869,
+    "name": "TOGUCHIN",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101878,
+    "name": "TOLMACHËVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102012,
+    "name": "UBINSKOYE",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102139,
+    "name": "UST’-TARKA",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102224,
+    "name": "VENGEROVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102234,
+    "name": "VERKH-TULA",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102496,
+    "name": "YARKOVO",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102688,
+    "name": "ZDVINSK",
+    "state": "NOVOSIBIRSK",
+    "state_iso2": "NVS",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

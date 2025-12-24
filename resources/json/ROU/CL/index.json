@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 89927,
+    "name": "ALEXANDRU ODOBESCU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89975,
+    "name": "APROZI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90085,
+    "name": "BELCIUGATELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90221,
+    "name": "BORCEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90382,
+    "name": "BUDEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90598,
+    "name": "CEACU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90679,
+    "name": "CHIRNOGI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90682,
+    "name": "CHISELET",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90714,
+    "name": "CIOCĂNEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90779,
+    "name": "COCONI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90849,
+    "name": "COMUNA ALEXANDRU ODOBESCU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90950,
+    "name": "COMUNA BELCIUGATELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91046,
+    "name": "COMUNA BORCEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91322,
+    "name": "COMUNA CHIRNOGI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91325,
+    "name": "COMUNA CHISELET",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91345,
+    "name": "COMUNA CIOCĂNEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91527,
+    "name": "COMUNA CURCANI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91535,
+    "name": "COMUNA CUZA VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91591,
+    "name": "COMUNA CĂSCIOARELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91622,
+    "name": "COMUNA DICHISENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91660,
+    "name": "COMUNA DOR MĂRUNT",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91665,
+    "name": "COMUNA DOROBANŢU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91670,
+    "name": "COMUNA DRAGALINA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91677,
+    "name": "COMUNA DRAGOŞ VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91786,
+    "name": "COMUNA FRUMUŞANI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91792,
+    "name": "COMUNA FRĂSINET",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91799,
+    "name": "COMUNA FUNDENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91939,
+    "name": "COMUNA GRĂDIŞTEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91959,
+    "name": "COMUNA GURBĂNEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92068,
+    "name": "COMUNA ILEANA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92078,
+    "name": "COMUNA INDEPENDENŢA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92117,
+    "name": "COMUNA JEGĂLIA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92144,
+    "name": "COMUNA LEHLIU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92194,
+    "name": "COMUNA LUICA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92217,
+    "name": "COMUNA LUPŞANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92308,
+    "name": "COMUNA MITRENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92315,
+    "name": "COMUNA MODELU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92368,
+    "name": "COMUNA MÂNĂSTIREA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92425,
+    "name": "COMUNA NANA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92441,
+    "name": "COMUNA NICOLAE BĂLCESCU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92556,
+    "name": "COMUNA PERIŞORU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92606,
+    "name": "COMUNA PLĂTĂREŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92744,
+    "name": "COMUNA RADOVANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92791,
+    "name": "COMUNA ROSEŢI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92971,
+    "name": "COMUNA SOHATU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92980,
+    "name": "COMUNA SPANŢOV",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93109,
+    "name": "COMUNA SĂRULEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93233,
+    "name": "COMUNA TÃMÃDÃU MARE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93260,
+    "name": "COMUNA ULMENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93265,
+    "name": "COMUNA ULMU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93275,
+    "name": "COMUNA UNIREA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93298,
+    "name": "COMUNA VALEA ARGOVEI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93335,
+    "name": "COMUNA VASILAŢI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93381,
+    "name": "COMUNA VLAD ŢEPEŞ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93429,
+    "name": "COMUNA VÂLCELELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93539,
+    "name": "COMUNA ŞOLDANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93547,
+    "name": "COMUNA ŞTEFAN CEL MARE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93548,
+    "name": "COMUNA ŞTEFAN VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93593,
+    "name": "CONSTANTIN BRÂNCOVEANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93731,
+    "name": "CRIVĂȚ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93772,
+    "name": "CURCANI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93784,
+    "name": "CUZA VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 67294,
+    "name": "CĂLĂRAŞI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "MOLDOVA",
+    "country_iso2": "MD",
+    "country_iso3": "MDA",
+    "country_native": "MOLDOVA"
+  },
+  {
+    "id": 93848,
+    "name": "CĂLĂRAŞI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93874,
+    "name": "CĂSCIOARELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93933,
+    "name": "DICHISENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93995,
+    "name": "DOR MĂRUNT",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94001,
+    "name": "DOROBANŢU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94011,
+    "name": "DRAGALINA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94023,
+    "name": "DRAGOȘ VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94025,
+    "name": "DRAJNA NOUĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94103,
+    "name": "DÂLGA-GARĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94210,
+    "name": "FRUMUŞANI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94217,
+    "name": "FRĂSINET",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94225,
+    "name": "FUNDENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94231,
+    "name": "FUNDULEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94437,
+    "name": "GRĂDIŞTEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94472,
+    "name": "GURBĂNEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94477,
+    "name": "GÂLDĂU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94504,
+    "name": "GĂLBINAȘI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94645,
+    "name": "IEZERU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94654,
+    "name": "ILEANA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94666,
+    "name": "INDEPENDENŢA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94725,
+    "name": "JEGĂLIA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94769,
+    "name": "LEHLIU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94770,
+    "name": "LEHLIU-GARĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94847,
+    "name": "LUICA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94887,
+    "name": "LUPŞANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94979,
+    "name": "MIHAI VITEAZU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95032,
+    "name": "MITRENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95046,
+    "name": "MODELU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95134,
+    "name": "MUNICIPIUL CĂLĂRAŞI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95161,
+    "name": "MUNICIPIUL OLTENIŢA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95217,
+    "name": "MÂNĂSTIREA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95301,
+    "name": "NANA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95307,
+    "name": "NEGOEȘTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95336,
+    "name": "NICOLAE BĂLCESCU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95433,
+    "name": "OLTENIŢA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95474,
+    "name": "ORAŞ BUDEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95520,
+    "name": "ORAŞ FUNDULEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95537,
+    "name": "ORAŞ LEHLIU GARÃ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95737,
+    "name": "PERIŞORU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95834,
+    "name": "PLĂTĂREŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95927,
+    "name": "POTCOAVA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95960,
+    "name": "PROGRESU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96055,
+    "name": "RADOVANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96056,
+    "name": "RADU VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96060,
+    "name": "RASA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96118,
+    "name": "ROSEŢI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96217,
+    "name": "RĂZVANI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96400,
+    "name": "SOHATU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96413,
+    "name": "SPANŢOV",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96422,
+    "name": "STANCEA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96501,
+    "name": "SULTANA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106028,
+    "name": "SĂPUNARI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106033,
+    "name": "SĂRULEŞTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106035,
+    "name": "SĂRULEȘTI-GARĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96606,
+    "name": "TĂMĂDĂU MARE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96647,
+    "name": "ULMENI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96651,
+    "name": "ULMU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96666,
+    "name": "UNIREA",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96708,
+    "name": "VALEA ARGOVEI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96749,
+    "name": "VALEA ROȘIE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96775,
+    "name": "VASILAŢI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96855,
+    "name": "VLAD ŢEPEŞ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96922,
+    "name": "VÂLCELELE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96975,
+    "name": "VĂRĂȘTI",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97068,
+    "name": "ŞOLDANU",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97078,
+    "name": "ŞTEFAN VODĂ",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97132,
+    "name": "ȘTEFAN CEL MARE",
+    "state": "CĂLĂRAȘI",
+    "state_iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

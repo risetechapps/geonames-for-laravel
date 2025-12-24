@@ -1,0 +1,2212 @@
+[
+  {
+    "id": 2463,
+    "name": "ABERDEEN",
+    "iso2": "ABE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2401,
+    "name": "ABERDEENSHIRE",
+    "iso2": "ABD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2387,
+    "name": "ANGUS",
+    "iso2": "ANS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2412,
+    "name": "ANTRIM AND NEWTOWNABBEY",
+    "iso2": "ANN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2523,
+    "name": "ARDS AND NORTH DOWN",
+    "iso2": "AND",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2392,
+    "name": "ARGYLL AND BUTE",
+    "iso2": "AGB",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2324,
+    "name": "ARMAGH, BANBRIDGE AND CRAIGAVON",
+    "iso2": "ABC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2356,
+    "name": "BARKING AND DAGENHAM",
+    "iso2": "BDG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2520,
+    "name": "BARNET",
+    "iso2": "BNE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2499,
+    "name": "BARNSLEY",
+    "iso2": "BNS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2339,
+    "name": "BATH AND NORTH EAST SOMERSET",
+    "iso2": "BAS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2507,
+    "name": "BEDFORD",
+    "iso2": "BDF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2311,
+    "name": "BELFAST",
+    "iso2": "BFS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2307,
+    "name": "BEXLEY",
+    "iso2": "BEX",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2425,
+    "name": "BIRMINGHAM",
+    "iso2": "BIR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2329,
+    "name": "BLACKBURN WITH DARWEN",
+    "iso2": "BBD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2451,
+    "name": "BLACKPOOL",
+    "iso2": "BPL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2530,
+    "name": "BLAENAU GWENT",
+    "iso2": "BGW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2504,
+    "name": "BOLTON",
+    "iso2": "BOL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 5459,
+    "name": "BOURNEMOUTH, CHRISTCHURCH AND POOLE",
+    "iso2": "BCP",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2470,
+    "name": "BRACKNELL FOREST",
+    "iso2": "BRC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2529,
+    "name": "BRADFORD",
+    "iso2": "BRD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2291,
+    "name": "BRENT",
+    "iso2": "BEN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2452,
+    "name": "BRIDGEND",
+    "iso2": "BGE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2395,
+    "name": "BRIGHTON AND HOVE",
+    "iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2413,
+    "name": "BRISTOL",
+    "iso2": "BST",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2490,
+    "name": "BROMLEY",
+    "iso2": "BRY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2405,
+    "name": "BUCKINGHAMSHIRE",
+    "iso2": "BKM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2459,
+    "name": "BURY",
+    "iso2": "BUR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2298,
+    "name": "CAERPHILLY",
+    "iso2": "CAY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2517,
+    "name": "CALDERDALE",
+    "iso2": "CLD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2423,
+    "name": "CAMBRIDGESHIRE",
+    "iso2": "CAM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2349,
+    "name": "CAMDEN",
+    "iso2": "CMD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2528,
+    "name": "CARDIFF",
+    "iso2": "CRF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2484,
+    "name": "CARMARTHENSHIRE",
+    "iso2": "CMN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2316,
+    "name": "CAUSEWAY COAST AND GLENS",
+    "iso2": "CCG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2303,
+    "name": "CENTRAL BEDFORDSHIRE",
+    "iso2": "CBF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2509,
+    "name": "CEREDIGION",
+    "iso2": "CGN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2444,
+    "name": "CHESHIRE EAST",
+    "iso2": "CHE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2442,
+    "name": "CHESHIRE WEST AND CHESTER",
+    "iso2": "CHW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2475,
+    "name": "CITY OF KINGSTON UPON HULL",
+    "iso2": "KHL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2294,
+    "name": "CITY OF SOUTHAMPTON",
+    "iso2": "STH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2450,
+    "name": "CLACKMANNANSHIRE",
+    "iso2": "CLK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2352,
+    "name": "CONWY",
+    "iso2": "CWY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2312,
+    "name": "CORNWALL",
+    "iso2": "CON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2438,
+    "name": "COVENTRY",
+    "iso2": "COV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2512,
+    "name": "CROYDON",
+    "iso2": "CRY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2334,
+    "name": "CUMBRIA",
+    "iso2": "CMA",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2389,
+    "name": "DARLINGTON",
+    "iso2": "DAL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2497,
+    "name": "DENBIGHSHIRE",
+    "iso2": "DEN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2485,
+    "name": "DERBY",
+    "iso2": "DER",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2403,
+    "name": "DERBYSHIRE",
+    "iso2": "DBY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2446,
+    "name": "DERRY CITY AND STRABANE",
+    "iso2": "DRS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2491,
+    "name": "DEVON",
+    "iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2364,
+    "name": "DONCASTER",
+    "iso2": "DNC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2345,
+    "name": "DORSET",
+    "iso2": "DOR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2457,
+    "name": "DUDLEY",
+    "iso2": "DUD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2415,
+    "name": "DUMFRIES AND GALLOWAY",
+    "iso2": "DGY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2511,
+    "name": "DUNDEE",
+    "iso2": "DND",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2406,
+    "name": "DURHAM",
+    "iso2": "DUR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2532,
+    "name": "EALING",
+    "iso2": "EAL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2374,
+    "name": "EAST AYRSHIRE",
+    "iso2": "EAY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2454,
+    "name": "EAST DUNBARTONSHIRE",
+    "iso2": "EDU",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2462,
+    "name": "EAST LOTHIAN",
+    "iso2": "ELN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2333,
+    "name": "EAST RENFREWSHIRE",
+    "iso2": "ERW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2370,
+    "name": "EAST RIDING OF YORKSHIRE",
+    "iso2": "ERY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2414,
+    "name": "EAST SUSSEX",
+    "iso2": "ESX",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2428,
+    "name": "EDINBURGH",
+    "iso2": "EDH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2476,
+    "name": "ENFIELD",
+    "iso2": "ENF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2336,
+    "name": "ENGLAND",
+    "iso2": "ENG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2410,
+    "name": "ESSEX",
+    "iso2": "ESS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2344,
+    "name": "FALKIRK",
+    "iso2": "FAL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2366,
+    "name": "FERMANAGH AND OMAGH",
+    "iso2": "FMO",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2479,
+    "name": "FIFE",
+    "iso2": "FIF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2437,
+    "name": "FLINTSHIRE",
+    "iso2": "FLN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2431,
+    "name": "GATESHEAD",
+    "iso2": "GAT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2404,
+    "name": "GLASGOW",
+    "iso2": "GLG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2373,
+    "name": "GLOUCESTERSHIRE",
+    "iso2": "GLS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2492,
+    "name": "GREENWICH",
+    "iso2": "GRE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2379,
+    "name": "GWYNEDD",
+    "iso2": "GWN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2411,
+    "name": "HACKNEY",
+    "iso2": "HCK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2466,
+    "name": "HALTON",
+    "iso2": "HAL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2448,
+    "name": "HAMMERSMITH AND FULHAM",
+    "iso2": "HMF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2435,
+    "name": "HAMPSHIRE",
+    "iso2": "HAM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2306,
+    "name": "HARINGEY",
+    "iso2": "HRY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2385,
+    "name": "HARROW",
+    "iso2": "HRW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2309,
+    "name": "HARTLEPOOL",
+    "iso2": "HPL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2347,
+    "name": "HAVERING",
+    "iso2": "HAV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2500,
+    "name": "HEREFORDSHIRE",
+    "iso2": "HEF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2369,
+    "name": "HERTFORDSHIRE",
+    "iso2": "HRT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2383,
+    "name": "HIGHLAND",
+    "iso2": "HLD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2376,
+    "name": "HILLINGDON",
+    "iso2": "HIL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2380,
+    "name": "HOUNSLOW",
+    "iso2": "HNS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2388,
+    "name": "INVERCLYDE",
+    "iso2": "IVC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 5458,
+    "name": "ISLE OF ANGLESEY",
+    "iso2": "AGY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2289,
+    "name": "ISLE OF WIGHT",
+    "iso2": "IOW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2343,
+    "name": "ISLES OF SCILLY",
+    "iso2": "IOS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2319,
+    "name": "ISLINGTON",
+    "iso2": "ISL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2368,
+    "name": "KENSINGTON AND CHELSEA",
+    "iso2": "KEC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2464,
+    "name": "KENT",
+    "iso2": "KEN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2481,
+    "name": "KINGSTON UPON THAMES",
+    "iso2": "KTT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2371,
+    "name": "KIRKLEES",
+    "iso2": "KIR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2330,
+    "name": "KNOWSLEY",
+    "iso2": "KWL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2396,
+    "name": "LAMBETH",
+    "iso2": "LBH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2495,
+    "name": "LANCASHIRE",
+    "iso2": "LAN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2503,
+    "name": "LEEDS",
+    "iso2": "LDS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2318,
+    "name": "LEICESTER",
+    "iso2": "LCE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2516,
+    "name": "LEICESTERSHIRE",
+    "iso2": "LEC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2358,
+    "name": "LEWISHAM",
+    "iso2": "LEW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2355,
+    "name": "LINCOLNSHIRE",
+    "iso2": "LIN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2460,
+    "name": "LISBURN AND CASTLEREAGH",
+    "iso2": "LBC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2340,
+    "name": "LIVERPOOL",
+    "iso2": "LIV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2424,
+    "name": "LONDON",
+    "iso2": "LND",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 5460,
+    "name": "LUTON",
+    "iso2": "LUT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2398,
+    "name": "MANCHESTER",
+    "iso2": "MAN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2381,
+    "name": "MEDWAY",
+    "iso2": "MDW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2328,
+    "name": "MERTHYR TYDFIL",
+    "iso2": "MTY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2483,
+    "name": "MERTON",
+    "iso2": "MRT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2429,
+    "name": "MID AND EAST ANTRIM",
+    "iso2": "MEA",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2399,
+    "name": "MID ULSTER",
+    "iso2": "MUL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2332,
+    "name": "MIDDLESBROUGH",
+    "iso2": "MDB",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2519,
+    "name": "MIDLOTHIAN",
+    "iso2": "MLN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2416,
+    "name": "MILTON KEYNES",
+    "iso2": "MIK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2402,
+    "name": "MONMOUTHSHIRE",
+    "iso2": "MON",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2360,
+    "name": "MORAY",
+    "iso2": "MRY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2351,
+    "name": "NEATH PORT TALBOT",
+    "iso2": "NTL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2458,
+    "name": "NEWCASTLE UPON TYNE",
+    "iso2": "NET",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2418,
+    "name": "NEWHAM",
+    "iso2": "NWM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2524,
+    "name": "NEWPORT",
+    "iso2": "NWP",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2534,
+    "name": "NEWRY, MOURNE AND DOWN",
+    "iso2": "NMD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2473,
+    "name": "NORFOLK",
+    "iso2": "NFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2535,
+    "name": "NORTH AYRSHIRE",
+    "iso2": "NAY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2384,
+    "name": "NORTH EAST LINCOLNSHIRE",
+    "iso2": "NEL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2487,
+    "name": "NORTH LANARKSHIRE",
+    "iso2": "NLK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2453,
+    "name": "NORTH LINCOLNSHIRE",
+    "iso2": "NLN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 5461,
+    "name": "NORTH NORTHAMPTONSHIRE",
+    "iso2": "NNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2430,
+    "name": "NORTH SOMERSET",
+    "iso2": "NSM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2521,
+    "name": "NORTH TYNESIDE",
+    "iso2": "NTY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2522,
+    "name": "NORTH YORKSHIRE",
+    "iso2": "NYK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2337,
+    "name": "NORTHERN IRELAND",
+    "iso2": "NIR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2365,
+    "name": "NORTHUMBERLAND",
+    "iso2": "NBL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2359,
+    "name": "NOTTINGHAM",
+    "iso2": "NGM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2456,
+    "name": "NOTTINGHAMSHIRE",
+    "iso2": "NTT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2477,
+    "name": "OLDHAM",
+    "iso2": "OLD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2474,
+    "name": "ORKNEY ISLANDS",
+    "iso2": "ORK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2353,
+    "name": "OUTER HEBRIDES",
+    "iso2": "ELS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2321,
+    "name": "OXFORDSHIRE",
+    "iso2": "OXF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2486,
+    "name": "PEMBROKESHIRE",
+    "iso2": "PEM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2325,
+    "name": "PERTH AND KINROSS",
+    "iso2": "PKN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2297,
+    "name": "PETERBOROUGH",
+    "iso2": "PTE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2514,
+    "name": "PLYMOUTH",
+    "iso2": "PLY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2305,
+    "name": "PORTSMOUTH",
+    "iso2": "POR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2441,
+    "name": "POWYS",
+    "iso2": "POW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2455,
+    "name": "READING",
+    "iso2": "RDG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2397,
+    "name": "REDBRIDGE",
+    "iso2": "RDB",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2527,
+    "name": "REDCAR AND CLEVELAND",
+    "iso2": "RCC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2443,
+    "name": "RENFREWSHIRE",
+    "iso2": "RFW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2301,
+    "name": "RHONDDA CYNON TAF",
+    "iso2": "RCT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2501,
+    "name": "RICHMOND UPON THAMES",
+    "iso2": "RIC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2327,
+    "name": "ROCHDALE",
+    "iso2": "RCH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2308,
+    "name": "ROTHERHAM",
+    "iso2": "ROT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2472,
+    "name": "RUTLAND",
+    "iso2": "RUT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2493,
+    "name": "SALFORD",
+    "iso2": "SLF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2341,
+    "name": "SANDWELL",
+    "iso2": "SAW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2335,
+    "name": "SCOTLAND",
+    "iso2": "SCT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2346,
+    "name": "SCOTTISH BORDERS",
+    "iso2": "SCB",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2518,
+    "name": "SEFTON",
+    "iso2": "SFT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2295,
+    "name": "SHEFFIELD",
+    "iso2": "SHF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2300,
+    "name": "SHETLAND ISLANDS",
+    "iso2": "ZET",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2407,
+    "name": "SHROPSHIRE",
+    "iso2": "SHR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2427,
+    "name": "SLOUGH",
+    "iso2": "SLG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2469,
+    "name": "SOLIHULL",
+    "iso2": "SOL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2386,
+    "name": "SOMERSET",
+    "iso2": "SOM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2377,
+    "name": "SOUTH AYRSHIRE",
+    "iso2": "SAY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2400,
+    "name": "SOUTH GLOUCESTERSHIRE",
+    "iso2": "SGC",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2362,
+    "name": "SOUTH LANARKSHIRE",
+    "iso2": "SLK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2409,
+    "name": "SOUTH TYNESIDE",
+    "iso2": "STY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2323,
+    "name": "SOUTHEND-ON-SEA",
+    "iso2": "SOS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2432,
+    "name": "SOUTHWARK",
+    "iso2": "SWK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2290,
+    "name": "ST HELENS",
+    "iso2": "SHN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2447,
+    "name": "STAFFORDSHIRE",
+    "iso2": "STS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2488,
+    "name": "STIRLING",
+    "iso2": "STG",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2394,
+    "name": "STOCKPORT",
+    "iso2": "SKP",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2421,
+    "name": "STOCKTON-ON-TEES",
+    "iso2": "STT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2506,
+    "name": "STOKE-ON-TRENT",
+    "iso2": "STE",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2467,
+    "name": "SUFFOLK",
+    "iso2": "SFK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2372,
+    "name": "SUNDERLAND",
+    "iso2": "SND",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2526,
+    "name": "SURREY",
+    "iso2": "SRY",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2313,
+    "name": "SUTTON",
+    "iso2": "STN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2433,
+    "name": "SWANSEA",
+    "iso2": "SWA",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2422,
+    "name": "SWINDON",
+    "iso2": "SWD",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2367,
+    "name": "TAMESIDE",
+    "iso2": "TAM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2310,
+    "name": "TELFORD AND WREKIN",
+    "iso2": "TFW",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2468,
+    "name": "THURROCK",
+    "iso2": "THR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2478,
+    "name": "TORBAY",
+    "iso2": "TOB",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2496,
+    "name": "TORFAEN",
+    "iso2": "TOF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2390,
+    "name": "TOWER HAMLETS",
+    "iso2": "TWH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2293,
+    "name": "TRAFFORD",
+    "iso2": "TRF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2299,
+    "name": "VALE OF GLAMORGAN",
+    "iso2": "VGL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2465,
+    "name": "WAKEFIELD",
+    "iso2": "WKF",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2338,
+    "name": "WALES",
+    "iso2": "WLS",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2292,
+    "name": "WALSALL",
+    "iso2": "WLL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2326,
+    "name": "WALTHAM FOREST",
+    "iso2": "WFT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2434,
+    "name": "WANDSWORTH",
+    "iso2": "WND",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2420,
+    "name": "WARRINGTON",
+    "iso2": "WRT",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2505,
+    "name": "WARWICKSHIRE",
+    "iso2": "WAR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2471,
+    "name": "WEST BERKSHIRE",
+    "iso2": "WBK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2440,
+    "name": "WEST DUNBARTONSHIRE",
+    "iso2": "WDU",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2354,
+    "name": "WEST LOTHIAN",
+    "iso2": "WLN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 5462,
+    "name": "WEST NORTHAMPTONSHIRE",
+    "iso2": "WNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2296,
+    "name": "WEST SUSSEX",
+    "iso2": "WSX",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2357,
+    "name": "WESTMINSTER",
+    "iso2": "WSM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2320,
+    "name": "WIGAN",
+    "iso2": "WGN",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2391,
+    "name": "WILTSHIRE",
+    "iso2": "WIL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2482,
+    "name": "WINDSOR AND MAIDENHEAD",
+    "iso2": "WNM",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2408,
+    "name": "WIRRAL",
+    "iso2": "WRL",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2419,
+    "name": "WOKINGHAM",
+    "iso2": "WOK",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2489,
+    "name": "WOLVERHAMPTON",
+    "iso2": "WLV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2510,
+    "name": "WORCESTERSHIRE",
+    "iso2": "WOR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2436,
+    "name": "WREXHAM",
+    "iso2": "WRX",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": 2426,
+    "name": "YORK",
+    "iso2": "YOR",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM",
+    "timezone": "Europe/London"
+  }
+]

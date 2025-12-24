@@ -1,0 +1,682 @@
+[
+  {
+    "id": 109311,
+    "name": "ALCHEVS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109312,
+    "name": "ALCHEVS’KA MIS’KRADA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109323,
+    "name": "ANTRATSYT",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109324,
+    "name": "ANTRATSYTIVS’KYY RAYON",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109329,
+    "name": "ARTEMIVS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109359,
+    "name": "BAYRACHKY",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109395,
+    "name": "BILE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109400,
+    "name": "BILOHORIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109401,
+    "name": "BILOKURAKYNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109403,
+    "name": "BILOVODS'K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109408,
+    "name": "BIRYUKOVE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109453,
+    "name": "BRYANKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109460,
+    "name": "BURAN",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109502,
+    "name": "CHERVONOPARTYZANS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109515,
+    "name": "CHORNUKHYNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109574,
+    "name": "DOVZHANSKYY RAYON",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109630,
+    "name": "HIRS’KE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109693,
+    "name": "KADIYIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109754,
+    "name": "KIROVS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109755,
+    "name": "KIROVS’KA MIS’KRADA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109760,
+    "name": "KLENOVYY",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109853,
+    "name": "KRASNYY KUT",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109854,
+    "name": "KRASNYY LUCH",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109860,
+    "name": "KREMINNA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109864,
+    "name": "KRIPENS’KYY",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109911,
+    "name": "LENINA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109931,
+    "name": "LOZNO-OLEKSANDRIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109938,
+    "name": "LUHANSK",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109939,
+    "name": "LUHANS’KA MIS’KRADA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109945,
+    "name": "LUTUHYNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109946,
+    "name": "LUTUHYNS’KYY RAYON",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109960,
+    "name": "LYSYCHANS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109974,
+    "name": "MAKARIV YAR",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110001,
+    "name": "MARKIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110030,
+    "name": "MILLEROVO",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110031,
+    "name": "MILOVE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110038,
+    "name": "MIUSYNS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110049,
+    "name": "MOLODOHVARDIYS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110143,
+    "name": "NOVOPSKOV",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110166,
+    "name": "NYZHNYA DUVANKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110231,
+    "name": "PAVLIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110244,
+    "name": "PEREVAL’S’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110250,
+    "name": "PERVOMAYS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110300,
+    "name": "POPASNA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110324,
+    "name": "PRYVILLYA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110374,
+    "name": "ROVEN’KY",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110384,
+    "name": "ROZKISHNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110387,
+    "name": "RUBIZHANS’KA MIS’KRADA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110388,
+    "name": "RUBIZHNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110433,
+    "name": "SHCHASTYA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110460,
+    "name": "SIMEYKYNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110485,
+    "name": "SLOV`YANOSERBSK",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110514,
+    "name": "SOROKYNE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110515,
+    "name": "SOROKYNS'KYI RAYON",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110526,
+    "name": "STANYTSYA LUHANS’KA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110532,
+    "name": "STAROBIL’S’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110572,
+    "name": "SVATOVE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110573,
+    "name": "SVERDLOVS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110574,
+    "name": "SVERDLOVS’KA MIS’KRADA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110582,
+    "name": "SYEVYERODONETS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110597,
+    "name": "TEPLE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110618,
+    "name": "TOSHKIVKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110625,
+    "name": "TR’OKHIZBENKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110657,
+    "name": "URALO-KAVKAZ",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110661,
+    "name": "USPENKA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110812,
+    "name": "ZALESNOYE",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110866,
+    "name": "ZORYNS’K",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110871,
+    "name": "ZYMOHIRIA",
+    "state": "LUHANSKA",
+    "state_iso2": "09",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

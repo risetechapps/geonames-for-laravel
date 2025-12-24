@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2575,
+    "name": "CENTRALE",
+    "iso2": "C",
+    "country": "TOGO",
+    "country_iso2": "TG",
+    "country_iso3": "TGO",
+    "country_native": "TOGO",
+    "timezone": "Africa/Lome"
+  },
+  {
+    "id": 2579,
+    "name": "KARA",
+    "iso2": "K",
+    "country": "TOGO",
+    "country_iso2": "TG",
+    "country_iso3": "TGO",
+    "country_native": "TOGO",
+    "timezone": "Africa/Lome"
+  },
+  {
+    "id": 2576,
+    "name": "MARITIME",
+    "iso2": "M",
+    "country": "TOGO",
+    "country_iso2": "TG",
+    "country_iso3": "TGO",
+    "country_native": "TOGO",
+    "timezone": "Africa/Lome"
+  },
+  {
+    "id": 2577,
+    "name": "PLATEAUX",
+    "iso2": "P",
+    "country": "TOGO",
+    "country_iso2": "TG",
+    "country_iso3": "TGO",
+    "country_native": "TOGO",
+    "timezone": "Africa/Lome"
+  },
+  {
+    "id": 2578,
+    "name": "SAVANES",
+    "iso2": "S",
+    "country": "TOGO",
+    "country_iso2": "TG",
+    "country_iso3": "TGO",
+    "country_native": "TOGO",
+    "timezone": "Africa/Lome"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": 111512,
+    "name": "ASHAWAY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111848,
+    "name": "BARRINGTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112667,
+    "name": "BRADFORD",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112812,
+    "name": "BRISTOL",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112815,
+    "name": "BRISTOL COUNTY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113673,
+    "name": "CENTRAL FALLS",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113773,
+    "name": "CHARLESTOWN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113843,
+    "name": "CHEPACHET",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114732,
+    "name": "COVENTRY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114772,
+    "name": "CRANSTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114909,
+    "name": "CUMBERLAND",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114921,
+    "name": "CUMBERLAND HILL",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115674,
+    "name": "EAST GREENWICH",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115741,
+    "name": "EAST PROVIDENCE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116273,
+    "name": "EXETER",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116774,
+    "name": "FOSTER",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117695,
+    "name": "GREENVILLE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118076,
+    "name": "HARRISVILLE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118646,
+    "name": "HOPE VALLEY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118658,
+    "name": "HOPKINTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119125,
+    "name": "JAMESTOWN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119279,
+    "name": "JOHNSTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119493,
+    "name": "KENT",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119629,
+    "name": "KINGSTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120513,
+    "name": "LINCOLN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121636,
+    "name": "MELVILLE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121793,
+    "name": "MIDDLETOWN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122564,
+    "name": "NARRAGANSETT",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122565,
+    "name": "NARRAGANSETT PIER",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122778,
+    "name": "NEW SHOREHAM",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122849,
+    "name": "NEWPORT",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122854,
+    "name": "NEWPORT COUNTY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122855,
+    "name": "NEWPORT EAST",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123048,
+    "name": "NORTH KINGSTOWN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123089,
+    "name": "NORTH PROVIDENCE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123102,
+    "name": "NORTH SCITUATE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123108,
+    "name": "NORTH SMITHFIELD",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123903,
+    "name": "PASCOAG",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123939,
+    "name": "PAWTUCKET",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124571,
+    "name": "PORTSMOUTH",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124716,
+    "name": "PROVIDENCE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124719,
+    "name": "PROVIDENCE COUNTY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126520,
+    "name": "SMITHFIELD",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126683,
+    "name": "SOUTH KINGSTOWN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127687,
+    "name": "TIVERTON",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128108,
+    "name": "VALLEY FALLS",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128364,
+    "name": "WAKEFIELD-PEACEDALE",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128484,
+    "name": "WARREN",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128525,
+    "name": "WARWICK",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128574,
+    "name": "WASHINGTON COUNTY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128880,
+    "name": "WEST GREENWICH",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129002,
+    "name": "WEST WARWICK",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129023,
+    "name": "WESTERLY",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129582,
+    "name": "WOONSOCKET",
+    "state": "RHODE ISLAND",
+    "state_iso2": "RI",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

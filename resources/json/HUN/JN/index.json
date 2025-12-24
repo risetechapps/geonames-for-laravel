@@ -1,0 +1,532 @@
+[
+  {
+    "id": 55173,
+    "name": "ABÁDSZALÓK",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55182,
+    "name": "ALATTYÁN",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55243,
+    "name": "BESENYSZÖG",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55320,
+    "name": "CIBAKHÁZA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55333,
+    "name": "CSERKESZŐLŐ",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55419,
+    "name": "FEGYVERNEK",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55537,
+    "name": "JÁNOSHIDA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55541,
+    "name": "JÁSZALSÓSZENTGYÖRGY",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55542,
+    "name": "JÁSZAPÁTI",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55543,
+    "name": "JÁSZAPÁTI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55544,
+    "name": "JÁSZBERÉNY",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55545,
+    "name": "JÁSZBERÉNYI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55546,
+    "name": "JÁSZDÓZSA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55547,
+    "name": "JÁSZJÁKÓHALMA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55549,
+    "name": "JÁSZKISÉR",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55550,
+    "name": "JÁSZLADÁNY",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55551,
+    "name": "JÁSZSZENTANDRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55553,
+    "name": "JÁSZÁROKSZÁLLÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55567,
+    "name": "KARCAG",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55568,
+    "name": "KARCAGI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55584,
+    "name": "KENDERES",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55585,
+    "name": "KENGYEL",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55615,
+    "name": "KISÚJSZÁLLÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55627,
+    "name": "KUNHEGYES",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55628,
+    "name": "KUNHEGYESI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55629,
+    "name": "KUNMADARAS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55632,
+    "name": "KUNSZENTMÁRTON",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55633,
+    "name": "KUNSZENTMÁRTONI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55699,
+    "name": "MEZŐTÚR",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55700,
+    "name": "MEZŐTÚRI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55874,
+    "name": "RÁKÓCZIFALVA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55875,
+    "name": "RÁKÓCZIÚJFALU",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55915,
+    "name": "SZAJOL",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55932,
+    "name": "SZELEVÉNY",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55964,
+    "name": "SZOLNOK",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55965,
+    "name": "SZOLNOKI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56024,
+    "name": "TISZABURA",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56025,
+    "name": "TISZABŐ",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56030,
+    "name": "TISZAFÖLDVÁR",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56031,
+    "name": "TISZAFÜRED",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56032,
+    "name": "TISZAFÜREDI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56041,
+    "name": "TISZAPÜSPÖKI",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56042,
+    "name": "TISZAROFF",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56043,
+    "name": "TISZASZENTIMRE",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56044,
+    "name": "TISZASZŐLŐS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56045,
+    "name": "TISZASÜLY",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56077,
+    "name": "TÓSZEG",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56084,
+    "name": "TÖRÖKSZENTMIKLÓS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56085,
+    "name": "TÖRÖKSZENTMIKLÓSI JÁRÁS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56086,
+    "name": "TÚRKEVE",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56118,
+    "name": "ZAGYVARÉKAS",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56156,
+    "name": "ÖCSÖD",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56164,
+    "name": "ÚJSZÁSZ",
+    "state": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "state_iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

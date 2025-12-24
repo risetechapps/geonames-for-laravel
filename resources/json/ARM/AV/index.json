@@ -1,0 +1,542 @@
+[
+  {
+    "id": 289,
+    "name": "AGHAVNATUN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 292,
+    "name": "AKNALICH",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 293,
+    "name": "AKNASHEN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 297,
+    "name": "ALASHKERT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 302,
+    "name": "APAGA",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 306,
+    "name": "ARAK’S",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 310,
+    "name": "ARAZAP’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 311,
+    "name": "ARBAT’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 315,
+    "name": "AREVASHAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 317,
+    "name": "AREVIK",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 322,
+    "name": "ARGAVAND",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 325,
+    "name": "ARMAVIR",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 327,
+    "name": "ARSHALUYS",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 330,
+    "name": "ARTIMET",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 340,
+    "name": "AYGEK",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 342,
+    "name": "AYGESHAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 347,
+    "name": "BAGHRAMYAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 350,
+    "name": "BAMBAKASHAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 367,
+    "name": "DALARIK",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 374,
+    "name": "DOGHS",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 388,
+    "name": "GAY",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 389,
+    "name": "GEGHAKERT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 392,
+    "name": "GEGHANIST",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 394,
+    "name": "GETASHEN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 398,
+    "name": "GMBET’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 403,
+    "name": "GRIBOYEDOV",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 410,
+    "name": "HAYKASHEN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 414,
+    "name": "HOVTAMEJ",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 419,
+    "name": "JANFIDA",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 433,
+    "name": "KHORONK’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 440,
+    "name": "LENUGHI",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 448,
+    "name": "LUKASHIN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 454,
+    "name": "MARGARA",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 461,
+    "name": "MAYISYAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 465,
+    "name": "MERDZAVAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 469,
+    "name": "METSAMOR",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 473,
+    "name": "MRGASHAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 477,
+    "name": "MUSALERR",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 478,
+    "name": "MYASNIKYAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 479,
+    "name": "NALBANDYAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 483,
+    "name": "NOR ARMAVIR",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 488,
+    "name": "NORAKERT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 502,
+    "name": "PTGHUNK’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 504,
+    "name": "P’SHATAVAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 509,
+    "name": "SARDARAPAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 519,
+    "name": "SHENAVAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 532,
+    "name": "TANDZUT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 533,
+    "name": "TARONIK",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 539,
+    "name": "TSAGHKUNK’",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 540,
+    "name": "TSIATSAN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 549,
+    "name": "VAGHARSHAPAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 567,
+    "name": "VOSKEHAT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 575,
+    "name": "YEGHEGNUT",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  },
+  {
+    "id": 579,
+    "name": "YERASKHAHUN",
+    "state": "ARMAVIR",
+    "state_iso2": "AV",
+    "country": "ARMENIA",
+    "country_iso2": "AM",
+    "country_iso3": "ARM",
+    "country_native": "ՀԱՅԱՍՏԱՆ"
+  }
+]

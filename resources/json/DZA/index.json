@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1118,
+    "name": "ADRAR",
+    "iso2": "01",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1144,
+    "name": "ALGIERS",
+    "iso2": "16",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1103,
+    "name": "ANNABA",
+    "iso2": "23",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1119,
+    "name": "AÏN DEFLA",
+    "iso2": "44",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1122,
+    "name": "AÏN TÉMOUCHENT",
+    "iso2": "46",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1142,
+    "name": "BATNA",
+    "iso2": "05",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1114,
+    "name": "BISKRA",
+    "iso2": "07",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1111,
+    "name": "BLIDA",
+    "iso2": "09",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4908,
+    "name": "BORDJ BAJI MOKHTAR",
+    "iso2": "52",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1116,
+    "name": "BORDJ BOU ARRÉRIDJ",
+    "iso2": "34",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1125,
+    "name": "BOUMERDÈS",
+    "iso2": "35",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1104,
+    "name": "BOUÏRA",
+    "iso2": "10",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1108,
+    "name": "BÉCHAR",
+    "iso2": "08",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1128,
+    "name": "BÉJAÏA",
+    "iso2": "06",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4909,
+    "name": "BÉNI ABBÈS",
+    "iso2": "53",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1105,
+    "name": "CHLEF",
+    "iso2": "02",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1121,
+    "name": "CONSTANTINE",
+    "iso2": "25",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4912,
+    "name": "DJANET",
+    "iso2": "56",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1098,
+    "name": "DJELFA",
+    "iso2": "17",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1129,
+    "name": "EL BAYADH",
+    "iso2": "32",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4905,
+    "name": "EL M'GHAIR",
+    "iso2": "49",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4906,
+    "name": "EL MENIA",
+    "iso2": "50",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1099,
+    "name": "EL OUED",
+    "iso2": "39",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1100,
+    "name": "EL TARF",
+    "iso2": "36",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1127,
+    "name": "GHARDAÏA",
+    "iso2": "47",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1137,
+    "name": "GUELMA",
+    "iso2": "24",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1112,
+    "name": "ILLIZI",
+    "iso2": "33",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4914,
+    "name": "IN GUEZZAM",
+    "iso2": "58",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4913,
+    "name": "IN SALAH",
+    "iso2": "57",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1113,
+    "name": "JIJEL",
+    "iso2": "18",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1126,
+    "name": "KHENCHELA",
+    "iso2": "40",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1138,
+    "name": "LAGHOUAT",
+    "iso2": "03",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1134,
+    "name": "M'SILA",
+    "iso2": "28",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1124,
+    "name": "MASCARA",
+    "iso2": "29",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1132,
+    "name": "MILA",
+    "iso2": "43",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1140,
+    "name": "MOSTAGANEM",
+    "iso2": "27",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1109,
+    "name": "MÉDÉA",
+    "iso2": "26",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1102,
+    "name": "NAAMA",
+    "iso2": "45",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1101,
+    "name": "ORAN",
+    "iso2": "31",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1139,
+    "name": "OUARGLA",
+    "iso2": "30",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4907,
+    "name": "OULED DJELLAL",
+    "iso2": "51",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1136,
+    "name": "OUM EL BOUAGHI",
+    "iso2": "04",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1130,
+    "name": "RELIZANE",
+    "iso2": "48",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1123,
+    "name": "SAÏDA",
+    "iso2": "20",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4902,
+    "name": "SIDI BEL ABBÈS",
+    "iso2": "22",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1110,
+    "name": "SKIKDA",
+    "iso2": "21",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1143,
+    "name": "SOUK AHRAS",
+    "iso2": "41",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1141,
+    "name": "SÉTIF",
+    "iso2": "19",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1135,
+    "name": "TAMANGHASSET",
+    "iso2": "11",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1106,
+    "name": "TIARET",
+    "iso2": "14",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4910,
+    "name": "TIMIMOUN",
+    "iso2": "54",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1120,
+    "name": "TINDOUF",
+    "iso2": "37",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1115,
+    "name": "TIPASA",
+    "iso2": "42",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1133,
+    "name": "TISSEMSILT",
+    "iso2": "38",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1131,
+    "name": "TIZI OUZOU",
+    "iso2": "15",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1107,
+    "name": "TLEMCEN",
+    "iso2": "13",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 4911,
+    "name": "TOUGGOURT",
+    "iso2": "55",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  },
+  {
+    "id": 1117,
+    "name": "TÉBESSA",
+    "iso2": "12",
+    "country": "ALGERIA",
+    "country_iso2": "DZ",
+    "country_iso3": "DZA",
+    "country_native": "الجزائر",
+    "timezone": "Africa/Algiers"
+  }
+]

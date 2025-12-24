@@ -1,0 +1,962 @@
+[
+  {
+    "id": 97644,
+    "name": "ANUCHINO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97645,
+    "name": "ANUCHINSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97678,
+    "name": "ARSEN’YEV",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97686,
+    "name": "ARTËM",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97789,
+    "name": "BARABASH",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97946,
+    "name": "BLAGODATNOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98008,
+    "name": "BOL’SHOY KAMEN’",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98166,
+    "name": "CHERNIGOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98167,
+    "name": "CHERNIGOVSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98182,
+    "name": "CHERNYSHËVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98208,
+    "name": "CHKALOVSKOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98217,
+    "name": "CHUGUYEVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98237,
+    "name": "DALNEGORSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98238,
+    "name": "DALNERECHENSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98323,
+    "name": "DOSTOYEVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98356,
+    "name": "DUNAY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98392,
+    "name": "EMAR",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98433,
+    "name": "FOKINO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98532,
+    "name": "GORNORECHENSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98545,
+    "name": "GORNYYE KLYUCHI",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98580,
+    "name": "GRAZHDANKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98730,
+    "name": "IVANOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98814,
+    "name": "KAMENKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98823,
+    "name": "KAMEN’-RYBOLOV",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98912,
+    "name": "KAVALEROVO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98969,
+    "name": "KHASANSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99007,
+    "name": "KHOROL’",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99069,
+    "name": "KIROVSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99113,
+    "name": "KNEVICHI",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99275,
+    "name": "KRASKINO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99331,
+    "name": "KRASNORECHENSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99550,
+    "name": "LAZO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99551,
+    "name": "LAZOVSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99605,
+    "name": "LESOZAVODSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99635,
+    "name": "LIPOVTSY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99642,
+    "name": "LIVADIYA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99678,
+    "name": "LUCHEGORSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99679,
+    "name": "LUCHKI",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99700,
+    "name": "LYALICHI",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99898,
+    "name": "MIKHAYLOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99903,
+    "name": "MIKHAYLOVSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99935,
+    "name": "MNOGOUDOBNOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99955,
+    "name": "MONASTYRISHCHE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100040,
+    "name": "NADEZHDINSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100052,
+    "name": "NAKHODKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100271,
+    "name": "NOVONIKOL’SK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100285,
+    "name": "NOVOPOKROVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100298,
+    "name": "NOVOSHAKHTINSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100312,
+    "name": "NOVOSYSOYEVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100339,
+    "name": "NOVYY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100431,
+    "name": "OL’GA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100555,
+    "name": "PARTIZANSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100695,
+    "name": "PLASTUN",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100737,
+    "name": "POGRANICHNYY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100743,
+    "name": "POKROVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100771,
+    "name": "POPOVA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100811,
+    "name": "PREOBRAZHENIYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100832,
+    "name": "PRIMORSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100905,
+    "name": "PUTYATIN",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100950,
+    "name": "RAZDOL’NOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100966,
+    "name": "RETTIKHOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100988,
+    "name": "ROMANOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101021,
+    "name": "RUDNAYA PRISTAN’",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101026,
+    "name": "RUDNYY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101031,
+    "name": "RUSSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101181,
+    "name": "SERGEYEVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101333,
+    "name": "SHKOTOVO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101334,
+    "name": "SHKOTOVSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101341,
+    "name": "SHTYKOVO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101384,
+    "name": "SIVAKOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101404,
+    "name": "SLAVYANKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101420,
+    "name": "SMOLYANINOVO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101528,
+    "name": "SPASSK-DAL’NIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101532,
+    "name": "SPASSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101534,
+    "name": "SPASSKOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101700,
+    "name": "SVETLAYA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101800,
+    "name": "TAVRICHANKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101833,
+    "name": "TERNEY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101933,
+    "name": "TRUDOVOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102030,
+    "name": "UGLEKAMENSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102037,
+    "name": "UGLOVOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102105,
+    "name": "USSURIYSK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102327,
+    "name": "VLADIMIRO-ALEKSANDROVSKOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102330,
+    "name": "VLADIVOSTOK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102338,
+    "name": "VOLCHANETS",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102372,
+    "name": "VOL’NO-NADEZHDINSKOYE",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102400,
+    "name": "VOSTOK",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102406,
+    "name": "VOZDVIZHENKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102412,
+    "name": "VRANGEL’",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102466,
+    "name": "YAKOVLEVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102470,
+    "name": "YAKOVLEVSKIY RAYON",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102502,
+    "name": "YAROSLAVSKIY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102530,
+    "name": "YEKATERINOVKA",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102661,
+    "name": "ZARUBINO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102677,
+    "name": "ZAVODSKOY",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102712,
+    "name": "ZHARIKOVO",
+    "state": "PRIMORSKY",
+    "state_iso2": "PRI",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

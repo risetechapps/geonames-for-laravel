@@ -1,0 +1,482 @@
+[
+  {
+    "id": 97146,
+    "name": "ARADAC",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97152,
+    "name": "BANATSKI DESPOTOVAC",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97153,
+    "name": "BANATSKI DVOR",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97155,
+    "name": "BANATSKO KARAĐORĐEVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97171,
+    "name": "BELO BLATO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97180,
+    "name": "BOKA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97184,
+    "name": "BOTOŠ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97185,
+    "name": "BOČAR",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97203,
+    "name": "ELEMIR",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97204,
+    "name": "EČKA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97205,
+    "name": "FARKAŽDIN",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97219,
+    "name": "HETIN",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97232,
+    "name": "JARKOVAC",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97234,
+    "name": "JAŠA TOMIĆ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97243,
+    "name": "KLEK",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97246,
+    "name": "KNIĆANIN",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97250,
+    "name": "KONAK",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97257,
+    "name": "KRAJIŠNIK",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97264,
+    "name": "KUMANE",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97271,
+    "name": "LAZAREVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97282,
+    "name": "LUKIĆEVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97291,
+    "name": "MELENCI",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97293,
+    "name": "MEĐA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97294,
+    "name": "MIHAJLOVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97302,
+    "name": "NEUZINA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97307,
+    "name": "NOVA CRNJA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 155045,
+    "name": "NOVI BEČEJ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97310,
+    "name": "NOVI ITEBEJ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97317,
+    "name": "NOVO MILOŠEVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97322,
+    "name": "ORLOVAT",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97333,
+    "name": "PERLEZ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97354,
+    "name": "RADOJEVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97358,
+    "name": "RAVNI TOPOLOVAC",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97379,
+    "name": "SEČANJ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97391,
+    "name": "SRPSKA CRNJA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97392,
+    "name": "SRPSKI ITEBEJ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97393,
+    "name": "STAJIĆEVO",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97405,
+    "name": "SUTJESKA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97407,
+    "name": "TARAŠ",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97410,
+    "name": "TOBA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97411,
+    "name": "TOMAŠEVAC",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97413,
+    "name": "TORAK",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97414,
+    "name": "TORDA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97438,
+    "name": "VOJVODA STEPA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97450,
+    "name": "ZRENJANIN",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97459,
+    "name": "ČENTA",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97460,
+    "name": "ČESTEREG",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  },
+  {
+    "id": 97474,
+    "name": "ŽITIŠTE",
+    "state": "CENTRAL BANAT",
+    "state_iso2": "02",
+    "country": "SERBIA",
+    "country_iso2": "RS",
+    "country_iso3": "SRB",
+    "country_native": "СРБИЈА"
+  }
+]

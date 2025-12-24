@@ -1,0 +1,862 @@
+[
+  {
+    "id": 55170,
+    "name": "ABAÚJSZÁNTÓ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55186,
+    "name": "ALSÓZSOLCA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55194,
+    "name": "ARLÓ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55195,
+    "name": "ARNÓT",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55196,
+    "name": "ASZALÓ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55235,
+    "name": "BEKECS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55252,
+    "name": "BOGÁCS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55254,
+    "name": "BOLDVA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55258,
+    "name": "BORSODNÁDASD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55311,
+    "name": "BŐCS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55321,
+    "name": "CIGÁND",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55322,
+    "name": "CIGÁNDI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55396,
+    "name": "EDELÉNY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55397,
+    "name": "EDELÉNYI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55404,
+    "name": "EMŐD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55405,
+    "name": "ENCS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55407,
+    "name": "ENCSI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55416,
+    "name": "FARKASLYUK",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55426,
+    "name": "FELSŐZSOLCA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55448,
+    "name": "GESZTELY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55477,
+    "name": "GÖNC",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55478,
+    "name": "GÖNCI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55494,
+    "name": "HALMAJ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55498,
+    "name": "HARSÁNY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55503,
+    "name": "HEJŐBÁBA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55508,
+    "name": "HERNÁDNÉMETI",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55532,
+    "name": "IZSÓFALVA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55540,
+    "name": "JÁRDÁNHÁZA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55569,
+    "name": "KARCSA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55575,
+    "name": "KAZINCBARCIKA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55576,
+    "name": "KAZINCBARCIKAI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55686,
+    "name": "MEGYASZÓ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55689,
+    "name": "MEZŐCSÁT",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55690,
+    "name": "MEZŐCSÁTI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55693,
+    "name": "MEZŐKERESZTES",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55696,
+    "name": "MEZŐKÖVESD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55697,
+    "name": "MEZŐKÖVESDI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55701,
+    "name": "MEZŐZOMBOR",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55705,
+    "name": "MISKOLC",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55706,
+    "name": "MISKOLCI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55710,
+    "name": "MONOK",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55718,
+    "name": "MÁD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55720,
+    "name": "MÁLYI",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55737,
+    "name": "MÚCSONY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55769,
+    "name": "NYÉKLÁDHÁZA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55797,
+    "name": "OLASZLISZKA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55798,
+    "name": "ONGA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55832,
+    "name": "PRÜGY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55837,
+    "name": "PUTNOK",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55838,
+    "name": "PUTNOKI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55864,
+    "name": "RICSE",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55867,
+    "name": "RUDABÁNYA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55882,
+    "name": "SAJÓBÁBONY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55883,
+    "name": "SAJÓKAZA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55884,
+    "name": "SAJÓLÁD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55885,
+    "name": "SAJÓSZENTPÉTER",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55886,
+    "name": "SAJÓSZÖGED",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55887,
+    "name": "SAJÓVÁMOS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55888,
+    "name": "SAJÓÖRÖS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55933,
+    "name": "SZENDRŐ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55941,
+    "name": "SZENTISTVÁN",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55948,
+    "name": "SZERENCS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55949,
+    "name": "SZERENCSI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55958,
+    "name": "SZIKSZÓ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55959,
+    "name": "SZIKSZÓI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55961,
+    "name": "SZIRMABESENYŐ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55979,
+    "name": "SÁLY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55986,
+    "name": "SÁROSPATAK",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55987,
+    "name": "SÁROSPATAKI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55994,
+    "name": "SÁTORALJAÚJHELY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55995,
+    "name": "SÁTORALJAÚJHELYI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56005,
+    "name": "TAKTAHARKÁNY",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56006,
+    "name": "TAKTASZADA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56012,
+    "name": "TARCAL",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56033,
+    "name": "TISZAKARÁD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56034,
+    "name": "TISZAKESZI",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56038,
+    "name": "TISZALÚC",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56048,
+    "name": "TISZAÚJVÁROS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56049,
+    "name": "TISZAÚJVÁROSI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56050,
+    "name": "TOKAJ",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56051,
+    "name": "TOKAJI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56052,
+    "name": "TOLCSVA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56062,
+    "name": "TÁLLYA",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56151,
+    "name": "ÓNOD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56154,
+    "name": "ÓZD",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56155,
+    "name": "ÓZDI JÁRÁS",
+    "state": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "state_iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

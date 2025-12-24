@@ -1,0 +1,562 @@
+[
+  {
+    "id": 53836,
+    "name": "AGUA AZUL",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53837,
+    "name": "AGUA AZUL RANCHO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53859,
+    "name": "ARMENTA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53866,
+    "name": "BAJA MAR",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53868,
+    "name": "BARACOA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53870,
+    "name": "BEJUCO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53889,
+    "name": "CASA QUEMADA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53891,
+    "name": "CAÑAVERAL",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53899,
+    "name": "CHIVANA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53900,
+    "name": "CHOLOMA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53902,
+    "name": "CHOTEPE",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53904,
+    "name": "COFRADÍA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53931,
+    "name": "CUYAMEL",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53958,
+    "name": "EL LLANO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53960,
+    "name": "EL MARAÑÓN",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53961,
+    "name": "EL MILAGRO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53969,
+    "name": "EL OLIVAR",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53973,
+    "name": "EL PERICO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53975,
+    "name": "EL PLAN",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53977,
+    "name": "EL PORVENIR",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53982,
+    "name": "EL RANCHO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53993,
+    "name": "EL TIGRE",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 53998,
+    "name": "EL ZAPOTAL DEL NORTE",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54060,
+    "name": "LA GUAMA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54062,
+    "name": "LA HUESA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54065,
+    "name": "LA JUTOSA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54070,
+    "name": "LA LIMA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54076,
+    "name": "LA SABANA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54107,
+    "name": "LOS CAMINOS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54109,
+    "name": "LOS NARANJOS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54132,
+    "name": "MONTERREY",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54152,
+    "name": "NUEVO CHAMELECÓN",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54159,
+    "name": "OMOA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54164,
+    "name": "OROPÉNDOLAS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54170,
+    "name": "PEÑA BLANCA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54171,
+    "name": "PIMIENTA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54172,
+    "name": "PIMIENTA VIEJA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54176,
+    "name": "POTRERILLOS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54180,
+    "name": "PUEBLO NUEVO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54182,
+    "name": "PUERTO ALTO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54184,
+    "name": "PUERTO CORTEZ",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54185,
+    "name": "PUERTO CORTÉS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54191,
+    "name": "QUEBRADA SECA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54199,
+    "name": "RÍO BLANQUITO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54201,
+    "name": "RÍO CHIQUITO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54203,
+    "name": "RÍO LINDO",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54215,
+    "name": "SAN ANTONIO DE CORTÉS",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54221,
+    "name": "SAN BUENAVENTURA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54233,
+    "name": "SAN FRANCISCO DE YOJOA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54254,
+    "name": "SAN JOSÉ DEL BOQUERÓN",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54268,
+    "name": "SAN MANUEL",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54281,
+    "name": "SAN PEDRO SULA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54298,
+    "name": "SANTA CRUZ DE YOJOA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54299,
+    "name": "SANTA ELENA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54344,
+    "name": "TRAVESÍA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  },
+  {
+    "id": 54362,
+    "name": "VILLANUEVA",
+    "state": "CORTÉS",
+    "state_iso2": "CR",
+    "country": "HONDURAS",
+    "country_iso2": "HN",
+    "country_iso3": "HND",
+    "country_native": "HONDURAS"
+  }
+]

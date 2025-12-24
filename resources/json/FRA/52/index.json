@@ -1,0 +1,4042 @@
+[
+  {
+    "id": 155592,
+    "name": "AGEVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155593,
+    "name": "AIGREMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155594,
+    "name": "AILLIANVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155595,
+    "name": "AINGOULAINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155596,
+    "name": "AIZANVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155597,
+    "name": "ALLICHAMPS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155598,
+    "name": "AMBONVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155599,
+    "name": "ANDELOT-BLANCHEVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155600,
+    "name": "ANDILLY-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155602,
+    "name": "ANNONVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155601,
+    "name": "ANNÉVILLE-LA-PRAIRIE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155603,
+    "name": "ANROSEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155604,
+    "name": "APREY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155605,
+    "name": "ARBIGNY-SOUS-VARENNES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155606,
+    "name": "ARBOT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155607,
+    "name": "ARC-EN-BARROIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155608,
+    "name": "ARNANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155609,
+    "name": "ATTANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155610,
+    "name": "AUBEPIERRE-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155611,
+    "name": "AUBERIVE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155612,
+    "name": "AUDELONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155613,
+    "name": "AUJEURRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155614,
+    "name": "AULNOY-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155615,
+    "name": "AUTIGNY-LE-GRAND",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155616,
+    "name": "AUTIGNY-LE-PETIT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155617,
+    "name": "AUTREVILLE-SUR-LA-RENNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155618,
+    "name": "AVRECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155619,
+    "name": "BAILLY-AUX-FORGES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155620,
+    "name": "BAISSEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155621,
+    "name": "BANNES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155622,
+    "name": "BASSONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155623,
+    "name": "BAUDRECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155624,
+    "name": "BAY-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155626,
+    "name": "BEAUCHEMIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155627,
+    "name": "BELMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155629,
+    "name": "BEURVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155631,
+    "name": "BIZE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155632,
+    "name": "BLAISY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155633,
+    "name": "BLECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155634,
+    "name": "BLESSONVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155635,
+    "name": "BLUMERAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40106,
+    "name": "BOLOGNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155637,
+    "name": "BONNECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155639,
+    "name": "BOURDONS-SUR-ROGNON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40184,
+    "name": "BOURG",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155641,
+    "name": "BOURG-SAINTE-MARIE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155642,
+    "name": "BOURMONT-ENTRE-MEUSE-ET-MOUZON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155643,
+    "name": "BOUZANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155644,
+    "name": "BRACHAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155645,
+    "name": "BRAINVILLE-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155646,
+    "name": "BRAUX-LE-CHÂTEL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155647,
+    "name": "BRENNES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155648,
+    "name": "BRETHENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155649,
+    "name": "BREUVANNES-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155650,
+    "name": "BRIAUCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155651,
+    "name": "BRICON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155652,
+    "name": "BROUSSEVAL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155653,
+    "name": "BUGNIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155654,
+    "name": "BUSSON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155655,
+    "name": "BUXIÈRES-LÈS-CLEFMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155656,
+    "name": "BUXIÈRES-LÈS-VILLIERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155657,
+    "name": "CEFFONDS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155658,
+    "name": "CELLES-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155659,
+    "name": "CELSOY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155660,
+    "name": "CERISIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155661,
+    "name": "CHALANCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155663,
+    "name": "CHALVRAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155665,
+    "name": "CHAMBRONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155666,
+    "name": "CHAMOUILLEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155667,
+    "name": "CHAMPIGNEULLES-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155668,
+    "name": "CHAMPIGNY-LÈS-LANGRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155669,
+    "name": "CHAMPIGNY-SOUS-VARENNES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155670,
+    "name": "CHAMPSEVRAINE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155672,
+    "name": "CHANGEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155673,
+    "name": "CHANOY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155674,
+    "name": "CHANTRAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 40806,
+    "name": "CHARMES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155676,
+    "name": "CHARMES-EN-L'ANGLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155677,
+    "name": "CHARMES-LA-GRANDE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155678,
+    "name": "CHASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155680,
+    "name": "CHATENAY-MÂCHERON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155681,
+    "name": "CHATENAY-VAUDIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155682,
+    "name": "CHATONRUPT-SOMMERMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155683,
+    "name": "CHAUDENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155684,
+    "name": "CHAUFFOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155686,
+    "name": "CHAUMONT-LA-VILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155689,
+    "name": "CHOILLEY-DARDENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155690,
+    "name": "CHOISEUL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155688,
+    "name": "CHÉZEAUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155691,
+    "name": "CIREY-LÈS-MAREILLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155692,
+    "name": "CIREY-SUR-BLAISE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155693,
+    "name": "CIRFONTAINES-EN-AZOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155694,
+    "name": "CIRFONTAINES-EN-ORNOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155695,
+    "name": "CLEFMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155696,
+    "name": "CLINCHAMP",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155697,
+    "name": "COHONS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155698,
+    "name": "COIFFY-LE-BAS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155699,
+    "name": "COIFFY-LE-HAUT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155700,
+    "name": "COLMIER-LE-BAS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155701,
+    "name": "COLMIER-LE-HAUT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155702,
+    "name": "COLOMBEY-LES-DEUX-ÉGLISES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155703,
+    "name": "CONDES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155704,
+    "name": "CONSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155705,
+    "name": "COUBLANC",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155706,
+    "name": "COUPRAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155707,
+    "name": "COUR-L'ÉVÊQUE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155708,
+    "name": "COURCELLES-EN-MONTAGNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155709,
+    "name": "COURCELLES-SUR-BLAISE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155710,
+    "name": "CULMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155711,
+    "name": "CUREL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155712,
+    "name": "CURMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155713,
+    "name": "CUSEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155714,
+    "name": "CUVES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155715,
+    "name": "DAILLANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155716,
+    "name": "DAILLECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155717,
+    "name": "DAMMARTIN-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 41418,
+    "name": "DAMPIERRE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155719,
+    "name": "DAMRÉMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155720,
+    "name": "DANCEVOIR",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155721,
+    "name": "DARMANNES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155722,
+    "name": "DINTEVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155723,
+    "name": "DOMBLAIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155724,
+    "name": "DOMMARIEN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155725,
+    "name": "DOMMARTIN-LE-FRANC",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155726,
+    "name": "DOMMARTIN-LE-SAINT-PÈRE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155727,
+    "name": "DOMREMY-LANDÉVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155728,
+    "name": "DONCOURT-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155729,
+    "name": "DONJEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155731,
+    "name": "DOULEVANT-LE-CHÂTEAU",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155732,
+    "name": "DOULEVANT-LE-PETIT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155735,
+    "name": "ECOT-LA-COMBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155736,
+    "name": "EFFINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155737,
+    "name": "ENFONVELLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155739,
+    "name": "ESNOUVEAUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155740,
+    "name": "EUFFIGNEIX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155742,
+    "name": "FARINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155743,
+    "name": "FAVEROLLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155745,
+    "name": "FAYS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155746,
+    "name": "FERRIÈRE-ET-LAFOLIE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155747,
+    "name": "FLAGEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155748,
+    "name": "FLAMMERÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155749,
+    "name": "FONTAINES-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155750,
+    "name": "FORCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155751,
+    "name": "FOULAIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155752,
+    "name": "FRAMPAS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155754,
+    "name": "FRESNES-SUR-APANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155756,
+    "name": "FRONVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155753,
+    "name": "FRÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155757,
+    "name": "GENEVRIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155758,
+    "name": "GERMAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155759,
+    "name": "GERMAINVILLIERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155760,
+    "name": "GERMAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155761,
+    "name": "GERMISAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155762,
+    "name": "GIEY-SUR-AUJON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155763,
+    "name": "GILLANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155764,
+    "name": "GILLAUMÉ",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 42094,
+    "name": "GILLEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155766,
+    "name": "GRAFFIGNY-CHEMIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155767,
+    "name": "GRANDCHAMP",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155768,
+    "name": "GRENANT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155769,
+    "name": "GUDMONT-VILLIERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155770,
+    "name": "GUINDRECOURT-AUX-ORMES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155771,
+    "name": "GUINDRECOURT-SUR-BLAISE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155772,
+    "name": "GUYONVELLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155774,
+    "name": "HALLIGNICOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155775,
+    "name": "HARRÉVILLE-LES-CHANTEURS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155776,
+    "name": "HAUTE-AMANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155777,
+    "name": "HEUILLEY-LE-GRAND",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155778,
+    "name": "HUILLIÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155780,
+    "name": "HUMBERVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155779,
+    "name": "HUMBÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155781,
+    "name": "HUMES-JORQUENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155773,
+    "name": "HÂCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155782,
+    "name": "ILLOUD",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155783,
+    "name": "IS-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155784,
+    "name": "ISÔMES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155786,
+    "name": "JONCHERY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155787,
+    "name": "JUZENNECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155788,
+    "name": "LA GENEVROYE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155807,
+    "name": "LA PORTE DU DER",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155789,
+    "name": "LACHAPELLE-EN-BLAISY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155790,
+    "name": "LAFAUCHE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155791,
+    "name": "LAFERTÉ-SUR-AMANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155792,
+    "name": "LAFERTÉ-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155793,
+    "name": "LAMANCINE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155794,
+    "name": "LANEUVELLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155796,
+    "name": "LANEUVILLE-AU-PONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155795,
+    "name": "LANEUVILLE-À-RÉMY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155798,
+    "name": "LANQUES-SUR-ROGNON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155799,
+    "name": "LANTY-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155800,
+    "name": "LARIVIÈRE-ARNONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155801,
+    "name": "LATRECEY-ORMOY-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155802,
+    "name": "LAVERNOY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155803,
+    "name": "LAVILLE-AUX-BOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155804,
+    "name": "LAVILLENEUVE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155805,
+    "name": "LAVILLENEUVE-AU-ROI",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155806,
+    "name": "LE CHÂTELET-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155808,
+    "name": "LE MONTSAUGEONNAIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155809,
+    "name": "LE PAILLY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155810,
+    "name": "LE VAL-D'ESNOMS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155811,
+    "name": "LECEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155812,
+    "name": "LEFFONDS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43399,
+    "name": "LES LOGES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155814,
+    "name": "LESCHÈRES-SUR-LE-BLAISERON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155815,
+    "name": "LEUCHEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155816,
+    "name": "LEURVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155817,
+    "name": "LEVÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155818,
+    "name": "LEZÉVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155819,
+    "name": "LIFFOL-LE-PETIT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 43553,
+    "name": "LONGCHAMP",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155821,
+    "name": "LONGEAU-PERCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155822,
+    "name": "LOUVEMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155823,
+    "name": "LOUVIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155824,
+    "name": "LUZY-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155826,
+    "name": "MAGNEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155827,
+    "name": "MAISONCELLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155828,
+    "name": "MAIZIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155829,
+    "name": "MAIZIÈRES-SUR-AMANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155830,
+    "name": "MALAINCOURT-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155831,
+    "name": "MANDRES-LA-CÔTE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155832,
+    "name": "MANOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155833,
+    "name": "MARAC",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155834,
+    "name": "MARANVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155835,
+    "name": "MARBÉVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155836,
+    "name": "MARCILLY-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155837,
+    "name": "MARDOR",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155838,
+    "name": "MAREILLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155839,
+    "name": "MARNAY-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155840,
+    "name": "MATHONS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155825,
+    "name": "MAÂTZ",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155842,
+    "name": "MENNOUVEAUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155843,
+    "name": "MERREY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155844,
+    "name": "MERTRUD",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155845,
+    "name": "MEURES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155846,
+    "name": "MILLIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155847,
+    "name": "MIRBEL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155849,
+    "name": "MONTCHARVOT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155850,
+    "name": "MONTHERIES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155851,
+    "name": "MONTOT-SUR-ROGNON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155852,
+    "name": "MONTREUIL-SUR-BLAISE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155853,
+    "name": "MONTREUIL-SUR-THONNANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155854,
+    "name": "MORANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155855,
+    "name": "MORIONVILLIERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155856,
+    "name": "MOUILLERON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155848,
+    "name": "MOËSLAINS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155857,
+    "name": "MUSSEY-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155858,
+    "name": "NARCY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155859,
+    "name": "NEUILLY-L'ÉVÊQUE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155860,
+    "name": "NEUILLY-SUR-SUIZE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155861,
+    "name": "NEUVELLE-LÈS-VOISEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155862,
+    "name": "NINVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155863,
+    "name": "NOGENT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155864,
+    "name": "NOIDANT-CHATENOY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155865,
+    "name": "NOIDANT-LE-ROCHEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155866,
+    "name": "NOMÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155867,
+    "name": "NONCOURT-SUR-LE-RONGEANT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155868,
+    "name": "NOYERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155869,
+    "name": "NULLY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155870,
+    "name": "OCCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155871,
+    "name": "ORBIGNY-AU-MONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155872,
+    "name": "ORBIGNY-AU-VAL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155873,
+    "name": "ORCEVAUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155874,
+    "name": "ORGES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155875,
+    "name": "ORMANCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155876,
+    "name": "ORMOY-LÈS-SEXFONTAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155877,
+    "name": "ORQUEVAUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155878,
+    "name": "OSNE-LE-VAL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155879,
+    "name": "OUDINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155880,
+    "name": "OUTREMÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155881,
+    "name": "OZIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155882,
+    "name": "PALAISEUL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155883,
+    "name": "PANSEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155884,
+    "name": "PARNOY-EN-BASSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155885,
+    "name": "PAROY-SUR-SAULX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155886,
+    "name": "PEIGNEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155887,
+    "name": "PERRANCEY-LES-VIEUX-MOULINS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155888,
+    "name": "PERROGNEY-LES-FONTAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155889,
+    "name": "PERRUSSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 44910,
+    "name": "PERTHES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155891,
+    "name": "PIERREMONT-SUR-AMANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155892,
+    "name": "PISSELOUP",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155893,
+    "name": "PLANRUPT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155894,
+    "name": "PLESNOY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155895,
+    "name": "POINSENOT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155896,
+    "name": "POINSON-LÈS-FAYL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155897,
+    "name": "POINSON-LÈS-GRANCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155898,
+    "name": "POINSON-LÈS-NOGENT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155899,
+    "name": "POISEUL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155900,
+    "name": "POISSONS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155901,
+    "name": "PONT-LA-VILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155902,
+    "name": "POULANGY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155903,
+    "name": "PRASLAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155904,
+    "name": "PRESSIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155905,
+    "name": "PREZ-SOUS-LAFAUCHE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155906,
+    "name": "RACHECOURT-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155907,
+    "name": "RACHECOURT-SUZÉMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155909,
+    "name": "RANGECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155908,
+    "name": "RANÇONNIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155910,
+    "name": "RENNEPONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155911,
+    "name": "REYNEL",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155912,
+    "name": "RIAUCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 45494,
+    "name": "RICHEBOURG",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155914,
+    "name": "RIMAUCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155915,
+    "name": "RIVES-DERVOISES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155916,
+    "name": "RIVIÈRE-LES-FOSSES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155917,
+    "name": "RIVIÈRES-LE-BOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155918,
+    "name": "RIZAUCOURT-BUCHEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155919,
+    "name": "ROCHEFORT-SUR-LA-CÔTE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155920,
+    "name": "ROCHES-BETTAINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155921,
+    "name": "ROCHES-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155922,
+    "name": "ROCHETAILLÉE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155924,
+    "name": "ROMAIN-SUR-MEUSE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155926,
+    "name": "ROUELLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155927,
+    "name": "ROUGEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155928,
+    "name": "ROUVRES-SUR-AUBE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155929,
+    "name": "ROUVROY-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155925,
+    "name": "ROUÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155930,
+    "name": "RUPT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155931,
+    "name": "SAILLY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155932,
+    "name": "SAINT-BLIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155933,
+    "name": "SAINT-BROINGT-LE-BOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155934,
+    "name": "SAINT-BROINGT-LES-FOSSES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155935,
+    "name": "SAINT-CIERGUES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155937,
+    "name": "SAINT-LOUP-SUR-AUJON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155938,
+    "name": "SAINT-MARTIN-LÈS-LANGRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46311,
+    "name": "SAINT-MAURICE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155940,
+    "name": "SAINT-THIÉBAULT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155941,
+    "name": "SAINT-URBAIN-MACONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155942,
+    "name": "SAINT-VALLIER-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155943,
+    "name": "SAINTS-GEOSMES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155944,
+    "name": "SARCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155945,
+    "name": "SARREY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155946,
+    "name": "SAUDRON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155947,
+    "name": "SAULLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155948,
+    "name": "SAULXURES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46876,
+    "name": "SAVIGNY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155950,
+    "name": "SEMILLY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155951,
+    "name": "SEMOUTIERS-MONTSAON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 46963,
+    "name": "SERQUEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155953,
+    "name": "SEXFONTAINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155954,
+    "name": "SIGNÉVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155955,
+    "name": "SILVAROUVRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155956,
+    "name": "SOMMANCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155957,
+    "name": "SOMMERÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155958,
+    "name": "SOMMEVOIRE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155959,
+    "name": "SONCOURT-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155960,
+    "name": "SOULAUCOURT-SUR-MOUZON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155961,
+    "name": "SOYERS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155962,
+    "name": "SUZANNECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155963,
+    "name": "TERNAT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155964,
+    "name": "THILLEUX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155965,
+    "name": "THIVET",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155966,
+    "name": "THOL-LÈS-MILLIÈRES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155968,
+    "name": "THONNANCE-LES-MOULINS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155967,
+    "name": "THONNANCE-LÈS-JOINVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155969,
+    "name": "TORCENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155970,
+    "name": "TORNAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155971,
+    "name": "TREIX",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155973,
+    "name": "TROISFONTAINES-LA-VILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155972,
+    "name": "TRÉMILLY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155974,
+    "name": "VAILLANT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155976,
+    "name": "VALCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155977,
+    "name": "VALLERET",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47488,
+    "name": "VALLEROY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155979,
+    "name": "VALS-DES-TILLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155980,
+    "name": "VARENNES-SUR-AMANCE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155981,
+    "name": "VAUDRECOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155982,
+    "name": "VAUDRÉMONT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155983,
+    "name": "VAUX-SUR-BLAISE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155984,
+    "name": "VAUX-SUR-SAINT-URBAIN",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155985,
+    "name": "VAUXBONS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155986,
+    "name": "VECQUEVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155987,
+    "name": "VELLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155988,
+    "name": "VERBIESLES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155989,
+    "name": "VERSEILLES-LE-BAS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155990,
+    "name": "VERSEILLES-LE-HAUT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155991,
+    "name": "VESAIGNES-SOUS-LAFAUCHE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155992,
+    "name": "VESAIGNES-SUR-MARNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155993,
+    "name": "VESVRES-SOUS-CHALANCEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 47671,
+    "name": "VICQ",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155996,
+    "name": "VIGNES-LA-CÔTE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155997,
+    "name": "VIGNORY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155998,
+    "name": "VILLARS-EN-AZOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155999,
+    "name": "VILLARS-SANTENOGE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156000,
+    "name": "VILLE-EN-BLAISOIS",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156001,
+    "name": "VILLEGUSIEN-LE-LAC",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156003,
+    "name": "VILLIERS-LE-SEC",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156004,
+    "name": "VILLIERS-LÈS-APREY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156005,
+    "name": "VILLIERS-SUR-SUIZE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156006,
+    "name": "VIOLOT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156007,
+    "name": "VITRY-EN-MONTAGNE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156008,
+    "name": "VITRY-LÈS-NOGENT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156009,
+    "name": "VIVEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155995,
+    "name": "VIÉVILLE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156010,
+    "name": "VOILLECOMTE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156011,
+    "name": "VOISEY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156012,
+    "name": "VOISINES",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156013,
+    "name": "VONCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156014,
+    "name": "VOUÉCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156015,
+    "name": "VRAINCOURT",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 156016,
+    "name": "VRONCOURT-LA-CÔTE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155733,
+    "name": "ÉCHENAY",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155734,
+    "name": "ÉCLARON-BRAUCOURT SAINTE-LIVIÈRE",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  },
+  {
+    "id": 155738,
+    "name": "ÉPIZON",
+    "state": "HAUTE-MARNE",
+    "state_iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE"
+  }
+]

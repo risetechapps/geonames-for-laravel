@@ -1,0 +1,632 @@
+[
+  {
+    "id": 17361,
+    "name": "ACQUAROSSA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17380,
+    "name": "AGNO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17384,
+    "name": "AIROLO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17413,
+    "name": "ARZO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17414,
+    "name": "ASCONA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17434,
+    "name": "BALERNA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17452,
+    "name": "BELLINZONA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17453,
+    "name": "BELLINZONA DISTRICT",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17524,
+    "name": "BIASCA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17533,
+    "name": "BIOGGIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17540,
+    "name": "BLENIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17544,
+    "name": "BODIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17564,
+    "name": "BRISSAGO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17607,
+    "name": "CADEMPINO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17608,
+    "name": "CADENAZZO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17609,
+    "name": "CADRO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17610,
+    "name": "CAMORINO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17611,
+    "name": "CANOBBIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17613,
+    "name": "CASLANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17614,
+    "name": "CASTEL SAN PIETRO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17620,
+    "name": "CEVIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17636,
+    "name": "CHIASSO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17645,
+    "name": "CLARO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17648,
+    "name": "COMANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17670,
+    "name": "CUGNASCO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17780,
+    "name": "FAIDO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17836,
+    "name": "GIUBIASCO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17854,
+    "name": "GORDOLA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17863,
+    "name": "GRAVESANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18053,
+    "name": "LAVERTEZZO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18078,
+    "name": "LEVENTINA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18084,
+    "name": "LIGORNETTO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18088,
+    "name": "LOCARNO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18089,
+    "name": "LOCARNO DISTRICT",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18090,
+    "name": "LODRINO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18091,
+    "name": "LOSONE",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18098,
+    "name": "LUGANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18099,
+    "name": "LUGANO DISTRICT",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18100,
+    "name": "LUMINO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18114,
+    "name": "MAGADINO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18120,
+    "name": "MALVAGLIA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18128,
+    "name": "MASSAGNO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18145,
+    "name": "MELANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18147,
+    "name": "MELIDE",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18149,
+    "name": "MENDRISIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18150,
+    "name": "MENDRISIO DISTRICT",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18159,
+    "name": "MINUSIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18163,
+    "name": "MONTAGNOLA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18166,
+    "name": "MONTE CARASSO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18170,
+    "name": "MORBIO INFERIORE",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18180,
+    "name": "MURALTO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18231,
+    "name": "NOVAZZANO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18325,
+    "name": "PREGASSONA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18331,
+    "name": "PURA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18378,
+    "name": "RIVA SAN VITALE",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18379,
+    "name": "RIVIERA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18507,
+    "name": "SEMENTINA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18530,
+    "name": "SORENGO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18536,
+    "name": "STABIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18578,
+    "name": "TESSERETE",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18658,
+    "name": "VALLEMAGGIA",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18671,
+    "name": "VERSCIO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18678,
+    "name": "VIGANELLO",
+    "state": "TICINO",
+    "state_iso2": "TI",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

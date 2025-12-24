@@ -1,0 +1,572 @@
+[
+  {
+    "id": 57736,
+    "name": "ARKI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57789,
+    "name": "BADDI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57853,
+    "name": "BANJAR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58041,
+    "name": "BILASPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58181,
+    "name": "CHAMBA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131512,
+    "name": "CHAUPAL",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131583,
+    "name": "CHOWARI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131587,
+    "name": "CHUARI KHAS",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131641,
+    "name": "DAGSHAI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131645,
+    "name": "DALHOUSIE",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131665,
+    "name": "DAULATPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131694,
+    "name": "DERA GOPIPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131721,
+    "name": "DHARAMSALA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131891,
+    "name": "GAGRET",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131949,
+    "name": "GHUMARWIN",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132063,
+    "name": "HAMIRPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132255,
+    "name": "JAWALA MUKHI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132289,
+    "name": "JOGINDARNAGAR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132298,
+    "name": "JUBBAL",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132302,
+    "name": "JUTOGH",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132681,
+    "name": "KALKA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132701,
+    "name": "KANGAR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132702,
+    "name": "KANGRA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132416,
+    "name": "KASAULI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132523,
+    "name": "KINNAUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132601,
+    "name": "KOTKHAI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132602,
+    "name": "KOTLA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132636,
+    "name": "KULU",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132675,
+    "name": "KYELANG",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132791,
+    "name": "LAHUL AND SPITI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132929,
+    "name": "MANALI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132893,
+    "name": "MANDI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133251,
+    "name": "NADAUN",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133113,
+    "name": "NAGAR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133118,
+    "name": "NAGROTA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133261,
+    "name": "NAHAN",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133263,
+    "name": "NALAGARH",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133525,
+    "name": "PALAMPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133539,
+    "name": "PANDOH",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133544,
+    "name": "PAONTA SAHIB",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133369,
+    "name": "PARWANOO",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133676,
+    "name": "RAJGARH",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133706,
+    "name": "RAMPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133646,
+    "name": "ROHRU",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133741,
+    "name": "SABATHU",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133794,
+    "name": "SANTOKHGARH",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133811,
+    "name": "SARAHAN",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133807,
+    "name": "SARKA GHAT",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133841,
+    "name": "SEONI",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133871,
+    "name": "SHIMLA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133957,
+    "name": "SIRMAUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133985,
+    "name": "SOLAN",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134045,
+    "name": "SUNDARNAGAR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134149,
+    "name": "THEOG",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134246,
+    "name": "TIRA SUJANPUR",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134279,
+    "name": "UNA",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134435,
+    "name": "YOL",
+    "state": "HIMACHAL PRADESH",
+    "state_iso2": "HP",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

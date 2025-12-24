@@ -1,0 +1,92 @@
+[
+  {
+    "id": 998,
+    "name": "BATKEN",
+    "iso2": "B",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1001,
+    "name": "BISHKEK",
+    "iso2": "GB",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1004,
+    "name": "CHUY",
+    "iso2": "C",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1002,
+    "name": "ISSYK-KUL",
+    "iso2": "Y",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1000,
+    "name": "JALAL-ABAD",
+    "iso2": "J",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 999,
+    "name": "NARYN",
+    "iso2": "N",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1003,
+    "name": "OSH",
+    "iso2": "GO",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 1005,
+    "name": "OSH",
+    "iso2": "O",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  },
+  {
+    "id": 997,
+    "name": "TALAS",
+    "iso2": "T",
+    "country": "KYRGYZSTAN",
+    "country_iso2": "KG",
+    "country_iso3": "KGZ",
+    "country_native": "КЫРГЫЗСТАН",
+    "timezone": "Asia/Bishkek"
+  }
+]

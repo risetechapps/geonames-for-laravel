@@ -1,0 +1,552 @@
+[
+  {
+    "id": 88914,
+    "name": "ALBUFEIRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88919,
+    "name": "ALCANTARILHA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88923,
+    "name": "ALCOUTIM",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88935,
+    "name": "ALGOZ",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88942,
+    "name": "ALJEZUR",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88946,
+    "name": "ALMANCIL",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88954,
+    "name": "ALTURA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88958,
+    "name": "ALVOR",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 88988,
+    "name": "ARMAÇÃO DE PÊRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89035,
+    "name": "BENSAFRIM",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89041,
+    "name": "BOLIQUEIME",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89052,
+    "name": "CABANAS DE TAVIRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89100,
+    "name": "CARVOEIRO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89110,
+    "name": "CASTRO MARIM",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89125,
+    "name": "CONCEIÇÃO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89158,
+    "name": "ESTÓI",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89159,
+    "name": "ESTÔMBAR",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89167,
+    "name": "FARO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89174,
+    "name": "FERRAGUDO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89178,
+    "name": "FERREIRAS",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89200,
+    "name": "FUZETA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89217,
+    "name": "GUIA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89229,
+    "name": "LAGOA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89230,
+    "name": "LAGOS",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89237,
+    "name": "LARANJEIRO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89250,
+    "name": "LOULÉ",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89259,
+    "name": "LUZ",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89273,
+    "name": "MANTA ROTA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89281,
+    "name": "MARMELETE",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89295,
+    "name": "MEXILHOEIRA GRANDE",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89311,
+    "name": "MONCARAPACHO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89312,
+    "name": "MONCHIQUE",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89321,
+    "name": "MONTE GORDO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89357,
+    "name": "OLHOS DE ÁGUA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89358,
+    "name": "OLHÃO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89375,
+    "name": "PADERNE",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89380,
+    "name": "PARCHAL",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89421,
+    "name": "PORCHES",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89424,
+    "name": "PORTIMÃO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89441,
+    "name": "PÊRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89446,
+    "name": "QUARTEIRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89482,
+    "name": "SAGRES",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89495,
+    "name": "SANTA BÁRBARA DE NEXE",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89505,
+    "name": "SANTA LUZIA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89528,
+    "name": "SENHORA DA LUZ",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89544,
+    "name": "SILVES",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89559,
+    "name": "SÃO BARTOLOMEU DE MESSINES",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89560,
+    "name": "SÃO BRÁS DE ALPORTEL",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89574,
+    "name": "SÃO MARCOS DA SERRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89597,
+    "name": "TAVIRA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89614,
+    "name": "TUNES",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89671,
+    "name": "VILA DO BISPO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89653,
+    "name": "VILA NOVA DE CACELA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89664,
+    "name": "VILA REAL DE SANTO ANTÓNIO",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  },
+  {
+    "id": 89674,
+    "name": "VILAMOURA",
+    "state": "FARO",
+    "state_iso2": "08",
+    "country": "PORTUGAL",
+    "country_iso2": "PT",
+    "country_iso3": "PRT",
+    "country_native": "PORTUGAL"
+  }
+]

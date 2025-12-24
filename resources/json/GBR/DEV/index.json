@@ -1,0 +1,472 @@
+[
+  {
+    "id": 48263,
+    "name": "APPLEDORE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48403,
+    "name": "BARNSTAPLE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48497,
+    "name": "BIDEFORD",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48628,
+    "name": "BOVEY TRACEY",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48631,
+    "name": "BOW",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48651,
+    "name": "BRADNINCH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48666,
+    "name": "BRAUNTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48908,
+    "name": "CHAGFORD",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48990,
+    "name": "CHUDLEIGH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48991,
+    "name": "CHUDLEIGH KNIGHTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48992,
+    "name": "CHULMLEIGH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49080,
+    "name": "COMBE MARTIN",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49099,
+    "name": "COPPLESTONE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49151,
+    "name": "CREDITON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49201,
+    "name": "CULLOMPTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49278,
+    "name": "DEVON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49339,
+    "name": "DULVERTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49503,
+    "name": "EXETER",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49505,
+    "name": "EXMINSTER",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49506,
+    "name": "EXMOUTH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49605,
+    "name": "FREMINGTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49732,
+    "name": "GREAT TORRINGTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49840,
+    "name": "HATHERLEIGH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49879,
+    "name": "HEAVITREE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50041,
+    "name": "ILFRACOMBE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50124,
+    "name": "KENTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50450,
+    "name": "LYMPSTONE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50454,
+    "name": "LYNTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50624,
+    "name": "MORCHARD BISHOP",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50630,
+    "name": "MORETONHAMPSTEAD",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50732,
+    "name": "NEWTON POPPLEFORD",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50767,
+    "name": "NORTH TAWTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50772,
+    "name": "NORTHAM",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50800,
+    "name": "OKEHAMPTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50827,
+    "name": "OTTERY ST MARY",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51190,
+    "name": "SAMPFORD PEVERELL",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51303,
+    "name": "SIDMOUTH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51312,
+    "name": "SILVERTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51361,
+    "name": "SOUTH MOLTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51432,
+    "name": "STARCROSS",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51633,
+    "name": "TIVERTON",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51643,
+    "name": "TOPSHAM",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51865,
+    "name": "WHIMPLE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51904,
+    "name": "WILLAND",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51933,
+    "name": "WINKLEIGH",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51945,
+    "name": "WITHERIDGE",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51970,
+    "name": "WOODBURY",
+    "state": "DEVON",
+    "state_iso2": "DEV",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  }
+]

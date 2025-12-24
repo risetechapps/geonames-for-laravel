@@ -1,0 +1,592 @@
+[
+  {
+    "id": 22120,
+    "name": "BENECKO",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22165,
+    "name": "BRNIŠTĚ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22232,
+    "name": "CHRASTAVA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22245,
+    "name": "CVIKOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22254,
+    "name": "DESNÁ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22269,
+    "name": "DOKSY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22314,
+    "name": "DUBÁ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22332,
+    "name": "FRÝDLANT",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22342,
+    "name": "HARRACHOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22348,
+    "name": "HEJNICE",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22362,
+    "name": "HODKOVICE NAD MOHELKOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22377,
+    "name": "HORNÍ BRANNÁ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22431,
+    "name": "HRÁDEK NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22445,
+    "name": "JABLONEC NAD JIZEROU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22446,
+    "name": "JABLONEC NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22448,
+    "name": "JABLONNÉ V PODJEŠTĚDÍ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22453,
+    "name": "JANOV NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22472,
+    "name": "JILEMNICE",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22483,
+    "name": "JOSEFŮV DŮL",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22491,
+    "name": "KAMENICKÝ ŠENOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22549,
+    "name": "KOŘENOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22551,
+    "name": "KOŠŤÁLOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22604,
+    "name": "LIBEREC",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22635,
+    "name": "LOMNICE NAD POPELKOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22652,
+    "name": "LUČANY NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22671,
+    "name": "MALÁ SKÁLA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22694,
+    "name": "MIMOŇ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22706,
+    "name": "MNÍŠEK",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22780,
+    "name": "NOVÉ MĚSTO POD SMRKEM",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22785,
+    "name": "NOVÝ BOR",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22805,
+    "name": "OHRAZENICE",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22821,
+    "name": "OKRES JABLONEC NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22833,
+    "name": "OKRES LIBEREC",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22860,
+    "name": "OKRES SEMILY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22876,
+    "name": "OKRES ČESKÁ LÍPA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22899,
+    "name": "OSEČNÁ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22938,
+    "name": "PLAVY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22955,
+    "name": "PONIKLÁ",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22996,
+    "name": "PĚNČÍN",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23010,
+    "name": "PŘÍŠOVICE",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23022,
+    "name": "RASPENAVA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23030,
+    "name": "ROKYTNICE NAD JIZEROU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23040,
+    "name": "ROVENSKO POD TROSKAMI",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23067,
+    "name": "SEMILY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23089,
+    "name": "SMRŽOVKA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23127,
+    "name": "STRÁŽ NAD NISOU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23128,
+    "name": "STRÁŽ POD RALSKEM",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23132,
+    "name": "STUDENEC",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23156,
+    "name": "TANVALD",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23186,
+    "name": "TURNOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23220,
+    "name": "VALDICE",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23238,
+    "name": "VELKÉ HAMRY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23276,
+    "name": "VIŠŇOVA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23306,
+    "name": "VYSOKÉ NAD JIZEROU",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23350,
+    "name": "ZÁKUPY",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23384,
+    "name": "ČESKÁ LÍPA",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23392,
+    "name": "ČESKÝ DUB",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23438,
+    "name": "ŽANDOV",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23445,
+    "name": "ŽELEZNÝ BROD",
+    "state": "LIBERECKÝ KRAJ",
+    "state_iso2": "51",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

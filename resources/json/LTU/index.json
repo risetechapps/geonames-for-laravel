@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1561,
+    "name": "AKMENĖ",
+    "iso2": "01",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1574,
+    "name": "ALYTUS",
+    "iso2": "AL",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1605,
+    "name": "ALYTUS",
+    "iso2": "02",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5722,
+    "name": "ALYTUS",
+    "iso2": "03",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5346,
+    "name": "ANYKŠČIAI",
+    "iso2": "04",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1603,
+    "name": "BIRŠTONAS",
+    "iso2": "05",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1566,
+    "name": "BIRŽAI",
+    "iso2": "06",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1579,
+    "name": "DRUSKININKAI",
+    "iso2": "07",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1559,
+    "name": "ELEKTRĖNAI",
+    "iso2": "08",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1562,
+    "name": "IGNALINA",
+    "iso2": "09",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1567,
+    "name": "JONAVA",
+    "iso2": "10",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1581,
+    "name": "JONIŠKIS",
+    "iso2": "11",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1555,
+    "name": "JURBARKAS",
+    "iso2": "12",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1583,
+    "name": "KAIŠIADORYS",
+    "iso2": "13",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1591,
+    "name": "KALVARIJA",
+    "iso2": "14",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1556,
+    "name": "KAUNAS",
+    "iso2": "KU",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1580,
+    "name": "KAUNAS",
+    "iso2": "15",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5723,
+    "name": "KAUNAS",
+    "iso2": "16",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1575,
+    "name": "KAZLŲ RŪDA",
+    "iso2": "17",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1618,
+    "name": "KELMĖ",
+    "iso2": "19",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1600,
+    "name": "KLAIPĖDA",
+    "iso2": "KL",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1604,
+    "name": "KLAIPĖDA",
+    "iso2": "21",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5720,
+    "name": "KLAIPĖDOS MIESTAS",
+    "iso2": "20",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1571,
+    "name": "KRETINGA",
+    "iso2": "22",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1585,
+    "name": "KUPIŠKIS",
+    "iso2": "23",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1584,
+    "name": "KĖDAINIAI",
+    "iso2": "18",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1611,
+    "name": "LAZDIJAI",
+    "iso2": "24",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1570,
+    "name": "MARIJAMPOLĖ",
+    "iso2": "MR",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1610,
+    "name": "MARIJAMPOLĖ",
+    "iso2": "25",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1557,
+    "name": "MAŽEIKIAI",
+    "iso2": "26",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1582,
+    "name": "MOLĖTAI",
+    "iso2": "27",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1563,
+    "name": "NERINGA",
+    "iso2": "28",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1612,
+    "name": "PAGĖGIAI",
+    "iso2": "29",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1595,
+    "name": "PAKRUOJIS",
+    "iso2": "30",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1588,
+    "name": "PALANGA",
+    "iso2": "31",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5721,
+    "name": "PANEVĖŽIO MIESTAS",
+    "iso2": "32",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1558,
+    "name": "PANEVĖŽYS",
+    "iso2": "PN",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1614,
+    "name": "PANEVĖŽYS",
+    "iso2": "33",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1616,
+    "name": "PASVALYS",
+    "iso2": "34",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1553,
+    "name": "PLUNGĖ",
+    "iso2": "35",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1578,
+    "name": "PRIENAI",
+    "iso2": "36",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1568,
+    "name": "RADVILIŠKIS",
+    "iso2": "37",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1587,
+    "name": "RASEINIAI",
+    "iso2": "38",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1590,
+    "name": "RIETAVAS",
+    "iso2": "39",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1615,
+    "name": "ROKIŠKIS",
+    "iso2": "40",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1617,
+    "name": "SKUODAS",
+    "iso2": "48",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1572,
+    "name": "TAURAGĖ",
+    "iso2": "50",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1573,
+    "name": "TAURAGĖ",
+    "iso2": "TA",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1569,
+    "name": "TELŠIAI",
+    "iso2": "TE",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1608,
+    "name": "TELŠIAI",
+    "iso2": "51",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1593,
+    "name": "TRAKAI",
+    "iso2": "52",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1596,
+    "name": "UKMERGĖ",
+    "iso2": "53",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1598,
+    "name": "UTENA",
+    "iso2": "54",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1621,
+    "name": "UTENA",
+    "iso2": "UT",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1602,
+    "name": "VARĖNA",
+    "iso2": "55",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1620,
+    "name": "VILKAVIŠKIS",
+    "iso2": "56",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1601,
+    "name": "VILNIUS",
+    "iso2": "VL",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1606,
+    "name": "VILNIUS",
+    "iso2": "57",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5725,
+    "name": "VILNIUS",
+    "iso2": "58",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1564,
+    "name": "VISAGINAS",
+    "iso2": "59",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1619,
+    "name": "ZARASAI",
+    "iso2": "60",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1576,
+    "name": "ŠAKIAI",
+    "iso2": "41",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1577,
+    "name": "ŠALČININKAI",
+    "iso2": "42",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1586,
+    "name": "ŠIAULIAI",
+    "iso2": "SA",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1609,
+    "name": "ŠIAULIAI",
+    "iso2": "43",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5724,
+    "name": "ŠIAULIAI",
+    "iso2": "44",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1613,
+    "name": "ŠILALĖ",
+    "iso2": "45",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1607,
+    "name": "ŠILUTĖ",
+    "iso2": "46",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1594,
+    "name": "ŠIRVINTOS",
+    "iso2": "47",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1560,
+    "name": "ŠVENČIONYS",
+    "iso2": "49",
+    "country": "LITHUANIA",
+    "country_iso2": "LT",
+    "country_iso3": "LTU",
+    "country_native": "LIETUVA",
+    "timezone": "Europe/Vilnius"
+  }
+]

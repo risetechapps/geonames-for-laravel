@@ -1,0 +1,432 @@
+[
+  {
+    "id": 4472,
+    "name": "AIZKRAUKLE",
+    "iso2": "002",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4487,
+    "name": "ALŪKSNE",
+    "iso2": "007",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4492,
+    "name": "AUGŠDAUGAVA",
+    "iso2": "111",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4505,
+    "name": "BALVI",
+    "iso2": "015",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4465,
+    "name": "BAUSKA",
+    "iso2": "016",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4469,
+    "name": "CĒSIS",
+    "iso2": "022",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4463,
+    "name": "DAUGAVPILS",
+    "iso2": "DGV",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4508,
+    "name": "DIENVIDKURZEMES",
+    "iso2": "112",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4437,
+    "name": "DOBELE",
+    "iso2": "026",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4400,
+    "name": "GULBENE",
+    "iso2": "033",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4424,
+    "name": "JELGAVA",
+    "iso2": "041",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4500,
+    "name": "JELGAVA",
+    "iso2": "JEL",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4438,
+    "name": "JĒKABPILS",
+    "iso2": "042",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4446,
+    "name": "JŪRMALA",
+    "iso2": "JUR",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4474,
+    "name": "KRĀSLAVA",
+    "iso2": "047",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4490,
+    "name": "KULDĪGA",
+    "iso2": "050",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4460,
+    "name": "LIEPĀJA",
+    "iso2": "LPX",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4418,
+    "name": "LIMBAŽI",
+    "iso2": "054",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4501,
+    "name": "LUDZA",
+    "iso2": "058",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4401,
+    "name": "LĪVĀNI",
+    "iso2": "056",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4433,
+    "name": "MADONA",
+    "iso2": "059",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4450,
+    "name": "MĀRUPE",
+    "iso2": "062",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4416,
+    "name": "OGRE",
+    "iso2": "067",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4417,
+    "name": "OLAINE",
+    "iso2": "068",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4483,
+    "name": "PREIĻI",
+    "iso2": "073",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4491,
+    "name": "RIGA",
+    "iso2": "RIX",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4493,
+    "name": "ROPAŽI",
+    "iso2": "080",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4455,
+    "name": "RĒZEKNE",
+    "iso2": "077",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4509,
+    "name": "RĒZEKNE",
+    "iso2": "REZ",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4402,
+    "name": "SALASPILS",
+    "iso2": "087",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4439,
+    "name": "SALDUS",
+    "iso2": "088",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4443,
+    "name": "SAULKRASTI",
+    "iso2": "089",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4476,
+    "name": "SIGULDA",
+    "iso2": "091",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4462,
+    "name": "SMILTENE",
+    "iso2": "094",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4459,
+    "name": "TALSI",
+    "iso2": "097",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4409,
+    "name": "TUKUMS",
+    "iso2": "099",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4425,
+    "name": "VALKA",
+    "iso2": "101",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4473,
+    "name": "VALMIERA",
+    "iso2": "113",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4431,
+    "name": "VARAKĻĀNI",
+    "iso2": "102",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4403,
+    "name": "VENTSPILS",
+    "iso2": "106",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4421,
+    "name": "VENTSPILS",
+    "iso2": "VEN",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4454,
+    "name": "ĀDAŽI",
+    "iso2": "011",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  },
+  {
+    "id": 4435,
+    "name": "ĶEKAVA",
+    "iso2": "052",
+    "country": "LATVIA",
+    "country_iso2": "LV",
+    "country_iso3": "LVA",
+    "country_native": "LATVIJA",
+    "timezone": "Europe/Riga"
+  }
+]

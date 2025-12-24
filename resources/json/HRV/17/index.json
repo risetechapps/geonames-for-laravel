@@ -1,0 +1,812 @@
+[
+  {
+    "id": 54389,
+    "name": "BAŠKA VODA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54407,
+    "name": "BOL",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54414,
+    "name": "BRELA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54423,
+    "name": "BRNAZE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54454,
+    "name": "DICMO",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54463,
+    "name": "DONJI VINJANI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54472,
+    "name": "DUGI RAT OPĆINA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54473,
+    "name": "DUGOPOLJE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54474,
+    "name": "DUĆE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54486,
+    "name": "GALA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54502,
+    "name": "GRABOVCI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54519,
+    "name": "GRAD HVAR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54520,
+    "name": "GRAD IMOTSKI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54532,
+    "name": "GRAD MAKARSKA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54537,
+    "name": "GRAD OMIŠ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54548,
+    "name": "GRAD SINJ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54552,
+    "name": "GRAD SPLIT",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54553,
+    "name": "GRAD SUPETAR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54555,
+    "name": "GRAD TROGIR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54561,
+    "name": "GRAD VIS",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54564,
+    "name": "GRAD VRGORAC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54574,
+    "name": "GRADAC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54584,
+    "name": "GREDA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54587,
+    "name": "GRUBINE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54599,
+    "name": "HRVACE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54601,
+    "name": "HVAR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54603,
+    "name": "IMOTSKI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54620,
+    "name": "JELSA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54621,
+    "name": "JESENICE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54627,
+    "name": "KAMEN",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54637,
+    "name": "KAŠTEL GOMILICA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54638,
+    "name": "KAŠTEL KAMBELOVAC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54639,
+    "name": "KAŠTEL LUKŠIĆ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54640,
+    "name": "KAŠTEL NOVI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54641,
+    "name": "KAŠTEL STARI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54642,
+    "name": "KAŠTEL ŠTAFILIĆ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54643,
+    "name": "KAŠTELA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54650,
+    "name": "KLIS",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54654,
+    "name": "KOMIŽA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54665,
+    "name": "KOŠUTE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54694,
+    "name": "LOKVIČIĆI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54700,
+    "name": "LOVREĆ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54710,
+    "name": "MAKARSKA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54733,
+    "name": "MILNA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54742,
+    "name": "MRAVINCE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54747,
+    "name": "MUĆ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54752,
+    "name": "NEREŽIŠĆA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54772,
+    "name": "OKRUG",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54773,
+    "name": "OKRUG GORNJI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54775,
+    "name": "OMIŠ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54795,
+    "name": "OTOK",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54817,
+    "name": "PODSTRANA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54829,
+    "name": "POSTIRA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54842,
+    "name": "PROLOŽAC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54847,
+    "name": "PUČIŠĆA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54872,
+    "name": "RUNOVIĆ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54873,
+    "name": "RUNOVIĆI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54879,
+    "name": "SEGET",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54880,
+    "name": "SEGET VRANJICA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54881,
+    "name": "SELCA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54890,
+    "name": "SINJ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54896,
+    "name": "SLATINE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54901,
+    "name": "SOLIN",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54904,
+    "name": "SPLIT",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54906,
+    "name": "SRINJINE",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54907,
+    "name": "STARI GRAD",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54913,
+    "name": "STOBREČ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54923,
+    "name": "SUPETAR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54941,
+    "name": "TRILJ",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54942,
+    "name": "TROGIR",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54945,
+    "name": "TURJACI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54946,
+    "name": "TUČEPI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54961,
+    "name": "VELIKI DRVENIK",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54974,
+    "name": "VIS",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54987,
+    "name": "VRANJIC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54993,
+    "name": "VRGORAC",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54994,
+    "name": "VRLIKA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55005,
+    "name": "ZAGVOZD",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55012,
+    "name": "ZMIJAVCI",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55035,
+    "name": "ŠOLTA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55040,
+    "name": "ŽRNOVNICA",
+    "state": "SPLIT-DALMATIA",
+    "state_iso2": "17",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 105271,
+    "name": "AMPHOE CHAI PRAKAN",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105305,
+    "name": "AMPHOE CHOM THONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105340,
+    "name": "AMPHOE FANG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105344,
+    "name": "AMPHOE HANG DONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106182,
+    "name": "AMPHOE SAN KAMPHAENG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106183,
+    "name": "AMPHOE SAN PA TONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106464,
+    "name": "CHAI PRAKAN",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105292,
+    "name": "CHIANG DAO",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106474,
+    "name": "CHIANG MAI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106479,
+    "name": "CHOM THONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105324,
+    "name": "DOI LO",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105326,
+    "name": "DOI SAKET",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105327,
+    "name": "DOI TAO",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106495,
+    "name": "FANG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105342,
+    "name": "GALYANI VADHANA",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106496,
+    "name": "HANG DONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105348,
+    "name": "HOT",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105496,
+    "name": "MAE AI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105497,
+    "name": "MAE CHAEM",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105506,
+    "name": "MAE ON",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105510,
+    "name": "MAE RIM",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105515,
+    "name": "MAE TAENG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105518,
+    "name": "MAE WANG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105539,
+    "name": "MUEANG CHIANG MAI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105690,
+    "name": "OM KOI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106608,
+    "name": "PAI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 105769,
+    "name": "PHRAO",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106179,
+    "name": "SAMOENG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106683,
+    "name": "SAN KAMPHAENG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106684,
+    "name": "SAN PA TONG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106184,
+    "name": "SAN SAI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106195,
+    "name": "SARAPHI",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  },
+  {
+    "id": 106361,
+    "name": "WIANG HAENG",
+    "state": "CHIANG MAI",
+    "state_iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย"
+  }
+]

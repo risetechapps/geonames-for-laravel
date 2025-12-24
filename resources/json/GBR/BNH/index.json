@@ -1,0 +1,322 @@
+[
+  {
+    "id": 48270,
+    "name": "ARDINGLY",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48341,
+    "name": "BALCOMBE",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48695,
+    "name": "BRIGHTON",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48696,
+    "name": "BRIGHTON AND HOVE",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48714,
+    "name": "BROADWATER",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 48766,
+    "name": "BURGESS HILL",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49132,
+    "name": "COWFOLD",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49193,
+    "name": "CUCKFIELD",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49294,
+    "name": "DITCHLING",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49799,
+    "name": "HANDCROSS",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49834,
+    "name": "HASSOCKS",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49867,
+    "name": "HAYWARDS HEATH",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 49901,
+    "name": "HENFIELD",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50000,
+    "name": "HORSTED KEYNES",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50011,
+    "name": "HOVE",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50032,
+    "name": "HURSTPIERPOINT",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50238,
+    "name": "LANCING",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50294,
+    "name": "LEWES",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50713,
+    "name": "NEWHAVEN",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50714,
+    "name": "NEWICK",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50863,
+    "name": "PEACEHAVEN",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50924,
+    "name": "PLUMPTON GREEN",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 50970,
+    "name": "PORTSLADE",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51082,
+    "name": "RINGMER",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51123,
+    "name": "ROTTINGDEAN",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51221,
+    "name": "SEAFORD",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51291,
+    "name": "SHOREHAM-BY-SEA",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51349,
+    "name": "SOUTH CHAILEY",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51362,
+    "name": "SOUTH NUTFIELD",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51447,
+    "name": "STEYNING",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51952,
+    "name": "WIVELSFIELD GREEN",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  },
+  {
+    "id": 51991,
+    "name": "WORTHING",
+    "state": "BRIGHTON AND HOVE",
+    "state_iso2": "BNH",
+    "country": "UNITED KINGDOM",
+    "country_iso2": "GB",
+    "country_iso3": "GBR",
+    "country_native": "UNITED KINGDOM"
+  }
+]

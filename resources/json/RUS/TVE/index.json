@@ -1,0 +1,892 @@
+[
+  {
+    "id": 97626,
+    "name": "ANDREAPOL’",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97627,
+    "name": "ANDREAPOL’SKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97878,
+    "name": "BELYY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97879,
+    "name": "BELYY GORODOK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97885,
+    "name": "BEL’SKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97894,
+    "name": "BEREZAYKA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97899,
+    "name": "BERNOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97920,
+    "name": "BEZHETSK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97921,
+    "name": "BEZHETSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97993,
+    "name": "BOLOGOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97994,
+    "name": "BOLOGOYE",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97995,
+    "name": "BOLOGOYE-4",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98393,
+    "name": "EMMAUS",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98429,
+    "name": "FIROVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98430,
+    "name": "FIROVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98561,
+    "name": "GORODNYA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98656,
+    "name": "IL’INSKOYE",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98758,
+    "name": "IZOPLIT",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98781,
+    "name": "KALASHNIKOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98791,
+    "name": "KALININSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98803,
+    "name": "KALYAZIN",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98804,
+    "name": "KALYAZINSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98891,
+    "name": "KASHIN",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98892,
+    "name": "KASHINSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98943,
+    "name": "KESOVA GORA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98944,
+    "name": "KESOVOGORSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99043,
+    "name": "KIMRSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99044,
+    "name": "KIMRY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99177,
+    "name": "KONAKOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99178,
+    "name": "KONAKOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99268,
+    "name": "KOZLOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99325,
+    "name": "KRASNOKHOLMSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99328,
+    "name": "KRASNOMAYSKIY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99363,
+    "name": "KRASNYY KHOLM",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99491,
+    "name": "KUVSHINOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99492,
+    "name": "KUVSHINOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99502,
+    "name": "KUZHENKINO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99598,
+    "name": "LESNOY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99599,
+    "name": "LESNOYE",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99623,
+    "name": "LIKHOSLAVL’",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99624,
+    "name": "LIKHOSLAVL’SKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99746,
+    "name": "MAKSATIKHA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99747,
+    "name": "MAKSATIKHINSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99952,
+    "name": "MOLOKOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100098,
+    "name": "NELIDOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100335,
+    "name": "NOVOZAVIDOVSKIY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100421,
+    "name": "OLENINO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100477,
+    "name": "ORSHA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100491,
+    "name": "OSTASHKOV",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100492,
+    "name": "OSTASHKOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100593,
+    "name": "PENO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100594,
+    "name": "PENOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100922,
+    "name": "RADCHENKO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100937,
+    "name": "RAMESHKI",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100938,
+    "name": "RAMESHKOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100958,
+    "name": "REDKINO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101060,
+    "name": "RZHEV",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101075,
+    "name": "SAKHAROVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101098,
+    "name": "SANDOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101099,
+    "name": "SANDOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101156,
+    "name": "SELISHCHE",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101157,
+    "name": "SELIZHAROVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101158,
+    "name": "SELIZHAROVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101476,
+    "name": "SONKOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101537,
+    "name": "SPIROVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101538,
+    "name": "SPIROVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101554,
+    "name": "STANTSIA STARITSA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101567,
+    "name": "STARAYA TOROPA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101569,
+    "name": "STARITSA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101570,
+    "name": "STARITSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101899,
+    "name": "TOROPETS",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101900,
+    "name": "TOROPETSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101901,
+    "name": "TORZHOK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101902,
+    "name": "TORZHOKSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101988,
+    "name": "TVER",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102024,
+    "name": "UDOMLYA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102199,
+    "name": "VASIL’YEVSKIY MOKH",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102216,
+    "name": "VELIKOOKTYABR’SKIY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102293,
+    "name": "VES’YEGONSK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102294,
+    "name": "VES’YEGONSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102429,
+    "name": "VYDROPUZHSK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102434,
+    "name": "VYPOLZOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102441,
+    "name": "VYSHNEVOLOTSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102443,
+    "name": "VYSHNIY VOLOCHËK",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102646,
+    "name": "ZAPADNAYA DVINA",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102672,
+    "name": "ZAVIDOVO",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102713,
+    "name": "ZHARKOVSKIY",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102773,
+    "name": "ZUBTSOV",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102774,
+    "name": "ZUBTSOVSKIY RAYON",
+    "state": "TVER",
+    "state_iso2": "TVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

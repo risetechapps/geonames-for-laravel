@@ -1,0 +1,992 @@
+[
+  {
+    "id": 22111,
+    "name": "BABICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22144,
+    "name": "BOJKOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22151,
+    "name": "BORŠICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22174,
+    "name": "BUCHLOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22188,
+    "name": "BYSTŘICE POD HOSTÝNEM",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22191,
+    "name": "BÁNOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22195,
+    "name": "BÍLOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22205,
+    "name": "BŘEZNICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22208,
+    "name": "BŘEZOLUPY",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22211,
+    "name": "BŘEZOVÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22233,
+    "name": "CHROPYNĚ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22239,
+    "name": "CHVALČOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22272,
+    "name": "DOLNÍ BEČVA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22287,
+    "name": "DOLNÍ NĚMČÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22325,
+    "name": "FRANCOVA LHOTA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22330,
+    "name": "FRYŠTÁK",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22339,
+    "name": "HALENKOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22340,
+    "name": "HALENKOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22357,
+    "name": "HLUK",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22368,
+    "name": "HOLEŠOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22375,
+    "name": "HORNÍ BEČVA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22382,
+    "name": "HORNÍ LIDEČ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22406,
+    "name": "HOVĚZÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22410,
+    "name": "HOŠŤÁLKOVÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22434,
+    "name": "HULÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22439,
+    "name": "HVOZDNÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22450,
+    "name": "JABLŮNKA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22452,
+    "name": "JALUBÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22500,
+    "name": "KAROLINKA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22509,
+    "name": "KELČ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22523,
+    "name": "KNĚŽPOLE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22535,
+    "name": "KORYČANY",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22560,
+    "name": "KROMĚŘÍŽ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22569,
+    "name": "KUNOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22578,
+    "name": "KVASICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22601,
+    "name": "LEŠNÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22616,
+    "name": "LIDEČKO",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22620,
+    "name": "LIPTÁL",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22646,
+    "name": "LUHAČOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22650,
+    "name": "LUKOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22699,
+    "name": "MISTŘICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22749,
+    "name": "NAPAJEDLA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22753,
+    "name": "NEDAKONICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22754,
+    "name": "NEDAŠOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22767,
+    "name": "NIVNICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22787,
+    "name": "NOVÝ HROZENKOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22831,
+    "name": "OKRES KROMĚŘÍŽ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22869,
+    "name": "OKRES UHERSKÉ HRADIŠTĚ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22870,
+    "name": "OKRES VSETÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22872,
+    "name": "OKRES ZLÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22909,
+    "name": "OSTROŽSKÁ LHOTA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22910,
+    "name": "OSTROŽSKÁ NOVÁ VES",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22915,
+    "name": "OTROKOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22950,
+    "name": "POLEŠOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22956,
+    "name": "POPOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22963,
+    "name": "POZLOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22980,
+    "name": "PROSTŘEDNÍ BEČVA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22984,
+    "name": "PRUSINOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23023,
+    "name": "RATAJE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23024,
+    "name": "RATIBOŘ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23043,
+    "name": "ROŽNOV POD RADHOŠTĚM",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23080,
+    "name": "SLAVIČÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23084,
+    "name": "SLUŠOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23096,
+    "name": "SPYTIHNĚV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23107,
+    "name": "STARÉ MĚSTO",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23125,
+    "name": "STRÁNÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23143,
+    "name": "SUCHÁ LOZ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23163,
+    "name": "TEČOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23167,
+    "name": "TLUMAČOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23169,
+    "name": "TOPOLNÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23172,
+    "name": "TRAPLICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23176,
+    "name": "TRNAVA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23185,
+    "name": "TUPESY",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23206,
+    "name": "UHERSKÉ HRADIŠTĚ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23207,
+    "name": "UHERSKÝ BROD",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23208,
+    "name": "UHERSKÝ OSTROH",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23215,
+    "name": "VALAŠSKÁ BYSTŘICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23216,
+    "name": "VALAŠSKÁ POLANKA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23217,
+    "name": "VALAŠSKÉ KLOBOUKY",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23218,
+    "name": "VALAŠSKÉ MEZIŘÍČÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23226,
+    "name": "VELEHRAD",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23241,
+    "name": "VELKÉ KARLOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23267,
+    "name": "VIDČE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23275,
+    "name": "VIZOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23278,
+    "name": "VLACHOVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23284,
+    "name": "VLČNOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23303,
+    "name": "VSETÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23317,
+    "name": "VŠEMINA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23327,
+    "name": "ZAŠOVÁ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23329,
+    "name": "ZBOROVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23336,
+    "name": "ZDOUNKY",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23340,
+    "name": "ZLECHOV",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23343,
+    "name": "ZLÍN",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23346,
+    "name": "ZUBŘÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23349,
+    "name": "ZÁHOROVICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23354,
+    "name": "ÚJEZD",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23424,
+    "name": "ŠTÍTNÁ NAD VLÁŘÍ",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23431,
+    "name": "ŠUMICE",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23455,
+    "name": "ŽLUTAVA",
+    "state": "ZLÍN",
+    "state_iso2": "724",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

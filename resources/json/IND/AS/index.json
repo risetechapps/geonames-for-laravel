@@ -1,0 +1,872 @@
+[
+  {
+    "id": 57585,
+    "name": "ABHAYAPURI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57679,
+    "name": "AMGURI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57787,
+    "name": "BADARPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57820,
+    "name": "BAKSA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57883,
+    "name": "BARPATHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57884,
+    "name": "BARPETA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57885,
+    "name": "BARPETA ROAD",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58150,
+    "name": "BASUGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58028,
+    "name": "BIHPURIAGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58034,
+    "name": "BIJNI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58053,
+    "name": "BILASIPARA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58075,
+    "name": "BOKAJAN",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58077,
+    "name": "BOKAKHAT",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58081,
+    "name": "BONGAIGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131634,
+    "name": "CACHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131588,
+    "name": "CHABUA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131604,
+    "name": "CHAPAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131568,
+    "name": "CHIRANG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131657,
+    "name": "DARRANG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131695,
+    "name": "DERGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131732,
+    "name": "DHEKIAJULI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131733,
+    "name": "DHEMAJI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131737,
+    "name": "DHING",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131744,
+    "name": "DHUBRI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131762,
+    "name": "DIBRUGARH",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131766,
+    "name": "DIGBOI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131770,
+    "name": "DIMA HASAO",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131776,
+    "name": "DIPHU",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131778,
+    "name": "DISPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131795,
+    "name": "DULIAGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131796,
+    "name": "DUM DUMA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131928,
+    "name": "GAURIPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132004,
+    "name": "GOALPARA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131967,
+    "name": "GOHPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131976,
+    "name": "GOLAGHAT",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131977,
+    "name": "GOLAKGANJ",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131997,
+    "name": "GOSHAINGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132039,
+    "name": "GUWAHATI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132134,
+    "name": "HAFLONG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132055,
+    "name": "HAILAKANDI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132137,
+    "name": "HAJO",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132110,
+    "name": "HOJAI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132126,
+    "name": "HOWLI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132291,
+    "name": "JOGIGHOPA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132294,
+    "name": "JORHAT",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132693,
+    "name": "KAMRUP",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132366,
+    "name": "KAMRUP METROPOLITAN",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132718,
+    "name": "KARBI ANGLONG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132402,
+    "name": "KARIMGANJ",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132518,
+    "name": "KHARUPATIA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132551,
+    "name": "KOKRAJHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132742,
+    "name": "LAKHIMPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132743,
+    "name": "LAKHIPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132793,
+    "name": "LALA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132786,
+    "name": "LUMDING RAILWAY COLONY",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132842,
+    "name": "MAHUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132853,
+    "name": "MAIBONG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133064,
+    "name": "MAKUM",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132904,
+    "name": "MANGALDAI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132937,
+    "name": "MARIANI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133002,
+    "name": "MORANHA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132995,
+    "name": "MORIGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133110,
+    "name": "NAGAON",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133122,
+    "name": "NAHORKATIYA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133130,
+    "name": "NALBARI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133266,
+    "name": "NAMRUP",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133284,
+    "name": "NAZIRA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133239,
+    "name": "NORTH GUWAHATI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133240,
+    "name": "NORTH LAKHIMPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133248,
+    "name": "NUMALIGARH",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133341,
+    "name": "PALASBARI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133584,
+    "name": "RAHA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133610,
+    "name": "RANGAPARA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133608,
+    "name": "RANGIA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133798,
+    "name": "SAPATGRAM",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133809,
+    "name": "SARUPATHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133916,
+    "name": "SIBSAGAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133934,
+    "name": "SILAPATHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133935,
+    "name": "SILCHAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133979,
+    "name": "SOALKUCHI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133998,
+    "name": "SONARI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133996,
+    "name": "SONITPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134003,
+    "name": "SORBHOG",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134134,
+    "name": "TEZPUR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134175,
+    "name": "TINSUKIA",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134203,
+    "name": "TITABAR",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134252,
+    "name": "UDALGURI",
+    "state": "ASSAM",
+    "state_iso2": "AS",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]

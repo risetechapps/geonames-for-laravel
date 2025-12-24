@@ -1,0 +1,762 @@
+[
+  {
+    "id": 637,
+    "name": "28 DE NOVIEMBRE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9825,
+    "name": "ABAPÓ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9830,
+    "name": "ASCENCIÓN DE GUARAYOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9831,
+    "name": "ASCENSIÓN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9837,
+    "name": "BOYUIBE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9838,
+    "name": "BUENA VISTA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 711,
+    "name": "CALETA OLIVIA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9840,
+    "name": "CAMIRI",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9844,
+    "name": "CHARAGUA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 786,
+    "name": "COMANDANTE LUIS PIEDRA BUENA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9855,
+    "name": "COMARAPA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9856,
+    "name": "CONCEPCIÓN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9859,
+    "name": "COTOCA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 874,
+    "name": "DEPARTAMENTO DE DESEADO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 906,
+    "name": "DEPARTAMENTO DE GÜER AIKE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 922,
+    "name": "DEPARTAMENTO DE LAGO ARGENTINO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 935,
+    "name": "DEPARTAMENTO DE MAGALLANES",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 972,
+    "name": "DEPARTAMENTO DE RÍO CHICO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1051,
+    "name": "EL CALAFATE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9864,
+    "name": "GERMAN BUSCH",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1116,
+    "name": "GOBERNADOR GREGORES",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9866,
+    "name": "GUARAYOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9873,
+    "name": "JOROCHITO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9875,
+    "name": "LA BÉLGICA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1220,
+    "name": "LAS HERAS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9878,
+    "name": "LIMONCITO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1244,
+    "name": "LOS ANTIGUOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9881,
+    "name": "LOS NEGROS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9883,
+    "name": "MAIRANA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9885,
+    "name": "MINEROS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9888,
+    "name": "MONTERO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9890,
+    "name": "OKINAWA NÚMERO UNO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9893,
+    "name": "PAILÓN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9895,
+    "name": "PAURITO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 21996,
+    "name": "PEDRA BADEJO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "CR",
+    "country": "CAPE VERDE",
+    "country_iso2": "CV",
+    "country_iso3": "CPV",
+    "country_native": "CABO VERDE"
+  },
+  {
+    "id": 1326,
+    "name": "PERITO MORENO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1329,
+    "name": "PICO TRUNCADO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9897,
+    "name": "PORTACHUELO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9901,
+    "name": "PROVINCIA ANDRÉS IBÁÑEZ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9924,
+    "name": "PROVINCIA CHIQUITOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9925,
+    "name": "PROVINCIA CORDILLERA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9928,
+    "name": "PROVINCIA FLORIDA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9937,
+    "name": "PROVINCIA ICHILO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9951,
+    "name": "PROVINCIA MANUEL MARÍA CABALLERO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9979,
+    "name": "PROVINCIA SANTIESTEBAN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9980,
+    "name": "PROVINCIA SARA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9991,
+    "name": "PROVINCIA VALLEGRANDE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9992,
+    "name": "PROVINCIA VELASCO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9993,
+    "name": "PROVINCIA WARNES",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9997,
+    "name": "PROVINCIA ÁNGEL SANDOVAL",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 9998,
+    "name": "PROVINCIA ÑUFLO DE CHÁVEZ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1352,
+    "name": "PUERTO DESEADO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 9999,
+    "name": "PUERTO QUIJARRO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1362,
+    "name": "PUERTO SANTA CRUZ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 10001,
+    "name": "PUESTO DE PAILAS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10007,
+    "name": "ROBORÉ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1391,
+    "name": "RÍO GALLEGOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1397,
+    "name": "RÍO TURBIO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 10010,
+    "name": "SAMAIPATA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10012,
+    "name": "SAN CARLOS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10013,
+    "name": "SAN IGNACIO DE VELASCO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10014,
+    "name": "SAN JUAN DEL SURUTÚ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10015,
+    "name": "SAN JULIAN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1434,
+    "name": "SAN JULIÁN",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 10016,
+    "name": "SAN MATÍAS",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10018,
+    "name": "SAN PEDRO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 22004,
+    "name": "SANTA CRUZ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "CR",
+    "country": "CAPE VERDE",
+    "country_iso2": "CV",
+    "country_iso3": "CPV",
+    "country_native": "CABO VERDE"
+  },
+  {
+    "id": 10023,
+    "name": "SANTA CRUZ DE LA SIERRA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10024,
+    "name": "SANTA RITA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10026,
+    "name": "SANTA ROSA DEL SARA",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10027,
+    "name": "SANTIAGO DEL TORNO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10043,
+    "name": "URUBICHÁ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10045,
+    "name": "VALLEGRANDE",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10046,
+    "name": "VILLA YAPACANÍ",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 10050,
+    "name": "WARNES",
+    "state": "SANTA CRUZ",
+    "state_iso2": "S",
+    "country": "BOLIVIA",
+    "country_iso2": "BO",
+    "country_iso3": "BOL",
+    "country_native": "BOLIVIA"
+  },
+  {
+    "id": 1593,
+    "name": "YACIMIENTO RÍO TURBIO",
+    "state": "SANTA CRUZ",
+    "state_iso2": "Z",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

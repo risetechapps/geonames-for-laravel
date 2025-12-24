@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5227,
+    "name": "LOYALTY ISLANDS PROVINCE",
+    "iso2": "03",
+    "country": "NEW CALEDONIA",
+    "country_iso2": "NC",
+    "country_iso3": "NCL",
+    "country_native": "NOUVELLE-CALÉDONIE",
+    "timezone": "Pacific/Noumea"
+  },
+  {
+    "id": 5226,
+    "name": "NORTH PROVINCE",
+    "iso2": "02",
+    "country": "NEW CALEDONIA",
+    "country_iso2": "NC",
+    "country_iso3": "NCL",
+    "country_native": "NOUVELLE-CALÉDONIE",
+    "timezone": "Pacific/Noumea"
+  },
+  {
+    "id": 5225,
+    "name": "SOUTH PROVINCE",
+    "iso2": "01",
+    "country": "NEW CALEDONIA",
+    "country_iso2": "NC",
+    "country_iso3": "NCL",
+    "country_native": "NOUVELLE-CALÉDONIE",
+    "timezone": "Pacific/Noumea"
+  }
+]

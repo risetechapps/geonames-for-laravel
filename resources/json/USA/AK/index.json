@@ -1,0 +1,962 @@
+[
+  {
+    "id": 111081,
+    "name": "AKUTAN",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111143,
+    "name": "ALEUTIANS EAST BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111144,
+    "name": "ALEUTIANS WEST CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111303,
+    "name": "ANCHOR POINT",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111305,
+    "name": "ANCHORAGE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111306,
+    "name": "ANCHORAGE MUNICIPALITY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111724,
+    "name": "BADGER",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111852,
+    "name": "BARROW",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111976,
+    "name": "BEAR CREEK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112281,
+    "name": "BETHEL",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112284,
+    "name": "BETHEL CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112325,
+    "name": "BIG LAKE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112813,
+    "name": "BRISTOL BAY BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113124,
+    "name": "BUTTE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113917,
+    "name": "CHEVAK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114045,
+    "name": "CITY AND BOROUGH OF WRANGELL",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114374,
+    "name": "COHOE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114412,
+    "name": "COLLEGE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114640,
+    "name": "CORDOVA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114756,
+    "name": "CRAIG",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115227,
+    "name": "DELTANA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115235,
+    "name": "DENALI BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115315,
+    "name": "DIAMOND RIDGE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115340,
+    "name": "DILLINGHAM",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115341,
+    "name": "DILLINGHAM CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115578,
+    "name": "DUTCH HARBOR",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115612,
+    "name": "EAGLE RIVER",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115909,
+    "name": "EIELSON AIR FORCE BASE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116049,
+    "name": "ELMENDORF AIR FORCE BASE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116206,
+    "name": "ESTER",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116290,
+    "name": "FAIRBANKS",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116291,
+    "name": "FAIRBANKS NORTH STAR BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116401,
+    "name": "FARM LOOP",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116404,
+    "name": "FARMERS LOOP",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116531,
+    "name": "FISHHOOK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116959,
+    "name": "FRITZ CREEK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117124,
+    "name": "GATEWAY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117230,
+    "name": "GIRDWOOD",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117843,
+    "name": "HAINES",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117844,
+    "name": "HAINES BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118219,
+    "name": "HEALY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118597,
+    "name": "HOMER",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118632,
+    "name": "HOONAH-ANGOON CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118634,
+    "name": "HOOPER BAY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118701,
+    "name": "HOUSTON",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119338,
+    "name": "JUNEAU",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119364,
+    "name": "KALIFORNSKY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119440,
+    "name": "KENAI",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119441,
+    "name": "KENAI PENINSULA BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119523,
+    "name": "KETCHIKAN",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119524,
+    "name": "KETCHIKAN GATEWAY BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119583,
+    "name": "KING COVE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119677,
+    "name": "KNIK-FAIRVIEW",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119698,
+    "name": "KODIAK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119699,
+    "name": "KODIAK ISLAND BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119700,
+    "name": "KODIAK STATION",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119712,
+    "name": "KOTZEBUE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120003,
+    "name": "LAKE AND PENINSULA BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120024,
+    "name": "LAKES",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120256,
+    "name": "LAZY MOUNTAIN",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 153919,
+    "name": "MARSHALL",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121399,
+    "name": "MATANUSKA-SUSITNA BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121561,
+    "name": "MEADOW LAKES",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121735,
+    "name": "METLAKATLA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122898,
+    "name": "NIKISKI",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122934,
+    "name": "NOME",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122935,
+    "name": "NOME CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123084,
+    "name": "NORTH POLE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123107,
+    "name": "NORTH SLOPE BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123173,
+    "name": "NORTHWEST ARCTIC BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123760,
+    "name": "PALMER",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124108,
+    "name": "PETERSBURG",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124110,
+    "name": "PETERSBURG BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124724,
+    "name": "PRUDHOE BAY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125130,
+    "name": "RIDGEWAY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125724,
+    "name": "SALCHA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125860,
+    "name": "SAND POINT",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126187,
+    "name": "SEWARD",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126470,
+    "name": "SITKA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126471,
+    "name": "SITKA CITY AND BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126475,
+    "name": "SKAGWAY",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126567,
+    "name": "SOLDOTNA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126766,
+    "name": "SOUTHEAST FAIRBANKS CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127031,
+    "name": "STERLING",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127316,
+    "name": "SUTTON-ALPINE",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127409,
+    "name": "TANAINA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127697,
+    "name": "TOK",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127966,
+    "name": "UNALASKA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128083,
+    "name": "VALDEZ",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128084,
+    "name": "VALDEZ-CORDOVA CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128593,
+    "name": "WASILLA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129304,
+    "name": "WILLOW",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129601,
+    "name": "WRANGELL",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129646,
+    "name": "Y",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129652,
+    "name": "YAKUTAT CITY AND BOROUGH",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129731,
+    "name": "YUKON-KOYUKUK CENSUS AREA",
+    "state": "ALASKA",
+    "state_iso2": "AK",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": 3794,
+    "name": "AN GIANG",
+    "iso2": "44",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3791,
+    "name": "BẮC NINH",
+    "iso2": "56",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3782,
+    "name": "CAO BẰNG",
+    "iso2": "04",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3778,
+    "name": "CÀ MAU",
+    "iso2": "59",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 4925,
+    "name": "CẦN THƠ",
+    "iso2": "CT",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3813,
+    "name": "GIA LAI",
+    "iso2": "30",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3810,
+    "name": "HÀ NỘI",
+    "iso2": "HN",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3816,
+    "name": "HÀ TĨNH",
+    "iso2": "23",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3768,
+    "name": "HƯNG YÊN",
+    "iso2": "66",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3783,
+    "name": "HẢI PHÒNG",
+    "iso2": "HP",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3811,
+    "name": "HỒ CHÍ MINH",
+    "iso2": "SG",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3793,
+    "name": "KHÁNH HÒA",
+    "iso2": "34",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3825,
+    "name": "LAI CHÂU",
+    "iso2": "01",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3817,
+    "name": "LÀO CAI",
+    "iso2": "02",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3818,
+    "name": "LÂM ĐỒNG",
+    "iso2": "35",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3792,
+    "name": "LẠNG SƠN",
+    "iso2": "09",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3780,
+    "name": "NGHỆ AN",
+    "iso2": "22",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3786,
+    "name": "NINH BÌNH",
+    "iso2": "18",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3801,
+    "name": "PHÚ THỌ",
+    "iso2": "68",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3828,
+    "name": "QUẢNG NGÃI",
+    "iso2": "29",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3814,
+    "name": "QUẢNG NINH",
+    "iso2": "13",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3803,
+    "name": "QUẢNG TRỊ",
+    "iso2": "25",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3812,
+    "name": "SƠN LA",
+    "iso2": "05",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3771,
+    "name": "THANH HÓA",
+    "iso2": "21",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3807,
+    "name": "THÁI NGUYÊN",
+    "iso2": "69",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3798,
+    "name": "THỪA THIÊN-HUẾ",
+    "iso2": "26",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3795,
+    "name": "TUYÊN QUANG",
+    "iso2": "07",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3826,
+    "name": "TÂY NINH",
+    "iso2": "37",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3790,
+    "name": "VĨNH LONG",
+    "iso2": "49",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3773,
+    "name": "ĐIỆN BIÊN",
+    "iso2": "71",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3806,
+    "name": "ĐÀ NẴNG",
+    "iso2": "DN",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3829,
+    "name": "ĐẮK LẮK",
+    "iso2": "33",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3821,
+    "name": "ĐỒNG NAI",
+    "iso2": "39",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3769,
+    "name": "ĐỒNG THÁP",
+    "iso2": "45",
+    "country": "VIETNAM",
+    "country_iso2": "VN",
+    "country_iso3": "VNM",
+    "country_native": "VIỆT NAM",
+    "timezone": "Asia/Ho_Chi_Minh"
+  }
+]

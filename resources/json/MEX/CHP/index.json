@@ -1,0 +1,5342 @@
+[
+  {
+    "id": 68007,
+    "name": "1RA. SECCIÓN DE IZAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68008,
+    "name": "2DA. SECCIÓN DE MEDIO MONTE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68013,
+    "name": "ABASOLO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68024,
+    "name": "ACACOYAGUA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68029,
+    "name": "ACALA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68036,
+    "name": "ACAPETAHUA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68089,
+    "name": "ADOLFO LÓPEZ MATEOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68101,
+    "name": "AGRÓNOMOS MEXICANOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68102,
+    "name": "AGUA AZUL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68105,
+    "name": "AGUA BLANCA SERRANÍA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68120,
+    "name": "AGUA ZARCA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68122,
+    "name": "AGUACATENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68130,
+    "name": "AGUSTÍN DE ITURBIDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68135,
+    "name": "AHUACATLÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68165,
+    "name": "AJILHÓ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68186,
+    "name": "ALDAMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68195,
+    "name": "ALFONSO MOGUEL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68224,
+    "name": "ALTAMIRANO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68234,
+    "name": "AMADO NERVO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68237,
+    "name": "AMATENANGO DE LA FRONTERA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68238,
+    "name": "AMATENANGO DEL VALLE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68247,
+    "name": "AMATÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68264,
+    "name": "AMÉRICA LIBRE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68295,
+    "name": "APAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68320,
+    "name": "AQUILES SERDÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68349,
+    "name": "ARIMATEA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68355,
+    "name": "ARRIAGA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68358,
+    "name": "ARROYO GRANDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68359,
+    "name": "ARROYO GRANIZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68363,
+    "name": "ARROYO PALENQUE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68378,
+    "name": "ARVENZA UNO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68445,
+    "name": "AURORA ERMITA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68446,
+    "name": "AURORA ESQUIPULAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68474,
+    "name": "AZTECA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68475,
+    "name": "AZTLÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68487,
+    "name": "BACHAJÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68504,
+    "name": "BAJUCU",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68567,
+    "name": "BAUTISTA CHICO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68570,
+    "name": "BEJUCAL DE OCAMPO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68574,
+    "name": "BELISARIO DOMÍNGUEZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68576,
+    "name": "BELLA VISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68585,
+    "name": "BENEMÉRITO DE LAS AMÉRICAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68601,
+    "name": "BENITO JUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68611,
+    "name": "BERRIOZÁBAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68612,
+    "name": "BETANIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68625,
+    "name": "BOCHIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68626,
+    "name": "BOCHOJBO ALTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68649,
+    "name": "BRISAS BARRA DE SUCHIATE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68673,
+    "name": "BUENAVISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68676,
+    "name": "BUENAVISTA (MATASANOS)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68686,
+    "name": "BUENOS AIRES",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68702,
+    "name": "CABEZA DE TORO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68705,
+    "name": "CACAHOATÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68715,
+    "name": "CACATÉ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68753,
+    "name": "CALZADA LARGA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68786,
+    "name": "CANCUC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68797,
+    "name": "CANTIOC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68801,
+    "name": "CANTÓN LAS DELICIAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68799,
+    "name": "CANTÓN RANCHO NUEVO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68800,
+    "name": "CANTÓN VILLAFLOR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68829,
+    "name": "CARMEN YALCHUCH",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68830,
+    "name": "CARMEN ZACATAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68837,
+    "name": "CARRILLO PUERTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68856,
+    "name": "CASH",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68862,
+    "name": "CATAZAJÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68864,
+    "name": "CATISHTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68884,
+    "name": "CEBADILLA 1RA. SECCIÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68895,
+    "name": "CENOBIO AGUILAR (LA TRINIDAD)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68905,
+    "name": "CERESO 14 (EL AMATE)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68946,
+    "name": "CHACALJOCÓM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68949,
+    "name": "CHACOMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68955,
+    "name": "CHALAM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68960,
+    "name": "CHALCHIHUITÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68969,
+    "name": "CHAMULA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68970,
+    "name": "CHAMULAPITA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68973,
+    "name": "CHANAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68980,
+    "name": "CHAPALLAL GRANDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68989,
+    "name": "CHAPULTENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69010,
+    "name": "CHIAPA DE CORZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69011,
+    "name": "CHIAPILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69034,
+    "name": "CHICOASÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69037,
+    "name": "CHICOMUSELO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69048,
+    "name": "CHICUMTANTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69055,
+    "name": "CHIHUAHUA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69071,
+    "name": "CHILOLJÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69075,
+    "name": "CHILÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69079,
+    "name": "CHIMHUCUM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69092,
+    "name": "CHIQUINIVAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69093,
+    "name": "CHIQUINSHULUM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69096,
+    "name": "CHIXTONTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69113,
+    "name": "CHULUM CÁRDENAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69114,
+    "name": "CHULUM JUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69136,
+    "name": "CINTALAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69137,
+    "name": "CINTALAPA DE FIGUEROA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69153,
+    "name": "CIUDAD CUAUHTÉMOC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69160,
+    "name": "CIUDAD HIDALGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69222,
+    "name": "COAPILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69342,
+    "name": "COLONIA OBRERA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69417,
+    "name": "COMALAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69425,
+    "name": "COMITÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69432,
+    "name": "CONCEPCIÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69453,
+    "name": "CONGREGACIÓN REFORMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69465,
+    "name": "CONSTITUCIÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69469,
+    "name": "COPAINALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69474,
+    "name": "COPOYA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69535,
+    "name": "CRISTÓBAL COLÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69536,
+    "name": "CRISTÓBAL OBREGÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69548,
+    "name": "CRUZTÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69580,
+    "name": "CUAUHTÉMOC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69606,
+    "name": "CUCHULUMTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69657,
+    "name": "CÁLIDO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69665,
+    "name": "DAMASCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69683,
+    "name": "DIAMANTE DE ECHEVERRÍA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69685,
+    "name": "DIECISÉIS DE SEPTIEMBRE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69693,
+    "name": "DOCTOR BELISARIO DOMÍNGUEZ (LA BARRA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69695,
+    "name": "DOCTOR DOMINGO CHANONA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69700,
+    "name": "DOCTOR RODULFO FIGUEROA (TIERRA BLANCA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69701,
+    "name": "DOCTOR SAMUEL LEÓN BRINDIS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69707,
+    "name": "DOLORES JALTENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69755,
+    "name": "EFRAÍN A. GUTIÉRREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69756,
+    "name": "EGIPTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69832,
+    "name": "EL ARENAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69848,
+    "name": "EL BOSQUE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69855,
+    "name": "EL CALVARIO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69870,
+    "name": "EL CARMEN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69876,
+    "name": "EL CARMEN (EL LIMÓN)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69892,
+    "name": "EL CENSO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69920,
+    "name": "EL CONSUELO ULAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69923,
+    "name": "EL COPAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69924,
+    "name": "EL COPALAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69950,
+    "name": "EL EDÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69952,
+    "name": "EL ENCANTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69960,
+    "name": "EL ESPINAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70001,
+    "name": "EL JARDÍN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70007,
+    "name": "EL JOBO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70014,
+    "name": "EL LIMAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70015,
+    "name": "EL LIMONAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70032,
+    "name": "EL MANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70067,
+    "name": "EL NOPAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70076,
+    "name": "EL PACAYAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70081,
+    "name": "EL PALMAR (SAN GABRIEL)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70082,
+    "name": "EL PALMAR GRANDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70083,
+    "name": "EL PALMARCITO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70091,
+    "name": "EL PARAÍSO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70095,
+    "name": "EL PARRAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70114,
+    "name": "EL PORTAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70118,
+    "name": "EL PORVENIR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70120,
+    "name": "EL PORVENIR AGRARISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70122,
+    "name": "EL PORVENIR DE VELASCO SUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70128,
+    "name": "EL POZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70133,
+    "name": "EL PROGRESO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70139,
+    "name": "EL PUERTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70143,
+    "name": "EL RAMAL (PORVENIR)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70182,
+    "name": "EL SACRIFICIO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70205,
+    "name": "EL SIBAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70235,
+    "name": "EL TRIUNFO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70237,
+    "name": "EL TRIUNFO 1RA. SECCIÓN (CARDONA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70238,
+    "name": "EL TRIUNFO DE LAS TRES MARAVILLAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70244,
+    "name": "EL TUMBO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70246,
+    "name": "EL TZAY",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70255,
+    "name": "EL VERGEL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70260,
+    "name": "EL ZAPOTAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70263,
+    "name": "EL ZAPOTILLO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70264,
+    "name": "EL ÁGUILA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70267,
+    "name": "EL ÁMBAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70268,
+    "name": "EL ÁMBAR (EL ÁMBAR DE ECHEVERRÍA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70276,
+    "name": "EMILIANO ZAPATA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70323,
+    "name": "ESCUINTLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70343,
+    "name": "ESTACIÓN HUEHUETÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70354,
+    "name": "ESTACIÓN SAN MANUEL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70357,
+    "name": "ESTACIÓN TUZANTÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70373,
+    "name": "ESTRELLA DE BELÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70392,
+    "name": "FAJA DE ORO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70405,
+    "name": "FLOR DE CACAO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70469,
+    "name": "FRANCISCO I. MADERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70473,
+    "name": "FRANCISCO LEÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70475,
+    "name": "FRANCISCO SARABIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70480,
+    "name": "FRANCISCO VILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70492,
+    "name": "FRONTERA COROZAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70493,
+    "name": "FRONTERA HIDALGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70501,
+    "name": "GABRIEL ESQUINCA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70512,
+    "name": "GALECIO NARCIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70571,
+    "name": "GUADALUPE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70583,
+    "name": "GUADALUPE GRIJALVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70605,
+    "name": "GUADALUPE VICTORIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70619,
+    "name": "GUAQUITEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70669,
+    "name": "HERMENEGILDO GALEANA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70682,
+    "name": "HIDALGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70688,
+    "name": "HIDALGO JOSHIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70762,
+    "name": "HUEHUETÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70801,
+    "name": "HUITIUPÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70821,
+    "name": "HUIXTLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70822,
+    "name": "HUIZACHAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70829,
+    "name": "HÉROES DE CHAPULTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70838,
+    "name": "IGNACIO ALLENDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70842,
+    "name": "IGNACIO LÓPEZ RAYÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70845,
+    "name": "IGNACIO RAMÍREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70857,
+    "name": "IGNACIO ZARAGOZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70858,
+    "name": "IGNACIO ZARAGOZA (EL MORRO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70869,
+    "name": "INDEPENDENCIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70916,
+    "name": "IXHUATÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70923,
+    "name": "IXTACOMITÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70926,
+    "name": "IXTAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70933,
+    "name": "IXTAPANGAJOYA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70973,
+    "name": "JALISCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70983,
+    "name": "JALTENANGO DE LA PAZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71006,
+    "name": "JARDÍNES DEL GRIJALVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71019,
+    "name": "JERICÓ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71020,
+    "name": "JERUSALÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71033,
+    "name": "JESÚS MARÍA GARZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71054,
+    "name": "JIQUILPAN (ESTACIÓN BONANZA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71055,
+    "name": "JIQUIPILAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71059,
+    "name": "JITOTOL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71064,
+    "name": "JOAQUÍN MIGUEL GUTIÉRREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71065,
+    "name": "JOAQUÍN MIGUEL GUTIÉRREZ (MARGARITAS)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71071,
+    "name": "JOLJÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71074,
+    "name": "JOLSIBAQUIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71075,
+    "name": "JOLTEALAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71076,
+    "name": "JOMANICHIM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71087,
+    "name": "JOSHIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71097,
+    "name": "JOSÉ MARÍA MORELOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71105,
+    "name": "JOSÉ MARÍA MORELOS Y PAVÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71108,
+    "name": "JOSÉ MARÍA PINO SUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71112,
+    "name": "JUAN ALDAMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71129,
+    "name": "JUAN DEL GRIJALVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71137,
+    "name": "JULIÁN GRAJALES",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71143,
+    "name": "JUSTO SIERRA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71145,
+    "name": "JUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71168,
+    "name": "KOTOLTE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71195,
+    "name": "LA CANDELARIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71210,
+    "name": "LA CEIBA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71226,
+    "name": "LA COMPETENCIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71242,
+    "name": "LA CONCORDIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71271,
+    "name": "LA ESPERANZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71276,
+    "name": "LA ESPERANZA (EL ZAPOTAL)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71292,
+    "name": "LA FLORESTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71302,
+    "name": "LA GLORIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71307,
+    "name": "LA GRANDEZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71323,
+    "name": "LA INDEPENDENCIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71324,
+    "name": "LA INDEPENDENCIA (LAS PILAS)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71343,
+    "name": "LA LAGUNA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71351,
+    "name": "LA LIBERTAD",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71379,
+    "name": "LA LÍNEA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71434,
+    "name": "LA PATRIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71448,
+    "name": "LA PIMIENTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71477,
+    "name": "LA RINCONADA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71502,
+    "name": "LA TIGRILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71516,
+    "name": "LA TRINITARIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71540,
+    "name": "LACANDÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71557,
+    "name": "LAGUNA DEL COFRE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71571,
+    "name": "LARRÁINZAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71579,
+    "name": "LAS BRISAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71586,
+    "name": "LAS CHICHARRAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71596,
+    "name": "LAS DELICIAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71599,
+    "name": "LAS FLECHAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71616,
+    "name": "LAS MARAVILLAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71617,
+    "name": "LAS MARGARITAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71628,
+    "name": "LAS OLLAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71637,
+    "name": "LAS ROSAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71642,
+    "name": "LAS TAZAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71670,
+    "name": "LIBERTAD MELCHOR OCAMPO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71671,
+    "name": "LIBERTAD VENTANAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71693,
+    "name": "LLANO DE LA LIMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71713,
+    "name": "LOMA BONITA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71741,
+    "name": "LOMANTÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71782,
+    "name": "LOS CAFETALES",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71793,
+    "name": "LOS CORAZONES",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71819,
+    "name": "LOS NARANJOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71827,
+    "name": "LOS PALACIOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71832,
+    "name": "LOS PINOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71834,
+    "name": "LOS PLÁTANOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71836,
+    "name": "LOS POZOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71853,
+    "name": "LOS RIEGOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71880,
+    "name": "LUIS ESPINOZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71888,
+    "name": "LÁZARO CÁRDENAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71896,
+    "name": "LÁZARO CÁRDENAS (CHILIL)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71915,
+    "name": "MACVILHÓ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71942,
+    "name": "MAJASTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71943,
+    "name": "MAJOMUT",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71961,
+    "name": "MANUEL LAZOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71966,
+    "name": "MANUEL ÁVILA CAMACHO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71968,
+    "name": "MANUEL ÁVILA CAMACHO (PONTE DURO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71977,
+    "name": "MAPASTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71981,
+    "name": "MARAVILLA TENEJAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71982,
+    "name": "MARAVILLAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71993,
+    "name": "MARIANO MATAMOROS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71995,
+    "name": "MARISCAL SUBIKUSKI",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71998,
+    "name": "MARQUÉS DE COMILLAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72000,
+    "name": "MARTE R. GÓMEZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72023,
+    "name": "MATZAM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72036,
+    "name": "MAZAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72038,
+    "name": "MAZAPA DE MADERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72049,
+    "name": "MAZATÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72087,
+    "name": "METAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72128,
+    "name": "MIGUEL HIDALGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72135,
+    "name": "MIGUEL UTRILLA (LOS CHORROS)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72158,
+    "name": "MISIJA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72161,
+    "name": "MITONTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72163,
+    "name": "MITZITÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72164,
+    "name": "MIXCUM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72205,
+    "name": "MONTE REDONDO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72212,
+    "name": "MONTECRISTO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72213,
+    "name": "MONTECRISTO DE GUERRERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72218,
+    "name": "MONTERREY",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72226,
+    "name": "MORELIA (VICTÓRICO RODOLFO GRAJALES)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72241,
+    "name": "MOTOZINTLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72246,
+    "name": "MOYOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72256,
+    "name": "MUQUÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72262,
+    "name": "MÉRIDA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72265,
+    "name": "NACHIG",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72285,
+    "name": "NARCISO MENDOZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72296,
+    "name": "NAVENCHAUC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72323,
+    "name": "NICOLÁS BRAVO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72328,
+    "name": "NICOLÁS RUIZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72359,
+    "name": "NUEVA AMÉRICA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72362,
+    "name": "NUEVA COLOMBIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72364,
+    "name": "NUEVA ESPERANZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72366,
+    "name": "NUEVA INDEPENDENCIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72368,
+    "name": "NUEVA LIBERTAD",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72369,
+    "name": "NUEVA LIBERTAD (EL COLORADO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72370,
+    "name": "NUEVA MORELIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72371,
+    "name": "NUEVA PALESTINA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72375,
+    "name": "NUEVA SESECAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72376,
+    "name": "NUEVA TENOCHTITLÁN (RIZO DE ORO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72378,
+    "name": "NUEVO AMATENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72380,
+    "name": "NUEVO CARMEN TONAPAC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72385,
+    "name": "NUEVO FRANCISCO LEÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72389,
+    "name": "NUEVO JUAN DEL GRIJALVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72391,
+    "name": "NUEVO LEÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72393,
+    "name": "NUEVO LIMAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72395,
+    "name": "NUEVO MILENIO VALDIVIA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72398,
+    "name": "NUEVO MÉXICO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72399,
+    "name": "NUEVO NARANJO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72401,
+    "name": "NUEVO NICAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72402,
+    "name": "NUEVO PACAYAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72407,
+    "name": "NUEVO PUMPUAPA (CERESO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72409,
+    "name": "NUEVO SAN JUAN CHAMULA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72413,
+    "name": "NUEVO SITALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72419,
+    "name": "NUEVO VICENTE GUERRERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72420,
+    "name": "NUEVO VICENTE GUERRERO (EL CHICHONAL)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72421,
+    "name": "NUEVO VOLCÁN CHICHONAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72423,
+    "name": "NUEVO XOCHIMILCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72447,
+    "name": "OCHUSJOB",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72448,
+    "name": "OCOCH",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72450,
+    "name": "OCOSINGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72452,
+    "name": "OCOTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72464,
+    "name": "OCOZOCOAUTLA DE ESPINOSA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72467,
+    "name": "OCTAVIO PAZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72484,
+    "name": "OJO DE AGUA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72508,
+    "name": "OMOA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72510,
+    "name": "ONCE DE ABRIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72534,
+    "name": "OSTUACÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72535,
+    "name": "OSUMACINTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72546,
+    "name": "OXCHUC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72550,
+    "name": "OXINAM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72564,
+    "name": "PABLO L. SIDAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72571,
+    "name": "PACÚ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72582,
+    "name": "PALENQUE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72625,
+    "name": "PANTELHÓ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72626,
+    "name": "PANTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72650,
+    "name": "PARAÍSO DEL GRIJALVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72653,
+    "name": "PAREDÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72680,
+    "name": "PASO HONDO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72704,
+    "name": "PASTÉ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72709,
+    "name": "PATOSIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72712,
+    "name": "PATRIA NUEVA (SAN JOSÉ EL CONTENTO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72714,
+    "name": "PAVENCUL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72736,
+    "name": "PERLA DE ACAPULCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72742,
+    "name": "PETALCINGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72761,
+    "name": "PICHUCALCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72766,
+    "name": "PIEDRA LABRADA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72774,
+    "name": "PIJIJIAPAN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72795,
+    "name": "PLAN DE AGUA PRIETA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72798,
+    "name": "PLAN DE AYALA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72846,
+    "name": "POMPOSO CASTELLANOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72861,
+    "name": "POTRERILLO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72891,
+    "name": "PRESIDENTE ECHEVERRÍA (LAJA TENDIDA)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72895,
+    "name": "PRIMER CANTÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72907,
+    "name": "PROFRESOR ROBERTO BARRIOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72927,
+    "name": "PUEBLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72938,
+    "name": "PUEBLO NUEVO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72971,
+    "name": "PUERTO MADERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72983,
+    "name": "PUGCHÉN MUMUNTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72986,
+    "name": "PUNTA ARENA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73024,
+    "name": "QUERÉTARO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73036,
+    "name": "QUINTANA ROO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73046,
+    "name": "RAFAEL PASCACIO GAMBOA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73047,
+    "name": "RAFAEL RAMÍREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73052,
+    "name": "RAMÓN F. BALBOA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73082,
+    "name": "RAUDALES MALPASO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73084,
+    "name": "RAYMUNDO ENRÍQUEZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73087,
+    "name": "RAYÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73094,
+    "name": "REFORMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73096,
+    "name": "REFORMA Y PLANADA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73100,
+    "name": "REVOLUCIÓN MEXICANA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73106,
+    "name": "RICARDO FLORES MAGÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73118,
+    "name": "RINCÓN CHAMULA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73143,
+    "name": "RIZO DE ORO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73145,
+    "name": "ROBLADA GRANDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73151,
+    "name": "RODULFO FIGUEROA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73153,
+    "name": "ROMERILLO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73168,
+    "name": "RÍO BLANCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73171,
+    "name": "RÍO CHANCALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73178,
+    "name": "RÍO JORDÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73192,
+    "name": "SABANILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73195,
+    "name": "SABINALITO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73198,
+    "name": "SACLAMANTÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73225,
+    "name": "SALTILLO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73227,
+    "name": "SALTO DE AGUA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73230,
+    "name": "SALVADOR URBINA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73278,
+    "name": "SAN ANDRÉS DURAZNAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73325,
+    "name": "SAN ANTONIO BUENAVISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73326,
+    "name": "SAN ANTONIO BULUJIB",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73380,
+    "name": "SAN ANTONIO DEL MONTE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73455,
+    "name": "SAN CARALAMPIO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73466,
+    "name": "SAN CAYETANO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73483,
+    "name": "SAN CRISTÓBAL DE LAS CASAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73526,
+    "name": "SAN FELIPE TIZAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73535,
+    "name": "SAN FERNANDO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73547,
+    "name": "SAN FRANCISCO (EL CALVITO)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73569,
+    "name": "SAN FRANCISCO JACONÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73588,
+    "name": "SAN FRANCISCO PUJILTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73665,
+    "name": "SAN ISIDRO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73691,
+    "name": "SAN ISIDRO LAS BANDERAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73720,
+    "name": "SAN JERÓNIMO TULIJÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73756,
+    "name": "SAN JOSÉ CHAPAYAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73855,
+    "name": "SAN JOSÉ LAS CHICHARRAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73803,
+    "name": "SAN JOSÉ YASHITINÍN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73804,
+    "name": "SAN JOSÉ YOCNAJAB",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74021,
+    "name": "SAN LUCAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74061,
+    "name": "SAN LUQUEÑO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74150,
+    "name": "SAN MIGUEL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74242,
+    "name": "SAN MIGUEL LA SARDINA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74290,
+    "name": "SAN PABLO HUACANO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74321,
+    "name": "SAN PEDRO BUENAVISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74362,
+    "name": "SAN PEDRO NICHTALUCUM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74420,
+    "name": "SAN QUINTÍN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74510,
+    "name": "SAN VICENTE LA MESILLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74653,
+    "name": "SANTA ELENA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74704,
+    "name": "SANTA MARÍA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74829,
+    "name": "SANTA RITA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74989,
+    "name": "SANTIAGO EL PINAR",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74936,
+    "name": "SANTIAGO POJCOL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74993,
+    "name": "SANTO DOMINGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75019,
+    "name": "SANTO DOMINGO DE LAS PALMAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75068,
+    "name": "SEÑOR DEL POZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75069,
+    "name": "SHOCTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75070,
+    "name": "SIBACÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75071,
+    "name": "SIBANILJÁ POCOLUM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75081,
+    "name": "SILTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75084,
+    "name": "SIMOJOVEL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75085,
+    "name": "SIMOJOVEL DE ALLENDE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75089,
+    "name": "SINALOA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75099,
+    "name": "SITALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75107,
+    "name": "SOCOLTENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75109,
+    "name": "SOCONUSCO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75119,
+    "name": "SOLOSUCHIAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75129,
+    "name": "SOYALÓ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75133,
+    "name": "SOYATITÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75138,
+    "name": "SUCHIAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75139,
+    "name": "SUCHIATE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75161,
+    "name": "TACUBA NUEVA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75172,
+    "name": "TALISMÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75176,
+    "name": "TAMAULIPAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75214,
+    "name": "TANIPERLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75221,
+    "name": "TAPACHULA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75222,
+    "name": "TAPALAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75227,
+    "name": "TAPILULA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75288,
+    "name": "TECPATÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75352,
+    "name": "TENANGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75371,
+    "name": "TENTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75381,
+    "name": "TEOPISCA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75506,
+    "name": "TEXCALTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75556,
+    "name": "TIERRA Y LIBERTAD",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75565,
+    "name": "TILA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75569,
+    "name": "TILTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75574,
+    "name": "TINAJAS 1RA. SECCIÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75715,
+    "name": "TOCOB LEGLEMAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75738,
+    "name": "TONALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75750,
+    "name": "TOTOLAPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75771,
+    "name": "TRES CERROS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75777,
+    "name": "TRES PICOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75805,
+    "name": "TUMBALA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75825,
+    "name": "TUXTLA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75827,
+    "name": "TUXTLA CHICO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75831,
+    "name": "TUZANTÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75833,
+    "name": "TZ'AQUIVILJOK",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75834,
+    "name": "TZAJALCHÉN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75835,
+    "name": "TZAJALÁ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75836,
+    "name": "TZELTAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75840,
+    "name": "TZIMOL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75842,
+    "name": "TZINIL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75848,
+    "name": "TZISCAO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75850,
+    "name": "TZOEPTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75852,
+    "name": "TZONTEHUITZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75853,
+    "name": "TZOPILJA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75860,
+    "name": "UBILIO GARCÍA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75881,
+    "name": "UNIÓN BUENA VISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75882,
+    "name": "UNIÓN BUENAVISTA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75885,
+    "name": "UNIÓN JUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75886,
+    "name": "UNIÓN ROJA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75901,
+    "name": "USIPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75940,
+    "name": "VEGA DEL ROSARIO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75943,
+    "name": "VEINTE DE NOVIEMBRE",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75963,
+    "name": "VENUSTIANO CARRANZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75966,
+    "name": "VERACRUZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75967,
+    "name": "VERAPAZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75973,
+    "name": "VICENTE GUERRERO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75986,
+    "name": "VIDA MEJOR I",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75995,
+    "name": "VILLA COMALTITLÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75996,
+    "name": "VILLA CORZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76010,
+    "name": "VILLA HIDALGO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76077,
+    "name": "VILLAFLORES",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76081,
+    "name": "VILLAHERMOSA YALUMA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76084,
+    "name": "VILLAMORELOS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76100,
+    "name": "VIVA CÁRDENAS",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76101,
+    "name": "VIVA MÉXICO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76163,
+    "name": "XOCHILTEPEC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76211,
+    "name": "YAJALÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76214,
+    "name": "YALTEM",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76217,
+    "name": "YASHA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76218,
+    "name": "YASHANAL",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76238,
+    "name": "YIBELJOJ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76244,
+    "name": "YOSHIB",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76278,
+    "name": "ZACATONAL DE JUÁREZ",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76282,
+    "name": "ZACUALPA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76295,
+    "name": "ZAMORA PICO DE ORO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76317,
+    "name": "ZARAGOZA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76323,
+    "name": "ZARAGOZA LA MONTAÑA",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76331,
+    "name": "ZEQUENTIC",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76340,
+    "name": "ZINACANTÁN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76395,
+    "name": "ÁLVARO OBREGÓN",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76404,
+    "name": "ÁNGEL ALBINO CORZO",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76405,
+    "name": "ÁNGEL ALBINO CORZO (GUADALUPE)",
+    "state": "CHIAPAS",
+    "state_iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

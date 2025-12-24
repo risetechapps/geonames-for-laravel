@@ -1,0 +1,672 @@
+[
+  {
+    "id": 17363,
+    "name": "ADLIGENSWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17391,
+    "name": "ALTISHOFEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17437,
+    "name": "BALLWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17466,
+    "name": "BEROMÜNSTER",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17578,
+    "name": "BUCHRAIN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17587,
+    "name": "BUTTISHOLZ",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17604,
+    "name": "BÜRON",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17674,
+    "name": "DAGMERSELLEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17718,
+    "name": "EBIKON",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17735,
+    "name": "EICH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17746,
+    "name": "EMMEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17753,
+    "name": "ENTLEBUCH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17754,
+    "name": "ENTLEBUCH DISTRICT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17772,
+    "name": "ESCHOLZMATT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17776,
+    "name": "ETTISWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17797,
+    "name": "FLÜHLI",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17831,
+    "name": "GEUENSEE",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17875,
+    "name": "GROSSWANGEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17887,
+    "name": "GUNZWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17893,
+    "name": "HASLE",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17912,
+    "name": "HILDISRIEDEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17920,
+    "name": "HITZKIRCH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17921,
+    "name": "HOCHDORF",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17922,
+    "name": "HOCHDORF DISTRICT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17926,
+    "name": "HOHENRAIN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17935,
+    "name": "HORW",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17955,
+    "name": "INWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17998,
+    "name": "KNUTWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18008,
+    "name": "KRIENS",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18087,
+    "name": "LITTAU",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18095,
+    "name": "LUCERNE-LAND",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18096,
+    "name": "LUCERNE-STADT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18103,
+    "name": "LUTHERN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18106,
+    "name": "LUZERN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18119,
+    "name": "MALTERS",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18136,
+    "name": "MAUENSEE",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18138,
+    "name": "MEGGEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18139,
+    "name": "MEIERSKAPPEL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18153,
+    "name": "MENZNAU",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18208,
+    "name": "NEBIKON",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18214,
+    "name": "NEUDORF",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18216,
+    "name": "NEUENKIRCH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18230,
+    "name": "NOTTWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18256,
+    "name": "OBERKIRCH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18306,
+    "name": "PFAFFNAU",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18361,
+    "name": "REIDEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18390,
+    "name": "ROOT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18401,
+    "name": "RUSWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18402,
+    "name": "RÖMERSWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18459,
+    "name": "SCHENKON",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18476,
+    "name": "SCHWARZENBERG",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18486,
+    "name": "SCHÖTZ",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18489,
+    "name": "SCHÜPFHEIM",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18508,
+    "name": "SEMPACH",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18567,
+    "name": "SURSEE",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18568,
+    "name": "SURSEE DISTRICT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18602,
+    "name": "TRIENGEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18622,
+    "name": "UDLIGENSWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18690,
+    "name": "VITZNAU",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18726,
+    "name": "WAUWIL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18729,
+    "name": "WEGGIS",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18735,
+    "name": "WERTHENSTEIN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18748,
+    "name": "WIKON",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18754,
+    "name": "WILLISAU",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18755,
+    "name": "WILLISAU DISTRICT",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18766,
+    "name": "WOLHUSEN",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18792,
+    "name": "ZELL",
+    "state": "LUCERNE",
+    "state_iso2": "LU",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

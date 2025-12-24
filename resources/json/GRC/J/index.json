@@ -1,0 +1,872 @@
+[
+  {
+    "id": 52485,
+    "name": "ARFARÁ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52491,
+    "name": "ARIA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52494,
+    "name": "ARKHAÍA KÓRINTHOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52505,
+    "name": "ASOPÓS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52513,
+    "name": "ASÍNI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52516,
+    "name": "ATHÍKIA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52521,
+    "name": "AYÍA TRIÁS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52543,
+    "name": "CHÓRA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52556,
+    "name": "DIMITSÁNA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52566,
+    "name": "DRÉPANON",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52567,
+    "name": "DÍDYMA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52589,
+    "name": "ERMIÓNI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52596,
+    "name": "EXAMÍLIA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52600,
+    "name": "FILIATRÁ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52628,
+    "name": "GARGALIÁNOI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52635,
+    "name": "GERÁKI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52652,
+    "name": "GÉFYRA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52656,
+    "name": "GÝTHEIO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52667,
+    "name": "ISTHMÍA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52676,
+    "name": "KALAMATA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52709,
+    "name": "KARDAMÝLI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52718,
+    "name": "KARYÉS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52745,
+    "name": "KHILIOMÓDHI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52751,
+    "name": "KIÁTO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52754,
+    "name": "KOILÁS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52757,
+    "name": "KOKKÓNION",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52766,
+    "name": "KOPANÁKI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52772,
+    "name": "KORÓNI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52778,
+    "name": "KOUTSOPÓDI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52783,
+    "name": "KRANÍDI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52788,
+    "name": "KROKEÉS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52797,
+    "name": "KYPARISSÍA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52801,
+    "name": "KYRÁS VRÝSI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52807,
+    "name": "KÁTO DHIMINIÓ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52808,
+    "name": "KÁTO GLYKÓVRYSI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52826,
+    "name": "KÓRINTHOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52838,
+    "name": "LANGÁDHIA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52845,
+    "name": "LEONÍDIO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52848,
+    "name": "LEVÍDION",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52852,
+    "name": "LIGOURIÓN",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52866,
+    "name": "LOUTRÁ ORAÍAS ELÉNIS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52867,
+    "name": "LOUTRÁKI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52879,
+    "name": "LÉKHAIO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52886,
+    "name": "MAGOÚLA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52912,
+    "name": "MEGALÓPOLI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52918,
+    "name": "MELIGALÁS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52930,
+    "name": "MESSÍNI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52932,
+    "name": "METHÓNI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52940,
+    "name": "MOLÁOI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52949,
+    "name": "MOÚLKI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52962,
+    "name": "NEMÉA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52980,
+    "name": "NOMÓS ARKADÍAS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52995,
+    "name": "NÁFPLIO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53015,
+    "name": "NÉA KÍOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53038,
+    "name": "NÉA TÍRINS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53075,
+    "name": "PALAIÁ EPÍDAVROS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53094,
+    "name": "PARALÍA VÉRGAS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53108,
+    "name": "PERACHÓRA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53115,
+    "name": "PERIYIÁLI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53167,
+    "name": "PÁSION",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53181,
+    "name": "PÓRTO CHÉLI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53183,
+    "name": "PÝLOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53215,
+    "name": "SIKYÓN",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53225,
+    "name": "SKÁLA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53232,
+    "name": "SOFIKÓN",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53240,
+    "name": "SPERCHÓGEIA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53241,
+    "name": "SPÁRTI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53258,
+    "name": "SYKIÁ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53279,
+    "name": "THOURÍA",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53286,
+    "name": "TOLÓN",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53287,
+    "name": "TRAGANÓN",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53294,
+    "name": "TRÍPOLI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53323,
+    "name": "VLACHIÓTIS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53324,
+    "name": "VLACHÓPOULO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53326,
+    "name": "VOKHAÏKÓ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53333,
+    "name": "VRAKHÁTI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53342,
+    "name": "VÉLO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53352,
+    "name": "XYLÓKASTRO",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53361,
+    "name": "ZEVGOLATEIÓ",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53372,
+    "name": "ÁGIOI THEÓDOROI",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53373,
+    "name": "ÁGIOS ANDRÉAS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53399,
+    "name": "ÁRGOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53400,
+    "name": "ÁRIS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53405,
+    "name": "ÁSSOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53406,
+    "name": "ÁSTROS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53410,
+    "name": "ÁYIOS ADHRIANÓS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53415,
+    "name": "ÁYIOS VASÍLIOS",
+    "state": "PELOPONNESE",
+    "state_iso2": "J",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  }
+]

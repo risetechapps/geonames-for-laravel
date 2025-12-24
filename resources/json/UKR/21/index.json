@@ -1,0 +1,822 @@
+[
+  {
+    "id": 109357,
+    "name": "BATIOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109373,
+    "name": "BEREHIVS’KA MIS’KRADA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109375,
+    "name": "BEREHOVE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109376,
+    "name": "BEREHOVE RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109383,
+    "name": "BEREZNYKY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109385,
+    "name": "BEREZOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109398,
+    "name": "BILKY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109414,
+    "name": "BOBOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109418,
+    "name": "BOHDAN",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109464,
+    "name": "BUSHTYNO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109508,
+    "name": "CHOP",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109525,
+    "name": "CHYNADIYOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109573,
+    "name": "DOVHE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109576,
+    "name": "DRAHOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109585,
+    "name": "DUBOVE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109640,
+    "name": "HORINCHOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109674,
+    "name": "IRSHAVA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109675,
+    "name": "IRSHAVA RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109686,
+    "name": "IZA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109706,
+    "name": "KALYNY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109711,
+    "name": "KAMIANYTSIA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109742,
+    "name": "KHUST",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109743,
+    "name": "KHUST RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109744,
+    "name": "KHUSTS’KA MIS’KRADA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109772,
+    "name": "KOLOCHAVA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109791,
+    "name": "KOPASHNOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109799,
+    "name": "KOROLEVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109810,
+    "name": "KOSON’",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109873,
+    "name": "KRYVA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109891,
+    "name": "KUSHNYTSYA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109896,
+    "name": "KVASY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109905,
+    "name": "LAZESHCHYNA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109906,
+    "name": "LAZI",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109930,
+    "name": "LOPUKHIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109954,
+    "name": "LYPCHA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109961,
+    "name": "LYSYCHOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110039,
+    "name": "MIZHHIRYA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110040,
+    "name": "MIZHHIRYA RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110058,
+    "name": "MUKACHEVE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110059,
+    "name": "MUKACHEVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110065,
+    "name": "MUZHIYEVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110074,
+    "name": "MYNAY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110090,
+    "name": "NELIPYNO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110092,
+    "name": "NERESNYTSYA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110094,
+    "name": "NEVYTS’KE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110111,
+    "name": "NOVE DAVYDKOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110168,
+    "name": "NYZHNYE SELYSHCHE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110192,
+    "name": "OLESHNYK",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110197,
+    "name": "ONOKIVTSI",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110236,
+    "name": "PERECHYN",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110237,
+    "name": "PERECHYN RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110271,
+    "name": "PIDVYNOHRADIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110304,
+    "name": "POROSHKOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110334,
+    "name": "PYLYPETS",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110340,
+    "name": "RAKHIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110341,
+    "name": "RAKHIV RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110343,
+    "name": "RAKOSHYNO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110362,
+    "name": "ROKOSOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110422,
+    "name": "SEREDNYE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110423,
+    "name": "SEREDNYE VODYANE",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110513,
+    "name": "SOLOTVYNO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110554,
+    "name": "STOROZHNYTSYA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110555,
+    "name": "STRABYCHOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110569,
+    "name": "SVALIAVA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110570,
+    "name": "SVALYAVA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110584,
+    "name": "SYNEVYR",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110585,
+    "name": "SYNEVYRSKA POLIANA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110607,
+    "name": "TIACHIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110640,
+    "name": "TYACHIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110667,
+    "name": "UZHGOROD",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110668,
+    "name": "UZHHOROD",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110674,
+    "name": "VARY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110689,
+    "name": "VELYKI BEREHY",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110694,
+    "name": "VELYKYI BEREZNYI",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110695,
+    "name": "VELYKYI BEREZNYI RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110737,
+    "name": "VOLOVETS",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110738,
+    "name": "VOLOVETS RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110756,
+    "name": "VYLOK",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110757,
+    "name": "VYNOHRADIV",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110758,
+    "name": "VYNOHRADIV RAION",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110764,
+    "name": "VYSHKOVO",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110788,
+    "name": "YASINYA",
+    "state": "ZAKARPATSKA",
+    "state_iso2": "21",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

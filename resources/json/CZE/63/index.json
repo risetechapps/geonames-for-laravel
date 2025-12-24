@@ -1,0 +1,672 @@
+[
+  {
+    "id": 22114,
+    "name": "BATELOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22138,
+    "name": "BOHDALOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22170,
+    "name": "BRTNICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22175,
+    "name": "BUDIŠOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22187,
+    "name": "BYSTŘICE NAD PERNŠTEJNEM",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22228,
+    "name": "CHOTĚBOŘ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22259,
+    "name": "DOBRONÍN",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22279,
+    "name": "DOLNÍ CEREKEV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22335,
+    "name": "GOLČŮV JENÍKOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22338,
+    "name": "HABRY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22344,
+    "name": "HAVLÍČKŮV BROD",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22349,
+    "name": "HERÁLEC",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22379,
+    "name": "HORNÍ CEREKEV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22423,
+    "name": "HROTOVICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22435,
+    "name": "HUMPOLEC",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22458,
+    "name": "JAROMĚŘICE NAD ROKYTNOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22464,
+    "name": "JEMNICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22471,
+    "name": "JIHLAVA",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22473,
+    "name": "JIMRAMOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22488,
+    "name": "KAMENICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22490,
+    "name": "KAMENICE NAD LIPOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22521,
+    "name": "KNĚŽICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22588,
+    "name": "KŘIŽANOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22589,
+    "name": "KŘÍŽOVÁ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22593,
+    "name": "LEDEČ NAD SÁZAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22647,
+    "name": "LUKA NAD JIHLAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22648,
+    "name": "LUKAVEC",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22667,
+    "name": "LÍPA",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22711,
+    "name": "MOHELNO",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22719,
+    "name": "MORAVSKÉ BUDĚJOVICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22746,
+    "name": "MĚŘÍN",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22773,
+    "name": "NOVÁ CEREKEV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22778,
+    "name": "NOVÉ MĚSTO NA MORAVĚ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22783,
+    "name": "NOVÉ SYROVICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22784,
+    "name": "NOVÉ VESELÍ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22795,
+    "name": "NÁMĚŠŤ NAD OSLAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22818,
+    "name": "OKRES HAVLÍČKŮV BROD",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22823,
+    "name": "OKRES JIHLAVA",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22846,
+    "name": "OKRES PELHŘIMOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22868,
+    "name": "OKRES TŘEBÍČ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22880,
+    "name": "OKRES ŽĎÁR NAD SÁZAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22881,
+    "name": "OKROUHLICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22882,
+    "name": "OKŘÍŠKY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22917,
+    "name": "PACOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22925,
+    "name": "PELHŘIMOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22953,
+    "name": "POLNÁ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22965,
+    "name": "POČÁTKY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23004,
+    "name": "PŘIBYSLAV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23037,
+    "name": "ROUCHOVANY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23115,
+    "name": "STAŘEČ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23152,
+    "name": "SVRATKA",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23153,
+    "name": "SVĚTLÁ NAD SÁZAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23159,
+    "name": "TELČ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23201,
+    "name": "TŘEBÍČ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23204,
+    "name": "TŘEŠŤ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23231,
+    "name": "VELKÁ BÍTEŠ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23243,
+    "name": "VELKÉ MEZIŘÍČÍ",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23251,
+    "name": "VELKÝ BERANOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23270,
+    "name": "VILÉMOV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23280,
+    "name": "VLADISLAV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23371,
+    "name": "ČERNOVICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23421,
+    "name": "ŠTOKY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23442,
+    "name": "ŽELETAVA",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23447,
+    "name": "ŽELIV",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23451,
+    "name": "ŽIROVNICE",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23459,
+    "name": "ŽĎÁR NAD SÁZAVOU",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23460,
+    "name": "ŽĎÁR NAD SÁZAVOU DRUHY",
+    "state": "KRAJ VYSOČINA",
+    "state_iso2": "63",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

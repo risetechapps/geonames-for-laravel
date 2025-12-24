@@ -1,0 +1,552 @@
+[
+  {
+    "id": 17390,
+    "name": "ALTERSWIL",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17415,
+    "name": "ATTALENS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17426,
+    "name": "AVRY-SUR-MATRAN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17440,
+    "name": "BAS-VULLY",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17450,
+    "name": "BELFAUX",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17566,
+    "name": "BROC",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17568,
+    "name": "BROYE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17581,
+    "name": "BULLE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17596,
+    "name": "BÖSINGEN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17627,
+    "name": "CHARMEY",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17641,
+    "name": "CHÂTEL-SAINT-DENIS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17654,
+    "name": "CORMINBOEUF",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17661,
+    "name": "COURGEVAUX",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17671,
+    "name": "CUGY",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17702,
+    "name": "DOMDIDIER",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17714,
+    "name": "DÜDINGEN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17723,
+    "name": "ECUBLENS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17757,
+    "name": "EPENDES",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17774,
+    "name": "ESTAVAYER-LE-LAC",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17790,
+    "name": "FLAMATT",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17809,
+    "name": "FRIBOURG",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17832,
+    "name": "GIFFERS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17837,
+    "name": "GIVISIEZ",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17845,
+    "name": "GLÂNE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17871,
+    "name": "GROLLEY",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17876,
+    "name": "GRUYÈRE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17877,
+    "name": "GRUYÈRES",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17904,
+    "name": "HEITENRIED",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17974,
+    "name": "KERZERS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18025,
+    "name": "LA ROCHE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18028,
+    "name": "LA TOUR-DE-TRÊME",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18031,
+    "name": "LAKE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18122,
+    "name": "MARLY",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18123,
+    "name": "MARSENS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18184,
+    "name": "MURTEN/MORAT",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18190,
+    "name": "MÉZIÈRES",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18265,
+    "name": "OBERSCHROT",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18315,
+    "name": "PLAFFEIEN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18323,
+    "name": "PRAROMAN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18342,
+    "name": "RECHTHALTEN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18368,
+    "name": "RIAZ",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18389,
+    "name": "ROMONT",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18398,
+    "name": "RUE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18437,
+    "name": "SANKT ANTONI",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18445,
+    "name": "SARINE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18473,
+    "name": "SCHMITTEN",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18510,
+    "name": "SENSE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18569,
+    "name": "SÂLES",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18570,
+    "name": "TAFERS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18601,
+    "name": "TREYVAUX",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18623,
+    "name": "UEBERSTORF",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18674,
+    "name": "VEVEYSE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18679,
+    "name": "VILLARS-SUR-GLÂNE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18681,
+    "name": "VILLAZ-SAINT-PIERRE",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18695,
+    "name": "VUADENS",
+    "state": "FRIBOURG",
+    "state_iso2": "FR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

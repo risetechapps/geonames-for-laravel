@@ -1,0 +1,2122 @@
+[
+  {
+    "id": 4183,
+    "name": "AJDOVŠČINA",
+    "iso2": "001",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4326,
+    "name": "ANKARAN",
+    "iso2": "213",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4318,
+    "name": "APAČE",
+    "iso2": "195",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4301,
+    "name": "BELTINCI",
+    "iso2": "002",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4166,
+    "name": "BENEDIKT",
+    "iso2": "148",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4179,
+    "name": "BISTRICA OB SOTLI",
+    "iso2": "149",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4202,
+    "name": "BLED",
+    "iso2": "003",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4278,
+    "name": "BLOKE",
+    "iso2": "150",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4282,
+    "name": "BOHINJ",
+    "iso2": "004",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4200,
+    "name": "BOROVNICA",
+    "iso2": "005",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4181,
+    "name": "BOVEC",
+    "iso2": "006",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4141,
+    "name": "BRASLOVČE",
+    "iso2": "151",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4240,
+    "name": "BRDA",
+    "iso2": "007",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4165,
+    "name": "BREZOVICA",
+    "iso2": "008",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4215,
+    "name": "BREŽICE",
+    "iso2": "009",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4147,
+    "name": "CANKOVA",
+    "iso2": "152",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4191,
+    "name": "CELJE",
+    "iso2": "011",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4310,
+    "name": "CERKLJE NA GORENJSKEM",
+    "iso2": "012",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4162,
+    "name": "CERKNICA",
+    "iso2": "013",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4178,
+    "name": "CERKNO",
+    "iso2": "014",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4176,
+    "name": "CERKVENJAK",
+    "iso2": "153",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4309,
+    "name": "CIRKULANE",
+    "iso2": "196",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4304,
+    "name": "DESTRNIK",
+    "iso2": "018",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4167,
+    "name": "DIVAČA",
+    "iso2": "019",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4295,
+    "name": "DOBJE",
+    "iso2": "154",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4216,
+    "name": "DOBREPOLJE",
+    "iso2": "020",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4252,
+    "name": "DOBRNA",
+    "iso2": "155",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4308,
+    "name": "DOBROVA–POLHOV GRADEC",
+    "iso2": "021",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4189,
+    "name": "DOBROVNIK",
+    "iso2": "156",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4173,
+    "name": "DOL PRI LJUBLJANI",
+    "iso2": "022",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4281,
+    "name": "DOLENJSKE TOPLICE",
+    "iso2": "157",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4159,
+    "name": "DOMŽALE",
+    "iso2": "023",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4290,
+    "name": "DORNAVA",
+    "iso2": "024",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4345,
+    "name": "DRAVOGRAD",
+    "iso2": "025",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4213,
+    "name": "DUPLEK",
+    "iso2": "026",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4293,
+    "name": "GORENJA VAS–POLJANE",
+    "iso2": "027",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4210,
+    "name": "GORIŠNICA",
+    "iso2": "028",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4284,
+    "name": "GORJE",
+    "iso2": "207",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4343,
+    "name": "GORNJA RADGONA",
+    "iso2": "029",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4339,
+    "name": "GORNJI GRAD",
+    "iso2": "030",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4271,
+    "name": "GORNJI PETROVCI",
+    "iso2": "031",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4217,
+    "name": "GRAD",
+    "iso2": "158",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4336,
+    "name": "GROSUPLJE",
+    "iso2": "032",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4145,
+    "name": "HAJDINA",
+    "iso2": "159",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4327,
+    "name": "HODOŠ",
+    "iso2": "161",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4193,
+    "name": "HORJUL",
+    "iso2": "162",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4175,
+    "name": "HOČE–SLIVNICA",
+    "iso2": "160",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4341,
+    "name": "HRASTNIK",
+    "iso2": "034",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4321,
+    "name": "HRPELJE–KOZINA",
+    "iso2": "035",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4152,
+    "name": "IDRIJA",
+    "iso2": "036",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4286,
+    "name": "IG",
+    "iso2": "037",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4344,
+    "name": "ILIRSKA BISTRICA",
+    "iso2": "038",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4305,
+    "name": "IVANČNA GORICA",
+    "iso2": "039",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4322,
+    "name": "IZOLA",
+    "iso2": "040",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4337,
+    "name": "JESENICE",
+    "iso2": "041",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4203,
+    "name": "JEZERSKO",
+    "iso2": "163",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4266,
+    "name": "JURŠINCI",
+    "iso2": "042",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4180,
+    "name": "KAMNIK",
+    "iso2": "043",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4227,
+    "name": "KANAL OB SOČI",
+    "iso2": "044",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4150,
+    "name": "KIDRIČEVO",
+    "iso2": "045",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4243,
+    "name": "KOBARID",
+    "iso2": "046",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4325,
+    "name": "KOBILJE",
+    "iso2": "047",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4315,
+    "name": "KOMEN",
+    "iso2": "049",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4283,
+    "name": "KOMENDA",
+    "iso2": "164",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4319,
+    "name": "KOPER",
+    "iso2": "050",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4254,
+    "name": "KOSTANJEVICA NA KRKI",
+    "iso2": "197",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4331,
+    "name": "KOSTEL",
+    "iso2": "165",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4186,
+    "name": "KOZJE",
+    "iso2": "051",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4335,
+    "name": "KOČEVJE",
+    "iso2": "048",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4287,
+    "name": "KRANJ",
+    "iso2": "052",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4340,
+    "name": "KRANJSKA GORA",
+    "iso2": "053",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4238,
+    "name": "KRIŽEVCI",
+    "iso2": "166",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4314,
+    "name": "KRŠKO",
+    "iso2": "054",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4197,
+    "name": "KUNGOTA",
+    "iso2": "055",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4211,
+    "name": "KUZMA",
+    "iso2": "056",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4338,
+    "name": "LAŠKO",
+    "iso2": "057",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4142,
+    "name": "LENART",
+    "iso2": "058",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4225,
+    "name": "LENDAVA",
+    "iso2": "059",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4347,
+    "name": "LITIJA",
+    "iso2": "060",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4270,
+    "name": "LJUBLJANA",
+    "iso2": "061",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4294,
+    "name": "LJUBNO",
+    "iso2": "062",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4351,
+    "name": "LJUTOMER",
+    "iso2": "063",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4350,
+    "name": "LOGATEC",
+    "iso2": "064",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4306,
+    "name": "LOG–DRAGOMER",
+    "iso2": "208",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4156,
+    "name": "LOVRENC NA POHORJU",
+    "iso2": "167",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4174,
+    "name": "LOŠKA DOLINA",
+    "iso2": "065",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4158,
+    "name": "LOŠKI POTOK",
+    "iso2": "066",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4302,
+    "name": "LUKOVICA",
+    "iso2": "068",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4219,
+    "name": "LUČE",
+    "iso2": "067",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4157,
+    "name": "MAJŠPERK",
+    "iso2": "069",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4224,
+    "name": "MAKOLE",
+    "iso2": "198",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4242,
+    "name": "MARIBOR",
+    "iso2": "070",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4244,
+    "name": "MARKOVCI",
+    "iso2": "168",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4349,
+    "name": "MEDVODE",
+    "iso2": "071",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4348,
+    "name": "MENGEŠ",
+    "iso2": "072",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4323,
+    "name": "METLIKA",
+    "iso2": "073",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4265,
+    "name": "MEŽICA",
+    "iso2": "074",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4223,
+    "name": "MIKLAVŽ NA DRAVSKEM POLJU",
+    "iso2": "169",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4220,
+    "name": "MIREN–KOSTANJEVICA",
+    "iso2": "075",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4298,
+    "name": "MIRNA",
+    "iso2": "212",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4237,
+    "name": "MIRNA PEČ",
+    "iso2": "170",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4212,
+    "name": "MISLINJA",
+    "iso2": "076",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4297,
+    "name": "MOKRONOG–TREBELNO",
+    "iso2": "199",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4218,
+    "name": "MORAVSKE TOPLICE",
+    "iso2": "078",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4168,
+    "name": "MORAVČE",
+    "iso2": "077",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4190,
+    "name": "MOZIRJE",
+    "iso2": "079",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4313,
+    "name": "MURSKA SOBOTA",
+    "iso2": "080",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4208,
+    "name": "MUTA",
+    "iso2": "081",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4177,
+    "name": "NAKLO",
+    "iso2": "082",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4329,
+    "name": "NAZARJE",
+    "iso2": "083",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4205,
+    "name": "NOVA GORICA",
+    "iso2": "084",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4236,
+    "name": "NOVO MESTO",
+    "iso2": "085",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4320,
+    "name": "ODRANCI",
+    "iso2": "086",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4143,
+    "name": "OPLOTNICA",
+    "iso2": "171",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4221,
+    "name": "ORMOŽ",
+    "iso2": "087",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4199,
+    "name": "OSILNICA",
+    "iso2": "088",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4172,
+    "name": "PESNICA",
+    "iso2": "089",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4201,
+    "name": "PIRAN",
+    "iso2": "090",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4184,
+    "name": "PIVKA",
+    "iso2": "091",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4161,
+    "name": "PODLEHNIK",
+    "iso2": "172",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4234,
+    "name": "PODVELKA",
+    "iso2": "093",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4146,
+    "name": "PODČETRTEK",
+    "iso2": "092",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4239,
+    "name": "POLJČANE",
+    "iso2": "200",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4272,
+    "name": "POLZELA",
+    "iso2": "173",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4330,
+    "name": "POSTOJNA",
+    "iso2": "094",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4188,
+    "name": "PREBOLD",
+    "iso2": "174",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4303,
+    "name": "PREDDVOR",
+    "iso2": "095",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4274,
+    "name": "PREVALJE",
+    "iso2": "175",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4228,
+    "name": "PTUJ",
+    "iso2": "096",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4288,
+    "name": "PUCONCI",
+    "iso2": "097",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4292,
+    "name": "RADENCI",
+    "iso2": "100",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4195,
+    "name": "RADEČE",
+    "iso2": "099",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4275,
+    "name": "RADLJE OB DRAVI",
+    "iso2": "101",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4231,
+    "name": "RADOVLJICA",
+    "iso2": "102",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4155,
+    "name": "RAVNE NA KOROŠKEM",
+    "iso2": "103",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4206,
+    "name": "RAZKRIŽJE",
+    "iso2": "176",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4204,
+    "name": "RAČE–FRAM",
+    "iso2": "098",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4253,
+    "name": "RENČE–VOGRSKO",
+    "iso2": "201",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4160,
+    "name": "REČICA OB SAVINJI",
+    "iso2": "209",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4235,
+    "name": "RIBNICA",
+    "iso2": "104",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4207,
+    "name": "RIBNICA NA POHORJU",
+    "iso2": "177",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4209,
+    "name": "ROGATEC",
+    "iso2": "107",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4233,
+    "name": "ROGAŠKA SLATINA",
+    "iso2": "106",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4264,
+    "name": "ROGAŠOVCI",
+    "iso2": "105",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4280,
+    "name": "RUŠE",
+    "iso2": "108",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4230,
+    "name": "SELNICA OB DRAVI",
+    "iso2": "178",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4346,
+    "name": "SEMIČ",
+    "iso2": "109",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4268,
+    "name": "SEVNICA",
+    "iso2": "110",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4149,
+    "name": "SEŽANA",
+    "iso2": "111",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4169,
+    "name": "SLOVENJ GRADEC",
+    "iso2": "112",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4332,
+    "name": "SLOVENSKA BISTRICA",
+    "iso2": "113",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4198,
+    "name": "SLOVENSKE KONJICE",
+    "iso2": "114",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4277,
+    "name": "SODRAŽICA",
+    "iso2": "179",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4261,
+    "name": "SOLČAVA",
+    "iso2": "180",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4263,
+    "name": "SREDIŠČE OB DRAVI",
+    "iso2": "202",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4259,
+    "name": "STARŠE",
+    "iso2": "115",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4333,
+    "name": "STRAŽA",
+    "iso2": "203",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4164,
+    "name": "SVETA ANA",
+    "iso2": "181",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4260,
+    "name": "SVETA TROJICA V SLOVENSKIH GORICAH",
+    "iso2": "204",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4229,
+    "name": "SVETI ANDRAŽ V SLOVENSKIH GORICAH",
+    "iso2": "182",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4255,
+    "name": "SVETI JURIJ OB ŠČAVNICI",
+    "iso2": "116",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4328,
+    "name": "SVETI JURIJ V SLOVENSKIH GORICAH",
+    "iso2": "210",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4273,
+    "name": "SVETI TOMAŽ",
+    "iso2": "205",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4194,
+    "name": "TABOR",
+    "iso2": "184",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4312,
+    "name": "TIŠINA",
+    "iso2": "010",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4247,
+    "name": "TOLMIN",
+    "iso2": "128",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4246,
+    "name": "TRBOVLJE",
+    "iso2": "129",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4214,
+    "name": "TREBNJE",
+    "iso2": "130",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4153,
+    "name": "TRNOVSKA VAS",
+    "iso2": "185",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4334,
+    "name": "TRZIN",
+    "iso2": "186",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4250,
+    "name": "TRŽIČ",
+    "iso2": "131",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4251,
+    "name": "TURNIŠČE",
+    "iso2": "132",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 5698,
+    "name": "VELENJE",
+    "iso2": "133",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4267,
+    "name": "VELIKA POLANA",
+    "iso2": "187",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4144,
+    "name": "VELIKE LAŠČE",
+    "iso2": "134",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4257,
+    "name": "VERŽEJ",
+    "iso2": "188",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4300,
+    "name": "VIDEM",
+    "iso2": "135",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4196,
+    "name": "VIPAVA",
+    "iso2": "136",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4148,
+    "name": "VITANJE",
+    "iso2": "137",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4154,
+    "name": "VODICE",
+    "iso2": "138",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4245,
+    "name": "VOJNIK",
+    "iso2": "139",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4163,
+    "name": "VRANSKO",
+    "iso2": "189",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4262,
+    "name": "VRHNIKA",
+    "iso2": "140",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4226,
+    "name": "VUZENICA",
+    "iso2": "141",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4269,
+    "name": "ZAGORJE OB SAVI",
+    "iso2": "142",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4182,
+    "name": "ZAVRČ",
+    "iso2": "143",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4342,
+    "name": "ZREČE",
+    "iso2": "144",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4151,
+    "name": "ČRENŠOVCI",
+    "iso2": "015",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4232,
+    "name": "ČRNA NA KOROŠKEM",
+    "iso2": "016",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4291,
+    "name": "ČRNOMELJ",
+    "iso2": "017",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4222,
+    "name": "ŠALOVCI",
+    "iso2": "033",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4317,
+    "name": "ŠEMPETER–VRTOJBA",
+    "iso2": "183",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4324,
+    "name": "ŠENTILJ",
+    "iso2": "118",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4241,
+    "name": "ŠENTJERNEJ",
+    "iso2": "119",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4171,
+    "name": "ŠENTJUR",
+    "iso2": "120",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4311,
+    "name": "ŠENTRUPERT",
+    "iso2": "211",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4299,
+    "name": "ŠENČUR",
+    "iso2": "117",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4170,
+    "name": "ŠKOCJAN",
+    "iso2": "121",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4316,
+    "name": "ŠKOFJA LOKA",
+    "iso2": "122",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4187,
+    "name": "ŠKOFLJICA",
+    "iso2": "123",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4285,
+    "name": "ŠMARJE PRI JELŠAH",
+    "iso2": "124",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4289,
+    "name": "ŠMARJEŠKE TOPLICE",
+    "iso2": "206",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4296,
+    "name": "ŠMARTNO OB PAKI",
+    "iso2": "125",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4279,
+    "name": "ŠMARTNO PRI LITIJI",
+    "iso2": "194",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4248,
+    "name": "ŠOŠTANJ",
+    "iso2": "126",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4185,
+    "name": "ŠTORE",
+    "iso2": "127",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4258,
+    "name": "ŽALEC",
+    "iso2": "190",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4256,
+    "name": "ŽELEZNIKI",
+    "iso2": "146",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4249,
+    "name": "ŽETALE",
+    "iso2": "191",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4192,
+    "name": "ŽIRI",
+    "iso2": "147",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4276,
+    "name": "ŽIROVNICA",
+    "iso2": "192",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  },
+  {
+    "id": 4307,
+    "name": "ŽUŽEMBERK",
+    "iso2": "193",
+    "country": "SLOVENIA",
+    "country_iso2": "SI",
+    "country_iso3": "SVN",
+    "country_native": "SLOVENIJA",
+    "timezone": "Europe/Ljubljana"
+  }
+]

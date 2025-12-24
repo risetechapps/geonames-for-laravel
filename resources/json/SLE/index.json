@@ -1,0 +1,52 @@
+[
+  {
+    "id": 914,
+    "name": "EASTERN",
+    "iso2": "E",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE",
+    "timezone": "Africa/Freetown"
+  },
+  {
+    "id": 5697,
+    "name": "NORTH WESTERN",
+    "iso2": "NW",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE",
+    "timezone": "Africa/Freetown"
+  },
+  {
+    "id": 911,
+    "name": "NORTHERN",
+    "iso2": "N",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE",
+    "timezone": "Africa/Freetown"
+  },
+  {
+    "id": 912,
+    "name": "SOUTHERN",
+    "iso2": "S",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE",
+    "timezone": "Africa/Freetown"
+  },
+  {
+    "id": 913,
+    "name": "WESTERN",
+    "iso2": "W",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE",
+    "timezone": "Africa/Freetown"
+  }
+]

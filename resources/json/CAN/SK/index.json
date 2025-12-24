@@ -1,0 +1,542 @@
+[
+  {
+    "id": 16177,
+    "name": "ASSINIBOIA",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16217,
+    "name": "BIGGAR",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16268,
+    "name": "CANORA",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16282,
+    "name": "CARLYLE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16353,
+    "name": "DALMENY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16410,
+    "name": "ESTERHAZY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16411,
+    "name": "ESTEVAN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16424,
+    "name": "FOAM LAKE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16469,
+    "name": "GRAVELBOURG",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16512,
+    "name": "HUDSON BAY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16513,
+    "name": "HUMBOLDT",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16519,
+    "name": "INDIAN HEAD",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16532,
+    "name": "KAMSACK",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16540,
+    "name": "KERROBERT",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16547,
+    "name": "KINDERSLEY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16570,
+    "name": "LA RONGE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16594,
+    "name": "LANGENBURG",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16596,
+    "name": "LANGHAM",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16598,
+    "name": "LANIGAN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16636,
+    "name": "LUMSDEN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16642,
+    "name": "MACKLIN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16655,
+    "name": "MAPLE CREEK",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16663,
+    "name": "MARTENSVILLE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16673,
+    "name": "MEADOW LAKE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16676,
+    "name": "MELFORT",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16679,
+    "name": "MELVILLE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16713,
+    "name": "MOOSE JAW",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16715,
+    "name": "MOOSOMIN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16747,
+    "name": "NIPAWIN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16755,
+    "name": "NORTH BATTLEFORD",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16788,
+    "name": "OUTLOOK",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16790,
+    "name": "OXBOW",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16807,
+    "name": "PELICAN NARROWS",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16823,
+    "name": "PILOT BUTTE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16852,
+    "name": "PREECEVILLE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16854,
+    "name": "PRINCE ALBERT",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16875,
+    "name": "REGINA",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16876,
+    "name": "REGINA BEACH",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16903,
+    "name": "ROSETOWN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16905,
+    "name": "ROSTHERN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17021,
+    "name": "SASKATOON",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17031,
+    "name": "SHAUNAVON",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17038,
+    "name": "SHELLBROOK",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17094,
+    "name": "SWIFT CURRENT",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17116,
+    "name": "TISDALE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17134,
+    "name": "UNITY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17165,
+    "name": "WADENA",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17170,
+    "name": "WARMAN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17179,
+    "name": "WATROUS",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17198,
+    "name": "WEYBURN",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17201,
+    "name": "WHITE CITY",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17206,
+    "name": "WILKIE",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17218,
+    "name": "WYNYARD",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17223,
+    "name": "YORKTON",
+    "state": "SASKATCHEWAN",
+    "state_iso2": "SK",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1055,
+    "name": "BARANYA",
+    "iso2": "BA",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1058,
+    "name": "BORSOD-ABAÚJ-ZEMPLÉN",
+    "iso2": "BZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1064,
+    "name": "BUDAPEST",
+    "iso2": "BU",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1048,
+    "name": "BÁCS-KISKUN",
+    "iso2": "BK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1060,
+    "name": "BÉKÉS",
+    "iso2": "BE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1036,
+    "name": "BÉKÉSCSABA",
+    "iso2": "BC",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1031,
+    "name": "CSONGRÁD COUNTY",
+    "iso2": "CS",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1032,
+    "name": "DEBRECEN",
+    "iso2": "DE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1049,
+    "name": "DUNAÚJVÁROS",
+    "iso2": "DU",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1037,
+    "name": "EGER",
+    "iso2": "EG",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1044,
+    "name": "FEJÉR COUNTY",
+    "iso2": "FE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1041,
+    "name": "GYŐR",
+    "iso2": "GY",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1042,
+    "name": "GYŐR-MOSON-SOPRON COUNTY",
+    "iso2": "GS",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1063,
+    "name": "HAJDÚ-BIHAR COUNTY",
+    "iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1040,
+    "name": "HEVES COUNTY",
+    "iso2": "HE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1027,
+    "name": "HÓDMEZŐVÁSÁRHELY",
+    "iso2": "HV",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1043,
+    "name": "JÁSZ-NAGYKUN-SZOLNOK COUNTY",
+    "iso2": "JN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1067,
+    "name": "KAPOSVÁR",
+    "iso2": "KV",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1056,
+    "name": "KECSKEMÉT",
+    "iso2": "KM",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 5085,
+    "name": "KOMÁROM-ESZTERGOM",
+    "iso2": "KE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1065,
+    "name": "MISKOLC",
+    "iso2": "MI",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1030,
+    "name": "NAGYKANIZSA",
+    "iso2": "NK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1034,
+    "name": "NYÍREGYHÁZA",
+    "iso2": "NY",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1051,
+    "name": "NÓGRÁD COUNTY",
+    "iso2": "NO",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1059,
+    "name": "PEST COUNTY",
+    "iso2": "PE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1053,
+    "name": "PÉCS",
+    "iso2": "PS",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1068,
+    "name": "SALGÓTARJÁN",
+    "iso2": "ST",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1035,
+    "name": "SOMOGY COUNTY",
+    "iso2": "SO",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1057,
+    "name": "SOPRON",
+    "iso2": "SN",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1045,
+    "name": "SZABOLCS-SZATMÁR-BEREG COUNTY",
+    "iso2": "SZ",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1029,
+    "name": "SZEGED",
+    "iso2": "SD",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1061,
+    "name": "SZEKSZÁRD",
+    "iso2": "SS",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1047,
+    "name": "SZOLNOK",
+    "iso2": "SK",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1052,
+    "name": "SZOMBATHELY",
+    "iso2": "SH",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1033,
+    "name": "SZÉKESFEHÉRVÁR",
+    "iso2": "SF",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1066,
+    "name": "TATABÁNYA",
+    "iso2": "TB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1038,
+    "name": "TOLNA COUNTY",
+    "iso2": "TO",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1039,
+    "name": "VAS COUNTY",
+    "iso2": "VA",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1062,
+    "name": "VESZPRÉM",
+    "iso2": "VM",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1054,
+    "name": "VESZPRÉM COUNTY",
+    "iso2": "VE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1046,
+    "name": "ZALA COUNTY",
+    "iso2": "ZA",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1050,
+    "name": "ZALAEGERSZEG",
+    "iso2": "ZE",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "id": 1028,
+    "name": "ÉRD",
+    "iso2": "ER",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG",
+    "timezone": "Europe/Budapest"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1367,
+    "name": "CENTRAL",
+    "iso2": "M",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1369,
+    "name": "HAIFA",
+    "iso2": "HA",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1370,
+    "name": "JERUSALEM",
+    "iso2": "JM",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1366,
+    "name": "NORTHERN",
+    "iso2": "Z",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1368,
+    "name": "SOUTHERN",
+    "iso2": "D",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1371,
+    "name": "TEL AVIV",
+    "iso2": "TA",
+    "country": "ISRAEL",
+    "country_iso2": "IL",
+    "country_iso3": "ISR",
+    "country_native": "יִשְׂרָאֵל",
+    "timezone": "Asia/Jerusalem"
+  }
+]

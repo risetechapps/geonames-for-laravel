@@ -1,0 +1,972 @@
+[
+  {
+    "id": 32254,
+    "name": "ALLARIZ",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32352,
+    "name": "AMBÍA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32355,
+    "name": "AMOEIRO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151095,
+    "name": "ARNOIA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32569,
+    "name": "AVIÓN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32630,
+    "name": "BALTAR",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32632,
+    "name": "BANDE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151096,
+    "name": "BARBADÁS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151097,
+    "name": "BARCO DE VALDEORRAS O",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32703,
+    "name": "BAÑOS DE MOLGAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32714,
+    "name": "BEADE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151098,
+    "name": "BEARIZ",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151099,
+    "name": "BLANCOS OS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32921,
+    "name": "BOBORÁS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151100,
+    "name": "BOLA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151101,
+    "name": "BOLO O",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151102,
+    "name": "CALVOS DE RANDÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33282,
+    "name": "CARBALLEDA DE AVIA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151103,
+    "name": "CARBALLEDA DE VALDEORRAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151104,
+    "name": "CARBALLIÑO O",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33339,
+    "name": "CARTELLE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33473,
+    "name": "CASTRELO DE MIÑO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151105,
+    "name": "CASTRELO DO VAL",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33487,
+    "name": "CASTRO CALDELAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33563,
+    "name": "CELANOVA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33572,
+    "name": "CENLLE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151107,
+    "name": "CHANDREXA DE QUEIXA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33727,
+    "name": "COLES",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151106,
+    "name": "CORTEGADA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33843,
+    "name": "CUALEDRO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34063,
+    "name": "ENTRIMO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34095,
+    "name": "ESGOS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151108,
+    "name": "GOMESENDE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151109,
+    "name": "GUDIÑA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151110,
+    "name": "IRIXO O",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151113,
+    "name": "LAROUCO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35007,
+    "name": "LAZA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151114,
+    "name": "LEIRO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151115,
+    "name": "LOBEIRA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35095,
+    "name": "LOBIOS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35161,
+    "name": "LUINTRA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35181,
+    "name": "MACEDA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35268,
+    "name": "MANZANEDA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35323,
+    "name": "MASIDE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35392,
+    "name": "MELÓN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151116,
+    "name": "MERCA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151117,
+    "name": "MEZQUITA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35547,
+    "name": "MONTEDERRAMO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151118,
+    "name": "MONTERREI",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35660,
+    "name": "MUIÑOS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35817,
+    "name": "NOGUEIRA DE RAMUÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35846,
+    "name": "O BARCO DE VALDEORRAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35847,
+    "name": "O CARBALLIÑO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35865,
+    "name": "OIMBRA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35983,
+    "name": "OURENSE",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151119,
+    "name": "PADERNE DE ALLARIZ",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35993,
+    "name": "PADRENDA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151120,
+    "name": "PARADA DE SIL",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36147,
+    "name": "PEREIRO DE AGUIAR",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151121,
+    "name": "PEREIRO DE AGUIAR O",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151122,
+    "name": "PEROXA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36159,
+    "name": "PETÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36232,
+    "name": "PIÑOR",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151123,
+    "name": "POBRA DE TRIVES A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151124,
+    "name": "PONTEDEVA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36278,
+    "name": "PORQUEIRA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151125,
+    "name": "PUNXÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36527,
+    "name": "QUINTELA DE LEIRADO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36542,
+    "name": "RAIRIZ DE VEIGA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151126,
+    "name": "RAMIRÁS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36607,
+    "name": "RIBADAVIA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36642,
+    "name": "RIÓS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151129,
+    "name": "RUBIÁ",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151128,
+    "name": "RÚA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36801,
+    "name": "SAN AMARO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151130,
+    "name": "SAN CIBRAO DAS VIÑAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151131,
+    "name": "SAN CRISTOVO DE CEA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151127,
+    "name": "SAN XOÁN DE RÍO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151132,
+    "name": "SANDIÁS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37167,
+    "name": "SARREAUS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37345,
+    "name": "TABOADELA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151133,
+    "name": "TEIXEIRA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37610,
+    "name": "TOÉN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37620,
+    "name": "TRASMIRAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151134,
+    "name": "VEIGA A",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37951,
+    "name": "VEREA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37955,
+    "name": "VERÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151135,
+    "name": "VIANA DO BOLO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151137,
+    "name": "VILAMARTÍN DE VALDEORRAS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151136,
+    "name": "VILAMARÍN",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151138,
+    "name": "VILAR DE BARRIO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151139,
+    "name": "VILAR DE SANTOS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151140,
+    "name": "VILARDEVÓS",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151141,
+    "name": "VILARIÑO DE CONSO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38422,
+    "name": "XINZO DE LIMIA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151111,
+    "name": "XUNQUEIRA DE AMBÍA",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151112,
+    "name": "XUNQUEIRA DE ESPADANEDO",
+    "state": "OURENSE",
+    "state_iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  }
+]

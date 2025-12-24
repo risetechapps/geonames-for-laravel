@@ -1,0 +1,962 @@
+[
+  {
+    "id": 31906,
+    "name": "ABEGONDO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32364,
+    "name": "AMÉS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32411,
+    "name": "ARANGA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32455,
+    "name": "ARES",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32522,
+    "name": "ARTEIXO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32529,
+    "name": "ARZÚA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32533,
+    "name": "AS PONTES DE GARCÍA RODRÍGUEZ",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151031,
+    "name": "BAÑA A",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32851,
+    "name": "BERGONDO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32879,
+    "name": "BETANZOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32933,
+    "name": "BOIMORTO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 32934,
+    "name": "BOIRO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151032,
+    "name": "BOQUEIXÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151033,
+    "name": "BRIÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151034,
+    "name": "CABANA DE BERGANTIÑOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151035,
+    "name": "CABANAS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33169,
+    "name": "CAMARIÑAS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33176,
+    "name": "CAMBRE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151036,
+    "name": "CAPELA A",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33283,
+    "name": "CARBALLO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33307,
+    "name": "CARIÑO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33312,
+    "name": "CARNOTA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33316,
+    "name": "CARRAL",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33554,
+    "name": "CEDEIRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33559,
+    "name": "CEE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151037,
+    "name": "CERCEDA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33581,
+    "name": "CERDIDO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33607,
+    "name": "CESURAS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33725,
+    "name": "COIRÓS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33779,
+    "name": "CORCUBIÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33792,
+    "name": "CORISTANCO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151038,
+    "name": "CORUÑA A",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33882,
+    "name": "CULLEREDO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33887,
+    "name": "CURTIS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151039,
+    "name": "DODRO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 33960,
+    "name": "DUMBRÍA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34172,
+    "name": "FENE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34182,
+    "name": "FERROL",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34192,
+    "name": "FISTERRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151040,
+    "name": "FRADES",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 34759,
+    "name": "IRIXOA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151042,
+    "name": "LARACHA A",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151041,
+    "name": "LAXE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35144,
+    "name": "LOUSAME",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151043,
+    "name": "MALPICA DE BERGANTIÑOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35354,
+    "name": "MAZARICOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151044,
+    "name": "MAÑÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151045,
+    "name": "MELIDE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35410,
+    "name": "MESIA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35457,
+    "name": "MIÑO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35465,
+    "name": "MOECHE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35512,
+    "name": "MONFERO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35658,
+    "name": "MUGARDOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35659,
+    "name": "MUGIA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35685,
+    "name": "MUROS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151046,
+    "name": "MUXÍA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35720,
+    "name": "NARÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151047,
+    "name": "NEDA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35797,
+    "name": "NEGREIRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151048,
+    "name": "NOIA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35876,
+    "name": "OLEIROS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35939,
+    "name": "ORDES",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35959,
+    "name": "OROSO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151049,
+    "name": "ORTIGUEIRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35987,
+    "name": "OUTES",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151050,
+    "name": "OZA DOS RÍOS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151051,
+    "name": "PADERNE",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 35995,
+    "name": "PADRÓN",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151052,
+    "name": "PINO O",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151053,
+    "name": "POBRA DO CARAMIÑAL A",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151054,
+    "name": "PONTECESO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151055,
+    "name": "PONTEDEUME",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151056,
+    "name": "PONTES DE GARCÍA RODRÍGUEZ AS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36296,
+    "name": "PORTO DO SON",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36603,
+    "name": "RIANXO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36614,
+    "name": "RIBEIRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151057,
+    "name": "ROIS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 36732,
+    "name": "SADA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151058,
+    "name": "SAN SADURNIÑO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37021,
+    "name": "SANTA COMBA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37114,
+    "name": "SANTIAGO DE COMPOSTELA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37132,
+    "name": "SANTISO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37274,
+    "name": "SOBRADO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151059,
+    "name": "SOMOZAS AS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37404,
+    "name": "TEO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151060,
+    "name": "TOQUES",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151061,
+    "name": "TORDOIA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37608,
+    "name": "TOURO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37624,
+    "name": "TRAZO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151062,
+    "name": "VAL DO DUBRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37812,
+    "name": "VALDOVIÑO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 37902,
+    "name": "VEDRA",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 151063,
+    "name": "VILARMAIOR",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38002,
+    "name": "VILASANTAR",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38388,
+    "name": "VIMIANZO",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  },
+  {
+    "id": 38488,
+    "name": "ZAS",
+    "state": "A CORUÑA",
+    "state_iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA"
+  }
+]

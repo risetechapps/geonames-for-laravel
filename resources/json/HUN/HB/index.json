@@ -1,0 +1,532 @@
+[
+  {
+    "id": 55202,
+    "name": "BAGAMÉR",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55226,
+    "name": "BALMAZÚJVÁROS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55227,
+    "name": "BALMAZÚJVÁROSI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55239,
+    "name": "BERETTYÓÚJFALU",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55240,
+    "name": "BERETTYÓÚJFALUI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55248,
+    "name": "BIHARKERESZTES",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55249,
+    "name": "BIHARNAGYBAJOM",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55290,
+    "name": "BÁRÁND",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55349,
+    "name": "CSÖKMŐ",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55353,
+    "name": "DEBRECEN",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55354,
+    "name": "DEBRECENI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55357,
+    "name": "DERECSKE",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55358,
+    "name": "DERECSKEI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55393,
+    "name": "EBES",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55401,
+    "name": "EGYEK",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55437,
+    "name": "FÖLDES",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55479,
+    "name": "GÖRBEHÁZA",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55480,
+    "name": "HADJÚSZOBOSZLÓI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55481,
+    "name": "HAJDÚBAGOS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55482,
+    "name": "HAJDÚBÖSZÖRMÉNY",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55483,
+    "name": "HAJDÚBÖSZÖRMÉNYI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55484,
+    "name": "HAJDÚDOROG",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55485,
+    "name": "HAJDÚHADHÁZ",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55486,
+    "name": "HAJDÚHADHÁZI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55487,
+    "name": "HAJDÚNÁNÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55488,
+    "name": "HAJDÚNÁNÁSI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55489,
+    "name": "HAJDÚSZOBOSZLÓ",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55490,
+    "name": "HAJDÚSZOVÁT",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55491,
+    "name": "HAJDÚSÁMSON",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55515,
+    "name": "HORTOBÁGY",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55517,
+    "name": "HOSSZÚPÁLYI",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55555,
+    "name": "KABA",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55621,
+    "name": "KOMÁDI",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55623,
+    "name": "KONYÁR",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55669,
+    "name": "LÉTAVÉRTES",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55703,
+    "name": "MIKEPÉRCS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55713,
+    "name": "MONOSTORPÁLYI",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55760,
+    "name": "NAGYRÁBÉ",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55770,
+    "name": "NYÍRACSÁD",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55771,
+    "name": "NYÍRADONY",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55772,
+    "name": "NYÍRADONYI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55787,
+    "name": "NYÍRMÁRTONFALVA",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55792,
+    "name": "NYÍRÁBRÁNY",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55794,
+    "name": "NÁDUDVAR",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55826,
+    "name": "POCSAJ",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55827,
+    "name": "POLGÁR",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55859,
+    "name": "PÜSPÖKLADÁNY",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55860,
+    "name": "PÜSPÖKLADÁNYI JÁRÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55988,
+    "name": "SÁRRÉTUDVARI",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 55992,
+    "name": "SÁRÁND",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56026,
+    "name": "TISZACSEGE",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56073,
+    "name": "TÉGLÁS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  },
+  {
+    "id": 56110,
+    "name": "VÁMOSPÉRCS",
+    "state": "HAJDÚ-BIHAR COUNTY",
+    "state_iso2": "HB",
+    "country": "HUNGARY",
+    "country_iso2": "HU",
+    "country_iso3": "HUN",
+    "country_native": "MAGYARORSZÁG"
+  }
+]

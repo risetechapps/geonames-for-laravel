@@ -1,0 +1,512 @@
+[
+  {
+    "id": 109349,
+    "name": "BAR",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109351,
+    "name": "BARSKIY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109387,
+    "name": "BERSHAD",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109443,
+    "name": "BRAILIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109445,
+    "name": "BRATSLAV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109475,
+    "name": "CHECHELNYK",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109484,
+    "name": "CHERNIVETS’KYY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109485,
+    "name": "CHERNIVTSI",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109530,
+    "name": "DASHIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109624,
+    "name": "HAISYN",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109667,
+    "name": "ILLINTSI",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109704,
+    "name": "KALYNIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109732,
+    "name": "KHMILNYK",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109759,
+    "name": "KLEMBIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109792,
+    "name": "KOPAYHOROD",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109827,
+    "name": "KOZYATYN",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109879,
+    "name": "KRYZHOPIL’",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109902,
+    "name": "LADYZHYN",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109921,
+    "name": "LITYN",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109922,
+    "name": "LITYNS’KYY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109957,
+    "name": "LYPOVETS’KYY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110045,
+    "name": "MOHYLIV-PODILSKYI",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110060,
+    "name": "MURAFA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110063,
+    "name": "MUROVANI KURYLIVTSI",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110091,
+    "name": "NEMYRIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110108,
+    "name": "NOVA PRYLUKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110171,
+    "name": "OBODIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110199,
+    "name": "ORATIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110230,
+    "name": "PAVLIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110288,
+    "name": "POHREBYSHCHE",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110289,
+    "name": "POHREBYSHCHENS’KYY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110419,
+    "name": "SEREBRIYA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110430,
+    "name": "SHARHOROD",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110496,
+    "name": "SOBOLIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110566,
+    "name": "SUTYSKY",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110600,
+    "name": "TEPLYK",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110614,
+    "name": "TOMASHPIL’",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110617,
+    "name": "TORKANIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110633,
+    "name": "TSYBULEVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110636,
+    "name": "TULCHYN",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110637,
+    "name": "TURBIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110647,
+    "name": "TYVRIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110654,
+    "name": "ULANIV",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110671,
+    "name": "VAPNYARKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110698,
+    "name": "VENDYCHANY",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110720,
+    "name": "VINNITSKIY RAYON",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110722,
+    "name": "VINNYTSIA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110727,
+    "name": "VIYTIVKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110743,
+    "name": "VORONOVYTSYA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110780,
+    "name": "YAMPIL’",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110844,
+    "name": "ZHMERYNKA",
+    "state": "VINNYTSKA",
+    "state_iso2": "05",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

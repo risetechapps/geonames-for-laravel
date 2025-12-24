@@ -1,0 +1,972 @@
+[
+  {
+    "id": 23490,
+    "name": "ADLERSHOF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 23579,
+    "name": "ALT-HOHENSCHÖNHAUSEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 23581,
+    "name": "ALT-TREPTOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 23621,
+    "name": "ALTGLIENICKE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 23959,
+    "name": "BAUMSCHULENWEG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24053,
+    "name": "BERLIN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24054,
+    "name": "BERLIN KÖPENICK",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24055,
+    "name": "BERLIN TREPTOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24111,
+    "name": "BIESDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24165,
+    "name": "BLANKENBURG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24167,
+    "name": "BLANKENFELDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24217,
+    "name": "BOHNSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24338,
+    "name": "BRITZ",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24379,
+    "name": "BUCH",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24397,
+    "name": "BUCKOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24531,
+    "name": "CHARLOTTENBURG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24532,
+    "name": "CHARLOTTENBURG-NORD",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 24578,
+    "name": "DAHLEM",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25134,
+    "name": "FALKENBERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25136,
+    "name": "FALKENHAGENER FELD",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25163,
+    "name": "FENNPFUHL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25225,
+    "name": "FRANZÖSISCH BUCHHOLZ",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25274,
+    "name": "FRIEDENAU",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25287,
+    "name": "FRIEDRICHSFELDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25289,
+    "name": "FRIEDRICHSHAGEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25290,
+    "name": "FRIEDRICHSHAIN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25305,
+    "name": "FROHNAU",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25376,
+    "name": "GATOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25475,
+    "name": "GESUNDBRUNNEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25616,
+    "name": "GROPIUSSTADT",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25719,
+    "name": "GRUNEWALD",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25734,
+    "name": "GRÜNAU",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25841,
+    "name": "HAKENFELDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25848,
+    "name": "HALENSEE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25892,
+    "name": "HANSAVIERTEL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 25926,
+    "name": "HASELHORST",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26000,
+    "name": "HEILIGENSEE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26013,
+    "name": "HEINERSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26026,
+    "name": "HELLERSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26082,
+    "name": "HERMSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26457,
+    "name": "JOHANNISTHAL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26517,
+    "name": "KARLSHORST",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26523,
+    "name": "KAROW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26545,
+    "name": "KAULSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26655,
+    "name": "KLADOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26716,
+    "name": "KONRADSHÖHE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26756,
+    "name": "KREUZBERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26842,
+    "name": "KÖPENICK",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 26948,
+    "name": "LANKWITZ",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27078,
+    "name": "LICHTENBERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27082,
+    "name": "LICHTENRADE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27085,
+    "name": "LICHTERFELDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27201,
+    "name": "LÜBARS",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27233,
+    "name": "MAHLSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27274,
+    "name": "MARIENDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27275,
+    "name": "MARIENFELDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27334,
+    "name": "MARZAHN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27478,
+    "name": "MITTE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27496,
+    "name": "MOABIT",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27554,
+    "name": "MÄRKISCHES VIERTEL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27587,
+    "name": "MÜGGELHEIM",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27693,
+    "name": "NEU-HOHENSCHÖNHAUSEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27765,
+    "name": "NEUKÖLLN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27873,
+    "name": "NIEDERSCHÖNEWEIDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27874,
+    "name": "NIEDERSCHÖNHAUSEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 27899,
+    "name": "NIKOLASSEE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28034,
+    "name": "OBERSCHÖNEWEIDE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28216,
+    "name": "PANKOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28330,
+    "name": "PLÄNTERWALD",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28375,
+    "name": "PRENZLAUER BERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28452,
+    "name": "RAHNSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28562,
+    "name": "REINICKENDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28710,
+    "name": "ROSENTHAL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28753,
+    "name": "RUDOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28762,
+    "name": "RUMMELSBURG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28989,
+    "name": "SCHMARGENDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 28998,
+    "name": "SCHMÖCKWITZ",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29116,
+    "name": "SCHÖNEBERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29218,
+    "name": "SIEMENSSTADT",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29286,
+    "name": "SPANDAU",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29313,
+    "name": "STAAKEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29329,
+    "name": "STADTRANDSIEDLUNG MALCHOW",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29353,
+    "name": "STEGLITZ",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29543,
+    "name": "TEGEL",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29555,
+    "name": "TEMPELHOF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29612,
+    "name": "TIERGARTEN",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 29926,
+    "name": "WAIDMANNSLUST",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30008,
+    "name": "WANNSEE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30025,
+    "name": "WARTENBERG",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30048,
+    "name": "WEDDING",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30134,
+    "name": "WEISSENSEE",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30200,
+    "name": "WESTEND",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30287,
+    "name": "WILHELMSRUH",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30288,
+    "name": "WILHELMSTADT",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30299,
+    "name": "WILMERSDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30350,
+    "name": "WITTENAU",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  },
+  {
+    "id": 30475,
+    "name": "ZEHLENDORF",
+    "state": "BERLIN",
+    "state_iso2": "BE",
+    "country": "GERMANY",
+    "country_iso2": "DE",
+    "country_iso3": "DEU",
+    "country_native": "DEUTSCHLAND"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": 645,
+    "name": "ALDEA SAN ANTONIO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 665,
+    "name": "ARANGUREN",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 700,
+    "name": "BOVRIL",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 735,
+    "name": "CASEROS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 745,
+    "name": "CEIBAS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 751,
+    "name": "CHAJARÍ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 779,
+    "name": "COLONIA ELÍA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 783,
+    "name": "COLÓN",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 792,
+    "name": "CONCEPCIÓN DEL URUGUAY",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 793,
+    "name": "CONCORDIA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 794,
+    "name": "CONSCRIPTO BERNARDI",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 808,
+    "name": "CRESPO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 902,
+    "name": "DEPARTAMENTO DE GUALEGUAYCHÚ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 955,
+    "name": "DEPARTAMENTO DE PARANÁ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1040,
+    "name": "DIAMANTE",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1043,
+    "name": "DOMÍNGUEZ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1075,
+    "name": "FEDERACIÓN",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1076,
+    "name": "FEDERAL",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1098,
+    "name": "GENERAL CAMPOS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1104,
+    "name": "GENERAL GALARZA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1110,
+    "name": "GENERAL RAMÍREZ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1119,
+    "name": "GOBERNADOR MANSILLA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1126,
+    "name": "GUALEGUAY",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1127,
+    "name": "GUALEGUAYCHÚ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1132,
+    "name": "HASENKAMP",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1137,
+    "name": "HERNÁNDEZ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1139,
+    "name": "HERRERA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1183,
+    "name": "LA CRIOLLA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1195,
+    "name": "LA PAZ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1214,
+    "name": "LARROQUE",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1245,
+    "name": "LOS CHARRÚAS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1247,
+    "name": "LOS CONQUISTADORES",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1257,
+    "name": "LUCAS GONZÁLEZ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1261,
+    "name": "MACIÁ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1300,
+    "name": "NOGOYÁ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1309,
+    "name": "ORO VERDE",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1319,
+    "name": "PARANÁ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1332,
+    "name": "PIEDRAS BLANCAS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1348,
+    "name": "PRONUNCIAMIENTO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1355,
+    "name": "PUERTO IBICUY",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1365,
+    "name": "PUERTO YERUÁ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1385,
+    "name": "ROSARIO DEL TALA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1413,
+    "name": "SAN BENITO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1426,
+    "name": "SAN GUSTAVO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1430,
+    "name": "SAN JOSÉ DE FELICIANO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1435,
+    "name": "SAN JUSTO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1450,
+    "name": "SAN SALVADOR",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1453,
+    "name": "SANTA ANA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1454,
+    "name": "SANTA ANITA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1456,
+    "name": "SANTA ELENA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1480,
+    "name": "SAUCE DE LUNA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1482,
+    "name": "SEGUÍ",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1492,
+    "name": "TABOSSI",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1518,
+    "name": "UBAJAY",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1522,
+    "name": "URDINARRAIN",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1531,
+    "name": "VIALE",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1533,
+    "name": "VICTORIA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1584,
+    "name": "VILLA DEL ROSARIO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1550,
+    "name": "VILLA ELISA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1557,
+    "name": "VILLA HERNANDARIAS",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1562,
+    "name": "VILLA MANTERO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1564,
+    "name": "VILLA MARÍA GRANDE",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1571,
+    "name": "VILLA PARANACITO",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1579,
+    "name": "VILLA URQUIZA",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1587,
+    "name": "VILLAGUAY",
+    "state": "ENTRE RÍOS",
+    "state_iso2": "E",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

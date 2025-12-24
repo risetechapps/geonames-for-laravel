@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1992,
+    "name": "CAPITAL",
+    "iso2": "13",
+    "country": "BAHRAIN",
+    "country_iso2": "BH",
+    "country_iso3": "BHR",
+    "country_native": "‏البحرين",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1995,
+    "name": "MUHARRAQ",
+    "iso2": "15",
+    "country": "BAHRAIN",
+    "country_iso2": "BH",
+    "country_iso3": "BHR",
+    "country_native": "‏البحرين",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1994,
+    "name": "NORTHERN",
+    "iso2": "17",
+    "country": "BAHRAIN",
+    "country_iso2": "BH",
+    "country_iso3": "BHR",
+    "country_native": "‏البحرين",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1993,
+    "name": "SOUTHERN",
+    "iso2": "14",
+    "country": "BAHRAIN",
+    "country_iso2": "BH",
+    "country_iso3": "BHR",
+    "country_native": "‏البحرين",
+    "timezone": "Asia/Bahrain"
+  }
+]

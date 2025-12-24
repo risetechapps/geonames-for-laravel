@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 97498,
+    "name": "ACHIT",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97558,
+    "name": "ALAPAYEVSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97652,
+    "name": "ARAMIL",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97683,
+    "name": "ARTI",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97687,
+    "name": "ARTËMOVSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97693,
+    "name": "ASBEST",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97694,
+    "name": "ASBESTOVSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97711,
+    "name": "ATIG",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97732,
+    "name": "AZANKA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97788,
+    "name": "BARABA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97791,
+    "name": "BARANCHINSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97824,
+    "name": "BAYKALOVO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97870,
+    "name": "BELOYARSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97901,
+    "name": "BERYOZOVSKY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97929,
+    "name": "BILIMBAY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97940,
+    "name": "BISERT’",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97958,
+    "name": "BOBROVSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97965,
+    "name": "BOGDANOVICH",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98074,
+    "name": "BULANASH",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98086,
+    "name": "BUTKA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98171,
+    "name": "CHERNOISTOCHINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98189,
+    "name": "CHERËMUKHOVO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98258,
+    "name": "DEGTYARSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98331,
+    "name": "DRUZHININO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98361,
+    "name": "DVURECHENSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98458,
+    "name": "GARI",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98544,
+    "name": "GORNYY SHCHIT",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98598,
+    "name": "GRYAZNOVSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98689,
+    "name": "IRBIT",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98696,
+    "name": "IS",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98701,
+    "name": "ISET’",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98719,
+    "name": "ISTOK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98738,
+    "name": "IVDEL’",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98759,
+    "name": "IZUMRUD",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98766,
+    "name": "KACHKANAR",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98793,
+    "name": "KALINOVO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98820,
+    "name": "KAMENSK-URAL’SKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98830,
+    "name": "KAMYSHLOV",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98883,
+    "name": "KARPINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98885,
+    "name": "KARPUSHIKHA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98934,
+    "name": "KEDROVOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99061,
+    "name": "KIROVGRAD",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99109,
+    "name": "KLYUCHEVSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99313,
+    "name": "KRASNOGVARDEYSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99337,
+    "name": "KRASNOTUR’INSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99338,
+    "name": "KRASNOUFIMSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99339,
+    "name": "KRASNOURAL’SK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99488,
+    "name": "KUSHVA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99505,
+    "name": "KUZINO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99596,
+    "name": "LESNOY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99615,
+    "name": "LEVIKHA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99647,
+    "name": "LOBVA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99667,
+    "name": "LOSINYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99682,
+    "name": "LUGOVSKOY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99771,
+    "name": "MALYSHEVA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99807,
+    "name": "MARTYUSH",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99900,
+    "name": "MIKHAYLOVSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99958,
+    "name": "MONETNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100121,
+    "name": "NEV’YANSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100124,
+    "name": "NEYVO-RUDYANKA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100125,
+    "name": "NEYVO-SHAYTANSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100141,
+    "name": "NIKOLO-PAVLOVSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100179,
+    "name": "NIZHNIYE SERGI",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100181,
+    "name": "NIZHNY TAGIL",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100182,
+    "name": "NIZHNYAYA IRGA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100186,
+    "name": "NIZHNYAYA SALDA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100188,
+    "name": "NIZHNYAYA TURA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100206,
+    "name": "NOVAYA LYALYA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100225,
+    "name": "NOVOASBEST",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100322,
+    "name": "NOVOURAL’SK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100324,
+    "name": "NOVOUTKINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100393,
+    "name": "OBUKHOVSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100510,
+    "name": "OUS",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100592,
+    "name": "PELYM",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100629,
+    "name": "PERVOURAL’SK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100650,
+    "name": "PETROKAMENSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100749,
+    "name": "POKROVSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100755,
+    "name": "POLEVSKOY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100760,
+    "name": "POLUNOCHNOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100916,
+    "name": "PYSHMA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100959,
+    "name": "REFTINSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100969,
+    "name": "REVDA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100971,
+    "name": "REZH",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101024,
+    "name": "RUDNICHNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101108,
+    "name": "SARANA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101190,
+    "name": "SEROV",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101202,
+    "name": "SEVERKA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101221,
+    "name": "SEVEROURAL’SK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101231,
+    "name": "SHABROVSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101249,
+    "name": "SHALYA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101251,
+    "name": "SHAMARY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101276,
+    "name": "SHCHELKUN",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101329,
+    "name": "SHIROKAYA RECHKA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101358,
+    "name": "SHUVAKISH",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101499,
+    "name": "SOS’VA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101520,
+    "name": "SOVKHOZNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101545,
+    "name": "SREDNEURALSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101591,
+    "name": "STAROPYSHMINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101598,
+    "name": "STAROUTKINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101654,
+    "name": "SUKHOY LOG",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101715,
+    "name": "SVOBODNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101726,
+    "name": "SYLVA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101732,
+    "name": "SYSERTSKIY RAYON",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101733,
+    "name": "SYSERT’",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101738,
+    "name": "TABORY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101752,
+    "name": "TALITSA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101799,
+    "name": "TAVDA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101911,
+    "name": "TRETIY SEVERNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101918,
+    "name": "TROITSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101942,
+    "name": "TSEMENTNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101962,
+    "name": "TUGULYM",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101976,
+    "name": "TURINSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101977,
+    "name": "TURINSKAYA SLOBODA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102026,
+    "name": "UFIMSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102070,
+    "name": "URALETS",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102181,
+    "name": "VALERIANOVSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102232,
+    "name": "VERKH-NEYVINSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102247,
+    "name": "VERKHNEYE DUBROVO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102257,
+    "name": "VERKHNIY TAGIL",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102263,
+    "name": "VERKHNIYE SERGI",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102269,
+    "name": "VERKHNYAYA PYSHMA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102270,
+    "name": "VERKHNYAYA SALDA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102271,
+    "name": "VERKHNYAYA SINYACHIKHA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102272,
+    "name": "VERKHNYAYA SYSERT’",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102275,
+    "name": "VERKHNYAYA TURA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102277,
+    "name": "VERKHOTUR’YE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102319,
+    "name": "VISIM",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102339,
+    "name": "VOLCHANSK",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102399,
+    "name": "VOSTOCHNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102527,
+    "name": "YEKATERINBURG",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102534,
+    "name": "YELANSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102574,
+    "name": "YERTARSKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102607,
+    "name": "YUSHALA",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102623,
+    "name": "YËLKINO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102654,
+    "name": "ZARECHNYY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102676,
+    "name": "ZAVODOUSPENSKOYE",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102685,
+    "name": "ZAYKOVO",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102790,
+    "name": "ZYUZEL’SKIY",
+    "state": "SVERDLOVSK",
+    "state_iso2": "SVE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

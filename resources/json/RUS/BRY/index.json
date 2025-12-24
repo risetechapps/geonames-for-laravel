@@ -1,0 +1,822 @@
+[
+  {
+    "id": 97606,
+    "name": "ALTUKHOVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97659,
+    "name": "ARDON’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97882,
+    "name": "BELYYE BEREGA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98051,
+    "name": "BRASOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98060,
+    "name": "BRYANSK",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98104,
+    "name": "BYTOSH’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98226,
+    "name": "CHUROVICHI",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98295,
+    "name": "DOBRUN’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98345,
+    "name": "DUBROVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98346,
+    "name": "DUBROVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98362,
+    "name": "DYAT’KOVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98363,
+    "name": "DYAT’KOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98498,
+    "name": "GLINISHCHEVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98520,
+    "name": "GORDEYEVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98521,
+    "name": "GORDEYEVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98547,
+    "name": "GOROD BRYANSK",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98550,
+    "name": "GOROD DYAT’KOVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98729,
+    "name": "IVANOVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98743,
+    "name": "IVOT",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98859,
+    "name": "KARACHEV",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99098,
+    "name": "KLETNYA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99099,
+    "name": "KLETNYANSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99101,
+    "name": "KLIMOVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99103,
+    "name": "KLIMOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99106,
+    "name": "KLINTSOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99107,
+    "name": "KLINTSY",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99130,
+    "name": "KOKINO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99131,
+    "name": "KOKOREVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99158,
+    "name": "KOMARICHI",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99159,
+    "name": "KOMARICHSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99223,
+    "name": "KORZHOVKA-GOLUBOVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99277,
+    "name": "KRASNAYA GORA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99308,
+    "name": "KRASNOGORSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99654,
+    "name": "LOKOT’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99661,
+    "name": "LOPANDINO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99719,
+    "name": "LYUBOKHNA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99720,
+    "name": "LYUBOVSHO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99887,
+    "name": "MGLIN",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99888,
+    "name": "MGLINSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100071,
+    "name": "NAVLINSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100072,
+    "name": "NAVLYA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100114,
+    "name": "NET’INKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100337,
+    "name": "NOVOZYBKOV",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100338,
+    "name": "NOVOZYBKOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100349,
+    "name": "NOVYY ROPSK",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100706,
+    "name": "POCHEP",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100707,
+    "name": "POCHEPSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100735,
+    "name": "POGAR",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100736,
+    "name": "POGARSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100907,
+    "name": "PUTËVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100924,
+    "name": "RADITSA-KRYLOVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100982,
+    "name": "ROGNEDINO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100983,
+    "name": "ROGNEDINSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101058,
+    "name": "RZHANITSA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101063,
+    "name": "SACHKOVICHI",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101161,
+    "name": "SEL’TSO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101198,
+    "name": "SESHCHA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101224,
+    "name": "SEVSK",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101225,
+    "name": "SEVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101577,
+    "name": "STARODUB",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101578,
+    "name": "STARODUBSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101612,
+    "name": "STAR’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101671,
+    "name": "SUPONEVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101673,
+    "name": "SURAZH",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101674,
+    "name": "SURAZHSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101692,
+    "name": "SUZEMSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101694,
+    "name": "SUZËMKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101697,
+    "name": "SVEN’",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101928,
+    "name": "TRUBCHEVSK",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101929,
+    "name": "TRUBCHEVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102058,
+    "name": "UNECHA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102059,
+    "name": "UNECHSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102430,
+    "name": "VYGONICHI",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102431,
+    "name": "VYGONICHSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102440,
+    "name": "VYSHKOV",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102640,
+    "name": "ZAMISHEVO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102686,
+    "name": "ZAYMISHCHE",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102735,
+    "name": "ZHIRYATINO",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102736,
+    "name": "ZHIRYATINSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102741,
+    "name": "ZHUKOVKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102744,
+    "name": "ZHUKOVSKIY RAYON",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102751,
+    "name": "ZLYNKA",
+    "state": "BRYANSK",
+    "state_iso2": "BRY",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

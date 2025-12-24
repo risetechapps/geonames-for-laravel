@@ -1,0 +1,642 @@
+[
+  {
+    "id": 97761,
+    "name": "BAKHILOVO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97772,
+    "name": "BALASHEYKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97902,
+    "name": "BERËZA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97918,
+    "name": "BEZENCHUK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97962,
+    "name": "BOGATOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97963,
+    "name": "BOGATYR’",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98043,
+    "name": "BORSKOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98115,
+    "name": "CHAPAYEVSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98139,
+    "name": "CHELNO-VERSHINY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98341,
+    "name": "DUBOVYY UMËT",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98475,
+    "name": "GEORGIYEVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98697,
+    "name": "ISAKLY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98829,
+    "name": "KAMYSHLA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99015,
+    "name": "KHRYASHCHEVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99028,
+    "name": "KHVOROSTYANKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99045,
+    "name": "KINEL’",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99046,
+    "name": "KINEL’-CHERKASSY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99047,
+    "name": "KINEL’SKIY RAYON",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99108,
+    "name": "KLYAVLINO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99229,
+    "name": "KOSHKI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99296,
+    "name": "KRASNOARMEYSKOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99346,
+    "name": "KRASNOYARSKIY RAYON",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99376,
+    "name": "KRASNYY YAR",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99400,
+    "name": "KROTOVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99479,
+    "name": "KURUMOCH",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99835,
+    "name": "MAYSKOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99879,
+    "name": "MEZHDURECHENSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99923,
+    "name": "MIRNYY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100084,
+    "name": "NEFTEGORSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100085,
+    "name": "NEFTEGORSKIY RAYON",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100256,
+    "name": "NOVOKUYBYSHEVSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100295,
+    "name": "NOVOSEMEYKINO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100340,
+    "name": "NOVYY BUYAN",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100390,
+    "name": "OBSHAROVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100408,
+    "name": "OKTYABR’SK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100486,
+    "name": "OSINKI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100508,
+    "name": "OTRADNYY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100607,
+    "name": "PEREVOLOKI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100640,
+    "name": "PESTRAVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100646,
+    "name": "PETRA-DUBRAVA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100731,
+    "name": "PODSOLNECHNOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100733,
+    "name": "PODSTEPKI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100740,
+    "name": "POKHVISTNEVO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100793,
+    "name": "POVOLZHSKIY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100817,
+    "name": "PRIBREZHNYY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100996,
+    "name": "ROSCHINSKIY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101015,
+    "name": "ROZHDESTVENO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101085,
+    "name": "SAMARA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101187,
+    "name": "SERNOVODSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101302,
+    "name": "SHENTALA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101309,
+    "name": "SHIGONY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101421,
+    "name": "SMYSHLYAYEVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101536,
+    "name": "SPIRIDONOVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101653,
+    "name": "SUKHODOL",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101675,
+    "name": "SURGUT",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101735,
+    "name": "SYZRAN’",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101881,
+    "name": "TOL’YATTI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102150,
+    "name": "UTEVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102191,
+    "name": "VARLAMOVO",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102370,
+    "name": "VOLZHSKIY",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102546,
+    "name": "YELKHOVKA",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102729,
+    "name": "ZHIGULEVSK",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102730,
+    "name": "ZHIGULI",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102767,
+    "name": "ZOL’NOYE",
+    "state": "SAMARA",
+    "state_iso2": "SAM",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

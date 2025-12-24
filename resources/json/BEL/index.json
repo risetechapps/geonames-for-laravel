@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1381,
+    "name": "ANTWERP",
+    "iso2": "VAN",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1376,
+    "name": "BRUSSELS-CAPITAL",
+    "iso2": "BRU",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1377,
+    "name": "EAST FLANDERS",
+    "iso2": "VOV",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1373,
+    "name": "FLANDERS",
+    "iso2": "VLG",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1374,
+    "name": "FLEMISH BRABANT",
+    "iso2": "VBR",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1375,
+    "name": "HAINAUT",
+    "iso2": "WHT",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1372,
+    "name": "LIMBURG",
+    "iso2": "VLI",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1384,
+    "name": "LIÈGE",
+    "iso2": "WLG",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1379,
+    "name": "LUXEMBOURG",
+    "iso2": "WLX",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1378,
+    "name": "NAMUR",
+    "iso2": "WNA",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1380,
+    "name": "WALLONIA",
+    "iso2": "WAL",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1382,
+    "name": "WALLOON BRABANT",
+    "iso2": "WBR",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  },
+  {
+    "id": 1383,
+    "name": "WEST FLANDERS",
+    "iso2": "VWV",
+    "country": "BELGIUM",
+    "country_iso2": "BE",
+    "country_iso3": "BEL",
+    "country_native": "BELGIË",
+    "timezone": "Europe/Brussels"
+  }
+]

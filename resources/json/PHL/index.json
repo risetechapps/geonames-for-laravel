@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1324,
+    "name": "ABRA",
+    "iso2": "ABR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1323,
+    "name": "AGUSAN DEL NORTE",
+    "iso2": "AGN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1326,
+    "name": "AGUSAN DEL SUR",
+    "iso2": "AGS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1331,
+    "name": "AKLAN",
+    "iso2": "AKL",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1337,
+    "name": "ALBAY",
+    "iso2": "ALB",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1336,
+    "name": "ANTIQUE",
+    "iso2": "ANT",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1334,
+    "name": "APAYAO",
+    "iso2": "APA",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1341,
+    "name": "AURORA",
+    "iso2": "AUR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1316,
+    "name": "AUTONOMOUS REGION IN MUSLIM MINDANAO",
+    "iso2": "14",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1346,
+    "name": "BASILAN",
+    "iso2": "BAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1344,
+    "name": "BATAAN",
+    "iso2": "BAN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1352,
+    "name": "BATANES",
+    "iso2": "BTN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1359,
+    "name": "BATANGAS",
+    "iso2": "BTG",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1363,
+    "name": "BENGUET",
+    "iso2": "BEN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1304,
+    "name": "BICOL",
+    "iso2": "05",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1274,
+    "name": "BILIRAN",
+    "iso2": "BIL",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1272,
+    "name": "BOHOL",
+    "iso2": "BOH",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1270,
+    "name": "BUKIDNON",
+    "iso2": "BUK",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1278,
+    "name": "BULACAN",
+    "iso2": "BUL",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1279,
+    "name": "CAGAYAN",
+    "iso2": "CAG",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1342,
+    "name": "CAGAYAN VALLEY",
+    "iso2": "02",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1294,
+    "name": "CALABARZON",
+    "iso2": "40",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1283,
+    "name": "CAMARINES NORTE",
+    "iso2": "CAN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1287,
+    "name": "CAMARINES SUR",
+    "iso2": "CAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1285,
+    "name": "CAMIGUIN",
+    "iso2": "CAM",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1292,
+    "name": "CAPIZ",
+    "iso2": "CAP",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1314,
+    "name": "CARAGA",
+    "iso2": "13",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1301,
+    "name": "CATANDUANES",
+    "iso2": "CAT",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1307,
+    "name": "CAVITE",
+    "iso2": "CAV",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1306,
+    "name": "CEBU",
+    "iso2": "CEB",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1345,
+    "name": "CENTRAL LUZON",
+    "iso2": "03",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1308,
+    "name": "CENTRAL VISAYAS",
+    "iso2": "07",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1335,
+    "name": "CORDILLERA ADMINISTRATIVE",
+    "iso2": "15",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1320,
+    "name": "COTABATO",
+    "iso2": "NCO",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1340,
+    "name": "DAVAO",
+    "iso2": "11",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1311,
+    "name": "DAVAO DE ORO",
+    "iso2": "COM",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1319,
+    "name": "DAVAO DEL NORTE",
+    "iso2": "DAV",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1318,
+    "name": "DAVAO DEL SUR",
+    "iso2": "DAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1309,
+    "name": "DAVAO OCCIDENTAL",
+    "iso2": "DVO",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1289,
+    "name": "DAVAO ORIENTAL",
+    "iso2": "DAO",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1291,
+    "name": "DINAGAT ISLANDS",
+    "iso2": "DIN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1290,
+    "name": "EASTERN SAMAR",
+    "iso2": "EAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1322,
+    "name": "EASTERN VISAYAS",
+    "iso2": "08",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1303,
+    "name": "GUIMARAS",
+    "iso2": "GUI",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1300,
+    "name": "IFUGAO",
+    "iso2": "IFU",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1355,
+    "name": "ILOCOS",
+    "iso2": "01",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1298,
+    "name": "ILOCOS NORTE",
+    "iso2": "ILN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1321,
+    "name": "ILOCOS SUR",
+    "iso2": "ILS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1315,
+    "name": "ILOILO",
+    "iso2": "ILI",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1313,
+    "name": "ISABELA",
+    "iso2": "ISA",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1312,
+    "name": "KALINGA",
+    "iso2": "KAL",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1317,
+    "name": "LA UNION",
+    "iso2": "LUN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1328,
+    "name": "LAGUNA",
+    "iso2": "LAG",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1327,
+    "name": "LANAO DEL NORTE",
+    "iso2": "LAN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1333,
+    "name": "LANAO DEL SUR",
+    "iso2": "LAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1332,
+    "name": "LEYTE",
+    "iso2": "LEY",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1330,
+    "name": "MAGUINDANAO DEL NORTE",
+    "iso2": "MGN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1347,
+    "name": "MAGUINDANAO DEL SUR",
+    "iso2": "MGS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1329,
+    "name": "MARINDUQUE",
+    "iso2": "MAD",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1338,
+    "name": "MASBATE",
+    "iso2": "MAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1299,
+    "name": "MIMAROPA",
+    "iso2": "41",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1343,
+    "name": "MISAMIS OCCIDENTAL",
+    "iso2": "MSC",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1348,
+    "name": "MISAMIS ORIENTAL",
+    "iso2": "MSR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1353,
+    "name": "MOUNTAIN PROVINCE",
+    "iso2": "MOU",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 5324,
+    "name": "NATIONAL CAPITAL REGION (METRO MANILA)",
+    "iso2": "00",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1351,
+    "name": "NEGROS OCCIDENTAL",
+    "iso2": "NEC",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1350,
+    "name": "NEGROS ORIENTAL",
+    "iso2": "NER",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1339,
+    "name": "NORTHERN MINDANAO",
+    "iso2": "10",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1349,
+    "name": "NORTHERN SAMAR",
+    "iso2": "NSA",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1360,
+    "name": "NUEVA ECIJA",
+    "iso2": "NUE",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1358,
+    "name": "NUEVA VIZCAYA",
+    "iso2": "NUV",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1356,
+    "name": "OCCIDENTAL MINDORO",
+    "iso2": "MDC",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1354,
+    "name": "ORIENTAL MINDORO",
+    "iso2": "MDR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1361,
+    "name": "PALAWAN",
+    "iso2": "PLW",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1365,
+    "name": "PAMPANGA",
+    "iso2": "PAM",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1364,
+    "name": "PANGASINAN",
+    "iso2": "PAN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1275,
+    "name": "QUEZON",
+    "iso2": "QUE",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1273,
+    "name": "QUIRINO",
+    "iso2": "QUI",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1271,
+    "name": "RIZAL",
+    "iso2": "RIZ",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1269,
+    "name": "ROMBLON",
+    "iso2": "ROM",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1277,
+    "name": "SARANGANI",
+    "iso2": "SAR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1276,
+    "name": "SIQUIJOR",
+    "iso2": "SIG",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1310,
+    "name": "SOCCSKSARGEN",
+    "iso2": "12",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1281,
+    "name": "SORSOGON",
+    "iso2": "SOR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1280,
+    "name": "SOUTH COTABATO",
+    "iso2": "SCO",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1284,
+    "name": "SOUTHERN LEYTE",
+    "iso2": "SLE",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1282,
+    "name": "SULTAN KUDARAT",
+    "iso2": "SUK",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1288,
+    "name": "SULU",
+    "iso2": "SLU",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1286,
+    "name": "SURIGAO DEL NORTE",
+    "iso2": "SUN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1296,
+    "name": "SURIGAO DEL SUR",
+    "iso2": "SUR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1295,
+    "name": "TARLAC",
+    "iso2": "TAR",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1293,
+    "name": "TAWI-TAWI",
+    "iso2": "TAW",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 5115,
+    "name": "WESTERN SAMAR",
+    "iso2": "WSA",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1305,
+    "name": "WESTERN VISAYAS",
+    "iso2": "06",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1297,
+    "name": "ZAMBALES",
+    "iso2": "ZMB",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1302,
+    "name": "ZAMBOANGA DEL NORTE",
+    "iso2": "ZAN",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1357,
+    "name": "ZAMBOANGA DEL SUR",
+    "iso2": "ZAS",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1325,
+    "name": "ZAMBOANGA PENINSULA",
+    "iso2": "09",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": 1362,
+    "name": "ZAMBOANGA SIBUGAY",
+    "iso2": "ZSI",
+    "country": "PHILIPPINES",
+    "country_iso2": "PH",
+    "country_iso3": "PHL",
+    "country_native": "PILIPINAS",
+    "timezone": "Asia/Manila"
+  }
+]

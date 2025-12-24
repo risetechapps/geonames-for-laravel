@@ -1,0 +1,842 @@
+[
+  {
+    "id": 3928,
+    "name": "ALAWA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3957,
+    "name": "ALICE SPRINGS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3973,
+    "name": "ALYANGULA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3989,
+    "name": "ANULA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 3993,
+    "name": "ARALUEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4067,
+    "name": "BAKEWELL",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4121,
+    "name": "BARKLY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4194,
+    "name": "BELLAMACK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4215,
+    "name": "BELYUEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4241,
+    "name": "BERRIMAH",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4380,
+    "name": "BRAITLING",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4409,
+    "name": "BRINKIN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4651,
+    "name": "CENTRAL DESERT",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4761,
+    "name": "COCONUT GROVE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4814,
+    "name": "COOMALIE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4846,
+    "name": "COSSACK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4947,
+    "name": "DARWIN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 4982,
+    "name": "DESERT SPRINGS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5027,
+    "name": "DRIVER",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5048,
+    "name": "DURACK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5063,
+    "name": "EAST ARNHEM",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5094,
+    "name": "EAST SIDE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5216,
+    "name": "FANNIE BAY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5218,
+    "name": "FARRAR",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5299,
+    "name": "GALIWINKU",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5333,
+    "name": "GILLEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5343,
+    "name": "GIRRAWEEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5443,
+    "name": "GRAY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5482,
+    "name": "GUNBALANYA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5486,
+    "name": "GUNN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5581,
+    "name": "HERBERT",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5640,
+    "name": "HOLTZE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5658,
+    "name": "HOWARD SPRINGS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5666,
+    "name": "HUMPTY DOO",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5712,
+    "name": "JABIRU",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5738,
+    "name": "JINGILI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5739,
+    "name": "JOHNSTON",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5784,
+    "name": "KARAMA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5797,
+    "name": "KATHERINE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5798,
+    "name": "KATHERINE EAST",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5799,
+    "name": "KATHERINE SOUTH",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5975,
+    "name": "LARAPINTA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5979,
+    "name": "LARRAKEYAH",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 5995,
+    "name": "LEANYER",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6033,
+    "name": "LITCHFIELD",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6084,
+    "name": "LUDMILLA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6094,
+    "name": "LYONS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6096,
+    "name": "MACDONNELL",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6133,
+    "name": "MALAK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6149,
+    "name": "MANINGRIDA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6191,
+    "name": "MARRARA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6287,
+    "name": "MILINGIMBI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6297,
+    "name": "MILLNER",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6336,
+    "name": "MOIL",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6403,
+    "name": "MOULDEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6472,
+    "name": "MUIRHEAD",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6512,
+    "name": "NAKARA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6582,
+    "name": "NGUKURR",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6585,
+    "name": "NHULUNBUY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6592,
+    "name": "NIGHTCLIFF",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6769,
+    "name": "PALMERSTON",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6784,
+    "name": "PARAP",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 6964,
+    "name": "RAPID CREEK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7056,
+    "name": "ROPER GULF",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7061,
+    "name": "ROSEBERY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7075,
+    "name": "ROSS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7103,
+    "name": "SADADEEN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7369,
+    "name": "STUART PARK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7468,
+    "name": "TENNANT CREEK",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7485,
+    "name": "THE GAP",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7521,
+    "name": "TIWI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7522,
+    "name": "TIWI ISLANDS",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7632,
+    "name": "VICTORIA DALY",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7643,
+    "name": "VIRGINIA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7649,
+    "name": "WADEYE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7650,
+    "name": "WAGAIT",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7651,
+    "name": "WAGAMAN",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7690,
+    "name": "WANGURI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7775,
+    "name": "WEST ARNHEM",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7925,
+    "name": "WOODROFFE",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7958,
+    "name": "WULAGI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 7963,
+    "name": "WURRUMIYANGA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 8031,
+    "name": "YULARA",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  },
+  {
+    "id": 8036,
+    "name": "ZUCCOLI",
+    "state": "NORTHERN TERRITORY",
+    "state_iso2": "NT",
+    "country": "AUSTRALIA",
+    "country_iso2": "AU",
+    "country_iso3": "AUS",
+    "country_native": "AUSTRALIA"
+  }
+]

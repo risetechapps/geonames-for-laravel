@@ -1,0 +1,442 @@
+[
+  {
+    "id": 97919,
+    "name": "BEZHANITSY",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98256,
+    "name": "DEDOVICHI",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98290,
+    "name": "DNO",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98470,
+    "name": "GDOV",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98471,
+    "name": "GDOVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98630,
+    "name": "IDRITSA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98745,
+    "name": "IZBORSK",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99302,
+    "name": "KRASNOGORODSK",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99368,
+    "name": "KRASNYY LUCH",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99448,
+    "name": "KUN’INSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99651,
+    "name": "LOKNYA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100115,
+    "name": "NEVEL’",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100291,
+    "name": "NOVORZHEV",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100292,
+    "name": "NOVORZHEVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100309,
+    "name": "NOVOSOKOL’NICHESKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100310,
+    "name": "NOVOSOKOL’NIKI",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100343,
+    "name": "NOVYY IZBORSK",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100455,
+    "name": "OPOCHKA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100496,
+    "name": "OSTROV",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100498,
+    "name": "OSTROVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100531,
+    "name": "PALKINO",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100532,
+    "name": "PALKINSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100588,
+    "name": "PECHORSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100589,
+    "name": "PECHORY",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100704,
+    "name": "PLYUSSA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100777,
+    "name": "PORKHOV",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100778,
+    "name": "PORKHOVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100881,
+    "name": "PSKOV",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100882,
+    "name": "PSKOVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100899,
+    "name": "PUSHKINO-GORSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100901,
+    "name": "PUSHKINSKIYE GORY",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100902,
+    "name": "PUSTOSHKA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100903,
+    "name": "PUSTOSHKINSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100918,
+    "name": "PYTALOVO",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100919,
+    "name": "PYTALOVSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101143,
+    "name": "SEBEZH",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101144,
+    "name": "SEBEZHSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101197,
+    "name": "SERËDKA",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101633,
+    "name": "STRUGI-KRASNYYE",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101634,
+    "name": "STRUGO-KRASNENSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102147,
+    "name": "USVYATY",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102213,
+    "name": "VELIKIYE LUKI",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102215,
+    "name": "VELIKOLUKSKIY RAYON",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102425,
+    "name": "VYBOR",
+    "state": "PSKOV",
+    "state_iso2": "PSK",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

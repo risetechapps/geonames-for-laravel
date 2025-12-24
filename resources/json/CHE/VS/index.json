@@ -1,0 +1,752 @@
+[
+  {
+    "id": 17405,
+    "name": "ARDON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17427,
+    "name": "AYENT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17433,
+    "name": "BAGNES",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17439,
+    "name": "BALTSCHIEDER",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17441,
+    "name": "BASSE-NENDAZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17561,
+    "name": "BRIG",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17562,
+    "name": "BRIG DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17621,
+    "name": "CHALAIS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17623,
+    "name": "CHAMOSON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17624,
+    "name": "CHAMPÉRY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17628,
+    "name": "CHARRAT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17632,
+    "name": "CHERMIGNON-D’EN HAUT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17637,
+    "name": "CHIPPIS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17646,
+    "name": "COLLOMBEY-MURAZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17650,
+    "name": "CONTHEY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17651,
+    "name": "CONTHEY DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17755,
+    "name": "ENTREMONT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17778,
+    "name": "EVIONNAZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17779,
+    "name": "EVOLÈNE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17788,
+    "name": "FIESCH",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17815,
+    "name": "FULLY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17820,
+    "name": "GAMPEL",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17851,
+    "name": "GOMS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17869,
+    "name": "GRIMISUAT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17879,
+    "name": "GRÄCHEN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17881,
+    "name": "GRÔNE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17940,
+    "name": "HÉRENS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17941,
+    "name": "HÉRÉMENCE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18065,
+    "name": "LENS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18074,
+    "name": "LEUK",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18075,
+    "name": "LEUK DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18076,
+    "name": "LEUKERBAD",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18080,
+    "name": "LEYTRON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18125,
+    "name": "MARTIGNY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18126,
+    "name": "MARTIGNY-COMBE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18127,
+    "name": "MARTIGNY-VILLE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18165,
+    "name": "MONTANA",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18167,
+    "name": "MONTHEY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18168,
+    "name": "MONTHEY DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18207,
+    "name": "NATERS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18290,
+    "name": "ORSIÈRES",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18337,
+    "name": "RANDOGNE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18339,
+    "name": "RARON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18340,
+    "name": "RARON DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18374,
+    "name": "RIDDES",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18416,
+    "name": "SAAS-FEE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18417,
+    "name": "SAAS-GRUND",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18421,
+    "name": "SAILLON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18427,
+    "name": "SAINT-LÉONARD",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18428,
+    "name": "SAINT-MAURICE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18429,
+    "name": "SAINT-MAURICE DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18432,
+    "name": "SALGESCH",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18434,
+    "name": "SALVAN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18441,
+    "name": "SANKT NIKLAUS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18452,
+    "name": "SAVIÈSE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18453,
+    "name": "SAXON",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18517,
+    "name": "SIERRE",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18518,
+    "name": "SIERRE DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18524,
+    "name": "SION",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18527,
+    "name": "SITTEN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18545,
+    "name": "STALDEN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18573,
+    "name": "TANAY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18607,
+    "name": "TROISTORRENTS",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18615,
+    "name": "TURTMANN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18662,
+    "name": "VAREN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18668,
+    "name": "VERBIER",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18669,
+    "name": "VERNAYAZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18675,
+    "name": "VEX",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18686,
+    "name": "VIONNAZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18687,
+    "name": "VISP",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18688,
+    "name": "VISP DISTRICT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18689,
+    "name": "VISPERTERMINEN",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18694,
+    "name": "VOUVRY",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18697,
+    "name": "VÉTROZ",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18793,
+    "name": "ZERMATT",
+    "state": "VALAIS",
+    "state_iso2": "VS",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

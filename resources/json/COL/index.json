@@ -1,0 +1,332 @@
+[
+  {
+    "id": 2895,
+    "name": "AMAZONAS",
+    "iso2": "AMA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2890,
+    "name": "ANTIOQUIA",
+    "iso2": "ANT",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2881,
+    "name": "ARAUCA",
+    "iso2": "ARA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2880,
+    "name": "ATLÁNTICO",
+    "iso2": "ATL",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 4921,
+    "name": "BOGOTÁ D.C.",
+    "iso2": "DC",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2893,
+    "name": "BOLÍVAR",
+    "iso2": "BOL",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2903,
+    "name": "BOYACÁ",
+    "iso2": "BOY",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2887,
+    "name": "CALDAS",
+    "iso2": "CAL",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2891,
+    "name": "CAQUETÁ",
+    "iso2": "CAQ",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2892,
+    "name": "CASANARE",
+    "iso2": "CAS",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2884,
+    "name": "CAUCA",
+    "iso2": "CAU",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2899,
+    "name": "CESAR",
+    "iso2": "CES",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2876,
+    "name": "CHOCÓ",
+    "iso2": "CHO",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2875,
+    "name": "CUNDINAMARCA",
+    "iso2": "CUN",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2898,
+    "name": "CÓRDOBA",
+    "iso2": "COR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2882,
+    "name": "GUAINÍA",
+    "iso2": "GUA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2888,
+    "name": "GUAVIARE",
+    "iso2": "GUV",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 4871,
+    "name": "HUILA",
+    "iso2": "HUI",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2889,
+    "name": "LA GUAJIRA",
+    "iso2": "LAG",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2886,
+    "name": "MAGDALENA",
+    "iso2": "MAG",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2878,
+    "name": "META",
+    "iso2": "MET",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2897,
+    "name": "NARIÑO",
+    "iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2877,
+    "name": "NORTE DE SANTANDER",
+    "iso2": "NSA",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2896,
+    "name": "PUTUMAYO",
+    "iso2": "PUT",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2874,
+    "name": "QUINDÍO",
+    "iso2": "QUI",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2879,
+    "name": "RISARALDA",
+    "iso2": "RIS",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2900,
+    "name": "SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "iso2": "SAP",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2901,
+    "name": "SANTANDER",
+    "iso2": "SAN",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2902,
+    "name": "SUCRE",
+    "iso2": "SUC",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2883,
+    "name": "TOLIMA",
+    "iso2": "TOL",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2904,
+    "name": "VALLE DEL CAUCA",
+    "iso2": "VAC",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2885,
+    "name": "VAUPÉS",
+    "iso2": "VAU",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  },
+  {
+    "id": 2894,
+    "name": "VICHADA",
+    "iso2": "VID",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA",
+    "timezone": "America/Bogota"
+  }
+]

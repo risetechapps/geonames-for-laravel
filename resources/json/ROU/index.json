@@ -1,0 +1,422 @@
+[
+  {
+    "id": 4724,
+    "name": "ALBA",
+    "iso2": "AB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4739,
+    "name": "ARAD",
+    "iso2": "AR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4722,
+    "name": "ARGES",
+    "iso2": "AG",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4744,
+    "name": "BACĂU",
+    "iso2": "BC",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4723,
+    "name": "BIHOR",
+    "iso2": "BH",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4733,
+    "name": "BISTRIȚA-NĂSĂUD",
+    "iso2": "BN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4740,
+    "name": "BOTOȘANI",
+    "iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4736,
+    "name": "BRAILA",
+    "iso2": "BR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4759,
+    "name": "BRAȘOV",
+    "iso2": "BV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4730,
+    "name": "BUCHAREST",
+    "iso2": "B",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4756,
+    "name": "BUZĂU",
+    "iso2": "BZ",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4753,
+    "name": "CARAȘ-SEVERIN",
+    "iso2": "CS",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4734,
+    "name": "CLUJ",
+    "iso2": "CJ",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4737,
+    "name": "CONSTANȚA",
+    "iso2": "CT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4754,
+    "name": "COVASNA",
+    "iso2": "CV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4732,
+    "name": "CĂLĂRAȘI",
+    "iso2": "CL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4742,
+    "name": "DOLJ",
+    "iso2": "DJ",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4745,
+    "name": "DÂMBOVIȚA",
+    "iso2": "DB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4747,
+    "name": "GALAȚI",
+    "iso2": "GL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4726,
+    "name": "GIURGIU",
+    "iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4750,
+    "name": "GORJ",
+    "iso2": "GJ",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4749,
+    "name": "HARGHITA",
+    "iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4721,
+    "name": "HUNEDOARA",
+    "iso2": "HD",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4743,
+    "name": "IALOMIȚA",
+    "iso2": "IL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4735,
+    "name": "IAȘI",
+    "iso2": "IS",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4725,
+    "name": "ILFOV",
+    "iso2": "IF",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4760,
+    "name": "MARAMUREȘ",
+    "iso2": "MM",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4751,
+    "name": "MEHEDINȚI",
+    "iso2": "MH",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4915,
+    "name": "MUREȘ",
+    "iso2": "MS",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4731,
+    "name": "NEAMȚ",
+    "iso2": "NT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4738,
+    "name": "OLT",
+    "iso2": "OT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4729,
+    "name": "PRAHOVA",
+    "iso2": "PH",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4746,
+    "name": "SATU MARE",
+    "iso2": "SM",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4755,
+    "name": "SIBIU",
+    "iso2": "SB",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4720,
+    "name": "SUCEAVA",
+    "iso2": "SV",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4741,
+    "name": "SĂLAJ",
+    "iso2": "SJ",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4728,
+    "name": "TELEORMAN",
+    "iso2": "TR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4748,
+    "name": "TIMIȘ",
+    "iso2": "TM",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4727,
+    "name": "TULCEA",
+    "iso2": "TL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4752,
+    "name": "VASLUI",
+    "iso2": "VS",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4758,
+    "name": "VRANCEA",
+    "iso2": "VN",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  },
+  {
+    "id": 4757,
+    "name": "VÂLCEA",
+    "iso2": "VL",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA",
+    "timezone": "Europe/Bucharest"
+  }
+]

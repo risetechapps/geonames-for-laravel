@@ -1,0 +1,602 @@
+[
+  {
+    "id": 17409,
+    "name": "AROSA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17411,
+    "name": "ARVIGO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17547,
+    "name": "BONADUZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17559,
+    "name": "BREÍL",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17571,
+    "name": "BRUSIO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17585,
+    "name": "BUSENO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17615,
+    "name": "CAUCO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17617,
+    "name": "CAZIS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17618,
+    "name": "CELERINA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17638,
+    "name": "CHUR",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17639,
+    "name": "CHURWALDEN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17677,
+    "name": "DAVOS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17699,
+    "name": "DISENTIS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17700,
+    "name": "DOMAT",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17783,
+    "name": "FELSBERG",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17793,
+    "name": "FLIMS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17882,
+    "name": "GRÜSCH",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17917,
+    "name": "HINTERRHEIN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17947,
+    "name": "IGIS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17948,
+    "name": "ILANZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17958,
+    "name": "JENAZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 17986,
+    "name": "KLOSTERS SERNEUS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18024,
+    "name": "LA PUNT CHAMUES-CH",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18029,
+    "name": "LAAX",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18033,
+    "name": "LANDQUART",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18067,
+    "name": "LENZERHEIDE",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18105,
+    "name": "LUZEIN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18116,
+    "name": "MAIENFELD",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18117,
+    "name": "MALANS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18155,
+    "name": "MESOCCO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18318,
+    "name": "PONTRESINA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18321,
+    "name": "POSCHIAVO",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18348,
+    "name": "REGION ALBULA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18349,
+    "name": "REGION BERNINA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18350,
+    "name": "REGION ENGIADINA BASSA / VAL MÜSTAIR",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18351,
+    "name": "REGION IMBODEN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18352,
+    "name": "REGION LANDQUART",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18353,
+    "name": "REGION MALOJA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18354,
+    "name": "REGION MOESA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18355,
+    "name": "REGION PLESSUR",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18356,
+    "name": "REGION PRÄTTIGAU / DAVOS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18357,
+    "name": "REGION SURSELVA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18358,
+    "name": "REGION VIAMALA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18367,
+    "name": "RHÄZÜNS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18435,
+    "name": "SAMEDAN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18457,
+    "name": "SCHARANS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18460,
+    "name": "SCHIERS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18490,
+    "name": "SCUOL",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18522,
+    "name": "SILVAPLANA",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18535,
+    "name": "ST. MORITZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18572,
+    "name": "TAMINS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18594,
+    "name": "THUSIS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18596,
+    "name": "TIEFENCASTEL",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18604,
+    "name": "TRIMMIS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18610,
+    "name": "TRUN",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18637,
+    "name": "UNTERVAZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18660,
+    "name": "VALS PLATZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18794,
+    "name": "ZERNEZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18795,
+    "name": "ZIZERS",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  },
+  {
+    "id": 18804,
+    "name": "ZUOZ",
+    "state": "GRAUBÜNDEN",
+    "state_iso2": "GR",
+    "country": "SWITZERLAND",
+    "country_iso2": "CH",
+    "country_iso3": "CHE",
+    "country_native": "SCHWEIZ"
+  }
+]

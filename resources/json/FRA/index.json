@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 4967,
+    "name": "AIN",
+    "iso2": "01",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4968,
+    "name": "AISNE",
+    "iso2": "02",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4969,
+    "name": "ALLIER",
+    "iso2": "03",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4970,
+    "name": "ALPES-DE-HAUTE-PROVENCE",
+    "iso2": "04",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4972,
+    "name": "ALPES-MARITIMES",
+    "iso2": "06",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4811,
+    "name": "ALSACE",
+    "iso2": "6AE",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4974,
+    "name": "ARDENNES",
+    "iso2": "08",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4973,
+    "name": "ARDÈCHE",
+    "iso2": "07",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4975,
+    "name": "ARIÈGE",
+    "iso2": "09",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4976,
+    "name": "AUBE",
+    "iso2": "10",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4977,
+    "name": "AUDE",
+    "iso2": "11",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4798,
+    "name": "AUVERGNE-RHÔNE-ALPES",
+    "iso2": "ARA",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4978,
+    "name": "AVEYRON",
+    "iso2": "12",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5035,
+    "name": "BAS-RHIN",
+    "iso2": "67",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4979,
+    "name": "BOUCHES-DU-RHÔNE",
+    "iso2": "13",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4825,
+    "name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "iso2": "BFC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4807,
+    "name": "BRETAGNE",
+    "iso2": "BRE",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4981,
+    "name": "CALVADOS",
+    "iso2": "14",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4982,
+    "name": "CANTAL",
+    "iso2": "15",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4818,
+    "name": "CENTRE-VAL DE LOIRE",
+    "iso2": "CVL",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4983,
+    "name": "CHARENTE",
+    "iso2": "16",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4984,
+    "name": "CHARENTE-MARITIME",
+    "iso2": "17",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4985,
+    "name": "CHER",
+    "iso2": "18",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5064,
+    "name": "CLIPPERTON",
+    "iso2": "CP",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4986,
+    "name": "CORRÈZE",
+    "iso2": "19",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4806,
+    "name": "CORSE",
+    "iso2": "20R",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4996,
+    "name": "CORSE-DU-SUD",
+    "iso2": "2A",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4989,
+    "name": "CREUSE",
+    "iso2": "23",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4987,
+    "name": "CÔTE-D'OR",
+    "iso2": "21",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4988,
+    "name": "CÔTES-D'ARMOR",
+    "iso2": "22",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5047,
+    "name": "DEUX-SÈVRES",
+    "iso2": "79",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4990,
+    "name": "DORDOGNE",
+    "iso2": "24",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4991,
+    "name": "DOUBS",
+    "iso2": "25",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4992,
+    "name": "DRÔME",
+    "iso2": "26",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5059,
+    "name": "ESSONNE",
+    "iso2": "91",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4993,
+    "name": "EURE",
+    "iso2": "27",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4994,
+    "name": "EURE-ET-LOIR",
+    "iso2": "28",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4995,
+    "name": "FINISTÈRE",
+    "iso2": "29",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4822,
+    "name": "FRENCH GUIANA",
+    "iso2": "973",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4824,
+    "name": "FRENCH POLYNESIA",
+    "iso2": "PF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5065,
+    "name": "FRENCH SOUTHERN AND ANTARCTIC LANDS",
+    "iso2": "TF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4998,
+    "name": "GARD",
+    "iso2": "30",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5000,
+    "name": "GERS",
+    "iso2": "32",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5001,
+    "name": "GIRONDE",
+    "iso2": "33",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4820,
+    "name": "GRAND-EST",
+    "iso2": "GES",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4829,
+    "name": "GUADELOUPE",
+    "iso2": "971",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5036,
+    "name": "HAUT-RHIN",
+    "iso2": "68",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4997,
+    "name": "HAUTE-CORSE",
+    "iso2": "2B",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4999,
+    "name": "HAUTE-GARONNE",
+    "iso2": "31",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5011,
+    "name": "HAUTE-LOIRE",
+    "iso2": "43",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5020,
+    "name": "HAUTE-MARNE",
+    "iso2": "52",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5043,
+    "name": "HAUTE-SAVOIE",
+    "iso2": "74",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5039,
+    "name": "HAUTE-SAÔNE",
+    "iso2": "70",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5055,
+    "name": "HAUTE-VIENNE",
+    "iso2": "87",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4971,
+    "name": "HAUTES-ALPES",
+    "iso2": "05",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5033,
+    "name": "HAUTES-PYRÉNÉES",
+    "iso2": "65",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4828,
+    "name": "HAUTS-DE-FRANCE",
+    "iso2": "HDF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5060,
+    "name": "HAUTS-DE-SEINE",
+    "iso2": "92",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5002,
+    "name": "HÉRAULT",
+    "iso2": "34",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5003,
+    "name": "ILLE-ET-VILAINE",
+    "iso2": "35",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5004,
+    "name": "INDRE",
+    "iso2": "36",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5005,
+    "name": "INDRE-ET-LOIRE",
+    "iso2": "37",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5006,
+    "name": "ISÈRE",
+    "iso2": "38",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5007,
+    "name": "JURA",
+    "iso2": "39",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4823,
+    "name": "LA RÉUNION",
+    "iso2": "974",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5008,
+    "name": "LANDES",
+    "iso2": "40",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5009,
+    "name": "LOIR-ET-CHER",
+    "iso2": "41",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5010,
+    "name": "LOIRE",
+    "iso2": "42",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5012,
+    "name": "LOIRE-ATLANTIQUE",
+    "iso2": "44",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5013,
+    "name": "LOIRET",
+    "iso2": "45",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5014,
+    "name": "LOT",
+    "iso2": "46",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5015,
+    "name": "LOT-ET-GARONNE",
+    "iso2": "47",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5016,
+    "name": "LOZÈRE",
+    "iso2": "48",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5017,
+    "name": "MAINE-ET-LOIRE",
+    "iso2": "49",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5018,
+    "name": "MANCHE",
+    "iso2": "50",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5019,
+    "name": "MARNE",
+    "iso2": "51",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4827,
+    "name": "MARTINIQUE",
+    "iso2": "972",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5021,
+    "name": "MAYENNE",
+    "iso2": "53",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4797,
+    "name": "MAYOTTE",
+    "iso2": "976",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5022,
+    "name": "MEURTHE-ET-MOSELLE",
+    "iso2": "54",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5023,
+    "name": "MEUSE",
+    "iso2": "55",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5024,
+    "name": "MORBIHAN",
+    "iso2": "56",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5025,
+    "name": "MOSELLE",
+    "iso2": "57",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5038,
+    "name": "MÉTROPOLE DE LYON",
+    "iso2": "69M",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5026,
+    "name": "NIÈVRE",
+    "iso2": "58",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5027,
+    "name": "NORD",
+    "iso2": "59",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4804,
+    "name": "NORMANDIE",
+    "iso2": "NOR",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4795,
+    "name": "NOUVELLE-AQUITAINE",
+    "iso2": "NAQ",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5538,
+    "name": "NOUVELLE-CALÉDONIE",
+    "iso2": "NC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Pacific/Noumea"
+  },
+  {
+    "id": 4799,
+    "name": "OCCITANIE",
+    "iso2": "OCC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5028,
+    "name": "OISE",
+    "iso2": "60",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5029,
+    "name": "ORNE",
+    "iso2": "61",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4816,
+    "name": "PARIS",
+    "iso2": "75C",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5030,
+    "name": "PAS-DE-CALAIS",
+    "iso2": "62",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4802,
+    "name": "PAYS-DE-LA-LOIRE",
+    "iso2": "PDL",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4812,
+    "name": "PROVENCE-ALPES-CÔTE-D’AZUR",
+    "iso2": "PAC",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5031,
+    "name": "PUY-DE-DÔME",
+    "iso2": "63",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5032,
+    "name": "PYRÉNÉES-ATLANTIQUES",
+    "iso2": "64",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5034,
+    "name": "PYRÉNÉES-ORIENTALES",
+    "iso2": "66",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5037,
+    "name": "RHÔNE",
+    "iso2": "69",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4821,
+    "name": "SAINT PIERRE AND MIQUELON",
+    "iso2": "PM",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4794,
+    "name": "SAINT-BARTHÉLEMY",
+    "iso2": "BL",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4809,
+    "name": "SAINT-MARTIN",
+    "iso2": "MF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5041,
+    "name": "SARTHE",
+    "iso2": "72",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5042,
+    "name": "SAVOIE",
+    "iso2": "73",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5040,
+    "name": "SAÔNE-ET-LOIRE",
+    "iso2": "71",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5045,
+    "name": "SEINE-ET-MARNE",
+    "iso2": "77",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5044,
+    "name": "SEINE-MARITIME",
+    "iso2": "76",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5061,
+    "name": "SEINE-SAINT-DENIS",
+    "iso2": "93",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5048,
+    "name": "SOMME",
+    "iso2": "80",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5049,
+    "name": "TARN",
+    "iso2": "81",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5050,
+    "name": "TARN-ET-GARONNE",
+    "iso2": "82",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5058,
+    "name": "TERRITOIRE DE BELFORT",
+    "iso2": "90",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5063,
+    "name": "VAL-D'OISE",
+    "iso2": "95",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5062,
+    "name": "VAL-DE-MARNE",
+    "iso2": "94",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5051,
+    "name": "VAR",
+    "iso2": "83",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5052,
+    "name": "VAUCLUSE",
+    "iso2": "84",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5053,
+    "name": "VENDÉE",
+    "iso2": "85",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5054,
+    "name": "VIENNE",
+    "iso2": "86",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5056,
+    "name": "VOSGES",
+    "iso2": "88",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4810,
+    "name": "WALLIS AND FUTUNA",
+    "iso2": "WF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5057,
+    "name": "YONNE",
+    "iso2": "89",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5046,
+    "name": "YVELINES",
+    "iso2": "78",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 4796,
+    "name": "ÎLE-DE-FRANCE",
+    "iso2": "IDF",
+    "country": "FRANCE",
+    "country_iso2": "FR",
+    "country_iso3": "FRA",
+    "country_native": "FRANCE",
+    "timezone": "Europe/Paris"
+  }
+]

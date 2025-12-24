@@ -1,0 +1,752 @@
+[
+  {
+    "id": 22159,
+    "name": "BRANDÝS NAD ORLICÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22167,
+    "name": "BRNĚNEC",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22182,
+    "name": "BYSTRÉ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22184,
+    "name": "BYSTŘEC",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22199,
+    "name": "BÝŠŤ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22212,
+    "name": "BŘEZOVÁ NAD SVITAVOU",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22223,
+    "name": "CHOCEŇ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22231,
+    "name": "CHRAST",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22234,
+    "name": "CHROUSTOVICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22235,
+    "name": "CHRUDIM",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22238,
+    "name": "CHVALETICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22253,
+    "name": "DAŠICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22256,
+    "name": "DLOUHÁ TŘEBOVÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22280,
+    "name": "DOLNÍ DOBROUČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22291,
+    "name": "DOLNÍ ROVEŇ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22293,
+    "name": "DOLNÍ SLOUPNICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22296,
+    "name": "DOLNÍ ÚJEZD",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22297,
+    "name": "DOLNÍ ČERMNÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22352,
+    "name": "HEŘMANŮV MĚSTEC",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22353,
+    "name": "HLINSKO",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22369,
+    "name": "HOLICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22380,
+    "name": "HORNÍ JELENÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22389,
+    "name": "HORNÍ SLOUPNICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22393,
+    "name": "HORNÍ ČERMNÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22414,
+    "name": "HRADEC NAD SVITAVOU",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22420,
+    "name": "HROCHŮV TÝNEC",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22447,
+    "name": "JABLONNÉ NAD ORLICÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22457,
+    "name": "JAROMĚŘICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22462,
+    "name": "JEDLOVÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22470,
+    "name": "JEVÍČKO",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22561,
+    "name": "KROUNA",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22565,
+    "name": "KRÁLÍKY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22570,
+    "name": "KUNVALD",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22573,
+    "name": "KUNČINA",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22590,
+    "name": "LANŠKROUN",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22597,
+    "name": "LETOHRAD",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22622,
+    "name": "LITOMYŠL",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22649,
+    "name": "LUKAVICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22655,
+    "name": "LUŽE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22662,
+    "name": "LÁZNĚ BOHDANEČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22700,
+    "name": "MIŘETICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22714,
+    "name": "MORAVANY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22718,
+    "name": "MORAVSKÁ TŘEBOVÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22739,
+    "name": "MĚSTEČKO TRNÁVKA",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22750,
+    "name": "NASAVRKY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22814,
+    "name": "OKRES CHRUDIM",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22845,
+    "name": "OKRES PARDUBICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22863,
+    "name": "OKRES SVITAVY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22875,
+    "name": "OKRES ÚSTÍ NAD ORLICÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22890,
+    "name": "OPATOV",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22891,
+    "name": "OPATOVICE NAD LABEM",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22911,
+    "name": "OSÍK",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22919,
+    "name": "PARDUBICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22952,
+    "name": "POLIČKA",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22954,
+    "name": "POMEZÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22969,
+    "name": "PRACHOVICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22978,
+    "name": "PROSEČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22999,
+    "name": "PŘELOUČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23011,
+    "name": "RADIMĚŘ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23032,
+    "name": "RONOV NAD DOUBRAVOU",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23034,
+    "name": "ROSICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23051,
+    "name": "RYBITVÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23070,
+    "name": "SEZEMICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23072,
+    "name": "SEČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23076,
+    "name": "SKUTEČ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23079,
+    "name": "SLATIŇANY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23103,
+    "name": "STARÉ HRADIŠTĚ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23149,
+    "name": "SVITAVY",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23202,
+    "name": "TŘEMOŠNICE",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23305,
+    "name": "VYSOKÉ MÝTO",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23359,
+    "name": "ÚSTÍ NAD ORLICÍ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23379,
+    "name": "ČERVENÁ VODA",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23386,
+    "name": "ČESKÁ TŘEBOVÁ",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23404,
+    "name": "ŘEČANY NAD LABEM",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23437,
+    "name": "ŽAMBERK",
+    "state": "PARDUBICKÝ KRAJ",
+    "state_iso2": "53",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

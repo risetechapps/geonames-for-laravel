@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 90003,
+    "name": "ATID",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90010,
+    "name": "AVRĂMEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90054,
+    "name": "BANCU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90134,
+    "name": "BILBOR",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90234,
+    "name": "BORSEC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90323,
+    "name": "BRĂDEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90493,
+    "name": "BĂILE TUŞNAD",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90503,
+    "name": "BĂLAN",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90694,
+    "name": "CICEU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90739,
+    "name": "CIUCANI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90742,
+    "name": "CIUCSÂNGEORGIU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90749,
+    "name": "CIUMANI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90901,
+    "name": "COMUNA ATID",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90907,
+    "name": "COMUNA AVRĂMEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90987,
+    "name": "COMUNA BILBOR",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91113,
+    "name": "COMUNA BRĂDEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91330,
+    "name": "COMUNA CICEU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91364,
+    "name": "COMUNA CIUCSÂNGEORGIU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91369,
+    "name": "COMUNA CIUMANI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91430,
+    "name": "COMUNA CORBU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91448,
+    "name": "COMUNA CORUND",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91469,
+    "name": "COMUNA COZMENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91555,
+    "name": "COMUNA CÂRŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91585,
+    "name": "COMUNA CĂPÂLNIŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91607,
+    "name": "COMUNA DEALU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91630,
+    "name": "COMUNA DITRĂU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91728,
+    "name": "COMUNA DÂRJIU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91740,
+    "name": "COMUNA DĂNEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91757,
+    "name": "COMUNA FELICENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91784,
+    "name": "COMUNA FRUMOASA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91983,
+    "name": "COMUNA GĂLĂUŢAŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92130,
+    "name": "COMUNA JOSENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92148,
+    "name": "COMUNA LELICENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92192,
+    "name": "COMUNA LUETA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92206,
+    "name": "COMUNA LUNCA DE JOS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92207,
+    "name": "COMUNA LUNCA DE SUS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92215,
+    "name": "COMUNA LUPENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92225,
+    "name": "COMUNA LĂZAREA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92259,
+    "name": "COMUNA MEREŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92282,
+    "name": "COMUNA MIHĂILENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92355,
+    "name": "COMUNA MUGENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92414,
+    "name": "COMUNA MĂRTINIŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92476,
+    "name": "COMUNA OCLAND",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92605,
+    "name": "COMUNA PLÃIEŞII DE JOS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92662,
+    "name": "COMUNA PORUMBENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92668,
+    "name": "COMUNA PRAID",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92712,
+    "name": "COMUNA PÃULENI-CIUC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92740,
+    "name": "COMUNA RACU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92764,
+    "name": "COMUNA REMETEA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92915,
+    "name": "COMUNA SECUIENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92927,
+    "name": "COMUNA SICULENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92937,
+    "name": "COMUNA SIMONEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93024,
+    "name": "COMUNA SUBCETATE",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93040,
+    "name": "COMUNA SUSENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93051,
+    "name": "COMUNA SÂNCRĂIENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93052,
+    "name": "COMUNA SÂNDOMINIC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93055,
+    "name": "COMUNA SÂNMARTIN",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93065,
+    "name": "COMUNA SÂNSIMION",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93068,
+    "name": "COMUNA SÂNTIMBRU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93080,
+    "name": "COMUNA SĂCEL",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93107,
+    "name": "COMUNA SĂRMAŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93204,
+    "name": "COMUNA TULGHEŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93221,
+    "name": "COMUNA TUŞNAD",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93257,
+    "name": "COMUNA ULIEŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93408,
+    "name": "COMUNA VOŞLÃBENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93467,
+    "name": "COMUNA VĂRŞAG",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93475,
+    "name": "COMUNA ZETEA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93619,
+    "name": "CORBU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93651,
+    "name": "CORUND",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93685,
+    "name": "COZMENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93727,
+    "name": "CRISTURU SECUIESC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93820,
+    "name": "CÂRŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93863,
+    "name": "CĂPÂLNIŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93900,
+    "name": "DEALU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93941,
+    "name": "DITRĂU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94109,
+    "name": "DÂRJIU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94128,
+    "name": "DĂNEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94140,
+    "name": "ELISENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94155,
+    "name": "FELICENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94172,
+    "name": "FILIAȘ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94206,
+    "name": "FRUMOASA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94303,
+    "name": "GHEORGHENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94506,
+    "name": "GĂLĂUŢAŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94545,
+    "name": "HODOȘA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94663,
+    "name": "IMPER",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94669,
+    "name": "INEU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94748,
+    "name": "JOSENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94775,
+    "name": "LELICENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94844,
+    "name": "LUETA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94871,
+    "name": "LUNCA DE JOS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94872,
+    "name": "LUNCA DE SUS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94885,
+    "name": "LUPENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94900,
+    "name": "LĂZAREA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94955,
+    "name": "MEREŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94973,
+    "name": "MIERCUREA-CIUC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94992,
+    "name": "MIHĂILENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95028,
+    "name": "MISENTEA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95099,
+    "name": "MUGENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95145,
+    "name": "MUNICIPIUL GHEORGHENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95156,
+    "name": "MUNICIPIUL MIERCUREA CIUC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95160,
+    "name": "MUNICIPIUL ODORHEIU SECUIESC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95104,
+    "name": "MUNICIPIUL TOPLIŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95235,
+    "name": "MĂDĂRAȘ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95280,
+    "name": "MĂRTINIŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95340,
+    "name": "NICOLEȘTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95393,
+    "name": "OCLAND",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95397,
+    "name": "OCNA DE JOS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95398,
+    "name": "OCNA DE SUS",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95410,
+    "name": "ODORHEIU SECUIESC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95467,
+    "name": "ORAŞ BORSEC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95485,
+    "name": "ORAŞ BÃILE TUŞNAD",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95486,
+    "name": "ORAŞ BÃLAN",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95500,
+    "name": "ORAŞ CRISTURU SECUIESC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95620,
+    "name": "ORAŞ VLÃHIŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95923,
+    "name": "PORUMBENII MARI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95938,
+    "name": "PRAID",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96028,
+    "name": "PĂULENI-CIUC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96049,
+    "name": "RACU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96081,
+    "name": "REMETEA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96255,
+    "name": "SATU MARE",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96335,
+    "name": "SICULENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96349,
+    "name": "SIMONEŞTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96486,
+    "name": "SUBCETATE",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96510,
+    "name": "SUSENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96524,
+    "name": "SÂNCRAI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96527,
+    "name": "SÂNCRĂIENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96528,
+    "name": "SÂNDOMINIC",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96533,
+    "name": "SÂNMARTIN",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96546,
+    "name": "SÂNSIMION",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105978,
+    "name": "SÂNTIMBRU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105991,
+    "name": "SĂCEL",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106032,
+    "name": "SĂRMAŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106123,
+    "name": "TOMEȘTI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106174,
+    "name": "TULGHEŞ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96574,
+    "name": "TUŞNAD",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96575,
+    "name": "TUȘNADU NOU",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96625,
+    "name": "TĂURENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96707,
+    "name": "VALE",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96748,
+    "name": "VALEA RECE",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96757,
+    "name": "VALEA STRÂMBĂ",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96870,
+    "name": "VLĂHIŢA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96895,
+    "name": "VOȘLĂBENI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96976,
+    "name": "VĂRŞAG",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96988,
+    "name": "ZENCANI",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96990,
+    "name": "ZETEA",
+    "state": "HARGHITA",
+    "state_iso2": "HR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

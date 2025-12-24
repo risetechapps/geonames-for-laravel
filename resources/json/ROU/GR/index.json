@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 89885,
+    "name": "ADUNAȚII-COPĂCENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90213,
+    "name": "BOLINTIN DEAL",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90214,
+    "name": "BOLINTIN VALE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90271,
+    "name": "BRANIȘTEA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90339,
+    "name": "BRĂNIȘTARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90365,
+    "name": "BUCŞANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90401,
+    "name": "BULBUCATA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90429,
+    "name": "BUTURUGENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90439,
+    "name": "BÂCU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90531,
+    "name": "BĂNEASA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90582,
+    "name": "CARTOJANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90648,
+    "name": "CETATEA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90677,
+    "name": "CHIRIACU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90766,
+    "name": "CLEJANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90795,
+    "name": "COLIBAŞI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90803,
+    "name": "COMANA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90823,
+    "name": "COMUNA ADUNAŢII-COPĂCENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91041,
+    "name": "COMUNA BOLINTIN DEAL",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91141,
+    "name": "COMUNA BUCŞANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91158,
+    "name": "COMUNA BULBUCATA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91177,
+    "name": "COMUNA BUTURUGENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91231,
+    "name": "COMUNA BĂNEASA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91380,
+    "name": "COMUNA CLEJANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91398,
+    "name": "COMUNA COLIBAŞI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91404,
+    "name": "COMUNA COMANA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91490,
+    "name": "COMUNA CREVEDIA MARE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91575,
+    "name": "COMUNA CĂLUGĂRENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91600,
+    "name": "COMUNA DAIA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91794,
+    "name": "COMUNA FRĂTEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91856,
+    "name": "COMUNA GHIMPAŢI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91890,
+    "name": "COMUNA GOGOŞARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91907,
+    "name": "COMUNA GOSTINU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91909,
+    "name": "COMUNA GOŞTINARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91913,
+    "name": "COMUNA GREACA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91937,
+    "name": "COMUNA GRĂDINARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91977,
+    "name": "COMUNA GÃISENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91987,
+    "name": "COMUNA GĂUJANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91998,
+    "name": "COMUNA HERĂŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92025,
+    "name": "COMUNA HOTARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92064,
+    "name": "COMUNA IEPUREŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92096,
+    "name": "COMUNA ISVOARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92103,
+    "name": "COMUNA IZVOARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92128,
+    "name": "COMUNA JOIŢA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92157,
+    "name": "COMUNA LETCA NOUĂ",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92270,
+    "name": "COMUNA MIHAI BRAVU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92373,
+    "name": "COMUNA MÂRŞA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92486,
+    "name": "COMUNA OGREZENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92489,
+    "name": "COMUNA OINACU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92685,
+    "name": "COMUNA PRUNDU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92700,
+    "name": "COMUNA PUTINEIU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92773,
+    "name": "COMUNA ROATA DE JOS",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92850,
+    "name": "COMUNA RĂSUCENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92888,
+    "name": "COMUNA SCHITU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92940,
+    "name": "COMUNA SINGURENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92952,
+    "name": "COMUNA SLOBOZIA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92994,
+    "name": "COMUNA STOENEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93016,
+    "name": "COMUNA STĂNEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93180,
+    "name": "COMUNA TOPORU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93263,
+    "name": "COMUNA ULMI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93305,
+    "name": "COMUNA VALEA DRAGULUI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93339,
+    "name": "COMUNA VEDEA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93437,
+    "name": "COMUNA VÂNĂTORII MICI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93466,
+    "name": "COMUNA VĂRĂŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93585,
+    "name": "COMUNĂ FLOREŞTI-STOENEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93600,
+    "name": "COPACIU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93656,
+    "name": "COSOBA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93711,
+    "name": "CREVEDIA MARE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93761,
+    "name": "CUCURUZU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93803,
+    "name": "CÂMPURELU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93845,
+    "name": "CĂLUGĂRENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93873,
+    "name": "CĂSCIOARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93888,
+    "name": "DAIA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93899,
+    "name": "DEALU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93952,
+    "name": "DOBRENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94135,
+    "name": "DĂRĂȘTI-VLAȘCA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94148,
+    "name": "FALAȘTOACA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94187,
+    "name": "FLOREȘTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94219,
+    "name": "FRĂTEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94325,
+    "name": "GHIMPAȚI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94353,
+    "name": "GIURGIU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94371,
+    "name": "GOGOŞARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94393,
+    "name": "GOSTINARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94394,
+    "name": "GOSTINU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94396,
+    "name": "GOŞTINARI-VĂCĂREŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94402,
+    "name": "GREACA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94435,
+    "name": "GRĂDINARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94441,
+    "name": "GRĂDIȘTEA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94502,
+    "name": "GĂISENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94514,
+    "name": "GĂUJANI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94533,
+    "name": "HERĂȘTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94570,
+    "name": "HOTARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94574,
+    "name": "HULUBEȘTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94636,
+    "name": "ICOANA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94643,
+    "name": "IEPUREŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94707,
+    "name": "IZVOARELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94744,
+    "name": "JOIŢA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94786,
+    "name": "LETCA NOUĂ",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94787,
+    "name": "LETCA VECHE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94915,
+    "name": "MALU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94918,
+    "name": "MALU SPART",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94976,
+    "name": "MIHAI BRAVU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94981,
+    "name": "MIHAI VODĂ",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94995,
+    "name": "MIHĂILEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95003,
+    "name": "MILCOVĂȚU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95147,
+    "name": "MUNICIPIUL GIURGIU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95222,
+    "name": "MÂRŞA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95299,
+    "name": "NAIPU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95356,
+    "name": "NOVACI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95416,
+    "name": "OGREZENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95419,
+    "name": "OINACU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95466,
+    "name": "ORAŞ BOLINTIN-VALE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95541,
+    "name": "ORAŞ MIHÃILEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95699,
+    "name": "PALANCA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95779,
+    "name": "PIETRELE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95782,
+    "name": "PIETRIȘU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95826,
+    "name": "PLOPȘORU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95913,
+    "name": "POPEȘTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95966,
+    "name": "PRUNDU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95978,
+    "name": "PUIENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95988,
+    "name": "PUTINEIU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96009,
+    "name": "PĂDURENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96086,
+    "name": "REMUȘ",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96096,
+    "name": "ROATA DE JOS",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96209,
+    "name": "RĂSUCENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96223,
+    "name": "SADINA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96270,
+    "name": "SCHITU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96355,
+    "name": "SINGURENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96370,
+    "name": "SLOBOZIA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96435,
+    "name": "STOENEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96477,
+    "name": "STĂNEŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105989,
+    "name": "SĂBĂRENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106138,
+    "name": "TOPORU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106153,
+    "name": "TRESTIENI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96579,
+    "name": "TÂNTAVA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96648,
+    "name": "ULMI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96693,
+    "name": "UZUNU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96723,
+    "name": "VALEA DRAGULUI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96783,
+    "name": "VEDEA",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96811,
+    "name": "VIERU",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96856,
+    "name": "VLAD ȚEPEȘ",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96934,
+    "name": "VÂNĂTORII MARI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96935,
+    "name": "VÂNĂTORII MICI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96974,
+    "name": "VĂRĂŞTI",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97003,
+    "name": "ZORILE",
+    "state": "GIURGIU",
+    "state_iso2": "GR",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 261,
+    "name": "EASTERN",
+    "iso2": "02",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA",
+    "timezone": "Africa/Kigali"
+  },
+  {
+    "id": 262,
+    "name": "KIGALI",
+    "iso2": "01",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA",
+    "timezone": "Africa/Kigali"
+  },
+  {
+    "id": 263,
+    "name": "NORTHERN",
+    "iso2": "03",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA",
+    "timezone": "Africa/Kigali"
+  },
+  {
+    "id": 259,
+    "name": "SOUTHERN",
+    "iso2": "05",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA",
+    "timezone": "Africa/Kigali"
+  },
+  {
+    "id": 260,
+    "name": "WESTERN",
+    "iso2": "04",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA",
+    "timezone": "Africa/Kigali"
+  }
+]

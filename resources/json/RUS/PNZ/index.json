@@ -1,0 +1,472 @@
+[
+  {
+    "id": 97807,
+    "name": "BASHMAKOVO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97838,
+    "name": "BEKOVO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97851,
+    "name": "BELINSKIY",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97915,
+    "name": "BESSONOVKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97975,
+    "name": "BOGOSLOVKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98106,
+    "name": "CHAADAYEVKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98142,
+    "name": "CHEMODANOVKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98560,
+    "name": "GORODISHCHE",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98574,
+    "name": "GRABOVO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98673,
+    "name": "INDERKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98715,
+    "name": "ISSA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98717,
+    "name": "ISSINSKIY RAYON",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98836,
+    "name": "KANAYEVKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99151,
+    "name": "KOLYSHLEY",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99180,
+    "name": "KONDOL’",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99508,
+    "name": "KUZNETSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99509,
+    "name": "KUZNETSKIY RAYON",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99586,
+    "name": "LERMONTOVO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99662,
+    "name": "LOPATINO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99692,
+    "name": "LUNINO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99744,
+    "name": "MAKHALINO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99752,
+    "name": "MALAYA SERDOBA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99946,
+    "name": "MOKSHAN",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100060,
+    "name": "NAROVCHAT",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100118,
+    "name": "NEVERKINO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100119,
+    "name": "NEVERKINSKIY RAYON",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100144,
+    "name": "NIKOL’SK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100171,
+    "name": "NIZHNIY LOMOV",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100526,
+    "name": "PACHELMA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100595,
+    "name": "PENZA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100738,
+    "name": "POIM",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100782,
+    "name": "POSELKI",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101033,
+    "name": "RUSSKIY KAMESHKIR",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101174,
+    "name": "SERDOBSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101298,
+    "name": "SHEMYSHEYKA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101493,
+    "name": "SOSNOVOBORSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101526,
+    "name": "SPASSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101547,
+    "name": "SREDNYAYA YELYUZAN’",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101672,
+    "name": "SURA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101680,
+    "name": "SURSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101759,
+    "name": "TAMALA",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102171,
+    "name": "VADINSK",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102255,
+    "name": "VERKHNIY LOMOV",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102283,
+    "name": "VERKHOZIM",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102651,
+    "name": "ZARECHNYY",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102664,
+    "name": "ZASECHNOYE",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102704,
+    "name": "ZEMETCHINO",
+    "state": "PENZA",
+    "state_iso2": "PNZ",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

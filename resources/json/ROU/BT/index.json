@@ -1,0 +1,1992 @@
+[
+  {
+    "id": 89889,
+    "name": "ADĂȘENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89909,
+    "name": "ALBA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 89916,
+    "name": "ALBEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90009,
+    "name": "AVRĂMENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90035,
+    "name": "BAJURA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90057,
+    "name": "BARANCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90160,
+    "name": "BLÂNDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90173,
+    "name": "BOBULEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90248,
+    "name": "BOTOŞANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90296,
+    "name": "BREHUIEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90307,
+    "name": "BROSCĂUŢI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90328,
+    "name": "BRĂEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90343,
+    "name": "BUCECEA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90359,
+    "name": "BUCOVINENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90517,
+    "name": "BĂLUŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90826,
+    "name": "COMUNA ADĂŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90839,
+    "name": "COMUNA ALBEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 90906,
+    "name": "COMUNA AVRĂMENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91004,
+    "name": "COMUNA BLÂNDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91102,
+    "name": "COMUNA BROSCĂUŢI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91119,
+    "name": "COMUNA BRĂEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91220,
+    "name": "COMUNA BĂLUŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91411,
+    "name": "COMUNA CONCEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91421,
+    "name": "COMUNA COPĂLĂU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91433,
+    "name": "COMUNA CORLĂTENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91441,
+    "name": "COMUNA CORNI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91479,
+    "name": "COMUNA COŞULA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91483,
+    "name": "COMUNA COŢUŞCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91497,
+    "name": "COMUNA CRISTEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91500,
+    "name": "COMUNA CRISTINEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91529,
+    "name": "COMUNA CURTEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91547,
+    "name": "COMUNA CÂNDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91576,
+    "name": "COMUNA CĂLĂRAŞI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91616,
+    "name": "COMUNA DERSCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91627,
+    "name": "COMUNA DIMĂCHENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91646,
+    "name": "COMUNA DOBÂRCENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91696,
+    "name": "COMUNA DRĂGUŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91725,
+    "name": "COMUNA DURNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91727,
+    "name": "COMUNA DÂNGENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91788,
+    "name": "COMUNA FRUMUŞICA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91838,
+    "name": "COMUNA GEORGE ENESCU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91901,
+    "name": "COMUNA GORBĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 91993,
+    "name": "COMUNA HAVÂRNA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92001,
+    "name": "COMUNA HILIŞEU-HORIA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92003,
+    "name": "COMUNA HLIPICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92026,
+    "name": "COMUNA HUDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92041,
+    "name": "COMUNA HĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92058,
+    "name": "COMUNA IBĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92151,
+    "name": "COMUNA LEORDA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92187,
+    "name": "COMUNA LOZNA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92199,
+    "name": "COMUNA LUNCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92239,
+    "name": "COMUNA MANOLEASA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92272,
+    "name": "COMUNA MIHAI EMINESCU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92283,
+    "name": "COMUNA MIHĂILENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92286,
+    "name": "COMUNA MIHĂLĂŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92291,
+    "name": "COMUNA MILEANCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92306,
+    "name": "COMUNA MITOC",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92447,
+    "name": "COMUNA NICŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92649,
+    "name": "COMUNA POMÂRLA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92688,
+    "name": "COMUNA PRĂJENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92717,
+    "name": "COMUNA PĂLTINIŞ",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92772,
+    "name": "COMUNA RIPICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92781,
+    "name": "COMUNA ROMA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92786,
+    "name": "COMUNA ROMÂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92831,
+    "name": "COMUNA RÃDÃUŢI-PRUT",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92838,
+    "name": "COMUNA RĂCHIŢI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92853,
+    "name": "COMUNA RĂUSENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 92871,
+    "name": "COMUNA SANTA MARE",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93022,
+    "name": "COMUNA STĂUCENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93030,
+    "name": "COMUNA SUHARĂU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93032,
+    "name": "COMUNA SULIŢA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93162,
+    "name": "COMUNA TODIRENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93197,
+    "name": "COMUNA TRUŞEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93200,
+    "name": "COMUNA TUDORA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93271,
+    "name": "COMUNA UNGURENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93278,
+    "name": "COMUNA UNŢENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93362,
+    "name": "COMUNA VIIŞOARA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93385,
+    "name": "COMUNA VLĂDENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93393,
+    "name": "COMUNA VLĂSINEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93405,
+    "name": "COMUNA VORNICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93406,
+    "name": "COMUNA VORONA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93439,
+    "name": "COMUNA VÂRFU CÂMPULUI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93450,
+    "name": "COMUNA VĂCULEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93507,
+    "name": "COMUNA ŞENDRICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93556,
+    "name": "COMUNA ŞTIUBIENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93582,
+    "name": "COMUNĂ CORDĂRENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93589,
+    "name": "CONCEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93608,
+    "name": "COPĂLĂU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93624,
+    "name": "CORDĂRENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93626,
+    "name": "CORLĂTENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93636,
+    "name": "CORNI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93663,
+    "name": "COSTEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93696,
+    "name": "COŢUŞCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93699,
+    "name": "COȘULA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93718,
+    "name": "CRISTEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93724,
+    "name": "CRISTINEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93775,
+    "name": "CURTEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93806,
+    "name": "CÂNDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93849,
+    "name": "CĂLĂRAŞI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93881,
+    "name": "CĂTĂMĂREȘTI-DEAL",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93894,
+    "name": "DARABANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93923,
+    "name": "DERSCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93937,
+    "name": "DIMĂCHENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 93972,
+    "name": "DOBÂRCENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94002,
+    "name": "DOROBANȚI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94006,
+    "name": "DOROHOI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94010,
+    "name": "DRACȘANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94030,
+    "name": "DRAXINI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94049,
+    "name": "DRĂGUŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94093,
+    "name": "DUMBRĂVIȚA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94094,
+    "name": "DUMENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94102,
+    "name": "DURNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94108,
+    "name": "DÂNGENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94191,
+    "name": "FLĂMÂNZI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94211,
+    "name": "FRUMUŞICA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94293,
+    "name": "GEORGE ENESCU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94383,
+    "name": "GORBĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94524,
+    "name": "HAVÂRNA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94536,
+    "name": "HILIŞEU-HORIA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94538,
+    "name": "HLIPICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94571,
+    "name": "HUDEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94603,
+    "name": "HĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94614,
+    "name": "IACOBENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94632,
+    "name": "IBĂNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94638,
+    "name": "ICUȘENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94680,
+    "name": "IONĂȘENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94745,
+    "name": "JOLDEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94778,
+    "name": "LEORDA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94836,
+    "name": "LOZNA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94859,
+    "name": "LUNCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94923,
+    "name": "MANOLEASA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94993,
+    "name": "MIHĂILENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 94997,
+    "name": "MIHĂLĂŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95004,
+    "name": "MILEANCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95010,
+    "name": "MIORCANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95030,
+    "name": "MITOC",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95037,
+    "name": "MLENĂUȚI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95115,
+    "name": "MUNICIPIUL BOTOŞANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95137,
+    "name": "MUNICIPIUL DOROHOI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95214,
+    "name": "MÂNDREȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95333,
+    "name": "NICOLAE BĂLCESCU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95344,
+    "name": "NICŞENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95438,
+    "name": "ONEAGA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95473,
+    "name": "ORAŞ BUCECEA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95507,
+    "name": "ORAŞ DARABANI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95518,
+    "name": "ORAŞ FLÃMÂNZI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95600,
+    "name": "ORAŞ SÃVENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95630,
+    "name": "ORAŞ ŞTEFÃNEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95664,
+    "name": "OROFTIANA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95668,
+    "name": "ORĂȘENI-DEAL",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95863,
+    "name": "POIANA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95904,
+    "name": "POMÂRLA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 95970,
+    "name": "PRĂJENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96006,
+    "name": "PĂDURENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96014,
+    "name": "PĂLTINIŞ",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96078,
+    "name": "REDIU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96095,
+    "name": "RIPICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96104,
+    "name": "ROMA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96113,
+    "name": "ROMÂNEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96139,
+    "name": "ROȘIORI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96188,
+    "name": "RĂCHIŢI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96194,
+    "name": "RĂDENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96202,
+    "name": "RĂDĂUȚI-PRUT",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96212,
+    "name": "RĂUSENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96240,
+    "name": "SANTA MARE",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96242,
+    "name": "SARAFINEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96444,
+    "name": "STOREŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96456,
+    "name": "STROIEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96464,
+    "name": "STRĂTENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96472,
+    "name": "STÂNCEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96483,
+    "name": "STĂUCENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96496,
+    "name": "SUHARĂU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96500,
+    "name": "SULIȚA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 105985,
+    "name": "SÂRBI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106046,
+    "name": "SĂVENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106113,
+    "name": "TOCILENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106114,
+    "name": "TODIRENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106162,
+    "name": "TRUŞEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106166,
+    "name": "TUDOR VLADIMIRESCU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 106168,
+    "name": "TUDORA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96662,
+    "name": "UNGURENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96663,
+    "name": "UNGURENI-JIANU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96671,
+    "name": "UNŢENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96804,
+    "name": "VICTORIA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96821,
+    "name": "VIIŞOARA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96863,
+    "name": "VLĂDENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96864,
+    "name": "VLĂDENI-DEAL",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96872,
+    "name": "VLĂSINEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96891,
+    "name": "VORNICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96892,
+    "name": "VORONA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96893,
+    "name": "VORONA TEODORU",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96938,
+    "name": "VÂRFU CÂMPULUI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96950,
+    "name": "VĂCULEŞTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 96999,
+    "name": "ZLĂTUNOAIA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97038,
+    "name": "ŞENDRICENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97086,
+    "name": "ŞTEFĂNEŞTI-SAT",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97088,
+    "name": "ŞTIUBIENI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97133,
+    "name": "ȘTEFĂNEȘTI",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  },
+  {
+    "id": 97135,
+    "name": "ȘUPITCA",
+    "state": "BOTOȘANI",
+    "state_iso2": "BT",
+    "country": "ROMANIA",
+    "country_iso2": "RO",
+    "country_iso3": "ROU",
+    "country_native": "ROMÂNIA"
+  }
+]

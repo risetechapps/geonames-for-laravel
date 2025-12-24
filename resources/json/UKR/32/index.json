@@ -1,0 +1,892 @@
+[
+  {
+    "id": 109353,
+    "name": "BARYSHIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109354,
+    "name": "BARYSHIVS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109393,
+    "name": "BILA TSERKVA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109394,
+    "name": "BILA TSERKVA RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109422,
+    "name": "BOHUSLAV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109426,
+    "name": "BORISPOL’SKIY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109427,
+    "name": "BORODIANKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109429,
+    "name": "BORODYANS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109431,
+    "name": "BOROVA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109436,
+    "name": "BORYSPIL’",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109440,
+    "name": "BOYARKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109449,
+    "name": "BROVARY",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109450,
+    "name": "BROVARY RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109456,
+    "name": "BUCHA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109468,
+    "name": "CHABANY",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109494,
+    "name": "CHERNYAKHIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109591,
+    "name": "DYMER",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109597,
+    "name": "FASTIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109598,
+    "name": "FASTIV RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109631,
+    "name": "HLEVAKHA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109635,
+    "name": "HNIDYN",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109639,
+    "name": "HORENKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109655,
+    "name": "HOSTOMEL",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109672,
+    "name": "IRPIN",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109673,
+    "name": "IRPINS’KA MIS’KRADA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109680,
+    "name": "IVANKIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109681,
+    "name": "IVANKIV RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109695,
+    "name": "KAHARLYK",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109696,
+    "name": "KAHARLYK RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109705,
+    "name": "KALYNOVE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109716,
+    "name": "KARAPYSHI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109720,
+    "name": "KATYUZHANKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109739,
+    "name": "KHOTIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109749,
+    "name": "KIROVE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109758,
+    "name": "KLAVDIYEVO-TARASOVE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109764,
+    "name": "KNYAZHICHI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109768,
+    "name": "KODRA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109797,
+    "name": "KORNIYIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109825,
+    "name": "KOZHANKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109855,
+    "name": "KRASYATYCHI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109865,
+    "name": "KRIUKIVSCHINA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109874,
+    "name": "KRYVA HORA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109900,
+    "name": "KYYEVO-SVYATOSHYNS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109925,
+    "name": "LIUTIZH",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109972,
+    "name": "MAKARIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 109973,
+    "name": "MAKARIV RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110035,
+    "name": "MIROVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110057,
+    "name": "MOTOVYLIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110076,
+    "name": "MYRONIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110116,
+    "name": "NOVI PETRIVTSI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110173,
+    "name": "OBUKHIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110174,
+    "name": "OBUKHIV RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110175,
+    "name": "OBUKHIVS’KA MIS’KRADA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110239,
+    "name": "PEREIASLAV-KHMELNYTSKYI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110240,
+    "name": "PEREIASLAV-KHMELNYTSKYI RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110274,
+    "name": "PISKIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110287,
+    "name": "POHREBY",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110327,
+    "name": "PUKHIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110363,
+    "name": "ROKYTNE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110365,
+    "name": "ROKYTNE RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110373,
+    "name": "ROSKOSHNYY",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110398,
+    "name": "RZHYSHCHIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110417,
+    "name": "SEMYPOLKY",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110474,
+    "name": "SKVYRA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110475,
+    "name": "SKVYRS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110480,
+    "name": "SLAVUTYCH",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110499,
+    "name": "SOFIYIVSKA BORSCHAGIVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110543,
+    "name": "STAVYSHCHE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110545,
+    "name": "STAYKI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110590,
+    "name": "TARASHCHA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110606,
+    "name": "TETIIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110620,
+    "name": "TREBUKHIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110624,
+    "name": "TRYPILLIA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110632,
+    "name": "TSYBLI",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110651,
+    "name": "UKRAINKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110669,
+    "name": "UZYN",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110678,
+    "name": "VASYLKIV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110679,
+    "name": "VASYLKIV RAION",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110684,
+    "name": "VELYKA DYMERKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110733,
+    "name": "VOLODARKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110742,
+    "name": "VORONKOV",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110745,
+    "name": "VORZEL’",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110762,
+    "name": "VYSHGORODSKIY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110763,
+    "name": "VYSHHOROD",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110765,
+    "name": "VYSHNEVE",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110773,
+    "name": "YAHOTYN",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110774,
+    "name": "YAHOTYNS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110839,
+    "name": "ZGUROVKA",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  },
+  {
+    "id": 110872,
+    "name": "Z·HURIVS’KYY RAYON",
+    "state": "KYIVSKA",
+    "state_iso2": "32",
+    "country": "UKRAINE",
+    "country_iso2": "UA",
+    "country_iso3": "UKR",
+    "country_native": "УКРАЇНА"
+  }
+]

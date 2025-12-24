@@ -1,0 +1,722 @@
+[
+  {
+    "id": 5554,
+    "name": "AKRANES",
+    "iso2": "AKN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5555,
+    "name": "AKUREYRI",
+    "iso2": "AKU",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5558,
+    "name": "BLÁSKÓGABYGGÐ",
+    "iso2": "BLA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5560,
+    "name": "BOLUNGARVÍK",
+    "iso2": "BOL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5559,
+    "name": "BORGARBYGGÐ",
+    "iso2": "BOG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3431,
+    "name": "CAPITAL",
+    "iso2": "1",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5561,
+    "name": "DALABYGGÐ",
+    "iso2": "DAB",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5562,
+    "name": "DALVÍKURBYGGÐ",
+    "iso2": "DAV",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3433,
+    "name": "EASTERN",
+    "iso2": "7",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5563,
+    "name": "EYJA- OG MIKLAHOLTSHREPPUR",
+    "iso2": "EOM",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5564,
+    "name": "EYJAFJARÐARSVEIT",
+    "iso2": "EYF",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5566,
+    "name": "FJALLABYGGÐ",
+    "iso2": "FJL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5565,
+    "name": "FJARÐABYGGÐ",
+    "iso2": "FJD",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5568,
+    "name": "FLJÓTSDALSHREPPUR",
+    "iso2": "FLR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5567,
+    "name": "FLÓAHREPPUR",
+    "iso2": "FLA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5569,
+    "name": "GARÐABÆR",
+    "iso2": "GAR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5571,
+    "name": "GRINDAVÍK",
+    "iso2": "GRN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5572,
+    "name": "GRUNDARFJÖRÐUR",
+    "iso2": "GRU",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5570,
+    "name": "GRÍMSNES- OG GRAFNINGSHREPPUR",
+    "iso2": "GOG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5573,
+    "name": "GRÝTUBAKKAHREPPUR",
+    "iso2": "GRY",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5574,
+    "name": "HAFNARFJÖRÐUR",
+    "iso2": "HAF",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5600,
+    "name": "HORNAFJÖRÐUR",
+    "iso2": "SHF",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5576,
+    "name": "HRUNAMANNAHREPPUR",
+    "iso2": "HRU",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5579,
+    "name": "HVALFJARÐARSVEIT",
+    "iso2": "HVA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5580,
+    "name": "HVERAGERÐI",
+    "iso2": "HVE",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5575,
+    "name": "HÖRÐARSVEIT",
+    "iso2": "HRG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5577,
+    "name": "HÚNABYGGÐ",
+    "iso2": "HUG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5578,
+    "name": "HÚNAÞING VESTRA",
+    "iso2": "HUV",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5582,
+    "name": "KALDRANANESHREPPUR",
+    "iso2": "KAL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5583,
+    "name": "KJÓSARHREPPUR",
+    "iso2": "KJO",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5584,
+    "name": "KÓPAVOGUR",
+    "iso2": "KOP",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5585,
+    "name": "LANGANESBYGGÐ",
+    "iso2": "LAN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5586,
+    "name": "MOSFELLSBÆR",
+    "iso2": "MOS",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5587,
+    "name": "MÚLAÞING",
+    "iso2": "MUL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5588,
+    "name": "MÝRDALSHREPPUR",
+    "iso2": "MYR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3437,
+    "name": "NORTHEASTERN",
+    "iso2": "6",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3435,
+    "name": "NORTHWESTERN",
+    "iso2": "5",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5589,
+    "name": "NORÐURÞING",
+    "iso2": "NOR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5590,
+    "name": "RANGÁRÞING EYSTRA",
+    "iso2": "RGE",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5591,
+    "name": "RANGÁRÞING YTRA",
+    "iso2": "RGY",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5592,
+    "name": "REYKHÓLAHREPPUR",
+    "iso2": "RHH",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5593,
+    "name": "REYKJANESBÆR",
+    "iso2": "RKN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5594,
+    "name": "REYKJAVÍK",
+    "iso2": "RKV",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5598,
+    "name": "SELTJARNARNES",
+    "iso2": "SEL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5601,
+    "name": "SKAFTÁRHREPPUR",
+    "iso2": "SKF",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5602,
+    "name": "SKAGABYGGÐ",
+    "iso2": "SKG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5604,
+    "name": "SKAGAFJÖRÐUR",
+    "iso2": "SKR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5608,
+    "name": "SKAGASTRÖND",
+    "iso2": "SSS",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5606,
+    "name": "SKEIÐA- OG GNÚPVERJAHREPPUR",
+    "iso2": "SOG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5603,
+    "name": "SKORRADALSHREPPUR",
+    "iso2": "SKO",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5605,
+    "name": "SNÆFELLSBÆR",
+    "iso2": "SNF",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3434,
+    "name": "SOUTHERN",
+    "iso2": "8",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3430,
+    "name": "SOUTHERN PENINSULA",
+    "iso2": "2",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5609,
+    "name": "STRANDABYGGÐ",
+    "iso2": "STR",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5610,
+    "name": "STYKKISHÓLMUR",
+    "iso2": "STY",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5596,
+    "name": "SUÐURNESJABÆR",
+    "iso2": "SDN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5595,
+    "name": "SVALBARDSSTRANDARHREPPUR",
+    "iso2": "SBT",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5597,
+    "name": "SÚÐAVÍK",
+    "iso2": "SDV",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5614,
+    "name": "TJÖRNESHREPPUR",
+    "iso2": "TJO",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5612,
+    "name": "TÁLKNAFJARÐARHREPPUR",
+    "iso2": "TAL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5615,
+    "name": "VESTMANNAEYJAR",
+    "iso2": "VEM",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5616,
+    "name": "VESTURBYGGÐ",
+    "iso2": "VER",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5611,
+    "name": "VOGAR",
+    "iso2": "SVG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5617,
+    "name": "VOPNAFJARÐARHREPPUR",
+    "iso2": "VOP",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3436,
+    "name": "WESTERN",
+    "iso2": "3",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 3432,
+    "name": "WESTFJORDS",
+    "iso2": "4",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5599,
+    "name": "ÁRBORG",
+    "iso2": "SFA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5556,
+    "name": "ÁRNESHREPPUR",
+    "iso2": "ARN",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5557,
+    "name": "ÁSAHREPPUR",
+    "iso2": "ASA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5581,
+    "name": "ÍSAFJÖRÐUR",
+    "iso2": "ISA",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5607,
+    "name": "ÖLFUS",
+    "iso2": "SOL",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  },
+  {
+    "id": 5613,
+    "name": "ÞINGEYJARSVEIT",
+    "iso2": "THG",
+    "country": "ICELAND",
+    "country_iso2": "IS",
+    "country_iso3": "ISL",
+    "country_native": "ÍSLAND",
+    "timezone": "Atlantic/Reykjavik"
+  }
+]

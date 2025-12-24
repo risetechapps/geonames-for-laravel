@@ -1,0 +1,522 @@
+[
+  {
+    "id": 79966,
+    "name": "ALTO DEL ESPINO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79967,
+    "name": "ALTOS DE SAN FRANCISCO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79971,
+    "name": "ARENOSA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79972,
+    "name": "AROSEMENA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79973,
+    "name": "ARRAIJÁN",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 79989,
+    "name": "BEJUCO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80033,
+    "name": "CAPIRA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80044,
+    "name": "CERMEÑO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80047,
+    "name": "CERRO CAMA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80053,
+    "name": "CHAME",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80069,
+    "name": "CIRÍ DE LOS SOTOS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80083,
+    "name": "DISTRITO ARRAIJÁN",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80097,
+    "name": "DISTRITO DE CAPIRA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80100,
+    "name": "DISTRITO DE CHAME",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80112,
+    "name": "DISTRITO DE LA CHORRERA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80135,
+    "name": "DISTRITO DE SAN CARLOS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80151,
+    "name": "EL CACAO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80163,
+    "name": "EL COCO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80171,
+    "name": "EL ESPAVÉ",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80172,
+    "name": "EL ESPINO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80178,
+    "name": "EL HIGO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80179,
+    "name": "EL LÍBANO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80219,
+    "name": "GUADALUPE",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80226,
+    "name": "GUAYABITO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80232,
+    "name": "HATO MONTAÑA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80243,
+    "name": "LA CHORRERA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80250,
+    "name": "LA ERMITA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80257,
+    "name": "LA HERRADURA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80268,
+    "name": "LA MITRA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80273,
+    "name": "LA PESA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80286,
+    "name": "LAS COLINAS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80308,
+    "name": "LAS UVAS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80336,
+    "name": "LOS LLANITOS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80352,
+    "name": "MENDOZA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80371,
+    "name": "NUEVA ARENOSA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80373,
+    "name": "NUEVA GORGONA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80374,
+    "name": "NUEVO ARRAIJÁN",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80377,
+    "name": "NUEVO EMPERADOR",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80416,
+    "name": "PLAYA LEONA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80426,
+    "name": "POTRERO GRANDE",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80432,
+    "name": "PUERTO CAIMITO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80458,
+    "name": "RÍO CONGO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80474,
+    "name": "SAN CARLOS",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80481,
+    "name": "SAN JOSÉ",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80495,
+    "name": "SAN VICENTE DE BIQUE",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80497,
+    "name": "SANTA CLARA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80505,
+    "name": "SANTA RITA",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80518,
+    "name": "SORÁ",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80540,
+    "name": "VERACRUZ",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80543,
+    "name": "VILLA CARMEN",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80545,
+    "name": "VILLA ROSARIO",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  },
+  {
+    "id": 80547,
+    "name": "VISTA ALEGRE",
+    "state": "PANAMÁ OESTE",
+    "state_iso2": "10",
+    "country": "PANAMA",
+    "country_iso2": "PA",
+    "country_iso3": "PAN",
+    "country_native": "PANAMÁ"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 97488,
+    "name": "ABRAM MYS",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97511,
+    "name": "AFRIKANDA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97556,
+    "name": "ALAKURTTI",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97649,
+    "name": "APATITY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98445,
+    "name": "GADZHIYEVO",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98837,
+    "name": "KANDALAKSHA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98838,
+    "name": "KANDALAKSHSKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99064,
+    "name": "KIROVSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99136,
+    "name": "KOLA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99156,
+    "name": "KOL’SKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99252,
+    "name": "KOVDOR",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99253,
+    "name": "KOVDORSKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99673,
+    "name": "LOVOZERO",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99674,
+    "name": "LOVOZERSKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99950,
+    "name": "MOLOCHNYY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99957,
+    "name": "MONCHEGORSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100009,
+    "name": "MURMANSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100010,
+    "name": "MURMASHI",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100130,
+    "name": "NIKEL",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100420,
+    "name": "OLENEGORSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100497,
+    "name": "OSTROVNOY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100584,
+    "name": "PECHENGA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100585,
+    "name": "PECHENGSKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100762,
+    "name": "POLYARNYY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100763,
+    "name": "POLYARNYYE ZORI",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100796,
+    "name": "POYAKONDA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100968,
+    "name": "REVDA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101002,
+    "name": "ROSLYAKOVO",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101069,
+    "name": "SAFONOVO",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101218,
+    "name": "SEVEROMORSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101219,
+    "name": "SEVEROMORSK-3",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101338,
+    "name": "SHONGUY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101424,
+    "name": "SNEZHNOGORSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101831,
+    "name": "TERIBËRKA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101839,
+    "name": "TERSKIY RAYON",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102055,
+    "name": "UMBA",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102241,
+    "name": "VERKHNETULOMSKIY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102303,
+    "name": "VIDYAYEVO",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102446,
+    "name": "VYSOKIY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102645,
+    "name": "ZAOZËRSK",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102647,
+    "name": "ZAPOLYARNYY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102692,
+    "name": "ZELENOBORSKIY",
+    "state": "MURMANSK",
+    "state_iso2": "MUR",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

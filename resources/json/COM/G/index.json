@@ -1,0 +1,402 @@
+[
+  {
+    "id": 65082,
+    "name": "BAHANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65083,
+    "name": "BAMBADJANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65089,
+    "name": "BOUNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65091,
+    "name": "CHEZANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65092,
+    "name": "CHINDINI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65095,
+    "name": "CHOUANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65097,
+    "name": "DEMBÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65100,
+    "name": "DOUNIANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65101,
+    "name": "DZAHADJOU",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65104,
+    "name": "FOUMBOUNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65106,
+    "name": "HANTSINDZI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65109,
+    "name": "HÉROUMBILI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65110,
+    "name": "ITSANDRA",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65111,
+    "name": "ITSANDZÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65112,
+    "name": "IVOUANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65118,
+    "name": "KOUA",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65122,
+    "name": "MADJEOUÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65124,
+    "name": "MANDZA",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65126,
+    "name": "MAVINGOUNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65127,
+    "name": "MBÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65129,
+    "name": "MITSAMIOULI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65130,
+    "name": "MITSOUDJÉ",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65133,
+    "name": "MNOUNGOU",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65134,
+    "name": "MOHORO",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65135,
+    "name": "MORONI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65141,
+    "name": "MTSAMDOU",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65142,
+    "name": "MVOUNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65144,
+    "name": "NIOUMAMILIMA",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65145,
+    "name": "NTSAOUÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65146,
+    "name": "NTSOUDJINI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65150,
+    "name": "OUELLAH",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65151,
+    "name": "OUHOZI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65152,
+    "name": "OUROVÉNI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65153,
+    "name": "OUSSIVO",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65157,
+    "name": "SALIMANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65159,
+    "name": "SINGANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65160,
+    "name": "SÉLÉA",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65161,
+    "name": "TSIDJÉ",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65163,
+    "name": "VANADJOU",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  },
+  {
+    "id": 65164,
+    "name": "VANAMBOUANI",
+    "state": "GRANDE COMORE",
+    "state_iso2": "G",
+    "country": "COMOROS",
+    "country_iso2": "KM",
+    "country_iso3": "COM",
+    "country_native": "KOMORI"
+  }
+]

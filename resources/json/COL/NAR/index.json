@@ -1,0 +1,642 @@
+[
+  {
+    "id": 20503,
+    "name": "ALDANA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20517,
+    "name": "ANCUYA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20539,
+    "name": "ARBOLEDA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20565,
+    "name": "BARBACOAS",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20582,
+    "name": "BELÉN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20611,
+    "name": "BUESACO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20674,
+    "name": "CHACHAGÜÍ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20722,
+    "name": "COLÓN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20730,
+    "name": "CONSACA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20732,
+    "name": "CONTADERO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20748,
+    "name": "CUASPUD",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20756,
+    "name": "CUMBAL",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20757,
+    "name": "CUMBITARA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20769,
+    "name": "CÓRDOBA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20801,
+    "name": "EL CHARCO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20816,
+    "name": "EL PEÑOL",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20827,
+    "name": "EL ROSARIO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20829,
+    "name": "EL TABLÓN DE GÓMEZ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20832,
+    "name": "EL TAMBO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20858,
+    "name": "FRANCISCO PIZARRO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20865,
+    "name": "FUNES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20899,
+    "name": "GUACHUCAL",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20904,
+    "name": "GUAITARILLA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20905,
+    "name": "GUALMATÁN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20946,
+    "name": "ILES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20947,
+    "name": "IMUÉS",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20950,
+    "name": "IPIALES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20978,
+    "name": "LA CRUZ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20984,
+    "name": "LA FLORIDA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 20989,
+    "name": "LA LLANADA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21005,
+    "name": "LA TOLA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21008,
+    "name": "LA UNIÓN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21024,
+    "name": "LEIVA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21029,
+    "name": "LINARES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21032,
+    "name": "LOS ANDES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21189,
+    "name": "MAGÜÍ PAYÁN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21054,
+    "name": "MALLAMA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21108,
+    "name": "MOSQUERA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21125,
+    "name": "NARIÑO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21150,
+    "name": "OLAYA HERRERA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21155,
+    "name": "OSPINA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21184,
+    "name": "PASTO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21216,
+    "name": "POLICARPA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21221,
+    "name": "POTOSÍ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 149246,
+    "name": "PROVIDENCIA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21230,
+    "name": "PUERRES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21262,
+    "name": "PUPIALES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21288,
+    "name": "RICAURTE",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21297,
+    "name": "ROBERTO PAYÁN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21325,
+    "name": "SAMANIEGO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21341,
+    "name": "SAN BERNARDO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21365,
+    "name": "SAN JOSÉ DE ALBÁN",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21378,
+    "name": "SAN LORENZO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21392,
+    "name": "SAN PABLO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21398,
+    "name": "SAN PEDRO DE CARTAGO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21410,
+    "name": "SANDONÁ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21413,
+    "name": "SANTA BÁRBARA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21431,
+    "name": "SANTACRUZ",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21443,
+    "name": "SAPUYES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21509,
+    "name": "TAMINANGO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21510,
+    "name": "TANGUA",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21552,
+    "name": "TUMACO",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21564,
+    "name": "TÚQUERRES",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  },
+  {
+    "id": 21620,
+    "name": "YACUANQUER",
+    "state": "NARIÑO",
+    "state_iso2": "NAR",
+    "country": "COLOMBIA",
+    "country_iso2": "CO",
+    "country_iso3": "COL",
+    "country_native": "COLOMBIA"
+  }
+]

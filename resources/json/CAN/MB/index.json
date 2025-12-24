@@ -1,0 +1,432 @@
+[
+  {
+    "id": 16160,
+    "name": "ALTONA",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16206,
+    "name": "BEAUSEJOUR",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16225,
+    "name": "BOISSEVAIN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16238,
+    "name": "BRANDON",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16275,
+    "name": "CARBERRY",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16283,
+    "name": "CARMAN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16348,
+    "name": "CROSS LAKE 19A",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16356,
+    "name": "DAUPHIN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16360,
+    "name": "DE SALABERRY",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16364,
+    "name": "DELORAINE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16422,
+    "name": "FLIN FLON",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16452,
+    "name": "GIMLI",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16477,
+    "name": "GRUNTHAL",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16500,
+    "name": "HEADINGLEY",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16518,
+    "name": "ILE DES CHÊNES",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16544,
+    "name": "KILLARNEY",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16563,
+    "name": "LA BROQUERIE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16576,
+    "name": "LAC DU BONNET",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16593,
+    "name": "LANDMARK",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16629,
+    "name": "LORETTE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16677,
+    "name": "MELITA",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16693,
+    "name": "MINNEDOSA",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16714,
+    "name": "MOOSE LAKE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16717,
+    "name": "MORDEN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16720,
+    "name": "MORRIS",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16734,
+    "name": "NEEPAWA",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16749,
+    "name": "NIVERVILLE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16848,
+    "name": "PORTAGE LA PRAIRIE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16894,
+    "name": "RIVERS",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 16898,
+    "name": "ROBLIN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17026,
+    "name": "SELKIRK",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17041,
+    "name": "SHILO",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17056,
+    "name": "SOURIS",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17067,
+    "name": "ST. ADOLPHE",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17075,
+    "name": "STEINBACH",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17080,
+    "name": "STONEWALL",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17093,
+    "name": "SWAN RIVER",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17105,
+    "name": "THE PAS",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17108,
+    "name": "THOMPSON",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17161,
+    "name": "VIRDEN",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17192,
+    "name": "WEST ST. PAUL",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17214,
+    "name": "WINKLER",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  },
+  {
+    "id": 17215,
+    "name": "WINNIPEG",
+    "state": "MANITOBA",
+    "state_iso2": "MB",
+    "country": "CANADA",
+    "country_iso2": "CA",
+    "country_iso3": "CAN",
+    "country_native": "CANADA"
+  }
+]

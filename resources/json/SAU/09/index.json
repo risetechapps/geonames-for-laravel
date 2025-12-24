@@ -1,0 +1,662 @@
+[
+  {
+    "id": 148745,
+    "name": "ABU RADIF",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102806,
+    "name": "ABŪ ‘ARĪSH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102807,
+    "name": "AD DARB",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148746,
+    "name": "AD DUR`IYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148747,
+    "name": "ADH DHAGHARIR",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148748,
+    "name": "AL BADAWI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148749,
+    "name": "AL HADRUR",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148750,
+    "name": "AL HANASHAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148751,
+    "name": "AL HARANI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148752,
+    "name": "AL HASAMAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148753,
+    "name": "AL HIJFAR",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148754,
+    "name": "AL JADI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102822,
+    "name": "AL JARĀDĪYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148755,
+    "name": "AL JAWAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148756,
+    "name": "AL JIRBAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148757,
+    "name": "AL KARBUS",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148758,
+    "name": "AL KAWAHILAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148759,
+    "name": "AL KHADRA' JIZAN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148760,
+    "name": "AL KHARABAH JIZAN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148761,
+    "name": "AL KHARADILAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148762,
+    "name": "AL KHASHABIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148763,
+    "name": "AL KHUBAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148764,
+    "name": "AL KIRS",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148765,
+    "name": "AL LUQIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148767,
+    "name": "AL MADAYA",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148768,
+    "name": "AL MALI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148769,
+    "name": "AL MAYASAM",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148766,
+    "name": "AL MA`AYIN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148770,
+    "name": "AL QA'IM",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148771,
+    "name": "AL QUFUL",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148772,
+    "name": "AL QURAYB",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148773,
+    "name": "AL QUWAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148774,
+    "name": "AL WASILI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148775,
+    "name": "AL `ULAYIN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148776,
+    "name": "AL `USAYLAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148777,
+    "name": "AN NAJAMIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148778,
+    "name": "AR RUKUBAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148779,
+    "name": "ASH SHUQAYQ",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148780,
+    "name": "BAKHSHAT YAMANI",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102854,
+    "name": "FARASĀN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148781,
+    "name": "GHAWIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148782,
+    "name": "HAMAYYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148783,
+    "name": "HAMDAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102859,
+    "name": "JIZAN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148784,
+    "name": "JUHA SAUDI ARABIA",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148785,
+    "name": "KA`LUL",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148786,
+    "name": "KHABATH SA`ID",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148787,
+    "name": "KHALFAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148788,
+    "name": "KHATIB SAUDI ARABIA",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148789,
+    "name": "KHUMSIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148790,
+    "name": "KHUSHAYM",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148791,
+    "name": "MAHATAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148792,
+    "name": "MALGOCTA",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102866,
+    "name": "MISLĪYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102867,
+    "name": "MIZHIRAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148793,
+    "name": "MUKAMBAL",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148794,
+    "name": "MUNDARAQ",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148795,
+    "name": "MUWASSAM",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148796,
+    "name": "QITABIR",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148797,
+    "name": "QUWAYDA'",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148798,
+    "name": "RAHWAN",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148799,
+    "name": "RAWKHAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148800,
+    "name": "SADILIYAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 148801,
+    "name": "SALAMAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102894,
+    "name": "ŞABYĀ",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 102897,
+    "name": "ŞĀMITAH",
+    "state": "JIZAN",
+    "state_iso2": "09",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  }
+]

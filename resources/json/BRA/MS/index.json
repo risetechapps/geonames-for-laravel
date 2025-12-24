@@ -1,0 +1,822 @@
+[
+  {
+    "id": 10117,
+    "name": "ALCINÓPOLIS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10202,
+    "name": "AMAMBAI",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10238,
+    "name": "ANASTÁCIO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10239,
+    "name": "ANAURILÂNDIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10259,
+    "name": "ANGÉLICA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10277,
+    "name": "ANTÔNIO JOÃO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10290,
+    "name": "APARECIDA DO TABOADO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10305,
+    "name": "AQUIDAUANA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10329,
+    "name": "ARAL MOREIRA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10501,
+    "name": "BANDEIRANTES",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10579,
+    "name": "BATAGUASSU",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10580,
+    "name": "BATAIPORÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10584,
+    "name": "BATAYPORÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10594,
+    "name": "BELA VISTA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10686,
+    "name": "BODOQUENA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10737,
+    "name": "BONITO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10770,
+    "name": "BRASILÂNDIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10843,
+    "name": "CAARAPÓ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10939,
+    "name": "CAMAPUÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 10989,
+    "name": "CAMPO GRANDE",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11003,
+    "name": "CAMPO VERDE",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11102,
+    "name": "CARACOL",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11183,
+    "name": "CASSILÂNDIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11268,
+    "name": "CHAPADÃO DO SUL",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11407,
+    "name": "CORGUINHO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11429,
+    "name": "CORONEL SAPUCAIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11442,
+    "name": "CORUMBÁ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11449,
+    "name": "COSTA RICA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11458,
+    "name": "COXIM",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11573,
+    "name": "DEODÁPOLIS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11616,
+    "name": "DOIS IRMÃOS DO BURITI",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11651,
+    "name": "DOURADINA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11654,
+    "name": "DOURADOS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11677,
+    "name": "ELDORADO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11817,
+    "name": "FIGUEIRÃO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11908,
+    "name": "FÁTIMA DO SUL",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 11952,
+    "name": "GLÓRIA DE DOURADOS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12079,
+    "name": "GUIA LOPES DA LAGUNA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12200,
+    "name": "IGUATEMI",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12255,
+    "name": "INOCÊNCIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12433,
+    "name": "ITAPORÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12445,
+    "name": "ITAQUIRAÍ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12502,
+    "name": "IVINHEMA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12574,
+    "name": "JAPORÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12579,
+    "name": "JARAGUARI",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12583,
+    "name": "JARDIM",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12600,
+    "name": "JATEÍ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12711,
+    "name": "JUTI",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12723,
+    "name": "LADÁRIO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12772,
+    "name": "LAGUNA CARAPÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 12966,
+    "name": "MARACAJU",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13138,
+    "name": "MIRANDA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13270,
+    "name": "MUNDO NOVO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13307,
+    "name": "NAVIRAÍ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13328,
+    "name": "NIOAQUE",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13348,
+    "name": "NOVA ALVORADA DO SUL",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13351,
+    "name": "NOVA ANDRADINA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13465,
+    "name": "NOVO HORIZONTE DO SUL",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13645,
+    "name": "PARANAÍBA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13647,
+    "name": "PARANHOS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13661,
+    "name": "PARAÍSO DAS ÁGUAS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13776,
+    "name": "PEDRO GOMES",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 13958,
+    "name": "PONTA PORÃ",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14011,
+    "name": "PORTO MURTINHO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14123,
+    "name": "PÔRTO BARRA DO IVINHEIMA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14230,
+    "name": "RIBAS DO RIO PARDO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14267,
+    "name": "RIO BRILHANTE",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14284,
+    "name": "RIO NEGRO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14301,
+    "name": "RIO VERDE DE MATO GROSSO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14326,
+    "name": "ROCHEDO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14535,
+    "name": "SANTA RITA DO PARDO",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14690,
+    "name": "SELVÍRIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14766,
+    "name": "SETE QUEDAS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14773,
+    "name": "SIDROLÂNDIA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14809,
+    "name": "SONORA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 14911,
+    "name": "SÃO GABRIEL DO OESTE",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15197,
+    "name": "TACURU",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15250,
+    "name": "TAQUARUSSU",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15283,
+    "name": "TERENOS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15377,
+    "name": "TRÊS LAGOAS",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15556,
+    "name": "VICENTINA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  },
+  {
+    "id": 15654,
+    "name": "ÁGUA CLARA",
+    "state": "MATO GROSSO DO SUL",
+    "state_iso2": "MS",
+    "country": "BRAZIL",
+    "country_iso2": "BR",
+    "country_iso3": "BRA",
+    "country_native": "BRASIL"
+  }
+]

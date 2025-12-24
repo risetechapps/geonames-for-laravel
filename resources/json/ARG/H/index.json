@@ -1,0 +1,742 @@
+[
+  {
+    "id": 677,
+    "name": "AVIÁ TERAI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 685,
+    "name": "BARRANQUERAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 686,
+    "name": "BASAIL",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 719,
+    "name": "CAMPO LARGO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 730,
+    "name": "CAPITÁN SOLARI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 737,
+    "name": "CASTELLI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 753,
+    "name": "CHARADAI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 754,
+    "name": "CHARATA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 765,
+    "name": "CHOROTIS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 767,
+    "name": "CIERVO PETISO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 776,
+    "name": "COLONIA BENÍTEZ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 778,
+    "name": "COLONIA ELISA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 782,
+    "name": "COLONIAS UNIDAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 791,
+    "name": "CONCEPCIÓN DEL BERMEJO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 799,
+    "name": "CORONEL DU GRATY",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 804,
+    "name": "CORZUELA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 807,
+    "name": "COTÉ-LAI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 822,
+    "name": "DEPARTAMENTO DE ALMIRANTE BROWN",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 837,
+    "name": "DEPARTAMENTO DE BERMEJO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 865,
+    "name": "DEPARTAMENTO DE COMANDANTE FERNÁNDEZ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 875,
+    "name": "DEPARTAMENTO DE DOCE DE OCTUBRE",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 876,
+    "name": "DEPARTAMENTO DE DOS DE ABRIL",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 890,
+    "name": "DEPARTAMENTO DE GENERAL DONOVAN",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 892,
+    "name": "DEPARTAMENTO DE GENERAL GÜEMES",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 909,
+    "name": "DEPARTAMENTO DE INDEPENDENCIA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 928,
+    "name": "DEPARTAMENTO DE LIBERTAD",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 937,
+    "name": "DEPARTAMENTO DE MAIPÚ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 950,
+    "name": "DEPARTAMENTO DE NUEVE DE JULIO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 954,
+    "name": "DEPARTAMENTO DE O’HIGGINS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 960,
+    "name": "DEPARTAMENTO DE PRESIDENCIA DE LA PLAZA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 962,
+    "name": "DEPARTAMENTO DE QUITILIPI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 986,
+    "name": "DEPARTAMENTO DE SAN FERNANDO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 994,
+    "name": "DEPARTAMENTO DE SAN LORENZO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1010,
+    "name": "DEPARTAMENTO DE SARGENTO CABRAL",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1017,
+    "name": "DEPARTAMENTO DE TAPENAGÁ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1081,
+    "name": "FONTANA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1088,
+    "name": "GANCEDO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1105,
+    "name": "GENERAL JOSÉ DE SAN MARTÍN",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1109,
+    "name": "GENERAL PINEDO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1114,
+    "name": "GENERAL VEDIA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1135,
+    "name": "HERMOSO CAMPO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1181,
+    "name": "LA CLOTILDE",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1186,
+    "name": "LA EDUVIGIS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1187,
+    "name": "LA ESCONDIDA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1191,
+    "name": "LA LEONESA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1201,
+    "name": "LA TIGRA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1203,
+    "name": "LA VERDE",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1208,
+    "name": "LAGUNA LIMPIA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1213,
+    "name": "LAPACHITO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1216,
+    "name": "LAS BREÑAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1218,
+    "name": "LAS GARCITAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1249,
+    "name": "LOS FRENTONES",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1260,
+    "name": "MACHAGAI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1264,
+    "name": "MAKALLÉ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1270,
+    "name": "MARGARITA BELÉN",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1296,
+    "name": "NAPENAY",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1314,
+    "name": "PAMPA ALMIRÓN",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1316,
+    "name": "PAMPA DEL INDIO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1317,
+    "name": "PAMPA DEL INFIERNO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1347,
+    "name": "PRESIDENCIA DE LA PLAZA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1345,
+    "name": "PRESIDENCIA ROCA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1346,
+    "name": "PRESIDENCIA ROQUE SÁENZ PEÑA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1351,
+    "name": "PUERTO BERMEJO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1363,
+    "name": "PUERTO TIROL",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1364,
+    "name": "PUERTO VILELAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1370,
+    "name": "QUITILIPI",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1379,
+    "name": "RESISTENCIA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1405,
+    "name": "SAMUHÚ",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1414,
+    "name": "SAN BERNARDO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1471,
+    "name": "SANTA SYLVINA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1493,
+    "name": "TACO POZO",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1515,
+    "name": "TRES ISLETAS",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1542,
+    "name": "VILLA BERTHET",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  },
+  {
+    "id": 1586,
+    "name": "VILLA ÁNGELA",
+    "state": "CHACO",
+    "state_iso2": "H",
+    "country": "ARGENTINA",
+    "country_iso2": "AR",
+    "country_iso3": "ARG",
+    "country_native": "ARGENTINA"
+  }
+]

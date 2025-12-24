@@ -1,0 +1,782 @@
+[
+  {
+    "id": 3523,
+    "name": "AMNAT CHAROEN",
+    "iso2": "37",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3519,
+    "name": "ANG THONG",
+    "iso2": "15",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3554,
+    "name": "BANGKOK",
+    "iso2": "10",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3533,
+    "name": "BUENG KAN",
+    "iso2": "38",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3534,
+    "name": "BURI RAM",
+    "iso2": "31",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3552,
+    "name": "CHACHOENGSAO",
+    "iso2": "24",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3522,
+    "name": "CHAI NAT",
+    "iso2": "18",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 4954,
+    "name": "CHAIYAPHUM",
+    "iso2": "36",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3486,
+    "name": "CHANTHABURI",
+    "iso2": "22",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3491,
+    "name": "CHIANG MAI",
+    "iso2": "50",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3498,
+    "name": "CHIANG RAI",
+    "iso2": "57",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3513,
+    "name": "CHON BURI",
+    "iso2": "20",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3526,
+    "name": "CHUMPHON",
+    "iso2": "86",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3550,
+    "name": "KALASIN",
+    "iso2": "46",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3516,
+    "name": "KAMPHAENG PHET",
+    "iso2": "62",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3511,
+    "name": "KANCHANABURI",
+    "iso2": "71",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3485,
+    "name": "KHON KAEN",
+    "iso2": "40",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3478,
+    "name": "KRABI",
+    "iso2": "81",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3544,
+    "name": "LAMPANG",
+    "iso2": "52",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3483,
+    "name": "LAMPHUN",
+    "iso2": "51",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3509,
+    "name": "LOEI",
+    "iso2": "42",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3543,
+    "name": "LOP BURI",
+    "iso2": "16",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3505,
+    "name": "MAE HONG SON",
+    "iso2": "58",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3517,
+    "name": "MAHA SARAKHAM",
+    "iso2": "44",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3546,
+    "name": "MUKDAHAN",
+    "iso2": "49",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3535,
+    "name": "NAKHON NAYOK",
+    "iso2": "26",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3503,
+    "name": "NAKHON PATHOM",
+    "iso2": "73",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3548,
+    "name": "NAKHON PHANOM",
+    "iso2": "48",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3497,
+    "name": "NAKHON RATCHASIMA",
+    "iso2": "30",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3492,
+    "name": "NAKHON SAWAN",
+    "iso2": "60",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3520,
+    "name": "NAKHON SI THAMMARAT",
+    "iso2": "80",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3530,
+    "name": "NAN",
+    "iso2": "55",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3553,
+    "name": "NARATHIWAT",
+    "iso2": "96",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3480,
+    "name": "NONG BUA LAM PHU",
+    "iso2": "39",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3484,
+    "name": "NONG KHAI",
+    "iso2": "43",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3495,
+    "name": "NONTHABURI",
+    "iso2": "12",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3500,
+    "name": "PATHUM THANI",
+    "iso2": "13",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3540,
+    "name": "PATTANI",
+    "iso2": "94",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3507,
+    "name": "PATTAYA",
+    "iso2": "S",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3549,
+    "name": "PHANGNGA",
+    "iso2": "82",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3488,
+    "name": "PHATTHALUNG",
+    "iso2": "93",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3538,
+    "name": "PHAYAO",
+    "iso2": "56",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3515,
+    "name": "PHETCHABUN",
+    "iso2": "67",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3532,
+    "name": "PHETCHABURI",
+    "iso2": "76",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3514,
+    "name": "PHICHIT",
+    "iso2": "66",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3506,
+    "name": "PHITSANULOK",
+    "iso2": "65",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3494,
+    "name": "PHRA NAKHON SI AYUTTHAYA",
+    "iso2": "14",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3528,
+    "name": "PHRAE",
+    "iso2": "54",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3536,
+    "name": "PHUKET",
+    "iso2": "83",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3542,
+    "name": "PRACHIN BURI",
+    "iso2": "25",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3508,
+    "name": "PRACHUAP KHIRI KHAN",
+    "iso2": "77",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3479,
+    "name": "RANONG",
+    "iso2": "85",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3499,
+    "name": "RATCHABURI",
+    "iso2": "70",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3518,
+    "name": "RAYONG",
+    "iso2": "21",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3510,
+    "name": "ROI ET",
+    "iso2": "45",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3529,
+    "name": "SA KAEO",
+    "iso2": "27",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3501,
+    "name": "SAKON NAKHON",
+    "iso2": "47",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3481,
+    "name": "SAMUT PRAKAN",
+    "iso2": "11",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3504,
+    "name": "SAMUT SAKHON",
+    "iso2": "74",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3502,
+    "name": "SAMUT SONGKHRAM",
+    "iso2": "75",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3487,
+    "name": "SARABURI",
+    "iso2": "19",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3537,
+    "name": "SATUN",
+    "iso2": "91",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3547,
+    "name": "SI SA KET",
+    "iso2": "33",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3490,
+    "name": "SING BURI",
+    "iso2": "17",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3539,
+    "name": "SONGKHLA",
+    "iso2": "90",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3545,
+    "name": "SUKHOTHAI",
+    "iso2": "64",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3524,
+    "name": "SUPHAN BURI",
+    "iso2": "72",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3482,
+    "name": "SURAT THANI",
+    "iso2": "84",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3531,
+    "name": "SURIN",
+    "iso2": "32",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3525,
+    "name": "TAK",
+    "iso2": "63",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3541,
+    "name": "TRANG",
+    "iso2": "92",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3496,
+    "name": "TRAT",
+    "iso2": "23",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3512,
+    "name": "UBON RATCHATHANI",
+    "iso2": "34",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3527,
+    "name": "UDON THANI",
+    "iso2": "41",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3551,
+    "name": "UTHAI THANI",
+    "iso2": "61",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3489,
+    "name": "UTTARADIT",
+    "iso2": "53",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3493,
+    "name": "YALA",
+    "iso2": "95",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "id": 3521,
+    "name": "YASOTHON",
+    "iso2": "35",
+    "country": "THAILAND",
+    "country_iso2": "TH",
+    "country_iso3": "THA",
+    "country_native": "ประเทศไทย",
+    "timezone": "Asia/Bangkok"
+  }
+]

@@ -1,0 +1,942 @@
+[
+  {
+    "id": 97513,
+    "name": "AGAPOVKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97514,
+    "name": "AGAPOVSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97660,
+    "name": "ARGAYASH",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97696,
+    "name": "ASHA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97698,
+    "name": "ASHINSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97756,
+    "name": "BAKAL",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97832,
+    "name": "BAZHOVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97889,
+    "name": "BERDYAUSH",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 97957,
+    "name": "BOBROVKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98054,
+    "name": "BREDY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98057,
+    "name": "BRODOKALMAK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98125,
+    "name": "CHEBARKUL’",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98126,
+    "name": "CHEBARKUL’SKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98140,
+    "name": "CHELYABINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98151,
+    "name": "CHEREMSHANKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98192,
+    "name": "CHESMA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98299,
+    "name": "DOLGODEREVENSKOYE",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98421,
+    "name": "FERSHAMPENUAZ",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98536,
+    "name": "GORNYAK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98549,
+    "name": "GOROD CHELYABINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98834,
+    "name": "KANASHEVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98853,
+    "name": "KARABASH",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98887,
+    "name": "KARTALINSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98888,
+    "name": "KARTALY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98899,
+    "name": "KASLI",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98906,
+    "name": "KATAV-IVANOVSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 98907,
+    "name": "KATAV-IVANOVSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99092,
+    "name": "KIZIL’SKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99199,
+    "name": "KOPEYSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99207,
+    "name": "KORKINO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99257,
+    "name": "KOYELGA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99306,
+    "name": "KRASNOGORSKIY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99398,
+    "name": "KROPACHËVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99445,
+    "name": "KUNASHAK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99483,
+    "name": "KUSA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99521,
+    "name": "KYSHTYM",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99568,
+    "name": "LENINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99652,
+    "name": "LOKOMOTIVNYY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99738,
+    "name": "MAGNITKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99739,
+    "name": "MAGNITOGORSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99883,
+    "name": "MEZHEVOY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99889,
+    "name": "MIASS",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 99890,
+    "name": "MIASSKOYE",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100020,
+    "name": "MUSLYUMOVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100045,
+    "name": "NAGAYBAKSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100177,
+    "name": "NIZHNIY UFALEY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100244,
+    "name": "NOVOGORNYY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100306,
+    "name": "NOVOSINEGLAZOVSKIY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100376,
+    "name": "NYAZEPETROVSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100377,
+    "name": "NYAZEPETROVSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100413,
+    "name": "OKTYABR’SKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100519,
+    "name": "OZERSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100550,
+    "name": "PARIZH",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100694,
+    "name": "PLAST",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100754,
+    "name": "POLETAYEVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100789,
+    "name": "POTANINO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 100999,
+    "name": "ROSHCHINO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101012,
+    "name": "ROZA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101118,
+    "name": "SARGAZY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101132,
+    "name": "SATKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101133,
+    "name": "SATKINSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101154,
+    "name": "SELEZYAN",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101370,
+    "name": "SIM",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101423,
+    "name": "SNEZHINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101496,
+    "name": "SOSNOVSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101581,
+    "name": "STAROKAMYSHINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101729,
+    "name": "SYROSTAN",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101803,
+    "name": "TAYGINKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101859,
+    "name": "TIMIRYAZEVSKIY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101914,
+    "name": "TROITSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101935,
+    "name": "TRËKHGORNYY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101975,
+    "name": "TURGOYAK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 101999,
+    "name": "TYUBUK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102114,
+    "name": "UST’-BAGARYAK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102129,
+    "name": "UST’-KATAV",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102158,
+    "name": "UVEL’SKIY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102159,
+    "name": "UVEL’SKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102163,
+    "name": "UYSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102164,
+    "name": "UYSKOYE",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102176,
+    "name": "VAKHRUSHEVO",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102192,
+    "name": "VARNA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102195,
+    "name": "VARNENSKIY RAYON",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102217,
+    "name": "VELIKOPETROVKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102242,
+    "name": "VERKHNEURAL’SK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102258,
+    "name": "VERKHNIY UFALEY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102318,
+    "name": "VISHNËVOGORSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102423,
+    "name": "VYAZOVAYA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102553,
+    "name": "YEMANZHELINKA",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102554,
+    "name": "YEMANZHELINSK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102578,
+    "name": "YETKUL’",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102601,
+    "name": "YURYUZAN’",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102617,
+    "name": "YUZHNOURAL’SK",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102719,
+    "name": "ZHELEZNODOROZHNYY",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  },
+  {
+    "id": 102750,
+    "name": "ZLATOUST",
+    "state": "CHELYABINSK",
+    "state_iso2": "CHE",
+    "country": "RUSSIA",
+    "country_iso2": "RU",
+    "country_iso3": "RUS",
+    "country_native": "РОССИЯ"
+  }
+]

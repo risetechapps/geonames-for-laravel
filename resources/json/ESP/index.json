@@ -1,0 +1,692 @@
+[
+  {
+    "id": 5089,
+    "name": "A CORUÑA",
+    "iso2": "C",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5109,
+    "name": "ALBACETE",
+    "iso2": "AB",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5108,
+    "name": "ALICANTE",
+    "iso2": "A",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5095,
+    "name": "ALMERIA",
+    "iso2": "AL",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5325,
+    "name": "ANDALUSIA",
+    "iso2": "AN",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5093,
+    "name": "ARABA",
+    "iso2": "VI",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5326,
+    "name": "ARAGON",
+    "iso2": "AR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1160,
+    "name": "ASTURIAS",
+    "iso2": "O",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5701,
+    "name": "ASTURIAS, PRINCIPALITY OF",
+    "iso2": "AS",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5092,
+    "name": "BADAJOZ",
+    "iso2": "BA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5335,
+    "name": "BALEARIC ISLANDS",
+    "iso2": "IB",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5102,
+    "name": "BARCELONA",
+    "iso2": "B",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5332,
+    "name": "BASQUE COUNTRY",
+    "iso2": "PV",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5094,
+    "name": "BIZKAIA",
+    "iso2": "BI",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1146,
+    "name": "BURGOS",
+    "iso2": "BU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1190,
+    "name": "CACERES",
+    "iso2": "CC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5222,
+    "name": "CANARY ISLANDS",
+    "iso2": "CN",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Atlantic/Canary"
+  },
+  {
+    "id": 1170,
+    "name": "CANTABRIA",
+    "iso2": "S",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5702,
+    "name": "CANTABRIA",
+    "iso2": "CB",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5110,
+    "name": "CASTELLÓN",
+    "iso2": "CS",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5329,
+    "name": "CASTILE AND LEON",
+    "iso2": "CL",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5330,
+    "name": "CASTILLA-LA MANCHA",
+    "iso2": "CM",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5331,
+    "name": "CATALONIA",
+    "iso2": "CT",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5223,
+    "name": "CEUTA",
+    "iso2": "CE",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Africa/Ceuta"
+  },
+  {
+    "id": 5105,
+    "name": "CIUDAD REAL",
+    "iso2": "CR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5337,
+    "name": "COMMUNITY OF MADRID",
+    "iso2": "MD",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5106,
+    "name": "CUENCA",
+    "iso2": "CU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5096,
+    "name": "CÁDIZ",
+    "iso2": "CA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5097,
+    "name": "CÓRDOBA",
+    "iso2": "CO",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5333,
+    "name": "ESTREMADURA",
+    "iso2": "EX",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5334,
+    "name": "GALICIA",
+    "iso2": "GA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1191,
+    "name": "GIPUZKOA",
+    "iso2": "SS",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5103,
+    "name": "GIRONA",
+    "iso2": "GI",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5098,
+    "name": "GRANADA",
+    "iso2": "GR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5107,
+    "name": "GUADALAJARA",
+    "iso2": "GU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5099,
+    "name": "HUELVA",
+    "iso2": "H",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1177,
+    "name": "HUESCA",
+    "iso2": "HU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1174,
+    "name": "ISLAS BALEARES",
+    "iso2": "PM",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5100,
+    "name": "JAÉN",
+    "iso2": "J",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1171,
+    "name": "LA RIOJA",
+    "iso2": "LO",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5703,
+    "name": "LA RIOJA",
+    "iso2": "RI",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1185,
+    "name": "LAS PALMAS",
+    "iso2": "GC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Atlantic/Canary"
+  },
+  {
+    "id": 1200,
+    "name": "LEÓN",
+    "iso2": "LE",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5104,
+    "name": "LLEIDA",
+    "iso2": "L",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5090,
+    "name": "LUGO",
+    "iso2": "LU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1158,
+    "name": "MADRID",
+    "iso2": "M",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5224,
+    "name": "MELILLA",
+    "iso2": "ML",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Africa/Ceuta"
+  },
+  {
+    "id": 1176,
+    "name": "MURCIA",
+    "iso2": "MU",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5101,
+    "name": "MÁLAGA",
+    "iso2": "MA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1204,
+    "name": "NAVARRA",
+    "iso2": "NA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5339,
+    "name": "NAVARRE",
+    "iso2": "NC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5091,
+    "name": "OURENSE",
+    "iso2": "OR",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1157,
+    "name": "PALENCIA",
+    "iso2": "P",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1167,
+    "name": "PONTEVEDRA",
+    "iso2": "PO",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5338,
+    "name": "REGION OF MURCIA",
+    "iso2": "MC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1147,
+    "name": "SALAMANCA",
+    "iso2": "SA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5112,
+    "name": "SANTA CRUZ DE TENERIFE",
+    "iso2": "TF",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Atlantic/Canary"
+  },
+  {
+    "id": 1192,
+    "name": "SEGOVIA",
+    "iso2": "SG",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1193,
+    "name": "SEVILLA",
+    "iso2": "SE",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1208,
+    "name": "SORIA",
+    "iso2": "SO",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1203,
+    "name": "TARRAGONA",
+    "iso2": "T",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5111,
+    "name": "TERUEL",
+    "iso2": "TE",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1205,
+    "name": "TOLEDO",
+    "iso2": "TO",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1175,
+    "name": "VALENCIA",
+    "iso2": "V",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5340,
+    "name": "VALENCIAN COMMUNITY",
+    "iso2": "VC",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1183,
+    "name": "VALLADOLID",
+    "iso2": "VA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1161,
+    "name": "ZAMORA",
+    "iso2": "ZA",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5113,
+    "name": "ZARAGOZA",
+    "iso2": "Z",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 1189,
+    "name": "ÁVILA",
+    "iso2": "AV",
+    "country": "SPAIN",
+    "country_iso2": "ES",
+    "country_iso3": "ESP",
+    "country_native": "ESPAÑA",
+    "timezone": "Europe/Madrid"
+  }
+]

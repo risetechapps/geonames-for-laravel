@@ -1,0 +1,562 @@
+[
+  {
+    "id": 54384,
+    "name": "BALE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54385,
+    "name": "BALE-VALLE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54426,
+    "name": "BRTONIGLA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54427,
+    "name": "BRTONIGLA-VERTENEGLIO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54432,
+    "name": "BUJE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54433,
+    "name": "BUJE-BUIE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54436,
+    "name": "BUZET",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54479,
+    "name": "FAŽANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54480,
+    "name": "FAŽANA-FASANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54483,
+    "name": "FUNTANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54484,
+    "name": "FUNTANA-FONTANE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54487,
+    "name": "GALIŽANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54506,
+    "name": "GRAD BUZET",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54530,
+    "name": "GRAD LABIN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54542,
+    "name": "GRAD PAZIN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54585,
+    "name": "GROŽNJAN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54586,
+    "name": "GROŽNJAN-GRISIGNANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54629,
+    "name": "KANFANAR",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54634,
+    "name": "KAROJBA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54644,
+    "name": "KAŠTELIR-LABINCI",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54681,
+    "name": "LABIN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54691,
+    "name": "LIŽNJAN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54692,
+    "name": "LIŽNJAN-LISIGNANO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54706,
+    "name": "LUPOGLAV",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54722,
+    "name": "MARČANA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54727,
+    "name": "MEDULIN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54739,
+    "name": "MOTOVUN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54740,
+    "name": "MOTOVUN-MONTONA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54761,
+    "name": "NOVIGRAD",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54763,
+    "name": "NOVIGRAD-CITTANOVA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54779,
+    "name": "OPRTALJ-PORTOLE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54784,
+    "name": "OPĆINA LANIŠĆE",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54800,
+    "name": "PAZIN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54826,
+    "name": "POREČ",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54827,
+    "name": "POREČ-PARENZO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54844,
+    "name": "PULA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54845,
+    "name": "PULA-POLA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54850,
+    "name": "RABAC",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54855,
+    "name": "RAŠA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54867,
+    "name": "ROVINJ",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54868,
+    "name": "ROVINJ-ROVIGNO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54925,
+    "name": "SVETA NEDELJA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54931,
+    "name": "SVETI LOVREČ",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54933,
+    "name": "TAR",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54934,
+    "name": "TAR-VABRIGA-TORRE ABREGA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54949,
+    "name": "UMAG",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54950,
+    "name": "UMAG-UMAGO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54951,
+    "name": "VALBANDON",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54967,
+    "name": "VINEŽ",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54977,
+    "name": "VIŠNJAN-VISIGNANO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54979,
+    "name": "VIŽINADA-VISINADA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54982,
+    "name": "VODNJAN",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54983,
+    "name": "VODNJAN-DIGNANO",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54996,
+    "name": "VRSAR",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 54997,
+    "name": "VRSAR-ORSERA",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  },
+  {
+    "id": 55039,
+    "name": "ŽMINJ",
+    "state": "ISTRIA",
+    "state_iso2": "18",
+    "country": "CROATIA",
+    "country_iso2": "HR",
+    "country_iso3": "HRV",
+    "country_native": "HRVATSKA"
+  }
+]

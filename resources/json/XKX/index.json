@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4874,
+    "name": "FERIZAJ",
+    "iso2": "XUF",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 4876,
+    "name": "GJAKOVE",
+    "iso2": "XDG",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 4877,
+    "name": "GJILAN",
+    "iso2": "XGJ",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 4878,
+    "name": "MITROVICA",
+    "iso2": "XKM",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5321,
+    "name": "PEJA",
+    "iso2": "PEJ",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 4879,
+    "name": "PRISTINA",
+    "iso2": "XPI",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5322,
+    "name": "PRIZREN",
+    "iso2": "PRI",
+    "country": "KOSOVO",
+    "country_iso2": "XK",
+    "country_iso3": "XKX",
+    "country_native": "REPUBLIKA E KOSOVËS",
+    "timezone": "Europe/Belgrade"
+  }
+]

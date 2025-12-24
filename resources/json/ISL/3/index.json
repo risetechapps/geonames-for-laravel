@@ -1,0 +1,892 @@
+[
+  {
+    "id": 52147,
+    "name": "ABOSO",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 52160,
+    "name": "AXIM",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 39133,
+    "name": "BA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 39134,
+    "name": "BA PROVINCE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 66455,
+    "name": "BATTARAMULLA SOUTH",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66459,
+    "name": "BERUWALA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 52166,
+    "name": "BIBIANI",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 110883,
+    "name": "BUNDIBUGYO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110889,
+    "name": "BWIZIBWERA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66461,
+    "name": "COLOMBO",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66462,
+    "name": "COLOMBO DISTRICT",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 102794,
+    "name": "CYANGUGU",
+    "state": "WESTERN",
+    "state_iso2": "04",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA"
+  },
+  {
+    "id": 81035,
+    "name": "DARU",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 110892,
+    "name": "FORT PORTAL",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 104623,
+    "name": "FREETOWN",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE"
+  },
+  {
+    "id": 66470,
+    "name": "GAMPAHA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66471,
+    "name": "GAMPAHA DISTRICT",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 102796,
+    "name": "GISENYI",
+    "state": "WESTERN",
+    "state_iso2": "04",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA"
+  },
+  {
+    "id": 102901,
+    "name": "GIZO",
+    "state": "WESTERN",
+    "state_iso2": "WE",
+    "country": "SOLOMON ISLANDS",
+    "country_iso2": "SB",
+    "country_iso3": "SLB",
+    "country_native": "SOLOMON ISLANDS"
+  },
+  {
+    "id": 66474,
+    "name": "HANWELLA IHALA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 104630,
+    "name": "HASTINGS",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE"
+  },
+  {
+    "id": 66477,
+    "name": "HENDALA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110895,
+    "name": "HOIMA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66480,
+    "name": "HORANA SOUTH",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66481,
+    "name": "HORAWALA JUNCTION",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110896,
+    "name": "IBANDA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110897,
+    "name": "IBANDA DISTRICT",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66482,
+    "name": "JA ELA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110900,
+    "name": "KABALE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110901,
+    "name": "KAGADI",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131347,
+    "name": "KALABO",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 66487,
+    "name": "KALUTARA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110906,
+    "name": "KAMWENGE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66488,
+    "name": "KANDANA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110908,
+    "name": "KANUNGU",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 131351,
+    "name": "KAOMA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 110910,
+    "name": "KASESE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66492,
+    "name": "KATUNAYAKA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66495,
+    "name": "KELANIYA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 104641,
+    "name": "KENT",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE"
+  },
+  {
+    "id": 110912,
+    "name": "KIBALE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 102799,
+    "name": "KIBUYE",
+    "state": "WESTERN",
+    "state_iso2": "04",
+    "country": "RWANDA",
+    "country_iso2": "RW",
+    "country_iso3": "RWA",
+    "country_native": "RWANDA"
+  },
+  {
+    "id": 110915,
+    "name": "KIGOROBYA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110916,
+    "name": "KILEMBE",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110918,
+    "name": "KIRUHURA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110919,
+    "name": "KISORO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 81067,
+    "name": "KIUNGA",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 66500,
+    "name": "KOTIKAWATTA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 110923,
+    "name": "KYENJOJO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 39140,
+    "name": "LAUTOKA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 154916,
+    "name": "LEALATAUA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "AMERICAN SAMOA",
+    "country_iso2": "AS",
+    "country_iso3": "ASM",
+    "country_native": "AMERICAN SAMOA"
+  },
+  {
+    "id": 154917,
+    "name": "LEASINA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "AMERICAN SAMOA",
+    "country_iso2": "AS",
+    "country_iso3": "ASM",
+    "country_native": "AMERICAN SAMOA"
+  },
+  {
+    "id": 131359,
+    "name": "LIMULUNGA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 131363,
+    "name": "LUKULU",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 110929,
+    "name": "MARGHERITA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110931,
+    "name": "MASINDI",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110932,
+    "name": "MASINDI PORT",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110935,
+    "name": "MBARARA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 81083,
+    "name": "MIDDLE FLY",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 66510,
+    "name": "MINUWANGODA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 131372,
+    "name": "MONGU",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 81085,
+    "name": "MOREHEAD",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 110942,
+    "name": "MUHORORO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66515,
+    "name": "MULLERIYAWA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 39144,
+    "name": "NADI",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 39147,
+    "name": "NANDRONGA AND NAVOSA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 66516,
+    "name": "NEGOMBO",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 81092,
+    "name": "NORTH FLY",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 110948,
+    "name": "NTUNGAMO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 110949,
+    "name": "NYACHERA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 66519,
+    "name": "PANADURA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66520,
+    "name": "PELIYAGODA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66521,
+    "name": "PITA KOTTE",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 52197,
+    "name": "PRESTEA",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 39148,
+    "name": "RA",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "FIJI ISLANDS",
+    "country_iso2": "FJ",
+    "country_iso3": "FJI",
+    "country_native": "FIJI"
+  },
+  {
+    "id": 110956,
+    "name": "RUKUNGIRI",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "UGANDA",
+    "country_iso2": "UG",
+    "country_iso3": "UGA",
+    "country_native": "UGANDA"
+  },
+  {
+    "id": 52201,
+    "name": "SEKONDI-TAKORADI",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 131392,
+    "name": "SENANGA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 131394,
+    "name": "SESHEKE",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "ZAMBIA",
+    "country_iso2": "ZM",
+    "country_iso3": "ZMB",
+    "country_native": "ZAMBIA"
+  },
+  {
+    "id": 52202,
+    "name": "SHAMA JUNCTION",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 81110,
+    "name": "SOUTH FLY",
+    "state": "WESTERN",
+    "state_iso2": "WPD",
+    "country": "PAPUA NEW GUINEA",
+    "country_iso2": "PG",
+    "country_iso3": "PNG",
+    "country_native": "PAPUA NIUGINI"
+  },
+  {
+    "id": 66530,
+    "name": "SRI JAYEWARDENEPURA KOTTE",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 52207,
+    "name": "TAKORADI",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 52209,
+    "name": "TARKWA",
+    "state": "WESTERN",
+    "state_iso2": "WP",
+    "country": "GHANA",
+    "country_iso2": "GH",
+    "country_iso3": "GHA",
+    "country_native": "GHANA"
+  },
+  {
+    "id": 154918,
+    "name": "TUALATAI",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "AMERICAN SAMOA",
+    "country_iso2": "AS",
+    "country_iso3": "ASM",
+    "country_native": "AMERICAN SAMOA"
+  },
+  {
+    "id": 154919,
+    "name": "TUALAUTA",
+    "state": "WESTERN",
+    "state_iso2": "01",
+    "country": "AMERICAN SAMOA",
+    "country_iso2": "AS",
+    "country_iso3": "ASM",
+    "country_native": "AMERICAN SAMOA"
+  },
+  {
+    "id": 104688,
+    "name": "WATERLOO",
+    "state": "WESTERN",
+    "state_iso2": "W",
+    "country": "SIERRA LEONE",
+    "country_iso2": "SL",
+    "country_iso3": "SLE",
+    "country_native": "SIERRA LEONE"
+  },
+  {
+    "id": 66541,
+    "name": "WATTALA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  },
+  {
+    "id": 66544,
+    "name": "WELISARA",
+    "state": "WESTERN",
+    "state_iso2": "1",
+    "country": "SRI LANKA",
+    "country_iso2": "LK",
+    "country_iso3": "LKA",
+    "country_native": "ŚRĪ LAṂKĀVA"
+  }
+]

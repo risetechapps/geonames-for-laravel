@@ -1,0 +1,462 @@
+[
+  {
+    "id": 22106,
+    "name": "ABERTAMY",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22110,
+    "name": "AŠ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22137,
+    "name": "BOCHOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22178,
+    "name": "BUKOVANY",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22209,
+    "name": "BŘEZOVÁ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22217,
+    "name": "CHEB",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22224,
+    "name": "CHODOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22248,
+    "name": "DALOVICE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22292,
+    "name": "DOLNÍ RYCHNOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22299,
+    "name": "DOLNÍ ŽANDOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22326,
+    "name": "FRANTIŠKOVY LÁZNĚ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22337,
+    "name": "HABARTOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22346,
+    "name": "HAZLOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22388,
+    "name": "HORNÍ SLAVKOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22416,
+    "name": "HRANICE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22425,
+    "name": "HROZNĚTÍN",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22484,
+    "name": "JÁCHYMOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22498,
+    "name": "KARLOVY VARY",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22518,
+    "name": "KLÁŠTER",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22556,
+    "name": "KRASLICE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22581,
+    "name": "KYNŠPERK NAD OHŘÍ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22630,
+    "name": "LOKET",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22633,
+    "name": "LOMNICE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22644,
+    "name": "LUBY",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22664,
+    "name": "LÁZNĚ KYNŽVART",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22676,
+    "name": "MARIÁNSKÉ LÁZNĚ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22681,
+    "name": "MERKLÍN",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22740,
+    "name": "MĚSTO",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22757,
+    "name": "NEJDEK",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22775,
+    "name": "NOVÁ ROLE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22781,
+    "name": "NOVÉ SEDLO",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22812,
+    "name": "OKRES CHEB",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22826,
+    "name": "OKRES KARLOVY VARY",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22861,
+    "name": "OKRES SOKOLOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22887,
+    "name": "OLOVÍ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22907,
+    "name": "OSTROV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 22940,
+    "name": "PLESNÁ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23036,
+    "name": "ROTAVA",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23058,
+    "name": "SADOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23073,
+    "name": "SKALNÁ",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23094,
+    "name": "SOKOLOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23147,
+    "name": "SVATAVA",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23170,
+    "name": "TOUŽIM",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23233,
+    "name": "VELKÁ HLEĎSEBE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23274,
+    "name": "VINTÍŘOV",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  },
+  {
+    "id": 23456,
+    "name": "ŽLUTICE",
+    "state": "KARLOVARSKÝ KRAJ",
+    "state_iso2": "41",
+    "country": "CZECH REPUBLIC",
+    "country_iso2": "CZ",
+    "country_iso3": "CZE",
+    "country_native": "ČESKÁ REPUBLIKA"
+  }
+]

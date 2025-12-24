@@ -1,0 +1,902 @@
+[
+  {
+    "id": 52414,
+    "name": "AGRÍNIO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52432,
+    "name": "AITOLIKÓ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52437,
+    "name": "AKRÁTA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52438,
+    "name": "AKTAÍO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52442,
+    "name": "ALFEIOÚSA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52447,
+    "name": "AMALIÁDA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52449,
+    "name": "AMFILOCHÍA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52463,
+    "name": "ANDRAVÍDA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52466,
+    "name": "ANGELÓKASTRO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52474,
+    "name": "ANTIRRIO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52482,
+    "name": "ARCHAÍA OLYMPÍA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52483,
+    "name": "ARCHONTOCHÓRI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52495,
+    "name": "ARKOÚDI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52509,
+    "name": "ASTAKÓS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52522,
+    "name": "AÍGIO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52523,
+    "name": "AÍYIRA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52525,
+    "name": "CHALANDRÍTSA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52542,
+    "name": "CHÁVARI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52550,
+    "name": "DHOKÍMION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52588,
+    "name": "EPITÁLIO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52614,
+    "name": "FYTEÍES",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52622,
+    "name": "GALATÁS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52629,
+    "name": "GASTOÚNI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52630,
+    "name": "GAVALOÚ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52640,
+    "name": "GOÚMERO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52672,
+    "name": "KAINOÚRYION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52688,
+    "name": "KALÁVRYTA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52699,
+    "name": "KAMÁRAI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52702,
+    "name": "KANDÍLA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52707,
+    "name": "KARDAMÁS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52720,
+    "name": "KARÁTOULA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52731,
+    "name": "KATOCHÍ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52732,
+    "name": "KATOÚNA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52736,
+    "name": "KAVÁSILA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52791,
+    "name": "KRÉSTENA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52792,
+    "name": "KRÍKELLOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52795,
+    "name": "KYLLÍNI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52805,
+    "name": "KÁTO ACHAḮA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52813,
+    "name": "KÁTO MAZARÁKI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52839,
+    "name": "LECHAINÁ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52846,
+    "name": "LEPENOÚ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52854,
+    "name": "LIMNOKHÓRION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52873,
+    "name": "LÁLAS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52874,
+    "name": "LÁPAS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52890,
+    "name": "MAKRÍSIA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52896,
+    "name": "MANOLÁDA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52905,
+    "name": "MATARÁNGA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52914,
+    "name": "MEGÁLI KHÓRA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52925,
+    "name": "MENÍDI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52928,
+    "name": "MESOLÓNGI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52936,
+    "name": "MINDILÓGLION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52941,
+    "name": "MONASTIRÁKI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52951,
+    "name": "MYRSÍNI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52968,
+    "name": "NEOCHÓRI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52969,
+    "name": "NEOCHÓRION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52974,
+    "name": "NEÁPOLIS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52978,
+    "name": "NOMÓS ACHAḮAS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52979,
+    "name": "NOMÓS AITOLÍAS KAI AKARNANÍAS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52984,
+    "name": "NOMÓS ILEÍAS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 52994,
+    "name": "NÁFPAKTOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53018,
+    "name": "NÉA MANOLÁDA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53067,
+    "name": "OVRIÁ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53085,
+    "name": "PANAITÓLION",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53087,
+    "name": "PAPPADHÁTAI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53090,
+    "name": "PARALÍA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53098,
+    "name": "PARAVÓLA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53104,
+    "name": "PELÓPI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53130,
+    "name": "PLÁTANOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53162,
+    "name": "PÁLAIROS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53169,
+    "name": "PÁTRA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53184,
+    "name": "PÝRGOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53194,
+    "name": "RODODÁFNI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53199,
+    "name": "ROYÍTIKA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53200,
+    "name": "RÍO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53206,
+    "name": "SARDÍNIA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53208,
+    "name": "SAVÁLIA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53256,
+    "name": "STÁNOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53261,
+    "name": "SYLIVAINIÓTIKA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53262,
+    "name": "SYNOIKISMÓS CHAVARÍOU",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53284,
+    "name": "THÉRMO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53288,
+    "name": "TRIANDAÍIKA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53301,
+    "name": "TÉMENI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53309,
+    "name": "VARTHOLOMIÓ",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53310,
+    "name": "VARVÁSAINA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53332,
+    "name": "VRACHNAÍIKA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53339,
+    "name": "VÁRDA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53346,
+    "name": "VÓNITSA",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53356,
+    "name": "ZACHÁRO",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53391,
+    "name": "ÁNO KASTRÍTSI",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  },
+  {
+    "id": 53411,
+    "name": "ÁYIOS KONSTANDÍNOS",
+    "state": "WEST GREECE",
+    "state_iso2": "G",
+    "country": "GREECE",
+    "country_iso2": "GR",
+    "country_iso3": "GRC",
+    "country_native": "ΕΛΛΆΔΑ"
+  }
+]

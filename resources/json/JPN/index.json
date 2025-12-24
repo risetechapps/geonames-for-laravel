@@ -1,0 +1,472 @@
+[
+  {
+    "id": 827,
+    "name": "AICHI",
+    "iso2": "23",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 829,
+    "name": "AKITA",
+    "iso2": "05",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 839,
+    "name": "AOMORI",
+    "iso2": "02",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 821,
+    "name": "CHIBA",
+    "iso2": "12",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 865,
+    "name": "EHIME",
+    "iso2": "38",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 848,
+    "name": "FUKUI",
+    "iso2": "18",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 861,
+    "name": "FUKUOKA",
+    "iso2": "40",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 847,
+    "name": "FUKUSHIMA",
+    "iso2": "07",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 858,
+    "name": "GIFU",
+    "iso2": "21",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 862,
+    "name": "GUNMA",
+    "iso2": "10",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 828,
+    "name": "HIROSHIMA",
+    "iso2": "34",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 832,
+    "name": "HOKKAIDŌ",
+    "iso2": "01",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 831,
+    "name": "HYŌGO",
+    "iso2": "28",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 851,
+    "name": "IBARAKI",
+    "iso2": "08",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 830,
+    "name": "ISHIKAWA",
+    "iso2": "17",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 856,
+    "name": "IWATE",
+    "iso2": "03",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 864,
+    "name": "KAGAWA",
+    "iso2": "37",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 840,
+    "name": "KAGOSHIMA",
+    "iso2": "46",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 842,
+    "name": "KANAGAWA",
+    "iso2": "14",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 846,
+    "name": "KUMAMOTO",
+    "iso2": "43",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 834,
+    "name": "KYŌTO",
+    "iso2": "26",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 4924,
+    "name": "KŌCHI",
+    "iso2": "39",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 833,
+    "name": "MIE",
+    "iso2": "24",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 857,
+    "name": "MIYAGI",
+    "iso2": "04",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 855,
+    "name": "MIYAZAKI",
+    "iso2": "45",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 843,
+    "name": "NAGANO",
+    "iso2": "20",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 849,
+    "name": "NAGASAKI",
+    "iso2": "42",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 824,
+    "name": "NARA",
+    "iso2": "29",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 841,
+    "name": "NIIGATA",
+    "iso2": "15",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 820,
+    "name": "OKAYAMA",
+    "iso2": "33",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 853,
+    "name": "OKINAWA",
+    "iso2": "47",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 863,
+    "name": "SAGA",
+    "iso2": "41",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 860,
+    "name": "SAITAMA",
+    "iso2": "11",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 845,
+    "name": "SHIGA",
+    "iso2": "25",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 826,
+    "name": "SHIMANE",
+    "iso2": "32",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 825,
+    "name": "SHIZUOKA",
+    "iso2": "22",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 854,
+    "name": "TOCHIGI",
+    "iso2": "09",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 836,
+    "name": "TOKUSHIMA",
+    "iso2": "36",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 823,
+    "name": "TOKYO",
+    "iso2": "13",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 850,
+    "name": "TOTTORI",
+    "iso2": "31",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 838,
+    "name": "TOYAMA",
+    "iso2": "16",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 844,
+    "name": "WAKAYAMA",
+    "iso2": "30",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 837,
+    "name": "YAMAGATA",
+    "iso2": "06",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 835,
+    "name": "YAMAGUCHI",
+    "iso2": "35",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 852,
+    "name": "YAMANASHI",
+    "iso2": "19",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 822,
+    "name": "ŌITA",
+    "iso2": "44",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 859,
+    "name": "ŌSAKA",
+    "iso2": "27",
+    "country": "JAPAN",
+    "country_iso2": "JP",
+    "country_iso3": "JPN",
+    "country_native": "日本",
+    "timezone": "Asia/Tokyo"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": 65993,
+    "name": "BEAUSEJOUR",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 65994,
+    "name": "BEAUSEJOUR/FOSTIN'S DEVELOPMENT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 65995,
+    "name": "BEAUSEJOUR/NDC",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 65997,
+    "name": "BELLA ROSA",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66001,
+    "name": "BELLE VUE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66003,
+    "name": "BELLE VUE ESTATE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66016,
+    "name": "BOGUIS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66017,
+    "name": "BOGUIS/DESA BLOND",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66021,
+    "name": "BOIS D'ORANGE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66022,
+    "name": "BOIS D'ORNANGE/TROUYA",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66027,
+    "name": "BONNETERRE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66028,
+    "name": "BONNETERRE GARDENS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66043,
+    "name": "CAP ESTATE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66044,
+    "name": "CAP ESTATE/BECUNE POINT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66045,
+    "name": "CAP ESTATE/CARIBBEAN PARK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66046,
+    "name": "CAP ESTATE/GOLF PARK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66047,
+    "name": "CAP ESTATE/LOWER SALINE POINT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66048,
+    "name": "CAP ESTATE/MON DU CAP",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66049,
+    "name": "CAP ESTATE/RANCH SITE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66050,
+    "name": "CAP ESTATE/SADDLEC BACK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66051,
+    "name": "CAP ESTATE/UPPER SALINE POINT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66055,
+    "name": "CAS EN BAS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66058,
+    "name": "CAYE MANJE'",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66082,
+    "name": "CORINTH",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66083,
+    "name": "CORINTH ESTATE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66084,
+    "name": "CORINTH/LA BEL LAIR",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66092,
+    "name": "DAUPHIN",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66114,
+    "name": "DES BARRAS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66115,
+    "name": "DES BARRAS/CACOLIE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66118,
+    "name": "DESRAMEAUX",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66157,
+    "name": "GARRAND",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66169,
+    "name": "GRAND RIVIERE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66172,
+    "name": "GRANDE RIVIERE/ASSOU CANAL",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66176,
+    "name": "GRANDE RIVIERE/INGLE WOODS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66178,
+    "name": "GRANDE RIVIERE/MORNE SERPENT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66179,
+    "name": "GRANDE RIVIERE/NORBERT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66180,
+    "name": "GRANDE RIVIERE/PIAT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66181,
+    "name": "GRANDE RIVIERE/WHITE ROCK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66184,
+    "name": "GROS ISLET",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66186,
+    "name": "GROS ISLET/EDGE WATER",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66206,
+    "name": "L'HERMITAGE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66211,
+    "name": "LA CROIX CHABOURGH",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66214,
+    "name": "LA GUERRE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66215,
+    "name": "LA GUERRE/CHICKEN BACK STREET",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66253,
+    "name": "MARISULE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66254,
+    "name": "MARISULE/BON AIR",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66255,
+    "name": "MARISULE/EAST WINDS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66256,
+    "name": "MARISULE/LA BRELLOTTE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66257,
+    "name": "MARISULE/TOP OF THE WORLD",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66258,
+    "name": "MARQUIS ESTATE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66261,
+    "name": "MASSADE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66269,
+    "name": "MONCHY",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66270,
+    "name": "MONCHY/CAREFFE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66271,
+    "name": "MONCHY/CLETUS VILLAGE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66272,
+    "name": "MONCHY/LA BORNE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66273,
+    "name": "MONCHY/LA BORNE/SANS SOUCI",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66274,
+    "name": "MONCHY/LA RETRAITE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66275,
+    "name": "MONCHY/LAFEUILLEE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66276,
+    "name": "MONCHY/LAWI FWEN",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66277,
+    "name": "MONCHY/MALGRETOUTE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66278,
+    "name": "MONCHY/MOULIN A VENT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66279,
+    "name": "MONCHY/RAVINE MACOCK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66280,
+    "name": "MONCHY/RIVIERE MITAN",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66281,
+    "name": "MONCHY/TI DAUPHIN",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66282,
+    "name": "MONCHY/VIEUX SUCREIC",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66283,
+    "name": "MONCHY/VIEUX SUCREIC/BOIS D'INDE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66284,
+    "name": "MONCHY/VIEUX SUCREIC/CAREFFE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66285,
+    "name": "MONGIRAUD",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66287,
+    "name": "MONIER",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66295,
+    "name": "MORNE CITON",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66320,
+    "name": "PAIX BOUCHE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66333,
+    "name": "PIGEON ISLAND",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66336,
+    "name": "PLATEAU",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66350,
+    "name": "REDUIT",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66351,
+    "name": "REDUIT ORCHARD",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66352,
+    "name": "REDUIT PARK",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66362,
+    "name": "RODNEY BAY",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66363,
+    "name": "RODNEY HEIGHTS",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66412,
+    "name": "UNION",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66413,
+    "name": "UNION TERRACE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  },
+  {
+    "id": 66415,
+    "name": "UNION/TI MORNE",
+    "state": "GROS ISLET",
+    "state_iso2": "06",
+    "country": "SAINT LUCIA",
+    "country_iso2": "LC",
+    "country_iso3": "LCA",
+    "country_native": "SAINT LUCIA"
+  }
+]

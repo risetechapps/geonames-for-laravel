@@ -1,0 +1,322 @@
+[
+  {
+    "id": 3456,
+    "name": "AGUASCALIENTES",
+    "iso2": "AGU",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3457,
+    "name": "BAJA CALIFORNIA",
+    "iso2": "BCN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Tijuana"
+  },
+  {
+    "id": 3460,
+    "name": "BAJA CALIFORNIA SUR",
+    "iso2": "BCS",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mazatlan"
+  },
+  {
+    "id": 3475,
+    "name": "CAMPECHE",
+    "iso2": "CAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Merida"
+  },
+  {
+    "id": 3451,
+    "name": "CHIAPAS",
+    "iso2": "CHP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3447,
+    "name": "CHIHUAHUA",
+    "iso2": "CHH",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Chihuahua"
+  },
+  {
+    "id": 3473,
+    "name": "CIUDAD DE MÉXICO",
+    "iso2": "CMX",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3471,
+    "name": "COAHUILA DE ZARAGOZA",
+    "iso2": "COA",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3472,
+    "name": "COLIMA",
+    "iso2": "COL",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3453,
+    "name": "DURANGO",
+    "iso2": "DUR",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Monterrey"
+  },
+  {
+    "id": 3450,
+    "name": "ESTADO DE MÉXICO",
+    "iso2": "MEX",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3469,
+    "name": "GUANAJUATO",
+    "iso2": "GUA",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3459,
+    "name": "GUERRERO",
+    "iso2": "GRO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3470,
+    "name": "HIDALGO",
+    "iso2": "HID",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 4857,
+    "name": "JALISCO",
+    "iso2": "JAL",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3474,
+    "name": "MICHOACÁN DE OCAMPO",
+    "iso2": "MIC",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3465,
+    "name": "MORELOS",
+    "iso2": "MOR",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3477,
+    "name": "NAYARIT",
+    "iso2": "NAY",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mazatlan"
+  },
+  {
+    "id": 3452,
+    "name": "NUEVO LEÓN",
+    "iso2": "NLE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Monterrey"
+  },
+  {
+    "id": 3448,
+    "name": "OAXACA",
+    "iso2": "OAX",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3476,
+    "name": "PUEBLA",
+    "iso2": "PUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3455,
+    "name": "QUERÉTARO",
+    "iso2": "QUE",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3467,
+    "name": "QUINTANA ROO",
+    "iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Cancun"
+  },
+  {
+    "id": 3461,
+    "name": "SAN LUIS POTOSÍ",
+    "iso2": "SLP",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3449,
+    "name": "SINALOA",
+    "iso2": "SIN",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mazatlan"
+  },
+  {
+    "id": 3468,
+    "name": "SONORA",
+    "iso2": "SON",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Hermosillo"
+  },
+  {
+    "id": 3454,
+    "name": "TABASCO",
+    "iso2": "TAB",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3463,
+    "name": "TAMAULIPAS",
+    "iso2": "TAM",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Matamoros"
+  },
+  {
+    "id": 3458,
+    "name": "TLAXCALA",
+    "iso2": "TLA",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3464,
+    "name": "VERACRUZ DE IGNACIO DE LA LLAVE",
+    "iso2": "VER",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": 3466,
+    "name": "YUCATÁN",
+    "iso2": "YUC",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Merida"
+  },
+  {
+    "id": 3462,
+    "name": "ZACATECAS",
+    "iso2": "ZAC",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO",
+    "timezone": "America/Mexico_City"
+  }
+]

@@ -1,0 +1,2182 @@
+[
+  {
+    "id": 111137,
+    "name": "ALDERSON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111253,
+    "name": "ALUM CREEK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111363,
+    "name": "ANSTED",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111814,
+    "name": "BARBOUR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111817,
+    "name": "BARBOURSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111840,
+    "name": "BARRACKVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 111992,
+    "name": "BEAVER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112017,
+    "name": "BECKLEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112064,
+    "name": "BELINGTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112079,
+    "name": "BELLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112211,
+    "name": "BENWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112225,
+    "name": "BERKELEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112228,
+    "name": "BERKELEY SPRINGS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112275,
+    "name": "BETHANY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112290,
+    "name": "BETHLEHEM",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112429,
+    "name": "BLENNERHASSETT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112479,
+    "name": "BLUEFIELD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112480,
+    "name": "BLUEWELL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112491,
+    "name": "BOAZ",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112519,
+    "name": "BOLIVAR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112557,
+    "name": "BOONE COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112671,
+    "name": "BRADLEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112701,
+    "name": "BRAXTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112760,
+    "name": "BRIDGEPORT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112852,
+    "name": "BROOKE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112859,
+    "name": "BROOKHAVEN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112954,
+    "name": "BRUSH FORK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 112981,
+    "name": "BUCKHANNON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113011,
+    "name": "BUFFALO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113151,
+    "name": "CABELL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113208,
+    "name": "CALHOUN COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113699,
+    "name": "CEREDO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113745,
+    "name": "CHAPMANVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113759,
+    "name": "CHARLES TOWN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113766,
+    "name": "CHARLESTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113818,
+    "name": "CHEAT LAKE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113873,
+    "name": "CHESAPEAKE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 113890,
+    "name": "CHESTER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114144,
+    "name": "CLARKSBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114167,
+    "name": "CLAY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114186,
+    "name": "CLAY COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114235,
+    "name": "CLENDENIN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114326,
+    "name": "COAL CITY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114330,
+    "name": "COAL FORK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114753,
+    "name": "CRAB ORCHARD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114760,
+    "name": "CRAIGSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114850,
+    "name": "CROSS LANES",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 114897,
+    "name": "CULLODEN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115023,
+    "name": "DANIELS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115288,
+    "name": "DESPARD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115374,
+    "name": "DODDRIDGE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115520,
+    "name": "DUNBAR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115958,
+    "name": "ELEANOR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 115971,
+    "name": "ELIZABETH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116006,
+    "name": "ELKINS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116015,
+    "name": "ELKVIEW",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116331,
+    "name": "FAIRLEA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116335,
+    "name": "FAIRMONT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116450,
+    "name": "FAYETTE COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116459,
+    "name": "FAYETTEVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116622,
+    "name": "FOLLANSBEE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116688,
+    "name": "FORT ASHBY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 116832,
+    "name": "FRANKLIN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117205,
+    "name": "GILBERT CREEK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117223,
+    "name": "GILMER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117282,
+    "name": "GLENDALE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117310,
+    "name": "GLENVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117428,
+    "name": "GRAFTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117511,
+    "name": "GRANT COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117530,
+    "name": "GRANTSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117533,
+    "name": "GRANVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117621,
+    "name": "GREENBRIER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117908,
+    "name": "HAMLIN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117921,
+    "name": "HAMPSHIRE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 117958,
+    "name": "HANCOCK COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118011,
+    "name": "HARDY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118066,
+    "name": "HARRISON COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118073,
+    "name": "HARRISVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118489,
+    "name": "HINTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118639,
+    "name": "HOOVERSON HEIGHTS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118800,
+    "name": "HUNTINGTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118827,
+    "name": "HURRICANE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 118962,
+    "name": "INWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119089,
+    "name": "JACKSON COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119188,
+    "name": "JEFFERSON COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119374,
+    "name": "KANAWHA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119478,
+    "name": "KENOVA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119545,
+    "name": "KEYSER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 119637,
+    "name": "KINGWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120215,
+    "name": "LAVALETTE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120395,
+    "name": "LESAGE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120413,
+    "name": "LEWIS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120420,
+    "name": "LEWISBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120525,
+    "name": "LINCOLN COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120693,
+    "name": "LOGAN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120699,
+    "name": "LOGAN COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120858,
+    "name": "LUBECK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120950,
+    "name": "MABSCOTT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120952,
+    "name": "MACARTHUR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 120993,
+    "name": "MADISON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121063,
+    "name": "MALLORY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121137,
+    "name": "MANNINGTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121260,
+    "name": "MARION COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121284,
+    "name": "MARLINTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121290,
+    "name": "MARMET",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121316,
+    "name": "MARSHALL COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121346,
+    "name": "MARTINSBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121379,
+    "name": "MASON COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121496,
+    "name": "MCDOWELL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121537,
+    "name": "MCMECHEN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121676,
+    "name": "MERCER COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121767,
+    "name": "MIDDLEBOURNE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121914,
+    "name": "MILTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121934,
+    "name": "MINERAL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121942,
+    "name": "MINERAL WELLS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 121946,
+    "name": "MINGO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122054,
+    "name": "MONONGAH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122056,
+    "name": "MONONGALIA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122077,
+    "name": "MONROE COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122132,
+    "name": "MONTGOMERY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122205,
+    "name": "MOOREFIELD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122243,
+    "name": "MORGAN COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122253,
+    "name": "MORGANTOWN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122327,
+    "name": "MOUNDSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122343,
+    "name": "MOUNT GAY-SHAMROCK",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122353,
+    "name": "MOUNT HOPE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122460,
+    "name": "MULLENS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122698,
+    "name": "NEW CUMBERLAND",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122715,
+    "name": "NEW HAVEN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122753,
+    "name": "NEW MARTINSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122824,
+    "name": "NEWELL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122888,
+    "name": "NICHOLAS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 122909,
+    "name": "NITRO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123220,
+    "name": "NUTTER FORT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123245,
+    "name": "OAK HILL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123339,
+    "name": "OCEANA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123384,
+    "name": "OHIO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123714,
+    "name": "PADEN CITY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123868,
+    "name": "PARKERSBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123893,
+    "name": "PARSONS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 123952,
+    "name": "PEA RIDGE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124020,
+    "name": "PENDLETON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124035,
+    "name": "PENNSBORO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124104,
+    "name": "PETERSBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124130,
+    "name": "PHILIPPI",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124208,
+    "name": "PINCH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124263,
+    "name": "PINEVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124378,
+    "name": "PLEASANT VALLEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124385,
+    "name": "PLEASANTS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124415,
+    "name": "POCAHONTAS COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124430,
+    "name": "POINT PLEASANT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124659,
+    "name": "PRESTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124685,
+    "name": "PRINCETON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124713,
+    "name": "PROSPERITY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124765,
+    "name": "PUTNAM",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124825,
+    "name": "RAINELLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124832,
+    "name": "RALEIGH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124861,
+    "name": "RAND",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124878,
+    "name": "RANDOLPH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124890,
+    "name": "RANSON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 124910,
+    "name": "RAVENSWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 154482,
+    "name": "RED HOUSE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125112,
+    "name": "RICHWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125164,
+    "name": "RIPLEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125173,
+    "name": "RITCHIE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125225,
+    "name": "ROANE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125383,
+    "name": "ROMNEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125387,
+    "name": "RONCEVERTE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125594,
+    "name": "SAINT ALBANS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125693,
+    "name": "SAINT MARYS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 125733,
+    "name": "SALEM",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126208,
+    "name": "SHADY SPRING",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126222,
+    "name": "SHANNONDALE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126311,
+    "name": "SHEPHERDSTOWN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126355,
+    "name": "SHINNSTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126467,
+    "name": "SISSONVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126469,
+    "name": "SISTERSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126603,
+    "name": "SOPHIA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126636,
+    "name": "SOUTH CHARLESTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126824,
+    "name": "SPENCER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126947,
+    "name": "STANAFORD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 126980,
+    "name": "STAR CITY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127094,
+    "name": "STONEWOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127206,
+    "name": "SUMMERS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127208,
+    "name": "SUMMERSVILLE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127311,
+    "name": "SUTTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127455,
+    "name": "TAYLOR COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127477,
+    "name": "TEAYS VALLEY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127514,
+    "name": "TERRA ALTA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127739,
+    "name": "TORNADO",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127871,
+    "name": "TUCKER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127943,
+    "name": "TYLER COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 127976,
+    "name": "UNION",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128053,
+    "name": "UPSHUR",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128233,
+    "name": "VIENNA",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128544,
+    "name": "WASHINGTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128681,
+    "name": "WAYNE",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128697,
+    "name": "WAYNE COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128740,
+    "name": "WEBSTER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128745,
+    "name": "WEBSTER SPRINGS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128759,
+    "name": "WEIRTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128760,
+    "name": "WEIRTON HEIGHTS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128765,
+    "name": "WELCH",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128789,
+    "name": "WELLSBURG",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128918,
+    "name": "WEST LIBERTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 128994,
+    "name": "WEST UNION",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129060,
+    "name": "WESTON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129068,
+    "name": "WESTOVER",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129093,
+    "name": "WETZEL",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129121,
+    "name": "WHEELING",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129162,
+    "name": "WHITE SULPHUR SPRINGS",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129243,
+    "name": "WILEY FORD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129273,
+    "name": "WILLIAMSON",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129287,
+    "name": "WILLIAMSTOWN",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129396,
+    "name": "WINFIELD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129455,
+    "name": "WIRT",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129485,
+    "name": "WOOD",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  },
+  {
+    "id": 129639,
+    "name": "WYOMING COUNTY",
+    "state": "WEST VIRGINIA",
+    "state_iso2": "WV",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES"
+  }
+]

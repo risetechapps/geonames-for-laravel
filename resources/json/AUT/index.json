@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2062,
+    "name": "BURGENLAND",
+    "iso2": "1",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2057,
+    "name": "CARINTHIA",
+    "iso2": "2",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2065,
+    "name": "LOWER AUSTRIA",
+    "iso2": "3",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2061,
+    "name": "SALZBURG",
+    "iso2": "5",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2059,
+    "name": "STYRIA",
+    "iso2": "6",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2064,
+    "name": "TYROL",
+    "iso2": "7",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2058,
+    "name": "UPPER AUSTRIA",
+    "iso2": "4",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2060,
+    "name": "VIENNA",
+    "iso2": "9",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": 2063,
+    "name": "VORARLBERG",
+    "iso2": "8",
+    "country": "AUSTRIA",
+    "country_iso2": "AT",
+    "country_iso3": "AUT",
+    "country_native": "ÖSTERREICH",
+    "timezone": "Europe/Vienna"
+  }
+]

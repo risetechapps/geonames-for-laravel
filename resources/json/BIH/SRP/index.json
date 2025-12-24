@@ -1,0 +1,752 @@
+[
+  {
+    "id": 8215,
+    "name": "BALATUN",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8216,
+    "name": "BANJA LUKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8221,
+    "name": "BIJELJINA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8223,
+    "name": "BILEĆA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8225,
+    "name": "BLATNICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8231,
+    "name": "BROD",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8232,
+    "name": "BRONZANI MAJDAN",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8240,
+    "name": "DERVENTA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8242,
+    "name": "DOBOJ",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8244,
+    "name": "DOBRLJIN",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8256,
+    "name": "DVOROVI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8258,
+    "name": "FOČA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8259,
+    "name": "GACKO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8272,
+    "name": "GRADIŠKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8278,
+    "name": "HISETI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8282,
+    "name": "ISTOČNI MOSTAR",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8286,
+    "name": "JANJA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8290,
+    "name": "KALENDEROVCI DONJI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8297,
+    "name": "KNEŽEVO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8298,
+    "name": "KNEŽICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8301,
+    "name": "KORAN",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8302,
+    "name": "KOSTAJNICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8303,
+    "name": "KOTOR VAROŠ",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8305,
+    "name": "KOZARSKA DUBICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8307,
+    "name": "KRUPA NA VRBASU",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8308,
+    "name": "LAKTAŠI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8309,
+    "name": "LAMOVITA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8312,
+    "name": "LJUBINJE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8315,
+    "name": "LOPARE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8319,
+    "name": "MAGLAJANI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8323,
+    "name": "MARIĆKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8324,
+    "name": "MASLOVARE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8325,
+    "name": "MEJDAN - OBILIĆEVO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8326,
+    "name": "MILIĆI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8328,
+    "name": "MODRIČA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8331,
+    "name": "MRKONJIĆ GRAD",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8333,
+    "name": "NEVESINJE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8334,
+    "name": "NOVI GRAD",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8337,
+    "name": "OBUDOVAC",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8341,
+    "name": "OMARSKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8342,
+    "name": "OPŠTINA OŠTRA LUKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8343,
+    "name": "OPŠTINA VIŠEGRAD",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8350,
+    "name": "OŠTRA LUKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8352,
+    "name": "PALE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8354,
+    "name": "PELAGIĆEVO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8355,
+    "name": "PETKOVCI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8358,
+    "name": "PISKAVICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8360,
+    "name": "PODBRDO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8365,
+    "name": "POPOVI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8367,
+    "name": "PRIBINIĆ",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8368,
+    "name": "PRIBOJ",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8369,
+    "name": "PRIJEDOR",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8374,
+    "name": "ROGATICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8375,
+    "name": "RUDO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8383,
+    "name": "SOKOLAC",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8385,
+    "name": "SRBAC",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8386,
+    "name": "SREBRENICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8388,
+    "name": "STANARI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8389,
+    "name": "STARCEVICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8393,
+    "name": "SVODNA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8395,
+    "name": "TESLIĆ",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8402,
+    "name": "TREBINJE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8403,
+    "name": "TRN",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8407,
+    "name": "UGLJEVIK",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8413,
+    "name": "VELIKA OBARSKA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8418,
+    "name": "VIŠEGRAD",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8419,
+    "name": "VLASENICA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8428,
+    "name": "ZVORNIK",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8430,
+    "name": "ČAJNIČE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8432,
+    "name": "ČELINAC",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8434,
+    "name": "ČEČAVA",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8436,
+    "name": "ŠAMAC",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8437,
+    "name": "ŠEKOVIĆI",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8439,
+    "name": "ŠIPOVO",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  },
+  {
+    "id": 8446,
+    "name": "ŽIVINICE",
+    "state": "REPUBLIKA SRPSKA",
+    "state_iso2": "SRP",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "country_iso2": "BA",
+    "country_iso3": "BIH",
+    "country_native": "BOSNA I HERCEGOVINA"
+  }
+]

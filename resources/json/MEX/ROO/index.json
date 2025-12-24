@@ -1,0 +1,642 @@
+[
+  {
+    "id": 68171,
+    "name": "AKUMAL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68198,
+    "name": "ALFREDO V. BONFIL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68483,
+    "name": "BACALAR",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68602,
+    "name": "BENITO JUÁREZ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68714,
+    "name": "CACAO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68730,
+    "name": "CALDERITAS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68787,
+    "name": "CANCÚN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68803,
+    "name": "CAOBAS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 68825,
+    "name": "CARLOS A. MADRAZO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69009,
+    "name": "CHETUMAL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69090,
+    "name": "CHIQUILÁ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69119,
+    "name": "CHUNHUHUB",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69149,
+    "name": "CIUDAD CHEMUYIL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69234,
+    "name": "COBA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69241,
+    "name": "COCOYOL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69531,
+    "name": "COZUMEL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69745,
+    "name": "DZIUCHE",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 69748,
+    "name": "DZULA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70229,
+    "name": "EL TINTAL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70394,
+    "name": "FELIPE CARRILLO PUERTO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70749,
+    "name": "HUAY MAX",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70750,
+    "name": "HUAY-PIX",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70855,
+    "name": "IGNACIO ZARAGOZA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70884,
+    "name": "ISLA HOLBOX",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 70885,
+    "name": "ISLA MUJERES",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71015,
+    "name": "JAVIER ROJO GÓMEZ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71086,
+    "name": "JOSE NARCISO ROVIROSA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71098,
+    "name": "JOSÉ MARÍA MORELOS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71127,
+    "name": "JUAN SARABIA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71152,
+    "name": "KANCABCHÉN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71154,
+    "name": "KANTUNILKÍN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71460,
+    "name": "LA PRESUMIDA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71519,
+    "name": "LA UNIÓN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71659,
+    "name": "LEONA VICARIO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71797,
+    "name": "LOS DIVORCIADOS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 71895,
+    "name": "LÁZARO CÁRDENAS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72029,
+    "name": "MAYA BALAM",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72237,
+    "name": "MOROCOY",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72319,
+    "name": "NICOLÁS BRAVO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72422,
+    "name": "NUEVO XCÁN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72540,
+    "name": "OTHÓN P. BLANCO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72814,
+    "name": "PLAYA DEL CARMEN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72842,
+    "name": "POLYUC",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72892,
+    "name": "PRESIDENTE JUÁREZ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72924,
+    "name": "PUCTÉ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 72966,
+    "name": "PUERTO AVENTURAS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73188,
+    "name": "SABAN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73194,
+    "name": "SABIDOS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 73310,
+    "name": "SAN ANGEL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 74845,
+    "name": "SANTA ROSA SEGUNDO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75061,
+    "name": "SERGIO BUTRÓN CASAS",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75067,
+    "name": "SEÑOR",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75136,
+    "name": "SUBTENIENTE LÓPEZ",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75448,
+    "name": "TEPICH",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75559,
+    "name": "TIHOSUCO",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75804,
+    "name": "TULUM",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 75863,
+    "name": "UCUM",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76105,
+    "name": "X CABIL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76107,
+    "name": "X-HAZIL SUR",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76108,
+    "name": "X-PICHIL",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76207,
+    "name": "XUL-HA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76255,
+    "name": "ZACALACA",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76361,
+    "name": "ZONA URBANA EJIDO ISLA MUJERES",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  },
+  {
+    "id": 76397,
+    "name": "ÁLVARO OBREGÓN",
+    "state": "QUINTANA ROO",
+    "state_iso2": "ROO",
+    "country": "MEXICO",
+    "country_iso2": "MX",
+    "country_iso3": "MEX",
+    "country_native": "MÉXICO"
+  }
+]

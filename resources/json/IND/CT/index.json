@@ -1,0 +1,782 @@
+[
+  {
+    "id": 57619,
+    "name": "AKALTARA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57672,
+    "name": "AMBAGARH CHAUKI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57670,
+    "name": "AMBIKAPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57728,
+    "name": "ARANG",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57812,
+    "name": "BAIKUNTHPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57830,
+    "name": "BALOD",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57831,
+    "name": "BALODA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57832,
+    "name": "BALODA BAZAR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57898,
+    "name": "BASNA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57900,
+    "name": "BASTAR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57931,
+    "name": "BEMETARA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58013,
+    "name": "BHANPURI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58015,
+    "name": "BHATAPARA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57969,
+    "name": "BHATGAON",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 57981,
+    "name": "BHILAI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58032,
+    "name": "BIJAPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 58055,
+    "name": "BILASPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131593,
+    "name": "CHAMPA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131538,
+    "name": "CHHUIKHADAN",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 153519,
+    "name": "DANTEWADA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131690,
+    "name": "DEORI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131712,
+    "name": "DHAMTARI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131787,
+    "name": "DONGARGAON",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131788,
+    "name": "DONGARGARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131801,
+    "name": "DURG",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131897,
+    "name": "GANDAI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131926,
+    "name": "GARIABAND",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131927,
+    "name": "GAURELA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 131938,
+    "name": "GHARGHODA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132048,
+    "name": "GIDAM",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132186,
+    "name": "JAGDALPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132312,
+    "name": "JANJGIR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132240,
+    "name": "JANJGIR-CHAMPA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132244,
+    "name": "JASHPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132245,
+    "name": "JASHPURNAGAR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132318,
+    "name": "JUNAGARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132319,
+    "name": "KABEERDHAM",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132704,
+    "name": "KANKER",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132421,
+    "name": "KATGHORA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132433,
+    "name": "KAWARDHA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132456,
+    "name": "KHAIRAGARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132463,
+    "name": "KHAMHARIA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132480,
+    "name": "KHAROD",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132481,
+    "name": "KHARSIA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132525,
+    "name": "KIRANDUL",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132565,
+    "name": "KONDAGAON",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132581,
+    "name": "KORBA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132583,
+    "name": "KORIA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132612,
+    "name": "KOTA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132596,
+    "name": "KOTAPARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132641,
+    "name": "KUMHARI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132661,
+    "name": "KURUD",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132777,
+    "name": "LORMI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 132827,
+    "name": "MAHASAMUND",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133031,
+    "name": "MUNGELI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133163,
+    "name": "NARAYANPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133168,
+    "name": "NARHARPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133346,
+    "name": "PANDARIA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133540,
+    "name": "PANDATARAI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133375,
+    "name": "PASAN",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133552,
+    "name": "PATAN",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133379,
+    "name": "PATHALGAON",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133405,
+    "name": "PENDRA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133463,
+    "name": "PITHORA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133587,
+    "name": "RAIGARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133590,
+    "name": "RAIPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133668,
+    "name": "RAJ NANDGAON",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133711,
+    "name": "RAMANUJ GANJ",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133616,
+    "name": "RATANPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133761,
+    "name": "SAKTI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133801,
+    "name": "SARAIPALI",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134077,
+    "name": "SARANGARH",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133845,
+    "name": "SEORINARAYAN",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 133940,
+    "name": "SIMGA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134051,
+    "name": "SURGUJA",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134099,
+    "name": "TAKHATPUR",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134273,
+    "name": "UMARKOT",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  },
+  {
+    "id": 134299,
+    "name": "UTTAR BASTAR KANKER",
+    "state": "CHHATTISGARH",
+    "state_iso2": "CT",
+    "country": "INDIA",
+    "country_iso2": "IN",
+    "country_iso3": "IND",
+    "country_native": "भारत"
+  }
+]
