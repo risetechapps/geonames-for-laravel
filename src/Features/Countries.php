@@ -2,9 +2,12 @@
 
 namespace RiseTechApps\Geonames\Features;
 
+use Exception;
+use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\File;
-use Illuminate\Support\Collection;
+use Traversable;
+
 class Countries
 {
     protected int $cacheTtl = 86400; // 24 horas
@@ -32,6 +35,25 @@ class Countries
         }
 
         return collect(json_decode(File::get($path), true));
+    }
+
+    /**
+     * @throws Exception
+     */
+    public function find(string $country): Country
+    {
+
+        $response = $this->all()->filter(function ($c) use ($country) {
+            return $c['name'] == $country
+                || $c['iso3'] == $country
+                || $c['iso2'] == $country;
+        })->first();
+
+        if($response){
+            return new Country($response['iso3']);
+        }
+
+        throw new Exception('Country not found');
     }
 
     /**

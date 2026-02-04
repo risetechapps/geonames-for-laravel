@@ -2,6 +2,7 @@
 
 namespace RiseTechApps\Geonames\Features;
 
+use Exception;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\File;
@@ -14,7 +15,18 @@ class State
     public function __construct(string $stateIdentifier, Country $country)
     {
         $this->country = $country;
-        $this->data = (new States($country))->find($stateIdentifier);
+        $this->data = $this->find($stateIdentifier);
+    }
+
+
+    protected function find(string $stateIdentifier)
+    {
+
+        $states = (new States($this->country))->all();
+
+        return $states->first(function ($item) use ($stateIdentifier) {
+            return strtoupper($item['iso2']) === $stateIdentifier || strtoupper($item['name']) === $stateIdentifier;
+        });
     }
 
     public function exists(): bool
@@ -42,26 +54,26 @@ class State
         return $this->country;
     }
 
-    public function getCities(): Collection
+    public function cities(): Cities
     {
-        if (!$this->exists()) return collect([]);
+        return new Cities($this, $this->country);
+    }
 
-        $countryIso3 = strtoupper($this->country->getIso3());
-        $stateIso2   = strtoupper($this->getIso2());
+    /**
+     * @throws Exception
+     */
+    public function city(string $cityIdentifier): City
+    {
+        $cities = $this->cities();
 
-        $cacheKey = "geonames.cities.{$countryIso3}.{$stateIso2}";
-
-        $citiesData = Cache::remember($cacheKey, 86400, function () use ($countryIso3, $stateIso2) {
-            // Caminho exato: BRA/SP/index.json
-            $path = __DIR__ . "/../../resources/json/{$countryIso3}/{$stateIso2}/index.json";
-
-            if (!File::exists($path)) {
-                return [];
-            }
-
-            return json_decode(File::get($path), true);
+        $response = $cities->all()->first(function ($item) use ($cityIdentifier) {
+            return strtoupper($item['name']) === strtoupper($cityIdentifier);
         });
 
-        return collect($citiesData)->map(fn($city) => new City($city));
+        if($response){
+            return new City((array) $response);
+        }
+
+        throw new Exception("City not found");
     }
 }

@@ -12,12 +12,12 @@ class Regions
     /**
      * O tempo de cache em segundos (ex: 1 dia).
      */
-    protected int $cacheTtl = 86400;
+    private int $cacheTtl = 86400;
 
     /**
      * Chave do cache para as regiões.
      */
-    protected string $cacheKey = 'geonames.regions';
+    private string $cacheKey = 'geonames.regions';
 
     /**
      * Retorna todas as regiões.

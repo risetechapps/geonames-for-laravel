@@ -2,6 +2,7 @@
 
 namespace RiseTechApps\Geonames\Features;
 
+use Exception;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\File;
@@ -42,13 +43,20 @@ class States
 
     /**
      * Busca um estado específico dentro do país injetado.
+     * @throws Exception
      */
-    public function find(string $code): ?array
+    public function find(string $code): State
     {
         $code = strtoupper($code);
 
-        return $this->all()->first(function ($item) use ($code) {
+        $response = $this->all()->first(function ($item) use ($code) {
             return strtoupper($item['iso2']) === $code || strtoupper($item['name']) === $code;
         });
+
+        if($response){
+            return new State($response['iso2'], new Country($response['country_iso3']));
+        }
+
+        throw new Exception("State not found");
     }
 }
