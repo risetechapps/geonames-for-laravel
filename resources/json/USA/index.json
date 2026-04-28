@@ -50,6 +50,36 @@
     "timezone": "America/Chicago"
   },
   {
+    "id": 5815,
+    "name": "ARMED FORCES EUROPE",
+    "iso2": "AE",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": null
+  },
+  {
+    "id": 5816,
+    "name": "ARMED FORCES OF THE AMERICAS",
+    "iso2": "AA",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": null
+  },
+  {
+    "id": 5817,
+    "name": "ARMED FORCES PACIFIC",
+    "iso2": "AP",
+    "country": "UNITED STATES",
+    "country_iso2": "US",
+    "country_iso3": "USA",
+    "country_native": "UNITED STATES",
+    "timezone": null
+  },
+  {
     "id": 1416,
     "name": "CALIFORNIA",
     "iso2": "CA",

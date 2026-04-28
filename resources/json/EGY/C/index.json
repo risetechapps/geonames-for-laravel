@@ -30,6 +30,16 @@
     "country_native": "مصر‎"
   },
   {
+    "id": 160438,
+    "name": "CAIRO DOWNTOWN",
+    "state": "CAIRO",
+    "state_iso2": "C",
+    "country": "EGYPT",
+    "country_iso2": "EG",
+    "country_iso3": "EGY",
+    "country_native": "مصر‎"
+  },
+  {
     "id": 149584,
     "name": "EL MATARIA",
     "state": "CAIRO",
@@ -100,8 +110,38 @@
     "country_native": "مصر‎"
   },
   {
+    "id": 160437,
+    "name": "NASR CITY",
+    "state": "CAIRO",
+    "state_iso2": "C",
+    "country": "EGYPT",
+    "country_iso2": "EG",
+    "country_iso3": "EGY",
+    "country_native": "مصر‎"
+  },
+  {
     "id": 149591,
     "name": "NEW ADMINISTRATIVE CAPITAL OF EGYPT",
+    "state": "CAIRO",
+    "state_iso2": "C",
+    "country": "EGYPT",
+    "country_iso2": "EG",
+    "country_iso3": "EGY",
+    "country_native": "مصر‎"
+  },
+  {
+    "id": 160442,
+    "name": "NEW CAIRO",
+    "state": "CAIRO",
+    "state_iso2": "C",
+    "country": "EGYPT",
+    "country_iso2": "EG",
+    "country_iso3": "EGY",
+    "country_native": "مصر‎"
+  },
+  {
+    "id": 160440,
+    "name": "REHAB",
     "state": "CAIRO",
     "state_iso2": "C",
     "country": "EGYPT",
@@ -122,6 +162,16 @@
   {
     "id": 149593,
     "name": "TURA",
+    "state": "CAIRO",
+    "state_iso2": "C",
+    "country": "EGYPT",
+    "country_iso2": "EG",
+    "country_iso3": "EGY",
+    "country_native": "مصر‎"
+  },
+  {
+    "id": 160439,
+    "name": "ZAMALEK",
     "state": "CAIRO",
     "state_iso2": "C",
     "country": "EGYPT",

@@ -90,6 +90,26 @@
     "country_native": "المملكة العربية السعودية"
   },
   {
+    "id": 160558,
+    "name": "AL QUWAYIYAH",
+    "state": "RIYADH",
+    "state_iso2": "01",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 161642,
+    "name": "AL-QUWAY'IYAH",
+    "state": "RIYADH",
+    "state_iso2": "01",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
     "id": 149020,
     "name": "AR RAYN",
     "state": "RIYADH",
@@ -160,6 +180,16 @@
     "country_native": "المملكة العربية السعودية"
   },
   {
+    "id": 160557,
+    "name": "HOTAT BANI TAMIM",
+    "state": "RIYADH",
+    "state_iso2": "01",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
     "id": 149025,
     "name": "JALAJIL",
     "state": "RIYADH",
@@ -212,6 +242,16 @@
   {
     "id": 102874,
     "name": "RIYADH",
+    "state": "RIYADH",
+    "state_iso2": "01",
+    "country": "SAUDI ARABIA",
+    "country_iso2": "SA",
+    "country_iso3": "SAU",
+    "country_native": "المملكة العربية السعودية"
+  },
+  {
+    "id": 161643,
+    "name": "SHAQRA",
     "state": "RIYADH",
     "state_iso2": "01",
     "country": "SAUDI ARABIA",

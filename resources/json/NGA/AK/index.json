@@ -1,7 +1,47 @@
 [
   {
+    "id": 161602,
+    "name": "ABAK",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161603,
+    "name": "EASTERN OBOLO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
     "id": 76858,
     "name": "EKET",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161604,
+    "name": "ESIT EKET",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161605,
+    "name": "ESSIEN UDIM",
     "state": "AKWA IBOM",
     "state_iso2": "AK",
     "country": "NIGERIA",
@@ -20,6 +60,86 @@
     "country_native": "NIGERIA"
   },
   {
+    "id": 161606,
+    "name": "ETIM EKPO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161607,
+    "name": "ETINAN",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161608,
+    "name": "IBENO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161609,
+    "name": "IBESIKPO ASUTAN",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161610,
+    "name": "IBIONO-IBOM",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161611,
+    "name": "IKA",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161612,
+    "name": "IKONO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161613,
+    "name": "IKOT ABASI",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
     "id": 76937,
     "name": "IKOT EKPENE",
     "state": "AKWA IBOM",
@@ -30,8 +150,158 @@
     "country_native": "NIGERIA"
   },
   {
+    "id": 161614,
+    "name": "INI",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
     "id": 76955,
     "name": "ITU",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161615,
+    "name": "MBO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161616,
+    "name": "MKPAT-ENIN",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161617,
+    "name": "NSIT-ATAI",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161618,
+    "name": "NSIT-IBOM",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161619,
+    "name": "NSIT-UBIUM",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161620,
+    "name": "OBOT AKARA",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161621,
+    "name": "OKOBO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161622,
+    "name": "ONNA",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161623,
+    "name": "ORON",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161624,
+    "name": "ORUK ANAM",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161625,
+    "name": "UDUNG-UKO",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161626,
+    "name": "UKANAFUN",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161627,
+    "name": "URUAN",
+    "state": "AKWA IBOM",
+    "state_iso2": "AK",
+    "country": "NIGERIA",
+    "country_iso2": "NG",
+    "country_iso3": "NGA",
+    "country_native": "NIGERIA"
+  },
+  {
+    "id": 161628,
+    "name": "URUE-OFFONG/ORUKO",
     "state": "AKWA IBOM",
     "state_iso2": "AK",
     "country": "NIGERIA",
