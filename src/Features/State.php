@@ -2,12 +2,14 @@
 
 namespace RiseTechApps\Geonames\Features;
 
+use ArrayAccess;
 use Exception;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\File;
+use JsonSerializable;
 
-class State
+class State implements ArrayAccess, JsonSerializable
 {
     protected ?array $data = null;
     protected Country $country;
@@ -34,6 +36,11 @@ class State
         return !is_null($this->data);
     }
 
+    public function getId(): ?int
+    {
+        return $this->data['id'] ?? null;
+    }
+
     public function getName(): ?string
     {
         return $this->data['name'] ?? null;
@@ -47,6 +54,26 @@ class State
     public function getTimezone(): ?string
     {
         return $this->data['timezone'] ?? null;
+    }
+
+    public function getCountryName(): ?string
+    {
+        return $this->data['country'] ?? null;
+    }
+
+    public function getCountryIso2(): ?string
+    {
+        return $this->data['country_iso2'] ?? null;
+    }
+
+    public function getCountryIso3(): ?string
+    {
+        return $this->data['country_iso3'] ?? null;
+    }
+
+    public function getCountryNative(): ?string
+    {
+        return $this->data['country_native'] ?? null;
     }
 
     public function getCountry(): Country
@@ -75,5 +102,34 @@ class State
         }
 
         throw new Exception("City not found");
+    }
+
+    // ArrayAccess implementation
+
+    public function offsetExists($offset): bool
+    {
+        return isset($this->data[$offset]);
+    }
+
+    public function offsetGet($offset): mixed
+    {
+        return $this->data[$offset] ?? null;
+    }
+
+    public function offsetSet($offset, $value): void
+    {
+        throw new \RuntimeException('Cannot modify read-only state data');
+    }
+
+    public function offsetUnset($offset): void
+    {
+        throw new \RuntimeException('Cannot modify read-only state data');
+    }
+
+    // JsonSerializable implementation
+
+    public function jsonSerialize(): array
+    {
+        return $this->data ?? [];
     }
 }

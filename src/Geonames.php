@@ -15,6 +15,22 @@ class Geonames
         return new Regions();
     }
 
+    /**
+     * @deprecated Use regioes() em português ou regions()
+     */
+    public function regions(): Regions
+    {
+        return new Regions();
+    }
+
+    /**
+     * @throws Exception
+     */
+    public function region(int $id): ?\RiseTechApps\Geonames\Features\Region
+    {
+        return (new Regions())->find($id);
+    }
+
     public function countries(): Countries
     {
         return new Countries();
