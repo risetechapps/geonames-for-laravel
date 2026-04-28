@@ -1,0 +1,9 @@
+# Geonames Data Files
+# These files are downloaded via `php artisan geonames:install-data`
+# Do not commit them to version control
+
+json/**/*.json
+json/**/*.zip
+
+# Keep directory structure
+!.gitignore

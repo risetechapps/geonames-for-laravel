@@ -12,7 +12,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "RiseTechApps\\Geonames\\": "src/"
+            "RiseTechApps\\Geonames\\": "src/",
+            "RiseTechApps\\Geonames\\Console\\": "src/Console/",
+            "RiseTechApps\\Geonames\\Traits\\": "src/Traits/"
         },
         "files": [
             "/src/helpers.php"

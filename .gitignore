@@ -1,0 +1,19 @@
+/vendor/
+/node_modules/
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.phpunit.result.cache
+.php-cs-fixer.cache
+
+# Geonames data files (downloaded via artisan command)
+/resources/geonames/json/**/*.json
+/resources/geonames/json/**/*.zip
+
+# Keep the directory structure and .gitignore
+!/resources/geonames/.gitignore
