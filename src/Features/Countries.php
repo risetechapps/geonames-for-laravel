@@ -28,13 +28,22 @@ class Countries
      */
     protected function loadFromJson(): Collection
     {
-        $path = __DIR__ . '/../../resources/json/countries.json';
+        $path = resource_path('geonames/json/countries.json');
 
         if (!File::exists($path)) {
-            return collect([]);
+            throw new \RuntimeException(
+                "Countries data not found at: {$path}. " .
+                "Please run: php artisan geonames:install-data"
+            );
         }
 
-        return collect(json_decode(File::get($path), true));
+        $data = json_decode(File::get($path), true);
+
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            throw new \RuntimeException('Invalid JSON in countries file: ' . json_last_error_msg());
+        }
+
+        return collect($data);
     }
 
     /**

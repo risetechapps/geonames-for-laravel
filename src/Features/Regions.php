@@ -33,11 +33,28 @@ class Regions
     /**
      * Busca uma região específica pelo ID.
      * * @param int $id
-     * @return array|null
+     * @return Region|null
      */
-    public function find(int $id): ?array
+    public function find(int $id): ?Region
     {
-        return $this->all()->firstWhere('id', $id);
+        $data = $this->all()->firstWhere('id', $id);
+
+        return $data ? new Region($data) : null;
+    }
+
+    /**
+     * Busca uma região específica pelo nome.
+     *
+     * @param string $name
+     * @return Region|null
+     */
+    public function findByName(string $name): ?Region
+    {
+        $data = $this->all()->first(function ($item) use ($name) {
+            return strtoupper($item['name']) === strtoupper($name);
+        });
+
+        return $data ? new Region($data) : null;
     }
 
     /**
@@ -48,14 +65,20 @@ class Regions
      */
     protected function loadFromJson(): Collection
     {
-        // Caminho relativo ao diretório do pacote
-        $path = __DIR__ . '/../../resources/json/regions.json';
+        $path = resource_path('geonames/json/regions.json');
 
         if (!File::exists($path)) {
-            return collect([]);
+            throw new \RuntimeException(
+                "Regions data not found at: {$path}. " .
+                "Please run: php artisan geonames:install-data"
+            );
         }
 
         $data = json_decode(File::get($path), true);
+
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            throw new \RuntimeException('Invalid JSON in regions file: ' . json_last_error_msg());
+        }
 
         return collect($data);
     }

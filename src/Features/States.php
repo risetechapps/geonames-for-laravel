@@ -17,7 +17,6 @@ class States
     public function __construct(Country $country)
     {
         $this->country = $country;
-        return $this->all();
     }
 
     /**
@@ -29,13 +28,22 @@ class States
         $cacheKey = "geonames.states.{$iso3}";
 
         $data = Cache::remember($cacheKey, 86400, function () use ($iso3) {
-            $path = __DIR__ . "/../../resources/json/{$iso3}/index.json";
+            $path = resource_path("geonames/json/{$iso3}/index.json");
 
             if (!File::exists($path)) {
-                return [];
+                throw new \RuntimeException(
+                    "States data not found for {$iso3} at: {$path}. " .
+                    "Please run: php artisan geonames:install-data --countries={$iso3}"
+                );
             }
 
-            return json_decode(File::get($path), true);
+            $data = json_decode(File::get($path), true);
+
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                throw new \RuntimeException("Invalid JSON in states file for {$iso3}: " . json_last_error_msg());
+            }
+
+            return $data;
         });
 
         return collect($data);
@@ -58,5 +66,52 @@ class States
         }
 
         throw new Exception("State not found");
+    }
+
+    /**
+     * Busca estados por nome parcial (fuzzy search).
+     *
+     * @param string $search Termo de busca
+     * @param int $limit Limite de resultados (0 = todos)
+     * @return Collection<State>
+     */
+    public function search(string $search, int $limit = 0): Collection
+    {
+        $search = strtoupper($search);
+
+        $results = $this->all()->filter(function ($item) use ($search) {
+            return str_contains(strtoupper($item['name']), $search)
+                || str_contains(strtoupper($item['iso2']), $search);
+        })->map(function ($item) {
+            return new State($item['iso2'], new Country($item['country_iso3']));
+        });
+
+        return $limit > 0 ? $results->take($limit) : $results;
+    }
+
+    /**
+     * Retorna estados paginados.
+     *
+     * @param int $perPage Itens por página
+     * @param int $page Número da página (começa em 1)
+     * @return array{data: Collection, total: int, per_page: int, current_page: int, last_page: int}
+     */
+    public function paginate(int $perPage = 50, int $page = 1): array
+    {
+        $all = $this->all();
+        $total = $all->count();
+        $lastPage = (int) ceil($total / $perPage);
+
+        $items = $all->forPage($page, $perPage)->map(function ($item) {
+            return new State($item['iso2'], new Country($item['country_iso3']));
+        });
+
+        return [
+            'data' => $items,
+            'total' => $total,
+            'per_page' => $perPage,
+            'current_page' => $page,
+            'last_page' => $lastPage,
+        ];
     }
 }
