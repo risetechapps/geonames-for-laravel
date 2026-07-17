@@ -23,7 +23,7 @@ class GeonamesBenchmark extends Command
 
         try {
             $country = new Country($countryCode);
-        } catch (\Exception $e) {
+        } catch (\Exception) {
             $this->error("País não encontrado: {$countryCode}");
             return 1;
         }
@@ -62,7 +62,7 @@ class GeonamesBenchmark extends Command
         $start = microtime(true);
         $memoryStart = memory_get_usage(true);
 
-        $countries = (new Countries())->all();
+        $countries = new Countries()->all();
 
         $time = (microtime(true) - $start) * 1000;
         $memory = (memory_get_usage(true) - $memoryStart) / 1024 / 1024;
@@ -72,7 +72,7 @@ class GeonamesBenchmark extends Command
 
         // Teste 2: Carregar países (com cache)
         $start = microtime(true);
-        (new Countries())->all();
+        new Countries()->all();
         $time = (microtime(true) - $start) * 1000;
         $this->info(sprintf("Países (cache):              %6.2f ms | cache hit", $time));
 
@@ -219,7 +219,7 @@ class GeonamesBenchmark extends Command
         $this->info(sprintf("Baseline:                    %6.2f MB", $baseline));
 
         // Carregar tudo
-        $countries = (new Countries())->all();
+        $countries = new Countries()->all();
         $states = $country->states()->all();
 
         $totalCities = 0;

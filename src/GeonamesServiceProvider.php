@@ -36,17 +36,14 @@ class GeonamesServiceProvider extends ServiceProvider
     /**
      * Register the application services.
      */
+    #[\Override]
     public function register(): void
     {
         $this->mergeConfigFrom(__DIR__.'/../config/config.php', 'geonames');
 
-        $this->app->singleton('geonames', function () {
-            return new Geonames();
-        });
+        $this->app->singleton('geonames', fn() => new Geonames());
 
-        $this->app->singleton(Geonames::class, function () {
-            return new Geonames();
-        });
+        $this->app->singleton(Geonames::class, fn() => new Geonames());
     }
 
     /**
@@ -54,6 +51,7 @@ class GeonamesServiceProvider extends ServiceProvider
      *
      * @return array<string>
      */
+    #[\Override]
     public function provides(): array
     {
         return ['geonames', Geonames::class];

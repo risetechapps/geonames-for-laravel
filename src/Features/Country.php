@@ -8,16 +8,14 @@ use JsonSerializable;
 
 class Country implements ArrayAccess, JsonSerializable
 {
-    protected string $country;
     protected array $data = [];
 
     /**
      * @throws Exception
      */
-    public function __construct(string $country)
+    public function __construct(protected string $country)
     {
-        $this->country = $country;
-        $this->find($country);
+        $this->find($this->country);
     }
 
     /**
@@ -25,13 +23,11 @@ class Country implements ArrayAccess, JsonSerializable
      */
     protected function find(string $country): void
     {
-        $countries = (new Countries())->all();
+        $countries = new Countries()->all();
 
-        $result = $countries->first(function ($item) use ($country) {
-            return strtoupper($item['iso2']) === strtoupper($country) ||
-                strtoupper($item['name']) === strtoupper($country)
-                || strtoupper($item['iso3']) === strtoupper($country);
-        });
+        $result = $countries->first(fn($item) => strtoupper($item['iso2']) === strtoupper($country) ||
+            strtoupper($item['name']) === strtoupper($country)
+            || strtoupper($item['iso3']) === strtoupper($country));
 
         if ($result) {
             $this->data = $result;
@@ -188,7 +184,7 @@ class Country implements ArrayAccess, JsonSerializable
      */
     public function getNameLocalized(?string $lang = null): ?string
     {
-        $lang = $lang ?? config('geonames.default_language', 'en');
+        $lang ??= config('geonames.default_language', 'en');
 
         return $this->getTranslation($lang) ?? $this->getName();
     }
@@ -216,8 +212,8 @@ class Country implements ArrayAccess, JsonSerializable
         // Substitui # pelos dígitos
         $result = '';
         $digitIndex = 0;
-        for ($i = 0; $i < strlen($format); $i++) {
-            if ($format[$i] === '#' && $digitIndex < strlen($digits)) {
+        for ($i = 0; $i < strlen((string) $format); $i++) {
+            if ($format[$i] === '#' && $digitIndex < strlen((string) $digits)) {
                 $result .= $digits[$digitIndex];
                 $digitIndex++;
             } else {
@@ -270,8 +266,8 @@ class Country implements ArrayAccess, JsonSerializable
 
         $result = '';
         $digitIndex = 0;
-        for ($i = 0; $i < strlen($format); $i++) {
-            if ($format[$i] === '#' && $digitIndex < strlen($digits)) {
+        for ($i = 0; $i < strlen((string) $format); $i++) {
+            if ($format[$i] === '#' && $digitIndex < strlen((string) $digits)) {
                 $result .= $digits[$digitIndex];
                 $digitIndex++;
             } else {
@@ -324,8 +320,8 @@ class Country implements ArrayAccess, JsonSerializable
 
         $result = '';
         $digitIndex = 0;
-        for ($i = 0; $i < strlen($format); $i++) {
-            if ($format[$i] === '#' && $digitIndex < strlen($digits)) {
+        for ($i = 0; $i < strlen((string) $format); $i++) {
+            if ($format[$i] === '#' && $digitIndex < strlen((string) $digits)) {
                 $result .= $digits[$digitIndex];
                 $digitIndex++;
             } else {

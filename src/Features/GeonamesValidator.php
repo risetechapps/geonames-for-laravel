@@ -16,13 +16,11 @@ class GeonamesValidator
     public static function isValidCountry(string $country): bool
     {
         try {
-            $countries = (new Countries())->all();
+            $countries = new Countries()->all();
 
-            return $countries->contains(function ($item) use ($country) {
-                return strtoupper($item['iso2']) === strtoupper($country)
-                    || strtoupper($item['name']) === strtoupper($country)
-                    || strtoupper($item['iso3']) === strtoupper($country);
-            });
+            return $countries->contains(fn($item) => strtoupper($item['iso2']) === strtoupper($country)
+                || strtoupper($item['name']) === strtoupper($country)
+                || strtoupper($item['iso3']) === strtoupper($country));
         } catch (\Exception) {
             return false;
         }
@@ -45,10 +43,8 @@ class GeonamesValidator
             $countryObj = new Country($country);
             $states = $countryObj->states()->all();
 
-            return $states->contains(function ($item) use ($state) {
-                return strtoupper($item['iso2']) === strtoupper($state)
-                    || strtoupper($item['name']) === strtoupper($state);
-            });
+            return $states->contains(fn($item) => strtoupper($item['iso2']) === strtoupper($state)
+                || strtoupper($item['name']) === strtoupper($state));
         } catch (\Exception) {
             return false;
         }
@@ -78,9 +74,7 @@ class GeonamesValidator
 
             $cities = $stateObj->cities()->all();
 
-            return $cities->contains(function ($item) use ($city) {
-                return strtoupper($item['name']) === strtoupper($city);
-            });
+            return $cities->contains(fn($item) => strtoupper($item['name']) === strtoupper($city));
         } catch (\Exception) {
             return false;
         }
@@ -99,11 +93,9 @@ class GeonamesValidator
         }
 
         try {
-            $countries = (new Countries())->all();
+            $countries = new Countries()->all();
 
-            return $countries->contains(function ($item) use ($iso2) {
-                return strtoupper($item['iso2']) === strtoupper($iso2);
-            });
+            return $countries->contains(fn($item) => strtoupper($item['iso2']) === strtoupper($iso2));
         } catch (\Exception) {
             return false;
         }
@@ -122,11 +114,9 @@ class GeonamesValidator
         }
 
         try {
-            $countries = (new Countries())->all();
+            $countries = new Countries()->all();
 
-            return $countries->contains(function ($item) use ($iso3) {
-                return strtoupper($item['iso3']) === strtoupper($iso3);
-            });
+            return $countries->contains(fn($item) => strtoupper($item['iso3']) === strtoupper($iso3));
         } catch (\Exception) {
             return false;
         }

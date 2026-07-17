@@ -120,7 +120,7 @@ trait HasGeonames
         // Valida país
         try {
             $country = new Country($countryCode);
-        } catch (\Exception $e) {
+        } catch (\Exception) {
             throw new \InvalidArgumentException("País inválido: {$countryCode}");
         }
 
@@ -131,7 +131,7 @@ trait HasGeonames
                 if (!$state->exists()) {
                     throw new \InvalidArgumentException("Estado inválido: {$stateCode}");
                 }
-            } catch (\Exception $e) {
+            } catch (\Exception) {
                 throw new \InvalidArgumentException("Estado inválido: {$stateCode}");
             }
 
@@ -340,7 +340,7 @@ trait HasGeonames
     public function scopeWhereRegion($query, string $regionName): \Illuminate\Database\Eloquent\Builder
     {
         // Obtém todos os países da região
-        $region = (new \RiseTechApps\Geonames\Features\Regions())->findByName($regionName);
+        $region = $region = new \RiseTechApps\Geonames\Features\Regions()->findByName($regionName);
 
         if (!$region) {
             return $query->whereRaw('1 = 0'); // Nenhum resultado

@@ -7,11 +7,8 @@ use JsonSerializable;
 
 class City implements ArrayAccess, JsonSerializable
 {
-    protected array $data;
-
-    public function __construct(array $data)
+    public function __construct(protected array $data)
     {
-        $this->data = $data;
     }
 
     public function getName(): ?string

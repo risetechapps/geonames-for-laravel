@@ -43,12 +43,12 @@ class GeonamesCacheWarm extends Command
 
         // Aquecer regiões
         $this->info('Carregando regiões...');
-        (new Regions())->all();
+        new Regions()->all();
         $this->info('✓ Regiões carregadas');
 
         // Aquecer países
         $this->info('Carregando países...');
-        $countries = (new Countries())->all();
+        $countries = new Countries()->all();
         $this->info('✓ ' . $countries->count() . ' países carregados');
 
         if ($this->option('all')) {
@@ -98,7 +98,7 @@ class GeonamesCacheWarm extends Command
                         if (++$counter % 5 === 0) {
                             gc_collect_cycles();
                         }
-                    } catch (\Exception $e) {
+                    } catch (\Exception) {
                         // Silencia erros de estados sem cidades
                     }
                     $bar->advance();

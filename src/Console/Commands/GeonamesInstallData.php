@@ -58,7 +58,7 @@ class GeonamesInstallData extends Command
             \Laravel\Telescope\Telescope::stopRecording();
         }
 
-        $this->baseUrl = rtrim(config('geonames.data_source.url',
+        $this->baseUrl = rtrim((string) config('geonames.data_source.url',
             'https://raw.githubusercontent.com/risetechapps/geonames-database/main/json/'), '/');
 
         $this->dataPath = resource_path('geonames/json');
@@ -172,7 +172,7 @@ class GeonamesInstallData extends Command
             return config('geonames.available_countries', ['BRA', 'USA']);
         }
 
-        return array_map('strtoupper', explode(',', $option));
+        return array_map(strtoupper(...), explode(',', $option));
     }
 
     /**
@@ -256,7 +256,7 @@ class GeonamesInstallData extends Command
                 continue;
             }
 
-            $stateIso2 = strtoupper($stateIso2);
+            $stateIso2 = strtoupper((string) $stateIso2);
             $citiesUrl = "{$this->baseUrl}/{$iso3}/{$stateIso2}/index.json";
             $citiesDir = "{$this->dataPath}/{$iso3}/{$stateIso2}";
             $citiesFile = "{$citiesDir}/index.json";

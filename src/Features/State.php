@@ -12,11 +12,9 @@ use JsonSerializable;
 class State implements ArrayAccess, JsonSerializable
 {
     protected ?array $data = null;
-    protected Country $country;
 
-    public function __construct(string $stateIdentifier, Country $country)
+    public function __construct(string $stateIdentifier, protected Country $country)
     {
-        $this->country = $country;
         $this->data = $this->find($stateIdentifier);
     }
 
@@ -24,11 +22,9 @@ class State implements ArrayAccess, JsonSerializable
     protected function find(string $stateIdentifier)
     {
 
-        $states = (new States($this->country))->all();
+        $states = new States($this->country)->all();
 
-        return $states->first(function ($item) use ($stateIdentifier) {
-            return strtoupper($item['iso2']) === $stateIdentifier || strtoupper($item['name']) === $stateIdentifier;
-        });
+        return $states->first(fn($item) => strtoupper($item['iso2']) === $stateIdentifier || strtoupper($item['name']) === $stateIdentifier);
     }
 
     public function exists(): bool
@@ -93,9 +89,7 @@ class State implements ArrayAccess, JsonSerializable
     {
         $cities = $this->cities();
 
-        $response = $cities->all()->first(function ($item) use ($cityIdentifier) {
-            return strtoupper($item['name']) === strtoupper($cityIdentifier);
-        });
+        $response = $cities->all()->first(fn($item) => strtoupper($item['name']) === strtoupper($cityIdentifier));
 
         if($response){
             return new City((array) $response);

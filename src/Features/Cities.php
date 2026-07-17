@@ -8,19 +8,16 @@ use Illuminate\Support\Facades\File;
 
 class Cities
 {
-    protected Country $country;
-    protected State $state;
 
-    public function __construct(State $state, Country $country)
+    public function __construct(protected State $state, protected Country $country)
     {
-        $this->country = $country;
-        $this->state = $state;
+
     }
 
     public function all(): Collection
     {
-        $countryIso3 = strtoupper($this->country->getIso3());
-        $stateIso2   = strtoupper($this->state->getIso2());
+        $countryIso3 = strtoupper((string) $this->country->getIso3());
+        $stateIso2   = strtoupper((string) $this->state->getIso2());
 
         $cacheKey = "geonames.cities.{$countryIso3}.{$stateIso2}";
 
@@ -57,11 +54,7 @@ class Cities
     {
         $search = strtoupper($search);
 
-        $results = $this->all()->filter(function ($item) use ($search) {
-            return str_contains(strtoupper($item['name']), $search);
-        })->map(function ($item) {
-            return new City($item);
-        });
+        $results = $this->all()->filter(fn($item) => str_contains(strtoupper($item['name']), $search))->map(fn($item) => new City($item));
 
         return $limit > 0 ? $results->take($limit) : $results;
     }
@@ -79,9 +72,7 @@ class Cities
         $total = $all->count();
         $lastPage = (int) ceil($total / $perPage);
 
-        $items = $all->forPage($page, $perPage)->map(function ($item) {
-            return new City($item);
-        });
+        $items = $all->forPage($page, $perPage)->map(fn($item) => new City($item));
 
         return [
             'data' => $items,

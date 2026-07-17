@@ -18,9 +18,7 @@ class Countries
      */
     public function all(): Collection
     {
-        return Cache::remember($this->cacheKey, $this->cacheTtl, function () {
-            return $this->loadFromJson();
-        });
+        return Cache::remember($this->cacheKey, $this->cacheTtl, fn() => $this->loadFromJson());
     }
 
     /**
@@ -52,13 +50,11 @@ class Countries
     public function find(string $country): Country
     {
 
-        $response = $this->all()->filter(function ($c) use ($country) {
-            return $c['name'] == $country
-                || $c['iso3'] == $country
-                || $c['iso2'] == $country;
-        })->first();
+        $response = $this->all()->filter(fn($c) => $c['name'] == $country
+            || $c['iso3'] == $country
+            || $c['iso2'] == $country)->first();
 
-        if($response){
+        if ($response) {
             return new Country($response['iso3']);
         }
 

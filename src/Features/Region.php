@@ -6,11 +6,9 @@ use Illuminate\Support\Collection;
 
 class Region
 {
-    protected array $data;
-
-    public function __construct(array $data)
+    public function __construct(protected array $data)
     {
-        $this->data = $data;
+
     }
 
     public function getId(): int
@@ -32,13 +30,9 @@ class Region
     {
         $regionName = $this->getName();
 
-        return (new Countries())->all()
-            ->filter(function ($country) use ($regionName) {
-                return ($country['region'] ?? '') === $regionName;
-            })
-            ->map(function ($country) {
-                return new Country($country['iso3']);
-            });
+        return new Countries()->all()
+            ->filter(fn($country) => ($country['region'] ?? '') === $regionName)
+            ->map(fn($country) => new Country($country['iso3']));
     }
 
     public function toArray(): array

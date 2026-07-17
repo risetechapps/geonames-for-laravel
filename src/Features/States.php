@@ -9,14 +9,11 @@ use Illuminate\Support\Facades\File;
 
 class States
 {
-    protected Country $country;
-
     /**
      * Agora o construtor exige uma instância da classe Country.
      */
-    public function __construct(Country $country)
+    public function __construct(protected Country $country)
     {
-        $this->country = $country;
     }
 
     /**
@@ -24,7 +21,7 @@ class States
      */
     public function all(): Collection
     {
-        $iso3 = strtoupper($this->country->getIso3());
+        $iso3 = strtoupper((string)$this->country->getIso3());
         $cacheKey = "geonames.states.{$iso3}";
 
         $data = Cache::remember($cacheKey, 86400, function () use ($iso3) {
@@ -57,11 +54,9 @@ class States
     {
         $code = strtoupper($code);
 
-        $response = $this->all()->first(function ($item) use ($code) {
-            return strtoupper($item['iso2']) === $code || strtoupper($item['name']) === $code;
-        });
+        $response = $this->all()->first(fn($item) => strtoupper($item['iso2']) === $code || strtoupper($item['name']) === $code);
 
-        if($response){
+        if ($response) {
             return new State($response['iso2'], new Country($response['country_iso3']));
         }
 
@@ -79,12 +74,8 @@ class States
     {
         $search = strtoupper($search);
 
-        $results = $this->all()->filter(function ($item) use ($search) {
-            return str_contains(strtoupper($item['name']), $search)
-                || str_contains(strtoupper($item['iso2']), $search);
-        })->map(function ($item) {
-            return new State($item['iso2'], new Country($item['country_iso3']));
-        });
+        $results = $this->all()->filter(fn($item) => str_contains(strtoupper($item['name']), $search)
+            || str_contains(strtoupper($item['iso2']), $search))->map(fn($item) => new State($item['iso2'], new Country($item['country_iso3'])));
 
         return $limit > 0 ? $results->take($limit) : $results;
     }
@@ -100,11 +91,9 @@ class States
     {
         $all = $this->all();
         $total = $all->count();
-        $lastPage = (int) ceil($total / $perPage);
+        $lastPage = (int)ceil($total / $perPage);
 
-        $items = $all->forPage($page, $perPage)->map(function ($item) {
-            return new State($item['iso2'], new Country($item['country_iso3']));
-        });
+        $items = $all->forPage($page, $perPage)->map(fn($item) => new State($item['iso2'], new Country($item['country_iso3'])));
 
         return [
             'data' => $items,

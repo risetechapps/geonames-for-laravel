@@ -25,9 +25,7 @@ class Regions
      */
     public function all(): Collection
     {
-        return Cache::remember($this->cacheKey, $this->cacheTtl, function () {
-            return $this->loadFromJson();
-        });
+        return Cache::remember($this->cacheKey, $this->cacheTtl, fn() => $this->loadFromJson());
     }
 
     /**
@@ -50,9 +48,7 @@ class Regions
      */
     public function findByName(string $name): ?Region
     {
-        $data = $this->all()->first(function ($item) use ($name) {
-            return strtoupper($item['name']) === strtoupper($name);
-        });
+        $data = $this->all()->first(fn($item) => strtoupper($item['name']) === strtoupper($name));
 
         return $data ? new Region($data) : null;
     }

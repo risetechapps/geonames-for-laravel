@@ -48,10 +48,10 @@ class GeonamesCacheClear extends Command
         // Limpa todo o cache
         $this->info('Limpando todo o cache do Geonames...');
 
-        (new Countries())->flushCache();
+        new Countries()->flushCache();
         $this->info('✓ Cache de países limpo');
 
-        (new Regions())->flushCache();
+        new Regions()->flushCache();
         $this->info('✓ Cache de regiões limpo');
 
         // Limpa cache de estados e cidades (chaves dinâmicas)
@@ -68,13 +68,13 @@ class GeonamesCacheClear extends Command
 
     private function clearCountries(): void
     {
-        (new Countries())->flushCache();
+        new Countries()->flushCache();
         $this->info('Cache de países limpo');
     }
 
     private function clearRegions(): void
     {
-        (new Regions())->flushCache();
+        new Regions()->flushCache();
         $this->info('Cache de regiões limpo');
     }
 
